@@ -3,3 +3,4 @@
 - Create new sudden death conback
 - Create installation steps
 - Do something with the welcome to gamespy sound
+- Create pixelated scoreboard flags
