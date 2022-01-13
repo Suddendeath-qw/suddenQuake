@@ -1,3 +1,6 @@
+# Quakeworld - get the latest ezQuake exe
+*.exe
+
 # Logs
 logs
 *.log
