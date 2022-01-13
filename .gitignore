@@ -2,7 +2,7 @@
 *.exe
 id1/pak1.pak
 ezquake/.ezquake_history
-ezquake/sb/cache/*
+ezquake/sb/**
 qw/demos/*
 
 
