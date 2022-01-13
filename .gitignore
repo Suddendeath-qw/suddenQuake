@@ -1,5 +1,8 @@
 # Quakeworld - get the latest ezQuake exe
 *.exe
+ezquake/.ezquake_history
+ezquake/sb/cache/*
+
 
 # Logs
 logs
