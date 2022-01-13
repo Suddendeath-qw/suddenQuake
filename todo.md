@@ -1,3 +1,4 @@
 - Create new team skins using nQuake template
 - Create new enemy quad/pent skins using nQuake template
 - Create new sudden death conback
+- Create installation steps
