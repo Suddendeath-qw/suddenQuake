@@ -1,4 +1,5 @@
 ### TODO
+- [ ] Make this todo obsolete by creating github issues instead
 - [x] Create new sudden death conback
 - [ ] Proper console charset and in game charset
 - [ ] Create new team skins using nQuake template
