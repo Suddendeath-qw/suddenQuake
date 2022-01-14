@@ -1,6 +1,8 @@
 # Quakeworld - get the latest ezQuake.exe
 *.exe
 id1/pak1.pak
+ezquake/configs/config.cfg.bak
+ezquake/configs/config.cfg
 ezquake/.ezquake_history
 ezquake/sb/**
 qw/demos/*
