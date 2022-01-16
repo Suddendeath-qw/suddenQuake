@@ -6,6 +6,8 @@ ezquake/configs/config.cfg
 ezquake/.ezquake_history
 ezquake/sb/**
 qw/demos/*
+qw/screenshots/*
+qw/maps/*
 
 
 # Logs
