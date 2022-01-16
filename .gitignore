@@ -1,5 +1,6 @@
 # Quakeworld - get the latest ezQuake.exe
-*.exe
+ezquake*.exe
+uninstall.exe
 id1/pak1.pak
 ezquake/configs/config.cfg.bak
 ezquake/configs/config.cfg
