@@ -9,6 +9,7 @@ ezquake/sb/**
 qw/demos/*
 qw/screenshots/*
 qw/maps/*
+qw/frogbot_test/
 
 
 # Logs
