@@ -1,4 +1,5 @@
 # Quakeworld - get the latest ezQuake.exe
+*.apikey
 ezquake*.exe
 uninstall.exe
 id1/pak1.pak
