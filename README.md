@@ -1,4 +1,4 @@
-# suddenQuake
+# suddenQuake - v.0.3.0
 The best quakeworld repository in the wörld.
 
 ## Install
