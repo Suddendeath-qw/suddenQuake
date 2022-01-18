@@ -69,3 +69,12 @@ An easy way to setup all the different team names.
 `// Authentication` - This section is the new auth feature. Read more: https://github.com/ezQuake/ezquake-source/wiki/Authentication  
 `// Defaults` - Set your default name, nick, skin etc..  
 `// 4on4/2on2/Fakenick` - Create aliases for your alternative profiles  
+
+
+## New Player model - by CapNBub
+CapNBub's created a project to replace all the quake monsters (including player) with new mid-poly models.  
+He aims to have very faithful replacements, that also work with the standard MDL limits.  
+In order to use this new player model simply rename `qw/progs_new` to `qw/progs`.  
+You can find skins for the new model in `qw/skins/newmodel`.
+
+Read more: https://www.quakeworld.nu/forum/topic/6073/new-quake-models
