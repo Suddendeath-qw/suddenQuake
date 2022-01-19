@@ -1,4 +1,5 @@
 # suddenQuake - v.0.3.1
+![suddenQuake](https://github.com/Suddendeath-qw/suddenQuake/raw/main/s.png)  
 The best quakeworld repository in the wörld.
 
 ## Install
@@ -78,3 +79,11 @@ In order to use this new player model simply rename `qw/progs_new` to `qw/progs`
 You can find skins for the new model in `qw/skins/newmodel`.
 
 Read more: https://www.quakeworld.nu/forum/topic/6073/new-quake-models
+
+
+## Icon
+![suddenQuake](https://github.com/Suddendeath-qw/suddenQuake/raw/main/s.png)  
+1. Right-click on your `ezQuake.exe` and select `Create shortcut`
+2. Right-click on your shortcut and select `Properties`
+3. In the bottom-center click the button `change icon` and select s.ico from this folder
+4. Launch Quake using the shortcut
