@@ -82,7 +82,7 @@ Read more: https://www.quakeworld.nu/forum/topic/6073/new-quake-models
 
 
 ## Icon
-![suddenQuake](https://github.com/Suddendeath-qw/suddenQuake/raw/main/s.png)  
+![icon](https://github.com/Suddendeath-qw/suddenQuake/raw/main/examples/icon_example.png)  
 1. Right-click on your `ezQuake.exe` and select `Create shortcut`
 2. Right-click on your shortcut and select `Properties`
 3. In the bottom-center click the button `change icon` and select s.ico from this folder
