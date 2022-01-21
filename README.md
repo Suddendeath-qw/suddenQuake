@@ -31,10 +31,11 @@ You can alternative use `+jumpreport` instead of `+jump`, this will report statu
 ## Teamplay - suddenteamplay.cfg
 A teamplay config that is aimed to be lite in both it's messaging and amount of binds. Trying to boil it down to the essentials.  
 
-:shipit: **suddenteamplay.cfg is made so that it can be used in isolation without the rest of suddenQuake package**  
-Just `copy suddenteamplay.cfg` to your `qw/` folder and `exec suddenteamplay`  
+:shipit: **suddenteamplay.cfg + __s_teamplay.cfg is made so that it can be used in isolation without the rest of suddenQuake package**  
+Just copy `suddenteamplay.cfg` `__s_teamplay.cfg` to your `qw/` folder and `exec suddenteamplay`  
 ### First
-Make sure you have `set nick {&cf0fjan&r}` with `f0f` being your color of choice and `jan` being a 3-letter-abbreviation of your name.
+Make sure you have `set nick {&cf0fjan&r}` with `f0f` being your color of choice and `jan` being a 3-letter-abbreviation of your name.  
+Open `suddenteamplay.cfg` to edit this and all of the binds.  
 ### Teamplay messages
 | alias | description |
 | :--- | :--- |
