@@ -37,7 +37,7 @@ A teamplay config that is aimed to be lite in both it's messaging and amount of 
    - OR https://github.com/Suddendeath-qw/suddenQuake/releases/download/v.0.3.3/suddenteamplay.rar
 2. Copy `suddenteamplay.cfg` `__s_teamplay.cfg` to your `qw/` folder and `exec suddenteamplay` 
 3. Make sure you have `set nick {&cf0fjan&r}` with `f0f` being your color of choice and `jan` being a 3-letter-abbreviation of your name.
-4. Open `suddenteamplay.cfg` to edit this all of the binds (you can set nick here as well).  
+4. Open `suddenteamplay.cfg` to edit all of the binds (you can set nick here as well).  
 5. `exec suddenteamplay` in console (or preferably in autoexec.cfg)
 6. `cfg_save`
 7. If you want to update to the latest version of teamplay config you just download `__s_teamplay.cfg` and keep your `suddenteamplay.cfg` for your personal binds etc.
