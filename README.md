@@ -32,6 +32,7 @@ You can alternative use `+jumpreport` instead of `+jump`, this will report statu
 A teamplay config that is aimed to be lite in both it's messaging and amount of binds. Trying to boil it down to the essentials.  
 
 :shipit: **suddenteamplay.cfg + __s_teamplay.cfg is made so that it can be used in isolation without the rest of suddenQuake package**  
+
 1. Download the latest files
    - https://raw.githubusercontent.com/Suddendeath-qw/suddenQuake/main/qw/__s_teamplay.cfg AND https://raw.githubusercontent.com/Suddendeath-qw/suddenQuake/main/qw/suddenteamplay.cfg
    - OR https://github.com/Suddendeath-qw/suddenQuake/releases/download/v.0.3.3/suddenteamplay.rar
