@@ -32,10 +32,16 @@ You can alternative use `+jumpreport` instead of `+jump`, this will report statu
 A teamplay config that is aimed to be lite in both it's messaging and amount of binds. Trying to boil it down to the essentials.  
 
 :shipit: **suddenteamplay.cfg + __s_teamplay.cfg is made so that it can be used in isolation without the rest of suddenQuake package**  
-Just copy `suddenteamplay.cfg` `__s_teamplay.cfg` to your `qw/` folder and `exec suddenteamplay`  
-### First
-Make sure you have `set nick {&cf0fjan&r}` with `f0f` being your color of choice and `jan` being a 3-letter-abbreviation of your name.  
-Open `suddenteamplay.cfg` to edit this and all of the binds.  
+1. Download the latest files
+   - https://raw.githubusercontent.com/Suddendeath-qw/suddenQuake/main/qw/__s_teamplay.cfg AND https://raw.githubusercontent.com/Suddendeath-qw/suddenQuake/main/qw/suddenteamplay.cfg
+   - OR https://github.com/Suddendeath-qw/suddenQuake/releases/download/v.0.3.3/suddenteamplay.rar
+2. Copy `suddenteamplay.cfg` `__s_teamplay.cfg` to your `qw/` folder and `exec suddenteamplay` 
+3. Make sure you have `set nick {&cf0fjan&r}` with `f0f` being your color of choice and `jan` being a 3-letter-abbreviation of your name.
+4. Open `suddenteamplay.cfg` to edit all of the binds (you can set nick here as well).  
+5. `exec suddenteamplay` in console (or preferably in autoexec.cfg)
+6. `cfg_save`
+7. If you want to update to the latest version of teamplay config you just download `__s_teamplay.cfg` and keep your `suddenteamplay.cfg` for your personal binds etc.
+
 ### Teamplay messages
 | alias | description |
 | :--- | :--- |
