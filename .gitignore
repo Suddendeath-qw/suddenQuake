@@ -11,6 +11,7 @@ ezquake/sb/**
 qw/demos/*
 qw/screenshots/*
 qw/maps/*
+qw/locs/*
 !qw/maps/aerowalk.bsp
 !qw/maps/maphub_v1.bsp
 qw/frogbot_test/
