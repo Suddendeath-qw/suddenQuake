@@ -1,4 +1,4 @@
-# suddenQuake - v.0.3.3
+# suddenQuake - v.0.3.5
 ![suddenQuake](https://github.com/Suddendeath-qw/suddenQuake/raw/main/s.png)  
 The best quakeworld repository in the wörld.
 
