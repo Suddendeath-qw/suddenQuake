@@ -1,6 +1,7 @@
 # suddenQuake - v.0.3.5
 ![suddenQuake](https://github.com/Suddendeath-qw/suddenQuake/raw/main/s.png)  
-The best quakeworld repository in the wörld.
+The best quakeworld repository in the wörld.  
+**Latest stable teamplay config:** https://github.com/Suddendeath-qw/suddenQuake/releases/download/v.0.3.5/suddenteamplay.rar
 
 ## Install
 1. Find and copy your `pak1.pak` to `id1/pak1.pak`
