@@ -50,7 +50,8 @@ A teamplay config that is aimed to be lite in both it's messaging and amount of 
 | `stp_point` | Points at an item or enemy, alt. when pointing at teammate shows their status in HUD. |
 | `stp_took` | Last taken item, alt. when last item was an powerup, reports team powerup. |
 | `stp_killme` | Switch to bestweapon (to drop) and encourage teammates to kill you. |
-| `stp_lost` | Location is lost |
+| `stp_lost` | Location is lost. alt. dropped pack if rl/lg was lost |
+| `stp_dropped` | Dropped pack at location. |
 | `stp_safe` | Location is safe. |
 | `stp_help` | Need help at location |
 | `stp_replace` | Replace me at location |
