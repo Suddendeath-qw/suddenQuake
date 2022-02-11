@@ -50,12 +50,17 @@ A teamplay config that is aimed to be lite in both it's messaging and amount of 
 | `stp_point` | Points at an item or enemy, alt. when pointing at teammate shows their status in HUD. |
 | `stp_took` | Last taken item, alt. when last item was an powerup, reports team powerup. |
 | `stp_killme` | Switch to bestweapon (to drop) and encourage teammates to kill you. |
-| `stp_lost` | Location is lost |
+| `stp_lost` | Location is lost. alt. dropped pack if rl/lg was lost |
+| `stp_dropped` | Dropped pack at location. |
 | `stp_safe` | Location is safe. |
 | `stp_help` | Need help at location |
 | `stp_replace` | Replace me at location |
 | `stp_coming` | Coming from location |
+| `stp_youtake` | Point at item for someone else to take |
 | `stp_wpkilled` | Enemy weapon killed at location |
+| `stp_enemy_quad` | Enemy took quad |
+| `stp_enemy_pent` | Enemy took pent |
+| `stp_enemy_ring` | Enemy took ring |
 | `stp_smart` | Smart report depending on map and location, see below |
 | _dm2_ | _Quad/Quad-low: Trick, ng/tele: enemy slipped, big-stairs: coming high with rjump_ |
 | _any_ | _Anywhere else reports coming at location_ |
