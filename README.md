@@ -1,6 +1,7 @@
-# suddenQuake - v.0.3.3
+# suddenQuake - v.0.3.5
 ![suddenQuake](https://github.com/Suddendeath-qw/suddenQuake/raw/main/s.png)  
-The best quakeworld repository in the wörld.
+The best quakeworld repository in the wörld.  
+**Latest stable teamplay config:** https://github.com/Suddendeath-qw/suddenQuake/releases/download/v.0.3.5/suddenteamplay.rar
 
 ## Install
 1. Find and copy your `pak1.pak` to `id1/pak1.pak`
@@ -35,7 +36,7 @@ A teamplay config that is aimed to be lite in both it's messaging and amount of 
 
 1. Download the latest files
    - https://raw.githubusercontent.com/Suddendeath-qw/suddenQuake/main/qw/__s_teamplay.cfg AND https://raw.githubusercontent.com/Suddendeath-qw/suddenQuake/main/qw/suddenteamplay.cfg
-   - OR https://github.com/Suddendeath-qw/suddenQuake/releases/download/v.0.3.3/suddenteamplay.rar
+   - OR https://github.com/Suddendeath-qw/suddenQuake/releases/download/v.0.3.5/suddenteamplay.rar
 2. Copy `suddenteamplay.cfg` `__s_teamplay.cfg` to your `qw/` folder.  
 3. Make sure you have `set nick {&cf0fjan&r}` with `f0f` being your color of choice and `jan` being a 3-letter-abbreviation of your name.
 4. Open `suddenteamplay.cfg` to edit all of the binds (you can set nick here as well).  
@@ -50,12 +51,18 @@ A teamplay config that is aimed to be lite in both it's messaging and amount of 
 | `stp_point` | Points at an item or enemy, alt. when pointing at teammate shows their status in HUD. |
 | `stp_took` | Last taken item, alt. when last item was an powerup, reports team powerup. |
 | `stp_killme` | Switch to bestweapon (to drop) and encourage teammates to kill you. |
-| `stp_lost` | Location is lost |
+| `stp_lost` | Location is lost. alt. dropped pack if rl/lg was lost |
+| `stp_dropped` | Dropped pack at location. |
 | `stp_safe` | Location is safe. |
 | `stp_help` | Need help at location |
 | `stp_replace` | Replace me at location |
 | `stp_coming` | Coming from location |
+| `stp_powerup` | Reports your current powerups, alt. Quad Over |
+| `stp_youtake` | Point at item for someone else to take |
 | `stp_wpkilled` | Enemy weapon killed at location |
+| `stp_enemy_quad` | Enemy took quad |
+| `stp_enemy_pent` | Enemy took pent |
+| `stp_enemy_ring` | Enemy took ring |
 | `stp_smart` | Smart report depending on map and location, see below |
 | _dm2_ | _Quad/Quad-low: Trick, ng/tele: enemy slipped, big-stairs: coming high with rjump_ |
 | _any_ | _Anywhere else reports coming at location_ |
