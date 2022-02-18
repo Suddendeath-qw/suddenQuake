@@ -11,9 +11,9 @@ function clean(cb) {
 // The `build` function is exported so it is public and can be run with the `gulp` command.
 // It can also be used within the `series()` composition.
 function build(cb) {
-    gulp.src(['qw/__s_teamplay.cfg', 'qw/__s_timer.cfg', 'qw/suddenteamplay.cfg'])
-		.pipe(zip('suddenteamplay-latest.zip'))
-		.pipe(gulp.dest('dist/suddenteamplay'))
+    gulp.src(['qw/suddenteamplay.pk3', 'qw/suddenteamplay.cfg'])
+		.pipe(zip('suddenteamplay-hej.zip'))
+		.pipe(gulp.dest('dist'))
     cb();
 }
   
