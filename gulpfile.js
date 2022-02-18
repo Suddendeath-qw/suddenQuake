@@ -11,11 +11,11 @@ function clean(cb) {
 function teamplaypk3(cb) {
     gulp.src(['qw/__s_timer.cfg', 'qw/__s_teamplay.cfg'])
 		.pipe(zip('suddenteamplay.pk3'))
-		.pipe(gulp.dest('qw'))
+		.pipe(gulp.dest('dist'))
         .on('end', () => cb());
 }
 function teamplayzip(cb) {
-    gulp.src(['qw/suddenteamplay.pk3', 'qw/suddenteamplay.cfg'])
+    gulp.src(['dist/suddenteamplay.pk3', 'qw/suddenteamplay.cfg'])
 		.pipe(zip('suddenteamplay-latest.zip'))
 		.pipe(gulp.dest('dist'))
     cb();
