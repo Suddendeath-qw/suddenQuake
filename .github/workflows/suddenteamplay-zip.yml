@@ -1,5 +1,15 @@
 name: Create Suddenteamplay Archive
-on: [push]
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'qw/**.cfg'
+  pull_request:
+    branches: [ main ]
+    paths:
+      - 'qw/**.cfg'
+    
 jobs:
   build:
     runs-on: ubuntu-latest
