@@ -9,8 +9,9 @@ jobs:
       uses: thedoctor0/zip-release@master
       with:
         type: 'zip'
-        filename: 'dist/suddenteamplay-latest.zip'
-        path: 'qw/__s_teamplay.cfg qw/__s_timer.cfg suddenteamplay.cfg'
+        filename: '../dist/suddenteamplay-latest.zip'
+        path: '__s_teamplay.cfg __s_timer.cfg suddenteamplay.cfg'
+        directory: 'qw/'
 
     - uses: stefanzweifel/git-auto-commit-action@v4
       with:
