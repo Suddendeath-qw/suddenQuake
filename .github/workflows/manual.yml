@@ -1,0 +1,17 @@
+name: Create Archive
+on: [push]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - name: Archive Release
+      uses: thedoctor0/zip-release@master
+      with:
+        type: 'zip'
+        filename: 'release.zip'
+        path: 'qw/*.cfg'
+
+    - uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: Suddenteamplay .zip generated
