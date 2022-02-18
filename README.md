@@ -36,8 +36,7 @@ A teamplay config that is aimed to be lite in both it's messaging and amount of 
 :shipit: **suddenteamplay.cfg + __s_teamplay.cfg is made so that it can be used in isolation without the rest of suddenQuake package**  
 
 1. Download the latest files
-   - https://raw.githubusercontent.com/Suddendeath-qw/suddenQuake/main/qw/__s_teamplay.cfg AND https://raw.githubusercontent.com/Suddendeath-qw/suddenQuake/main/qw/suddenteamplay.cfg
-   - OR https://github.com/Suddendeath-qw/suddenQuake/raw/main/dist/suddenteamplay-latest.zip
+   - https://github.com/Suddendeath-qw/suddenQuake/raw/main/dist/suddenteamplay-latest.zip
 2. Copy `suddenteamplay.cfg` `__s_teamplay.cfg` to your `qw/` folder.  
 3. Make sure you have `set nick {&cf0fjan&r}` with `f0f` being your color of choice and `jan` being a 3-letter-abbreviation of your name.
 4. Open `suddenteamplay.cfg` to edit all of the binds (you can set nick here as well).  
