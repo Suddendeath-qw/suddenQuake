@@ -35,5 +35,3 @@ jobs:
     - uses: stefanzweifel/git-auto-commit-action@v4
       with:
         commit_message: Suddenteamplay .pk3/.zip generated
-
-    - run: echo "🍏 This job's status is ${{ job.status }}."
