@@ -1,4 +1,4 @@
-name: Create Suddenteamplay Archive
+name: Suddenteamplay zip
 
 on:
   push:
