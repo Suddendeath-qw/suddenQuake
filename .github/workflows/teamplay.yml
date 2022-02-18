@@ -1,0 +1,28 @@
+name: Teamplay
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Check out repository code
+      uses: actions/checkout@v2
+    
+    - uses: actions/setup-node@v2
+      with:
+        node-version: 16.x
+        
+    - name: Build
+      run: |
+        npm install
+        gulp teamplay
+
+    - uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: Suddenteamplay .pk3/.zip generated
