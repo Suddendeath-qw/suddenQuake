@@ -15,7 +15,7 @@ function teamplaypk3(cb) {
         .on('end', () => cb());
 }
 function teamplayzip(cb) {
-    gulp.src(['dist/suddenteamplay.pk3', 'qw/suddenteamplay.cfg'])
+    gulp.src(['dist/suddenteamplay.pk3', 'qw/suddenteamplay.cfg', 'qw/suddenteamplay-update.bat'])
 		.pipe(zip('suddenteamplay-latest.zip'))
 		.pipe(gulp.dest('dist'))
     cb();
