@@ -31,7 +31,7 @@ jobs:
       with:
         type: 'zip'
         filename: '../dist/suddenteamplay-latest.zip'
-        path: '__s_teamplay.cfg __s_timer.cfg suddenteamplay.cfg'
+        path: 'suddenteamplay.pk3 suddenteamplay.cfg'
         directory: 'qw/'
 
     - uses: stefanzweifel/git-auto-commit-action@v4
