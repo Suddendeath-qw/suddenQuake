@@ -1,0 +1,30 @@
+name: Suddenteamplay pk3
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - '.github/workflows/**'
+      - 'qw/**.cfg'
+  pull_request:
+    branches: [ main ]
+    paths:
+      - '.github/workflows/**'
+      - 'qw/**.cfg'
+    
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - name: Archive suddenteamplay-latest
+      uses: thedoctor0/zip-release@master
+      with:
+        type: 'zip'
+        filename: '../dist/suddenteamplay.pk3'
+        path: '__s_teamplay.cfg __s_timer.cfg'
+        directory: 'qw/'
+
+    - uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: Suddenteamplay .zip generated
