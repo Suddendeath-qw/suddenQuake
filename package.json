@@ -1,0 +1,26 @@
+{
+  "name": "suddenquake",
+  "version": "0.3.5",
+  "description": "The best quakeworld repo in the world.",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Suddendeath-qw/suddenQuake.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Suddendeath-qw/suddenQuake/issues"
+  },
+  "homepage": "https://github.com/Suddendeath-qw/suddenQuake#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-zip": "^5.1.0"
+  }
+}
