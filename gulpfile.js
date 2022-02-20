@@ -9,8 +9,16 @@ function clean(cb) {
     cb();
 }
 
-function stpupdate (cb) {
-    exec('esbuild stpupdate/stpupdate.js --bundle --outfile=stpupdate/out.js --platform=node  && pkg stpupdate/out.js -t node16-win-x64 -o stpupdate/stp_update.exe', function (err, stdout, stderr) {
+function stp_esbuild (cb) {
+    exec('npx esbuild stpupdate/stpupdate.js --bundle --outfile=stpupdate/out.js --platform=node', function (err, stdout, stderr) {
+        //console.log(stdout);
+        //console.log(stderr);
+        cb(err);
+    });
+}
+
+function stp_pkg (cb) {
+    exec('npx pkg stpupdate/out.js -t node16-win-x64 -o stpupdate/stp_update.exe', function (err, stdout, stderr) {
         //console.log(stdout);
         //console.log(stderr);
         cb(err);
@@ -24,7 +32,7 @@ function teamplaypk3(cb) {
         .on('end', () => cb());
 }
 function teamplayzip(cb) {
-    gulp.src(['dist/suddenteamplay.pk3', 'qw/suddenteamplay.cfg', 'dist/stp_update.exe'])
+    gulp.src(['dist/suddenteamplay.pk3', 'qw/suddenteamplay.cfg', 'stpupdate/stp_update.exe'])
 		.pipe(zip('suddenteamplay-latest.zip'))
 		.pipe(gulp.dest('dist'))
     cb();
@@ -38,5 +46,5 @@ function build(cb) {
 }
 
 exports.build = build;
-exports.teamplay = gulp.series(stpupdate, teamplaypk3, teamplayzip);
+exports.teamplay = gulp.series(stp_esbuild, stp_pkg, teamplaypk3, teamplayzip);
 exports.default = gulp.series(clean, build);
