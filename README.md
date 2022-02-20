@@ -2,7 +2,7 @@
 ![suddenQuake](https://github.com/Suddendeath-qw/suddenQuake/raw/main/s.png)  
 [![Teamplay](https://github.com/Suddendeath-qw/suddenQuake/actions/workflows/teamplay.yml/badge.svg)](https://github.com/Suddendeath-qw/suddenQuake/actions/workflows/teamplay.yml)  
 The best quakeworld repository in the wörld.  
-**Latest stable teamplay config:** https://github.com/Suddendeath-qw/suddenQuake/raw/main/dist/suddenteamplay-latest.zip
+**Latest stable teamplay config:** https://github.com/Suddendeath-qw/suddenQuake/releases/download/latest/suddenteamplay-latest.zip
 
 ## Install
 1. Find and copy your `pak1.pak` to `id1/pak1.pak`
@@ -33,16 +33,15 @@ You can alternative use `+jumpreport` instead of `+jump`, this will report statu
 ## Teamplay - suddenteamplay.cfg
 A teamplay config that is aimed to be lite in both it's messaging and amount of binds. Trying to boil it down to the essentials.  
 
-:shipit: **suddenteamplay.cfg + __s_teamplay.cfg is made so that it can be used in isolation without the rest of suddenQuake package**  
+:shipit: **suddenteamplay.cfg + suddenteamplay.pk3 is made so that it can be used in isolation without the rest of suddenQuake package**  
 
 1. Download the latest files
-   - https://github.com/Suddendeath-qw/suddenQuake/raw/main/dist/suddenteamplay-latest.zip
-2. Copy `suddenteamplay.cfg` `__s_teamplay.cfg` to your `qw/` folder.  
-3. Make sure you have `set nick {&cf0fjan&r}` with `f0f` being your color of choice and `jan` being a 3-letter-abbreviation of your name.
-4. Open `suddenteamplay.cfg` to edit all of the binds (you can set nick here as well).  
-5. `exec suddenteamplay` in console (or preferably in autoexec.cfg)
-6. `cfg_save`
-7. If you want to update to the latest version of teamplay config you just download `__s_teamplay.cfg` and keep your `suddenteamplay.cfg` for your personal binds etc.
+   - https://github.com/Suddendeath-qw/suddenQuake/releases/download/latest/suddenteamplay-latest.zip
+2. Extract `suddenteamplay-latest.zip` into your `qw/` folder.  
+3. Open `suddenteamplay.cfg` to edit all of the binds (you can set nick here as well).  
+4. `exec suddenteamplay` in console (or preferably in autoexec.cfg)
+5. `cfg_save`
+6. To update to the latest version of suddenteamplay version just run `stp_update.exe` and keep your personal binds in `suddenteamplay.cfg`.
 
 ### Teamplay messages
 | alias | description |
@@ -60,6 +59,7 @@ A teamplay config that is aimed to be lite in both it's messaging and amount of 
 | `stp_powerup` | Reports your current powerups, alt. Quad Over |
 | `stp_youtake` | Point at item for someone else to take |
 | `stp_wpkilled` | Enemy weapon killed at location |
+| `stp_version` | Version of this teamplay config |
 | `stp_enemy_quad` | Enemy took quad |
 | `stp_enemy_pent` | Enemy took pent |
 | `stp_enemy_ring` | Enemy took ring |
