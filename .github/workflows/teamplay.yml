@@ -35,4 +35,5 @@ jobs:
         repo_token: ${{ secrets.GITHUB_TOKEN }}
         file: dist/*
         tag: "latest"
+        file_glob: true
         overwrite: true
