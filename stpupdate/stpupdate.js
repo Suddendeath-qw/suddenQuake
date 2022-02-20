@@ -93,7 +93,7 @@ function checkLocalVersion () {
             const version = entry.getData().toString().match(/set\s\_\.stp\.version\s[\"\']([0-9]\.[0-9]\.[0-9])/);
             if (version == null) return reject(`version number not found in local ${__cfgname}`)
             stp.localVersion = version[1];
-            console.log("  →", c.gd(`version ${entry.entryName}: ${stp.localVersion}`));
+            //console.log("  →", c.gd(`version ${entry.entryName}: ${stp.localVersion}`));
             resolve();
         }
 
@@ -121,7 +121,7 @@ function checkGithub () {
             const version = entry.getData().toString().match(/set\s\_\.stp\.version\s[\"\']([0-9]\.[0-9]\.[0-9])/);
             if (version == null) return reject(`version number not found in local ${__cfgname}`)
             stp.githubVersion = version[1];
-            console.log("  →", c.gd(`version ${entry.entryName}: ${stp.githubVersion}`));
+            //console.log("  →", c.gd(`version ${entry.entryName}: ${stp.githubVersion}`));
         }
     }
 
