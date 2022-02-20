@@ -16,6 +16,9 @@ qw/locs/*
 !qw/maps/maphub_v1.bsp
 qw/frogbot_test/
 
+#stp_update
+stp_update/out.js
+stp_update/stp_update.exe
 
 # Logs
 logs
