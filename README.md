@@ -1,4 +1,4 @@
-# suddenQuake - v.0.4.0
+# suddenQuake - v.0.5.0
 ![suddenQuake](https://github.com/Suddendeath-qw/suddenQuake/raw/main/s.png)  
 [![Teamplay](https://github.com/Suddendeath-qw/suddenQuake/actions/workflows/teamplay.yml/badge.svg)](https://github.com/Suddendeath-qw/suddenQuake/actions/workflows/teamplay.yml)  
 The best quakeworld repository in the wörld.  
