@@ -17,8 +17,8 @@ qw/locs/*
 qw/frogbot_test/
 
 #stp_update
-stp_update/out.js
-stp_update/stp_update.exe
+stpupdate/out.js
+stpupdate/stp_update.exe
 
 # Logs
 logs
