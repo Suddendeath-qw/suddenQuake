@@ -15,6 +15,7 @@ qw/locs/*
 !qw/maps/aerowalk.bsp
 !qw/maps/maphub_v1.bsp
 qw/frogbot_test/
+qw/suddenteamplay.pk3
 
 #stp_update
 stpupdate/out.js
