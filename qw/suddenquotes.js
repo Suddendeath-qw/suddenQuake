@@ -49,4 +49,10 @@ try {
 } finally {
     if (fd1 != undefined) closeSync (fd1);
     if (fd2 != undefined) closeSync (fd2);
+    
+    require('readline')
+        .createInterface(process.stdin, process.stdout)
+        .question("Press [Enter] to exit...", function(){
+            process.exit();
+        });
 }
