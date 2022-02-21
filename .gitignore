@@ -16,6 +16,7 @@ qw/locs/*
 !qw/maps/maphub_v1.bsp
 qw/frogbot_test/
 qw/suddenteamplay.pk3
+qw/stp_update.exe
 
 #stp_update
 stpupdate/out.js
