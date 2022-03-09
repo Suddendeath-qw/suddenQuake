@@ -1,0 +1,743 @@
+Error: Couldn't open D:\suddenQuake\qw\demos\16.mvd
+
+&cff3Commands (13):&r
+  &c8ffdemo_capture&r
+  &c8ffdemo_controls&r
+  &c8ffdemo_jump&r
+  &c8ffdemo_jump_end&r
+  &c8ffdemo_jump_mark&r
+  &c8ffdemo_jump_status&r
+  &c8ffdemo_playlist_clear&r
+  &c8ffdemo_playlist_next&r
+  &c8ffdemo_playlist_prev&r
+  &c8ffdemo_playlist_stop&r
+  &c8ffdemo_setspeed&r
+  &c8ffdemoclock&r
+  &c8ffdemotimescale&r
+&cff3Variables (17):&r
+&cf30* &c8ffdemo_autotrack &cfff: &c2e2"&c2e21&c2e2"&r
+  &c8ffdemo_benchmarkdumps &cfff: &c2e2"&c2e21&c2e2"&r
+  &c8ffdemo_capture_background_threads &cfff: &c2e2"&c2e20&c2e2"&r
+  &c8ffdemo_capture_codec &cfff: &c2e2"&c2e20&c2e2"&r
+  &c8ffdemo_capture_dir &cfff: &c2e2"&c2e2capture&c2e2"&r
+  &c8ffdemo_capture_fps &cfff: &c2e2"&c2e230.0&c2e2"&r
+  &c8ffdemo_capture_mp3 &cfff: &c2e2"&c2e20&c2e2"&r
+  &c8ffdemo_capture_mp3_kbps &cfff: &c2e2"&c2e2128&c2e2"&r
+  &c8ffdemo_capture_steadycam &cfff: &c2e2"&c2e20&c2e2"&r
+  &c8ffdemo_capture_vid_maxlen &cfff: &c2e2"&c2e20&c2e2"&r
+&cf30* &c8ffdemo_dir &cfff: &c2e2"&c2e2qw/demos&c2e2"&r
+  &c8ffdemo_format &cfff: &c2e2"&c2e2qwz&c2e2"&r
+  &c8ffdemo_getpings &cfff: &c2e2"&c2e21&c2e2"&r
+  &c8ffdemo_jump_rewind &cfff: &c2e2"&c2e2-10&c2e2"&r
+  &c8ffdemo_jump_skip_messages &cfff: &c2e2"&c2e21&c2e2"&r
+&cf30* &c8ffdemo_playlist_loop &cfff: &c2e2"&c2e21&c2e2"&r
+  &c8ffdemo_playlist_track_name &cfff: &c2e2"&c2e2&c2e2"&r
+]/demo 15
+Unknown command "demo"
+]/playdemo 15
+Playing demo from 15.mvd
+
+
+_____________________________________
+
+_Claustrophobopolis
+trl.........axe is ready [oeks]
+All players ready
+Timer started
+QiZmo: timer lag point disabled
+Server starts recording (memory): 4on4_s_vs_oeks[dm2]220302-2132.mvd
+matchdate: 2022-03-02 21:32:31 CET
+trigger "onmatchstart" has no matching alias
+The match has begun!
+(lethalwiz): >&c599lwz:&cfff 0/100 [tele] 
+(goblin): >&cfa1gob &cfa6[&cfa9big-stairs&cfa6] coming&r &cfa60/100&r 
+(andeh): >  &cd37and&r [low-button] &cfff0&r/&cfff100&r sg &caaa
+(eff.........axe): >&cc93eff:&cfff took &c0a0mega&cfff [ra-mega]
+(lethalwiz): >&c599lwz:&cfff &cf00lost&cfff [big-stairs] 2
+(andeh): >&cfffand &caaa[&c666tele-ya&caaa] took&r &cff0ya&cfff
+(lethalwiz): >&c599lwz:&cfff 0/172 gl [quad-way] rox:14 
+(lethalwiz): >&c599lwz:&cfff 0/171 gl [quad-way] rox:14 
+(lethalwiz): >&c599lwz:&cfff 0/169 gl [quad-way] rox:14 
+(lethalwiz): >&c599lwz:&cfff 0/169 gl [quad-way] rox:14 
+(lethalwiz): >&c599lwz:&cfff 0/168 gl [quad-way] rox:14 
+(andeh): >  &cd37and&r [tele-high] &c991y&cfff&cfff99&r/&cfff71&r sg &caaa
+(lethalwiz): >&c599lwz:&cfff 0/158 gl [quad-way] rox:14 
+Quad Damage is wearing off
+(andeh): >  &cd37and&r [tele-high] &c991y&cfff&cfff99&r/&cfff71&r sg &caaa
+(lethalwiz): >&c599lwz:&cfff 0/154 gl [high-rl] rox:14 
+(andeh): >  &cd37and&r [tele-high] &c991y&cfff&cfff99&r/&cfff71&r sg &caaa
+(mOlle): >&cf0fmol &cf5f[&cffftele&cf5f] dropped&r &cf0frl-pack&r
+(mOlle): >&cf0fmol &cf5f[&cffftele&cf5f] dropped&r &cf0frl-pack&r
+[19] minutes remaining
+Team [oeks] leads by 6 frags
+[18] minutes remaining
+Team [oeks] leads by 11 frags
+(andeh): >  &c05fand&r __ &c05fteam quad typ&r __
+(andeh): >  &c05fand&r __ &c05fteam quad typ&r __
+(goblin): >&c0f0gob &c0f0[&c5f5tele-high&c0f0] safe&r &c9f9rl&r
+(goblin): >&c0f0gob &c0f0[&c5f5tele-high&c0f0] safe&r &c9f9rl&r
+(goblin): >  &ca33gob&r [tele-high] &c931r&cfff&cfff157&r/&cf6635&r &cf31rl&cfff &caaaneed health
+(goblin): >  &ca33gob&r [gl] &c931r&cfff&cfff157&r/&cfff135&r &cf31rl&cfff &caaa
+(andeh): >&c0f0and &c0f0[&c5f5low-rl&c0f0] safe&r &c9f9rl&r
+(andeh): >&c0f0and &c0f0[&c5f5low-rl&c0f0] safe&r &c9f9rl&r
+(goblin): >&cf0fgob &cf5f[&cfffbig&cf5f] dropped&r &cf0frl-pack&r
+(goblin): >&cf0fgob &cf5f[&cfffbig&cf5f] dropped&r &cf0frl-pack&r
+(goblin): >&cf0fgob &cf5f[&cfffbig&cf5f] dropped&r &cf0frl-pack&r
+(goblin): >&cf0fgob &cf5f[&cfffbig&cf5f] dropped&r &cf0frl-pack&r
+(goblin): >&cf0fgob &cf5f[&cfffbig&cf5f] dropped&r &cf0frl-pack&r
+(goblin): >&cf0fgob &cf5f[&cfffbig&cf5f] dropped&r &cf0frl-pack&r
+(goblin): >&cf0fgob &cf5f[&cfffbig&cf5f] dropped&r &cf0frl-pack&r
+(goblin): >&cf0fgob &cf5f[&cfffbig&cf5f] dropped&r &cf0frl-pack&r
+(goblin): >&cf0fgob &cf5f[&cfffbig&cf5f] dropped&r &cf0frl-pack&r
+(goblin): >&cf0fgob &cf5f[&cfffbig&cf5f] dropped&r &cf0frl-pack&r
+(mOlle): >  &c59cmol&r [secret] &cfff0&r/&cfff100&r sg &caaa
+(mOlle): >  &c59cmol&r [secret] &cfff0&r/&cfff100&r sg &caaa
+(lethalwiz): >&c599lwz:&cfff &c931r&cfff200/62 &cf60rl&cfff&cf31:15&cfff [tele-ya] 
+(lethalwiz): >&c599lwz:&cfff &c931r&cfff200/87 &cf60rl&cfff&cf31:15&cfff [tele] 
+(lethalwiz): >&c599lwz:&cfff &c931r&cfff200/87 &cf60rl&cfff&cf31:15&cfff [tele] 
+(andeh): >  &cd37and&r &c05fquad&cfff [low-rl] &c931r&cfff&cf6610&r/&cfff100&r &cf31rl&cfff&cf66:3&r &caaaneed armor
+(andeh): >  &cd37and&r &c05fquad&cfff [low-rl] &c931r&cfff&cf6610&r/&cfff100&r &cf31rl&cfff&cf66:1&r &caaaneed armor
+Quad Damage is wearing off
+(andeh): >&cfffand &caaa[&c666low-rl&caaa] took&r &cf31rl&cfff
+(goblin): >&cfffgob &caaa[&c666high-rl&caaa] took&r &cf31rl&cfff
+(goblin): >&cfffgob &caaa[&c666high-rl&caaa] took&r &cf31rl&cfff
+(goblin): >  &ca33gob&r [high-rl] &c991y&cfff&cfff150&r/&cfff100&r &cf31rl&cfff &caaa
+(andeh): >  &cd37and&r [path-lift] &c931r&cfff&cf6610&r/&cfff100&r &cf31rl&cfff&cf66:4&r &caaaneed armor
+(andeh): >&cfffand &caaa[&c666secret&caaa] took&r &ce00ra&cfff
+(goblin): >  &ca33gob&r [quad-low] &c991y&cfff&cfff150&r/&cfff100&r &cf31rl&cfff &caaa
+(goblin): >  &ca33gob&r [ng] &c991y&cfff&cfff150&r/&cfff100&r &cf31rl&cfff &caaa
+(andeh): >  &cd37and&r [ng] &c931r&cfff&cfff200&r/&cfff100&r &cf31rl&cfff&cf66:4&r &caaa
+(mOlle): >&cf00mol &cf00[&cf55path-lift&cf00] lost&r &cf553&r
+(andeh): >  &cd37and&r [floating] &c931r&cfff&cfff200&r/&cfff100&r &cf31rl&cfff&cf66:4&r &caaa
+(andeh): >  &cd37and&r [floating] &c931r&cfff&cfff200&r/&cfff100&r &cf31rl&cfff&cf66:4&r &caaa
+(goblin): >  &ca33gob&r [quad-low] &c991y&cfff&cfff150&r/&cfff100&r &cf31rl&cfff &caaa
+(mOlle): >&c1ff>&r &cf2aPACK&r &c777at&r [path]
+(mOlle): >&c1ff>&r &cf2aPACK&r &c777at&r [path]
+(andeh): >&c0f0and &c0f0[&c5f5quad&c0f0] safe&r &c9f9rl&r
+(mOlle): >&cf00mol &cf00[&cf55path&cf00] lost&r &cf552&r
+(andeh): >&c0f0and &c0f0[&c5f5quad&c0f0] safe&r &c9f9rl&r
+(mOlle): >&cf00mol &cf00[&cf55path&cf00] lost&r &cf552&r
+(mOlle): >&cf00mol &cf00[&cf55path&cf00] lost&r &cf552&r
+(andeh): >&c0f0and &c0f0[&c5f5quad&c0f0] safe&r &c9f9rl&r
+(andeh): >&c0f0and &c0f0[&c5f5quad&c0f0] safe&r &c9f9rl&r
+(mOlle): >&cf00mol &cf00[&cf55path&cf00] lost&r &cf552&r
+(andeh): >&c0f0and &c0f0[&c5f5quad&c0f0] safe&r &c9f9rl&r
+[17] minutes remaining
+Team [oeks] leads by 11 frags
+(goblin): >  &ca33gob&r [ng] &c991y&cfff&cfff150&r/&cfff100&r &cf31rl&cfff &caaa
+(andeh): >&c0f0and &c0f0[&c5f5quad&c0f0] safe&r &c9f9rl&r
+(andeh): >&c0f0and &c0f0[&c5f5quad&c0f0] safe&r &c9f9rl&r
+(andeh): >  &cd37and&r [quad] &c931r&cfff&cfff157&r/&cfff181&r &cf31rl&cfff &caaa
+(andeh): >  &cd37and&r [quad] &c931r&cfff&cfff157&r/&cfff177&r &cf31rl&cfff &caaa
+(andeh): >  &cd37and&r [quad] &c931r&cfff&cfff157&r/&cfff176&r &cf31rl&cfff &caaa
+(andeh): >&c0f0and &c0f0[&c5f5quad&c0f0] safe&r &c9f9rl&r
+(andeh): >  &c05fand&r __ &c05fteam quad typ&r __
+(andeh): >  &c05fand&r __ &c05fteam quad typ&r __
+(goblin): >  &ca33gob&r [tele-high] &c991y&cfff&cfff150&r/&cfff100&r &cf31rl&cfff &caaa
+(goblin): >&c0f0gob &c0f0[&c5f5floating&c0f0] safe&r &c9f9rl&r
+(goblin): >&c0f0gob &c0f0[&c5f5floating&c0f0] safe&r &c9f9rl&r
+(lethalwiz): >&c599lwz:&cfff &c991y&cfff150/100 &cf60rl&cfff&cf31:15&cfff [tele] 
+(lethalwiz): >&c599lwz:&cfff &c991y&cfff150/100 &cf60rl&cfff&cf31:15&cfff [tele] 
+(goblin): >  &ca33gob&r [gl] &c991y&cfff&cfff150&r/&cfff100&r &cf31rl&cfff &caaa
+(goblin): >  &ca33gob&r [tele-high] &c991y&cfff&cfff150&r/&cfff100&r &cf31rl&cfff &caaa
+(andeh): >  &cd37and&r &c05fquad&cfff [secret] &cf660&r/&cf6641&r &cf31rl&cfff &caaaneed armor health
+(andeh): >  &cd37and&r &c05fquad&cfff [secret] &cf660&r/&cf6641&r &cf31rl&cfff &caaaneed armor health
+(andeh): >  &cd37and&r &c05fquad&cfff [secret] &cf660&r/&cf6641&r &cf31rl&cfff &caaaneed armor health
+(goblin): >&c1ff>&r &cf31rl&cfff &c777at&r [high-rl]
+(goblin): >&c1ff>&r &cf31rl&cfff &c777at&r [high-rl]
+pre.........axe: lolololool
+(andeh): >  &cd37and&r &c05fquad&cfff [secret] &cf660&r/&cf6641&r &cf31rl&cfff &caaaneed armor health
+(mOlle): >&cfa1mol &cfa6[&cfa9tele-ya&cfa6] coming&r &cfa60/100&r 
+(andeh): >  &cd37and&r &c05fquad&cfff [secret] &cf660&r/&cf6641&r &cf31rl&cfff &caaaneed armor health
+(mOlle): >&cfa1mol &cfa6[&cfa9tele-ya&cfa6] coming&r &cfa60/100&r 
+pre.........axe: wtf
+(lethalwiz): >&c599lwz:&cfff 0/44 &cf60rl&cfff&cf31:7&cfff [path] 
+Quad Damage is wearing off
+(andeh): >  &cd37and&r &c05fquad&cfff [secret] &cf660&r/&cf6641&r &cf31rl&cfff &caaaneed armor health
+(goblin): >  &ca33gob&r [quad-way] &c991y&cfff&cfff150&r/&cfff100&r &cf31rl&cfff &caaa
+(andeh): >&cfffand &caaa[&c666secret&caaa] took&r &ce00ra&cfff
+(goblin): >  &ca33gob&r [ng] &c991y&cfff&cfff150&r/&cfff100&r &cf31rl&cfff &caaa
+(andeh): >  &cd37and&r [floating] &c931r&cfff&cfff200&r/&cfff91&r &cf31rl&cfff &caaa
+(andeh): >  &cd37and&r [floating] &c931r&cfff&cfff200&r/&cfff91&r &cf31rl&cfff &caaa
+(lethalwiz): >&c599lwz:&cfff &c991y&cfff140/151 &cf60rl&cfff&cf31:2&cfff [tele] 
+[16] minutes remaining
+Team [oeks] leads by 10 frags
+(andeh): >  &cd37and&r [quad-way] &c931r&cfff&cfff200&r/&cfff91&r &cf31rl&cfff &caaa
+(andeh): >&c0f0and &c0f0[&c5f5quad-way&c0f0] safe&r &c9f9rl&r
+(goblin): >&c1ff>&r &cff0ya&cfff &c777at&r [tele-ya]
+(lethalwiz): >&c599lwz:&cfff &c991y&cfff108/124 &cf60rl&cfff&cf31:8&cfff [tele] 
+(goblin): >&c1ff>&r &cff0ya&cfff &c777at&r [tele-ya]
+(goblin): >&c1ff>&r &cff0ya&cfff &c777at&r [tele-ya]
+(lethalwiz): >&c599lwz:&cfff &cf00dropped&cfff &cf60rl&cfff [quad-low] 1
+(lethalwiz): >&c599lwz:&cfff &cf00dropped&cfff &cf60rl&cfff [quad-low] 1
+(lethalwiz): >&c599lwz:&cfff &c991y&cfff150/100 [tele-high] 
+(tim.........axe): > &cf93 tim&cfff [quad] &cf660&cfff/&cf6610&cfff &cf60rl&cfff &c05fquad&cfff
+(pre.........axe): > &c666 pre&cfff __ &cf60rl&cfff at [low-rl]
+(trl.........axe): > &c000 trl&cfff [high-rl] 0/52 sg 
+(trl.........axe): > &c000 trl&cfff [quad-way] 0/52 sg 
+(tim.........axe): > &cf93 tim&cfff took &cf00ra&cfff [secret]
+(trl.........axe): > &c000 trl&cfff [high-rl] 0/52 sg 
+Quad Damage is wearing off
+(trl.........axe): > &c000 trl&cfff [high-rl] 0/100 sg 
+(eff.........axe): >&cc93eff:&cfff __ &cf00enemy&cfff at [high]
+(trl.........axe): > &c000 trl&cfff [tele] y147/100 &cf60rl&cfff 
+[15] minutes remaining
+Team [oeks] leads by 22 frags
+(tim.........axe): > &cf93 tim&cfff [tele] r86/83 &cf60rl&cfff 
+(eff.........axe): >&cc93eff:&cfff __ &cf00enemy&cfff at [quad-way]
+(eff.........axe): >&cc93eff:&cfff __ &cf00enemy&cfff at [high]
+(eff.........axe): >&cc93eff:&cfff __ &cf00enemy&cfff at [high]
+(andeh): >&cf00and &cf00[&cf55ng&cf00] lost&r &cf551&r
+no weapon
+(andeh): >  &cd37and&r [tele-high] &c991y&cfff&cfff150&r/&cfff100&r sg &caaa
+(andeh): >  &cd37and&r [tele-high] &c991y&cfff&cfff150&r/&cfff100&r sg &caaa
+(trl.........axe): > &c000 trl&cfff [ra-mega] y119/100 &cf60rl&cfff 
+(trl.........axe): > &c000 trl&cfff [ra-mega] r200/97 &cf60rl&cfff 
+(trl.........axe): >&cf00  trl lost [platforms] 1
+(eff.........axe): >&cc93eff:&cfff __ [quad-way] 2
+(tim.........axe): > &cf93 tim&cfff [ra-mega] 0/100 sg 
+(trl.........axe): >&cf00  trl lost [big] 1
+(tim.........axe): > &cf93 tim&cfff [low] &cf660&cfff/100 &cf60rl&cfff 
+[14] minutes remaining
+Team [oeks] leads by 38 frags
+(trl.........axe): > &c000 trl&cfff [tele] 0/100 sg 
+(trl.........axe): > &c000 trl&cfff [tele] 0/100 sg 
+(eff.........axe): >&cc93eff:&cfff 0/100 sg [low] 
+(tim.........axe): > &cf93 tim&cfff [low] &cf660&cfff/&cf6624&cfff &cf60rl&cfff&cf66:3&cfff 
+(trl.........axe): >&cf00  trl lost [quad-way] 2
+(goblin): >  &ca33gob&r [high-rl] &c931r&cfff&cfff171&r/&cfff69&r &cf31rl&cfff &caaa
+(goblin): >  &ca33gob&r [quad-way] &c931r&cfff&cfff171&r/&cfff69&r &cf31rl&cfff &caaa
+(goblin): >&cf0fgob &cf5f[&cfffquad-way&cf5f] dropped&r &cf0frl-pack&r
+(goblin): >&cf0fgob &cf5f[&cfffquad-way&cf5f] dropped&r &cf0frl-pack&r
+(goblin): >&cf0fgob &cf5f[&cfffquad-way&cf5f] dropped&r &cf0frl-pack&r
+(goblin): >&cf0fgob &cf5f[&cfffquad-way&cf5f] dropped&r &cf0frl-pack&r
+(goblin): >&cf0fgob &cf5f[&cfffquad-way&cf5f] dropped&r &cf0frl-pack&r
+(goblin): >&cf0fgob &cf5f[&cfffquad-way&cf5f] dropped&r &cf0frl-pack&r
+(goblin): >&cf0fgob &cf5f[&cfffquad-way&cf5f] dropped&r &cf0frl-pack&r
+(goblin): >&cf0fgob &cf5f[&cfffquad-way&cf5f] dropped&r &cf0frl-pack&r
+(mOlle): >&c1ff>&r &cff0ya&cfff &c777at&r [tele-ya]
+(lethalwiz): >&c599lwz:&cfff 0/-16 [quad-way] 
+(goblin): >&cfffgob &caaa[&c666low-rl&caaa] took&r &cf31rl&cfff
+(andeh): >&cfffand &caaa[&c666secret&caaa] took&r &ce00ra&cfff
+(goblin): >  &ca33gob&r [ng] &cf660&r/&cf6647&r &cf31rl&cfff &caaaneed armor
+(goblin): >  &ca33gob&r [tele-entry] &cf660&r/&cfff72&r &cf31rl&cfff &caaaneed armor
+(goblin): >  &ca33gob&r [tele] &cf660&r/&cfff72&r &cf31rl&cfff &caaaneed armor
+(goblin): >  &ca33gob&r [tele] &cf660&r/&cfff72&r &cf31rl&cfff &caaaneed armor
+(goblin): >  &ca33gob&r [tele] &cf660&r/&cfff97&r &cf31rl&cfff &caaaneed armor
+(mOlle): >  &c59cmol&r [tele] &c991y&cfff&cf6613&r/&cfff100&r &cf31rl&cfff &caaaneed armor
+(mOlle): >  &c59cmol&r [tele] &c991y&cfff&cf6613&r/&cfff100&r &cf31rl&cfff &caaaneed armor
+(goblin): >  &ca33gob&r [tele-ya] &cf660&r/&cfff97&r &cf31rl&cfff &caaaneed armor
+(goblin): >  &ca33gob&r [tele-ya] &cf660&r/&cfff97&r &cf31rl&cfff &caaaneed armor
+Quad Damage is wearing off
+(lethalwiz): >&c599lwz:&cfff 0/100 &cf60rl&cfff&cf31:20&cfff [high-rl] 
+(lethalwiz): >&c599lwz:&cfff 0/100 &cf60rl&cfff&cf31:20&cfff [quad-way] 
+(lethalwiz): >&c599lwz:&cfff 0/100 &cf60rl&cfff&cf31:20&cfff [quad-way] 
+(goblin): >  &ca33gob&r [quad-low] &cf660&r/&cf6627&r &cf31rl&cfff &caaaneed armor
+(goblin): >  &ca33gob&r [quad-low] &cf660&r/&cf6627&r &cf31rl&cfff &caaaneed armor
+(andeh): >&cfffand &caaa[&c666secret&caaa] took&r &ce00ra&cfff
+(mOlle): >  &c59cmol&r [tele] &c991y&cfff&cfff150&r/&cfff100&r &cf31rl&cfff &caaa
+(mOlle): >  &c59cmol&r [tele] &c991y&cfff&cfff150&r/&cfff100&r &cf31rl&cfff &caaa
+(goblin): >  &ca33gob&r [path] &cf660&r/&cfff67&r &cf31rl&cfff &caaaneed armor
+(goblin): >  &ca33gob&r [path] &cf660&r/&cfff67&r &cf31rl&cfff &caaaneed armor
+(goblin): >  &ca33gob&r [ng] &cf660&r/&cfff67&r &cf31rl&cfff &caaaneed armor
+(andeh): >  &cd37and&r [quad-low] &c931r&cfff&cfff129&r/&cf6641&r &cf31rl&cfff &caaaneed health
+(lethalwiz): >&c599lwz:&cfff 0/100 &cf60rl&cfff&cf31:20&cfff [tele] 
+(goblin): >  &ca33gob&r [tele-ya] &cf660&r/&cfff100&r &cf31rl&cfff &caaaneed armor
+[13] minutes remaining
+Team [oeks] leads by 26 frags
+(goblin): >  &ca33gob&r [tele-ya] &cf660&r/&cfff100&r &cf31rl&cfff &caaaneed armor
+(andeh): >  &cd37and&r [tele] &c931r&cfff&cfff116&r/&cfff88&r &cf31rl&cfff&cf66:3&r &caaa
+(goblin): >&cfffgob &caaa[&c666tele-ya&caaa] took&r &cff0ya&cfff
+(andeh): >  &cd37and&r [quad-way] &c931r&cfff&cfff116&r/&cfff88&r &cf31rl&cfff&cf66:3&r &caaa
+(andeh): >&c0f0and &c0f0[&c5f5quad&c0f0] safe&r &c9f9rl&r
+(andeh): >&c0f0and &c0f0[&c5f5quad&c0f0] safe&r &c9f9rl&r
+(goblin): >  &ca33gob&r [quad-way] &c991y&cfff&cfff150&r/&cfff100&r &cf31rl&cfff &caaa
+(mOlle): >&cf0fmol &cf5f[&cfffng&cf5f] dropped&r &cf0frl-pack&r
+(andeh): >  &cd37and&r [quad-way] &c931r&cfff&cfff116&r/&cfff100&r &cf31rl&cfff &caaa
+(andeh): >  &c05fand&r __ &c05fteam quad typ&r __
+(andeh): >  &c05fand&r __ &c05fteam quad typ&r __
+(goblin): >  &ca33gob&r [ra-mega] &cfff0&r/&cfff100&r ssg &caaa
+(goblin): >  &ca33gob&r [ra-mega] &cfff0&r/&cfff100&r ssg &caaa
+(mOlle): >  &c59cmol&r [tele-ya] &c991y&cfff&cfff150&r/&cfff100&r &cf31rl&cfff &caaa
+(mOlle): >  &c59cmol&r [tele-ya] &c991y&cfff&cfff150&r/&cfff100&r &cf31rl&cfff &caaa
+(mOlle): >  &c59cmol&r [tele-ya] &c991y&cfff&cfff150&r/&cfff100&r &cf31rl&cfff &caaa
+(mOlle): >  &c59cmol&r [tele-ya] &c991y&cfff&cfff150&r/&cfff100&r &cf31rl&cfff &caaa
+(mOlle): >  &c59cmol&r [tele-ya] &c991y&cfff&cfff150&r/&cfff100&r &cf31rl&cfff &caaa
+(andeh): >&cd37and:&cfff &c05fquad&cfff over
+(andeh): >&cd37and:&cfff &c05fquad&cfff over
+no weapon
+(andeh): >&cfffand &caaa[&c666tele-high&caaa] took &c666no pack&r
+(andeh): >&cfffand &caaa[&c666tele-high&caaa] took &c666no pack&r
+(lethalwiz): >&c599lwz:&cfff 0/13 &cf60rl&cfff&cf31:1&cfff [quad-way] 
+(goblin): >  &ca33gob&r [secret] &c931r&cfff&cfff200&r/&cfff84&r ng &caaa
+(goblin): >  &ca33gob&r [secret] &c931r&cfff&cfff200&r/&cfff84&r ng &caaa
+(andeh): >  &cd37and&r [tele-high] &c991y&cfff&cfff150&r/&cfff100&r &cf31rl&cfff &caaa
+(goblin): >  &ca33gob&r [tele] &c931r&cfff&cfff200&r/&cfff84&r ng &caaa
+(lethalwiz): >&c599lwz:&cfff 0/100 &cf60rl&cfff&cf31:1&cfff [tele-entry] 
+(goblin): >&cfffgob &caaa[&c666ng&caaa] took &c666no pack&r
+(goblin): >  &ca33gob&r [tele] &c931r&cfff&cfff200&r/&cfff84&r ng &caaa
+[12] minutes remaining
+Team [oeks] leads by 16 frags
+(goblin): >  &ca33gob&r [high-rl] &c931r&cfff&cfff200&r/&cfff84&r &cf31rl&cfff &caaa
+(andeh): >  &cd37and&r [quad-button] &c991y&cfff&cfff150&r/&cfff200&r &cf31rl&cfff &caaa
+(andeh): >  &cd37and&r [quad-button] &c991y&cfff&cfff147&r/&cfff199&r &cf31rl&cfff &caaa
+(goblin): >  &ca33gob&r [high-rl] &c931r&cfff&cfff200&r/&cfff84&r &cf31rl&cfff &caaa
+(goblin): >  &ca33gob&r [high-rl] &c931r&cfff&cfff200&r/&cfff84&r &cf31rl&cfff &caaa
+(goblin): >  &ca33gob&r [quad-way] &c931r&cfff&cfff200&r/&cfff84&r &cf31rl&cfff &caaa
+(mOlle): >  &c59cmol&r [path] &c991y&cfff&cfff126&r/&cfff100&r &cf31rl&cfff &caaa
+(goblin): >&c0f0gob &c0f0[&c5f5quad&c0f0] safe&r &c9f9rl&r
+(goblin): >&c0f0gob &c0f0[&c5f5quad&c0f0] safe&r &c9f9rl&r
+(andeh): >&c0f0and &c0f0[&c5f5tele&c0f0] safe&r &c9f9rl&r
+(andeh): >&c0f0and &c0f0[&c5f5tele&c0f0] safe&r &c9f9rl&r
+(andeh): >  &cd37and&r [tele-high] &c991y&cfff&cfff150&r/&cfff116&r &cf31rl&cfff &caaa
+(andeh): >  &cd37and&r [tele-high] &c991y&cfff&cfff150&r/&cfff116&r &cf31rl&cfff &caaa
+(andeh): >  &cd37and&r [quad-way] &c991y&cfff&cfff150&r/&cfff114&r &cf31rl&cfff &caaa
+(andeh): >&cfa1and &cfa6[&cfa9quad-way&cfa6] coming&r &c991y&cfff&cfa6150/113&r rl
+(andeh): >  &c05fand&r __ &c05fteam quad typ&r __
+(andeh): >&c1ff>&r &cf2aPACK&r &c777at&r [quad-low]
+(goblin): >  &ca33gob&r [quad-low] &cf660&r/&cfff66&r &cf31rl&cfff &caaaneed armor
+(goblin): >  &ca33gob&r [ng] &cf660&r/&cfff91&r &cf31rl&cfff &caaaneed armor
+(andeh): >&c0f0and &c0f0[&c5f5low-rl&c0f0] safe&r &c9f9rl&r
+(goblin): >  &ca33gob&r [tele] &cf660&r/&cfff67&r &cf31rl&cfff &caaaneed armor
+(goblin): >  &ca33gob&r [tele] &cf660&r/&cfff67&r &cf31rl&cfff &caaaneed armor
+(goblin): >  &ca33gob&r [tele-entry] &cf660&r/&cfff67&r &cf31rl&cfff &caaaneed armor
+(goblin): > &cf00__&r &c05fenemy&r &c05fquad&cfff &cf00__&r
+(andeh): >  &cd37and&r &c05fquad&cfff [secret] &cf660&r/&cf6622&r &cf31rl&cfff &caaaneed armor health
+(goblin): >  &ca33gob&r [path] &cf660&r/&cf6625&r &cf31rl&cfff &caaaneed armor
+(goblin): >  &ca33gob&r [path] &cf660&r/&cf6625&r &cf31rl&cfff &caaaneed armor
+(andeh): >&cfffand &caaa[&c666secret&caaa] took&r &ce00ra&cfff
+(goblin): >  &ca33gob&r [tele-entry] &cf660&r/&cf6625&r &cf31rl&cfff &caaaneed armor
+Quad Damage is wearing off
+(andeh): >  &cd37and&r &c05fquad&cfff [ng] &c931r&cfff&cfff184&r/&cf6618&r &cf31rl&cfff &caaaneed health
+(goblin): >  &ca33gob&r [tele] &cf660&r/&cf661&r &cf31rl&cfff &caaaneed armor
+(goblin): >  &ca33gob&r [tele] &cf660&r/&cf661&r &cf31rl&cfff &caaaneed armor
+(goblin): >  &ca33gob&r [tele] &cf660&r/&cf661&r &cf31rl&cfff &caaaneed armor
+(goblin): >  &ca33gob&r [tele-ya] &cf660&r/&cf661&r &cf31rl&cfff &caaaneed armor
+(mOlle): >  &c59cmol&r [tele] &cf660&r/&cfff92&r &cf31rl&cfff &caaaneed armor
+(andeh): >&c0f0and &c0f0[&c5f5quad-low&c0f0] safe&r &c9f9rl&r
+(mOlle): >  &c59cmol&r [tele-ya] &cf660&r/&cfff84&r &cf31rl&cfff &caaaneed armor
+(mOlle): >  &c59cmol&r [tele-ya] &cf660&r/&cfff84&r &cf31rl&cfff &caaaneed armor
+(mOlle): >  &c59cmol&r [tele-ya] &cf660&r/&cfff84&r &cf31rl&cfff &caaaneed armor
+[11] minutes remaining
+Team [=s=] leads by 3 frags
+(andeh): >  &cd37and&r [tele-high] &c931r&cfff&cfff130&r/&cfff80&r &cf31rl&cfff&cf66:4&r &caaa
+(andeh): >  &cd37and&r [tele-high] &c931r&cfff&cfff130&r/&cfff80&r &cf31rl&cfff&cf66:4&r &caaa
+(andeh): >  &cd37and&r [floating] &c931r&cfff&cfff130&r/&cfff180&r &cf31rl&cfff &caaa
+(andeh): >&c0f0and &c0f0[&c5f5tele-high&c0f0] safe&r &c9f9rl&r
+(goblin): >  &ca33gob&r [quad] &cf660&r/&cfff100&r &cf31rl&cfff &caaaneed armor
+(andeh): >  &cd37and&r [quad-way] &c931r&cfff&cfff130&r/&cfff178&r &cf31rl&cfff &caaa
+(andeh): >  &cd37and&r [quad-way] &c931r&cfff&cfff130&r/&cfff178&r &cf31rl&cfff &caaa
+(goblin): >  &ca33gob&r [tele] &cf660&r/&cfff100&r &cf31rl&cfff &caaaneed armor
+(andeh): >  &c05fand&r __ &c05fteam quad typ&r __
+(goblin): >  &ca33gob&r [tele] &cf660&r/&cfff76&r &cf31rl&cfff &caaaneed armor
+(goblin): >&c1ff>&r &ce00ra&cfff &c777at&r [secret]
+(goblin): >&c1ff>&r &ce00ra&cfff &c777at&r [secret]
+(goblin): >&c1ff>&r &ce00ra&cfff &c777at&r [secret]
+(goblin): >&c1ff>&r &ce00ra&cfff &c777at&r [secret]
+(goblin): >&c1ff>&r &ce00ra&cfff &c777at&r [secret]
+(goblin): >&c1ff>&r &ce00ra&cfff &c777at&r [secret]
+(goblin): >&c1ff>&r &ce00ra&cfff &c777at&r [secret]
+(andeh): >&cfffand &caaa[&c666secret&caaa] took&r &ce00ra&cfff
+(goblin): >  &ca33gob&r [tele] &cf660&r/&cfff76&r &cf31rl&cfff &caaaneed armor
+(lethalwiz): >&c599lwz:&cfff &cf60rl&cfff at [high-rl]
+(lethalwiz): >&c599lwz:&cfff &cf60rl&cfff at [high-rl]
+(lethalwiz): >&c599lwz:&cfff &cf60rl&cfff at [high-rl]
+(lethalwiz): >&c599lwz:&cfff &c931r&cfff36/88 &cf60rl&cfff&cf31:24&cfff [quad-way] 
+Quad Damage is wearing off
+(andeh): >&cf0fand &cf5f[&cffflow-rl&cf5f] dropped&r &cf0frl-pack&r
+(goblin): >  &ca33gob&r [tele-ya] &cfff0&r/&cfff100&r sg &caaa
+[10] minutes remaining
+Team [=s=] leads by 7 frags
+(goblin): >&c0f0gob &c0f0[&c5f5tele-ya&c0f0] safe&r &c9f9&r
+(goblin): >&c0f0gob &c0f0[&c5f5tele-ya&c0f0] safe&r &c9f9&r
+(goblin): >&cfffgob &caaa[&c666tele-ya&caaa] took&r &cff0ya&cfff
+(goblin): >  &ca33gob&r [tele-high] &c991y&cfff&cfff150&r/&cfff100&r sg &caaa
+(goblin): >  &ca33gob&r [gl] &c991y&cfff&cfff150&r/&cfff200&r sg &caaa
+(andeh): >  &cd37and&r [quad-low] &c991y&cfff&cfff108&r/&cfff72&r sg &caaa
+(lethalwiz): >&c599lwz:&cfff &c931r&cfff200/100 &cf60rl&cfff&cf31:22&cfff [tele] 
+(goblin): >  &ca33gob&r [tele-high] &c991y&cfff&cfff150&r/&cfff200&r &c299gl&cfff &caaa
+(lethalwiz): >&c599lwz:&cfff &c931r&cfff200/100 &cf60rl&cfff&cf31:22&cfff [ng] 
+(lethalwiz): >&c599lwz:&cfff &c931r&cfff119/100 &cf60rl&cfff&cf31:20&cfff [quad] 
+(lethalwiz): >&c599lwz:&cfff &c931r&cfff119/100 &cf60rl&cfff&cf31:20&cfff [quad] 
+(lethalwiz): >&c599lwz:&cfff &c931r&cfff119/100 &cf60rl&cfff&cf31:20&cfff [quad] &c05fquad&cfff
+(lethalwiz): >&c599lwz:&cfff &c931r&cfff119/100 &cf60rl&cfff&cf31:20&cfff [quad] &c05fquad&cfff
+(goblin): >  &ca33gob&r [gl] &c991y&cfff&cf6644&r/&cfff116&r &cf31rl&cfff &caaaneed armor
+(goblin): >&c0f0gob &c0f0[&c5f5floating&c0f0] safe&r &c9f9rl&r
+(goblin): >&c0f0gob &c0f0[&c5f5floating&c0f0] safe&r &c9f9rl&r
+(goblin): >  &ca33gob&r [big] &c991y&cfff&cf6644&r/&cfff114&r &cf31rl&cfff &caaaneed armor
+(andeh): >  &cd37and&r [ng] &c991y&cfff&cfff63&r/&cfff73&r sg &caaa
+(goblin): >  &ca33gob&r [quad-low] &c991y&cfff&cfff150&r/&cfff105&r &cf31rl&cfff &caaa
+(andeh): >  &cd37and&r [low-rl] &c991y&cfff&cfff63&r/&cfff100&r sg &caaa
+(andeh): >  &cd37and&r [low-rl] &c991y&cfff&cfff63&r/&cfff100&r sg &caaa
+(goblin): >  &ca33gob&r [quad-low] &c991y&cfff&cfff150&r/&cfff100&r &cf31rl&cfff &caaa
+(andeh): >&cfffand &caaa[&c666low-rl&caaa] took &c666no pack&r
+(andeh): >&cfffand &caaa[&c666low-rl&caaa] took &c666no pack&r
+(goblin): >  &ca33gob&r [ng] &c991y&cfff&cfff150&r/&cfff100&r &cf31rl&cfff &caaa
+(goblin): >  &ca33gob&r [ng] &c991y&cfff&cfff105&r/&cfff91&r &cf31rl&cfff &caaa
+Quad Damage is wearing off
+(mOlle): >  &c59cmol&r [tele] &c991y&cfff&cfff127&r/&cfff91&r &cf31rl&cfff &caaa
+(mOlle): >  &c59cmol&r [tele] &c991y&cfff&cfff127&r/&cfff91&r &cf31rl&cfff &caaa
+(andeh): >&c0f0and &c0f0[&c5f5big&c0f0] safe&r &c9f9rl&r
+(andeh): >&c0f0and &c0f0[&c5f5big&c0f0] safe&r &c9f9rl&r
+(goblin): >  &ca33gob&r [secret] &c991y&cfff&cfff85&r/&cfff100&r &cf31rl&cfff &caaa
+(goblin): >&c0f0gob &c0f0[&c5f5secret&c0f0] safe&r &c9f9rl&r
+(goblin): >&c0f0gob &c0f0[&c5f5secret&c0f0] safe&r &c9f9rl&r
+(andeh): >&c0f0and &c0f0[&c5f5big&c0f0] safe&r &c9f9rl&r
+[9] minutes remaining
+Team [=s=] leads by 31 frags
+(lethalwiz): >&c599lwz:&cfff &c931r&cfff200/48 &cf60rl&cfff&cf31:11&cfff [ra-mega] 
+(andeh): >&c0f0and &c0f0[&c5f5big&c0f0] safe&r &c9f9rl&r
+(andeh): >&c0f0and &c0f0[&c5f5big&c0f0] safe&r &c9f9rl&r
+(goblin): >&cf0fgob &cf5f[&cfffwater&cf5f] dropped&r &cf0frl-pack&r
+(goblin): >&cf0fgob &cf5f[&cfffwater&cf5f] dropped&r &cf0frl-pack&r
+(goblin): >&cf0fgob &cf5f[&cfffwater&cf5f] dropped&r &cf0frl-pack&r
+(goblin): >&cf0fgob &cf5f[&cfffwater&cf5f] dropped&r &cf0frl-pack&r
+(goblin): >&cf0fgob &cf5f[&cfffwater&cf5f] dropped&r &cf0frl-pack&r
+(goblin): >&cf0fgob &cf5f[&cfffwater&cf5f] dropped&r &cf0frl-pack&r
+(goblin): >&cf0fgob &cf5f[&cfffwater&cf5f] dropped&r &cf0frl-pack&r
+(goblin): >&cf0fgob &cf5f[&cfffwater&cf5f] dropped&r &cf0frl-pack&r
+(goblin): >&cf0fgob &cf5f[&cfffwater&cf5f] dropped&r &cf0frl-pack&r
+(andeh): >  &cd37and&r [quad] &c991y&cfff&cfff100&r/&cfff100&r &cf31rl&cfff &caaa
+(andeh): >  &cd37and&r [quad] &c991y&cfff&cfff100&r/&cfff100&r &cf31rl&cfff &caaa
+(andeh): >  &c05fand&r __ &c05fteam quad typ&r __
+(goblin): >&c1ff>&r &cfffenemy&cfff &c777at&r [ra-mega]
+(goblin): >&cfffgob &caaa[&c666tele-ya&caaa] took&r &cff0ya&cfff
+(lethalwiz): >&c599lwz:&cfff &c931r&cfff33/75 &cf60rl&cfff&cf31:3&cfff [ra-mega] 
+(lethalwiz): >&c599lwz:&cfff &c931r&cfff33/75 &cf60rl&cfff&cf31:3&cfff [ra-mega] 
+(andeh): >&cfffand &caaa[&c666secret&caaa] took&r &ce00ra&cfff
+(andeh): >&cfa1and &cfa6[&cfa9ng&cfa6] coming&r &c931r&cfff&cfa6200/76&r rl
+Quad Damage is wearing off
+(andeh): >  &cd37and&r &c05fquad&cfff [tele] &c931r&cfff&cfff71&r/&cfff96&r &cf31rl&cfff &caaa
+(goblin): >&cf00gob &cf00[&cf55low-rl&cf00] lost&r &cf553&r
+(goblin): >&cf00gob &cf00[&cf55low-rl&cf00] lost&r &cf553&r
+(goblin): >  &ca33gob&r [tele] &cfff0&r/&cfff100&r sg &caaa
+(andeh): >&cf0fand &cf5f[&cfffbig&cf5f] dropped&r &cf0frl-pack&r
+(andeh): >&cf0fand &cf5f[&cfffbig&cf5f] dropped&r &cf0frl-pack&r
+[8] minutes remaining
+Team [=s=] leads by 56 frags
+(andeh): >&cf0fand &cf5f[&cfffbig&cf5f] dropped&r &cf0frl-pack&r
+(andeh): >&cf0fand &cf5f[&cfffbig&cf5f] dropped&r &cf0frl-pack&r
+(goblin): >  &ca33gob&r [tele-ya] &cfff0&r/&cfff100&r sg &caaa
+world squishes tim.........axe
+(goblin): >  &ca33gob&r [tele-ya] &cfff0&r/&cfff100&r sg &caaa
+(goblin): >  &ca33gob&r [high-rl] &cfff0&r/&cfff84&r sg &caaa
+(mOlle): >  &c59cmol&r [tele-ya] &c991y&cfff&cfff150&r/&cfff100&r &cf31rl&cfff&cf66:4&r &caaa
+(lethalwiz): >&c599lwz:&cfff 0/-7 &cf60rl&cfff&cf31:13&cfff [water] 
+no weapon
+(eff.........axe): >&cc93eff:&cfff took &cff0ya&cfff [tele]
+pre.........axe: all
+(andeh): >  &cd37and&r [water] &cf660&r/&cf6619&r &cf31rl&cfff &caaaneed armor health
+(andeh): >&cf00and &cf00[&cf55water&cf00] lost&r &cf551&r
+(andeh): >&cf00and &cf00[&cf55water&cf00] lost&r &cf551&r
+(andeh): >&cf00and &cf00[&cf55water&cf00] lost&r &cf551&r
+no weapon
+(eff.........axe): >&cc93eff:&cfff y150/100 &cf60rl&cfff:20 [high] 
+(eff.........axe): >&cc93eff:&cfff y150/100 &cf60rl&cfff:20 [high] 
+(trl.........axe): > &c000 trl&cfff [low-button] 0/100 sg 
+(eff.........axe): >&cc93eff:&cfff y150/100 &cf60rl&cfff:20 [high] 
+(eff.........axe): >&cc93eff:&cfff y150/100 &cf60rl&cfff:20 [high] 
+[7] minutes remaining
+Team [=s=] leads by 55 frags
+(tim.........axe): > &cf93 tim&cfff [secret] r&cf6635&cfff/100 &cf60rl&cfff 
+(goblin): >  &ca33gob&r [tele-high] &c991y&cfff&cfff150&r/&cfff100&r sg &caaa
+(andeh): >&cfffand &caaa[&c666big&caaa] took&r &cff0ya&cfff
+(lethalwiz): >&c599lwz:&cfff 0/-84 &cf60rl&cfff&cf31:8&cfff [tele-entry] 
+(goblin): >  &ca33gob&r [gl] &c991y&cfff&cfff150&r/&cfff200&r &c299gl&cfff &caaa
+(goblin): >  &ca33gob&r [tele-high] &c991y&cfff&cfff150&r/&cfff200&r &c299gl&cfff &caaa
+(lethalwiz): >&c599lwz:&cfff &cf00lost&cfff [tele] 1
+(goblin): >&c0f0gob &c0f0[&c5f5high-rl&c0f0] safe&r &c9f9&r
+(goblin): >&c0f0gob &c0f0[&c5f5high-rl&c0f0] safe&r &c9f9&r
+(goblin): >&c0f0gob &c0f0[&c5f5high-rl&c0f0] safe&r &c9f9&r
+(andeh): >&cf00and &cf00[&cf55ra-mega&cf00] lost&r &cf552&r
+(andeh): >&cf00and &cf00[&cf55ra-mega&cf00] lost&r &cf552&r
+(goblin): >&c0f0gob &c0f0[&c5f5high-rl&c0f0] safe&r &c9f9&r
+(mOlle): >  &c59cmol&r &c05fquad&cfff [secret] &cf660&r/&cfff100&r &cf31rl&cfff &caaaneed armor
+(goblin): >&c0f0gob &c0f0[&c5f5high-rl&c0f0] safe&r &c9f9&r
+(mOlle): >  &c59cmol&r &c05fquad&cfff [secret] &cf660&r/&cfff100&r &cf31rl&cfff &caaaneed armor
+(goblin): >&c0f0gob &c0f0[&c5f5high-rl&c0f0] safe&r &c9f9&r
+(andeh): >  &cd37and&r [tele] &cfff0&r/&cfff100&r sg &caaa
+(lethalwiz): >&c599lwz:&cfff &cf00lost&cfff [low-rl] 2
+(lethalwiz): >&c599lwz:&cfff &cf00lost&cfff [low-rl] 2
+(goblin): >&cfffgob &caaa[&c666high-rl&caaa] took&r &cf31rl&cfff
+(goblin): >  &ca33gob&r [quad] &c991y&cfff&cfff150&r/&cfff187&r &cf31rl&cfff &caaa
+(lethalwiz): >&c599lwz:&cfff &c991y&cfff150/84 sg [tele-high] rox:35 
+(mOlle): >&c1ff>&r &cf2aPACK&r &c777at&r [path-lift]
+Quad Damage is wearing off
+(goblin): >  &ca33gob&r [quad-low] &c991y&cfff&cfff150&r/&cfff182&r &cf31rl&cfff &caaa
+(andeh): >&cfa1and &cfa6[&cfa9big&cfa6] coming&r &c991y&cfff&cfa6150/100&r 
+(andeh): >&cfa1and &cfa6[&cfa9big&cfa6] coming&r &c991y&cfff&cfa6150/100&r 
+(andeh): >&cfa1and &cfa6[&cfa9big&cfa6] coming&r &c991y&cfff&cfa6150/100&r 
+(andeh): >&cfa1and &cfa6[&cfa9big-button&cfa6] coming&r &c991y&cfff&cfa6150/100&r 
+[6] minutes remaining
+Team [=s=] leads by 46 frags
+(mOlle): >&cf0fmol &cf5f[&cffflow-rl&cf5f] dropped&r &cf0frl-pack&r
+(mOlle): >&cf0fmol &cf5f[&cffflow-rl&cf5f] dropped&r &cf0frl-pack&r
+no weapon
+(andeh): >&cf00and &cf00[&cf55low-rl&cf00] lost&r &cf551&r
+(andeh): >&cf00and &cf00[&cf55low-rl&cf00] lost&r &cf551&r
+(lethalwiz): >&c599lwz:&cfff &cf00lost&cfff [high-rl] 1
+(goblin): >  &ca33gob&r [tele] &c991y&cfff&cf6630&r/&cfff99&r &cf31rl&cfff &caaaneed armor
+(lethalwiz): >&c599lwz:&cfff &cf00lost&cfff [high-rl] 1
+(lethalwiz): >&c599lwz:&cfff &cf00lost&cfff [high-rl] 1
+(goblin): >  &ca33gob&r [tele] &c991y&cfff&cf6630&r/&cfff100&r &cf31rl&cfff &caaaneed armor
+(andeh): >  &cd37and&r [quad-low] &c991y&cfff&cfff142&r/&cfff100&r sg &caaa
+(andeh): >  &cd37and&r [quad-low] &c991y&cfff&cfff142&r/&cfff100&r sg &caaa
+(andeh): >  &cd37and&r [quad-low] &c991y&cfff&cfff142&r/&cfff100&r sg &caaa
+(goblin): >  &ca33gob&r [tele-high] &c991y&cfff&cfff135&r/&cfff75&r &cf31rl&cfff &caaa
+(goblin): >&c1ff>&r &cf2aPACK&r &c777at&r [high-rl]
+(goblin): >  &ca33gob&r [quad-way] &c991y&cfff&cfff135&r/&cfff75&r &cf31rl&cfff &caaa
+(lethalwiz): >&c599lwz:&cfff 0/52 sg [high-rl] rox:10 
+(goblin): >  &c05fgob&r __ &c05fteam quad typ&r __
+(goblin): >  &c05fgob&r __ &c05fteam quad typ&r __
+(lethalwiz): >&c599lwz:&cfff 0/-22 &cf60rl&cfff&cf31:52&cfff [low-rl] 
+(goblin): >  &ca33gob&r &c05fquad&cfff [quad-low] &c991y&cfff&cfff109&r/&cfff100&r &cf31rl&cfff &caaa
+(andeh): >  &cd37and&r [gl] &c991y&cfff&cfff108&r/&cfff182&r &c299gl&cfff &caaa
+(lethalwiz): >&c599lwz:&cfff &cf00lost&cfff [ra-mega] 1
+(lethalwiz): >&c599lwz:&cfff &cf00lost&cfff [ra-mega] 1
+(andeh): >  &cd37and&r [gl] &c991y&cfff&cfff108&r/&cfff182&r &c299gl&cfff &caaa
+(goblin): >  &ca33gob&r &c05fquad&cfff [low-rl] &c991y&cfff&cf6625&r/&cfff81&r &cf31rl&cfff &caaaneed armor
+(goblin): >  &ca33gob&r &c05fquad&cfff [secret] &c991y&cfff&cf6625&r/&cfff81&r &cf31rl&cfff &caaaneed armor
+(goblin): >&cfffgob &caaa[&c666secret&caaa] took&r &ce00ra&cfff
+(andeh): >  &cd37and&r [tele] &cfff0&r/&cfff100&r sg &caaa
+(lethalwiz): >&c599lwz:&cfff &cf00lost&cfff [big-button] 3
+(lethalwiz): >&c599lwz:&cfff &cf00lost&cfff [big-button] 3
+(lethalwiz): >&c599lwz:&cfff &cf00lost&cfff [big-button] 3
+(andeh): >  &cd37and&r [tele-high] &cfff0&r/&cfff100&r sg &caaa
+(lethalwiz): >&c599lwz:&cfff 0/100 sg [big-stairs] rox:10 
+(andeh): >&cf00and &cf00[&cf55high-rl&cf00] lost&r &cf552&r
+(andeh): >&cf00and &cf00[&cf55high-rl&cf00] lost&r &cf552&r
+(andeh): >&cf00and &cf00[&cf55high-rl&cf00] lost&r &cf552&r
+(andeh): >&cf00and &cf00[&cf55high-rl&cf00] lost&r &cf552&r
+(goblin): >  &ca33gob&r &c05fquad&cfff [ra-mega] &c931r&cfff&cfff200&r/&cfff100&r &cf31rl&cfff &caaa
+Quad Damage is wearing off
+(andeh): >&cfffand &caaa[&c666tele-ya&caaa] took&r &cff0ya&cfff
+(andeh): >&cfffand &caaa[&c666tele-ya&caaa] took&r &cff0ya&cfff
+(goblin): >&cf0fgob &cf5f[&cfffquad-way&cf5f] dropped&r &cf0frl-pack&r
+(goblin): >&cf0fgob &cf5f[&cfffquad-way&cf5f] dropped&r &cf0frl-pack&r
+(goblin): >&cf0fgob &cf5f[&cfffquad-way&cf5f] dropped&r &cf0frl-pack&r
+no weapon
+(eff.........axe): >&cc93eff:&cfff __ &cf39pack&cfff at [quad]
+[5] minutes remaining
+Team [=s=] leads by 47 frags
+(trl.........axe): > &c000 trl&cfff [tele] &cf660&cfff/100 &cf60rl&cfff 
+(trl.........axe): > &c000 trl&cfff [tele-ya] &cf660&cfff/100 &cf60rl&cfff 
+(trl.........axe): > &c000 trl&cfff [tele-high] &cf660&cfff/&cf6632&cfff &cf60rl&cfff 
+(tim.........axe): > &cf93 tim&cfff [quad] y131/123 &cf60rl&cfff 
+(eff.........axe): >&cc93eff:&cfff took &cff0ya&cfff [tele]
+(eff.........axe): >&cc93eff:&cfff y150/80 &cf60rl&cfff:14 [quad-way] 
+(pre.........axe): > &c666 pre&cfff [quad-way] r200/100 &cf60rl&cfff 
+(trl.........axe): > &c000 trl&cfff took &cf00ra&cfff [secret]
+(trl.........axe): > &c000 trl&cfff took &cf00ra&cfff [secret]
+(eff.........axe): >&cc93eff:&cfff y124/100 &cf60rl&cfff:14 [water] 
+(pre.........axe): > &c666 pre&cfff [path-lift] r&cf6654&cfff/100 &cf60rl&cfff&cf66:1&cfff &c05fquad&cfff
+(tim.........axe): > &cf93 tim&cfff __ rox at [tele]
+(trl.........axe): >&c0f0  trl safe [ng]&cfff &cf60rl&cfff 
+(trl.........axe): >&c0f0  trl safe [ng]&cfff &cf60rl&cfff 
+Quad Damage is wearing off
+[4] minutes remaining
+Team [=s=] leads by 36 frags
+(tim.........axe): > &cf60 tim coming [tele]&cfff 
+(eff.........axe): >&cc93eff:&cfff y&cf6632&cfff/96 &cf60rl&cfff:6 [tele] 
+(tim.........axe): > &cf93 tim&cfff __ &cf39pack&cfff at [quad]
+(eff.........axe): >&cc93eff:&cfff y150/100 &cf60rl&cfff:15 [quad] 
+(eff.........axe): >&cc93eff:&cfff y150/100 &cf60rl&cfff:15 [quad] 
+(trl.........axe): > &c000 trl&cfff [big] &cf660&cfff/&cf6623&cfff &cf60rl&cfff 
+(eff.........axe): >&cc93eff:&cfff took rl [low]
+(eff.........axe): >&cc93eff:&cfff y95/82 &cf60rl&cfff:8 [secret] &c03Fq&cfff
+(eff.........axe): >&cc93eff:&cfff y95/82 &cf60rl&cfff:8 [secret] &c03Fq&cfff
+(tim.........axe): >&cf00  tim lost [tele] 1
+(trl.........axe): > &c000 trl&cfff [tele] 0/100 sg 
+Quad Damage is wearing off
+(trl.........axe): > &c000 trl&cfff [tele-high] y150/100 sg 
+[3] minutes remaining
+Team [=s=] leads by 36 frags
+(trl.........axe): >&cf00  trl lost [quad-way] 1
+(eff.........axe): >&cc93eff:&cfff y&cf6629&cfff/&cf6638&cfff &cf60rl&cfff:5 [secret] 
+(eff.........axe): >&cc93eff:&cfff took &cf00ra&cfff [secret]
+(tim.........axe): >&cf00  tim lost [ra-mega] 2
+(tim.........axe): > &cf93 tim&cfff took &cff0ya&cfff [tele]
+(tim.........axe): > &cf93 tim&cfff [high] y150/100 &cf60rl&cfff 
+(trl.........axe): > &c000 trl&cfff [tele] 0/100 sg 
+(trl.........axe): > &cf60 trl coming [tele]&cfff 
+(goblin): >  &ca33gob&r [ra-mega] &c931r&cfff&cfff200&r/&cf6622&r &cf31rl&cfff &caaaneed health
+(goblin): >  &ca33gob&r [ra-mega] &c931r&cfff&cfff200&r/&cf6622&r &cf31rl&cfff &caaaneed health
+(trl.........axe): >&cf00  trl lost [ra-mega] 1
+(trl.........axe): > &c000 trl&cfff [tele-high] 0/100 sg 
+(trl.........axe): > &c000 trl&cfff [quad-button] 0/95 sg 
+(eff.........axe): >&cc93eff:&cfff took &cf00ra&cfff [secret]
+Quad Damage is wearing off
+[2] minutes remaining
+Team [=s=] leads by 32 frags
+(eff.........axe): >&cc93eff:&cfff r121/25 sg [floating] 
+(trl.........axe): > &c000 trl&cfff [floating] &cf660&cfff/56 &cf60rl&cfff 
+(tim.........axe): > &cf93 tim&cfff [secret] y&cf6615&cfff/77 &cf60rl&cfff 
+(trl.........axe): > &c000 trl&cfff [tele-ya] y82/100 &cf60rl&cfff 
+(trl.........axe): >&c0f0  trl safe [tele-ya]&cfff &cf60rl&cfff 
+(trl.........axe): >&c0f0  trl safe [tele-ya]&cfff &cf60rl&cfff 
+(trl.........axe): > &c000 trl&cfff [tele-ya] y&cf6644&cfff/77 &cf60rl&cfff 
+(tim.........axe): > &cf93 tim&cfff took &cf00ra&cfff [secret]
+Quad Damage is wearing off
+[1] minute remaining
+Team [=s=] leads by 23 frags
+(tim.........axe): > &cf93 tim&cfff [tele] 0/73 sg 
+[30] seconds
+(pre.........axe): >&cf39  pre pack left at [quad-low] 1
+no weapon
+(lethalwiz): >&c599lwz:&cfff 0/-32 &cf60rl&cfff&cf31:0&cfff [quad-low] 
+(lethalwiz): >&c599lwz:&cfff 0/-32 &cf60rl&cfff&cf31:0&cfff [quad-low] 
+[15] seconds
+[10] seconds
+[9] seconds
+[8] seconds
+[7] seconds
+[6] seconds
+[5] seconds
+[4] seconds
+[3] seconds
+[2] seconds
+[1] second
+The match is over
+trigger "onmatchover" has no matching alias
+
+____________________
+:
+___________________Frags (rank) friendkills . efficiency
+Team [=s=]:
+__________
+_ andeh:
+  59 (18) 1 59.0%
+Wp: rl49.1% gl5.6% sg38.8% ssg53.6%
+RL skill: ad:157.1 dh:22
+Armr&mhs: ga:0 ya:17 ra:15 mh:7
+Powerups: Q:7 P:0 R:0
+      RL: Took:11 Killed:8 Dropped:5
+  Damage: Tkn:8925 Gvn:9748 EWep:3453 Tm:197 Self:1069 ToDie:217
+    Time: Quad:191
+ Streaks: Frags:14 QuadRun:8
+  SpawnFrags: 9
+__________
+_ mOlle:
+  42 (-20) 3 40.4%
+Wp: rl54.8% sg39.7% ssg40.5%
+RL skill: ad:94.9 dh:8
+Armr&mhs: ga:0 ya:23 ra:3 mh:3
+Powerups: Q:2 P:0 R:0
+      RL: Took:8 Killed:5 Dropped:6 Xfer:1
+  Damage: Tkn:9418 Gvn:9234 EWep:3300 Tm:461 Self:421 ToDie:151
+    Time: Quad:60
+ Streaks: Frags:26 QuadRun:5
+  SpawnFrags: 4
+__________
+_ goblin:
+  43 (-11) 3 44.3%
+Wp: rl63.0% gl12.2% sg31.0% ssg20.0%
+RL skill: ad:90.1 dh:18
+Armr&mhs: ga:0 ya:11 ra:10 mh:7
+Powerups: Q:2 P:0 R:0
+      RL: Took:15 Killed:12 Dropped:10 Xfer:2
+  Damage: Tkn:8627 Gvn:7770 EWep:2794 Tm:371 Self:753 ToDie:159
+    Time: Quad:31
+ Streaks: Frags:9 QuadRun:2
+  SpawnFrags: 6
+__________
+_ lethalwiz:
+  47 (-3) 4 48.5%
+Wp: rl59.1% gl8.0% sg39.0% ssg43.6%
+RL skill: ad:90.3 dh:18
+Armr&mhs: ga:0 ya:15 ra:14 mh:7
+Powerups: Q:1 P:0 R:0
+      RL: Took:11 Killed:14 Dropped:9 Xfer:4
+  Damage: Tkn:9761 Gvn:10328 EWep:4288 Tm:471 Self:746 ToDie:195
+    Time: Quad:30
+ Streaks: Frags:24 QuadRun:6
+  SpawnFrags: 6
+
+Team [oeks]:
+__________
+_ tim.........axe:
+  51 (-8) 2 46.4%
+Wp: rl60.5% sg37.8% ssg41.1%
+RL skill: ad:104.6 dh:25
+Armr&mhs: ga:0 ya:11 ra:18 mh:5
+Powerups: Q:2 P:0 R:0
+      RL: Took:11 Killed:16 Dropped:6 Xfer:1
+  Damage: Tkn:10783 Gvn:10503 EWep:4892 Tm:168 Self:672 ToDie:182
+    Time: Quad:60
+ Streaks: Frags:16 QuadRun:6
+  SpawnFrags: 5
+__________
+_ pre.........axe:
+  60 (12) 1 55.6%
+Wp: rl60.0% gl4.5% sg22.8% ssg32.1%
+RL skill: ad:99.9 dh:31
+Armr&mhs: ga:0 ya:9 ra:18 mh:7
+Powerups: Q:3 P:0 R:0
+      RL: Took:12 Killed:10 Dropped:7 Xfer:1
+  Damage: Tkn:8851 Gvn:9112 EWep:2774 Tm:356 Self:1087 ToDie:184
+    Time: Quad:61
+ Streaks: Frags:19 QuadRun:4
+  SpawnFrags: 8
+__________
+_ trl.........axe:
+  29 (-52) 1 26.4%
+Wp: rl45.5% sg32.6% ssg56.0%
+RL skill: ad:88.0 dh:23
+Armr&mhs: ga:0 ya:8 ra:11 mh:2
+Powerups: Q:0 P:0 R:0
+      RL: Took:11 Killed:6 Dropped:9 Xfer:1
+  Damage: Tkn:10573 Gvn:8569 EWep:3766 Tm:48 Self:790 ToDie:130
+    Time: Quad:0
+ Streaks: Frags:6 QuadRun:0
+  SpawnFrags: 6
+__________
+_ eff.........axe:
+  36 (2) 3 51.4%
+Wp: rl48.9% gl19.4% sg35.9% ssg39.9%
+RL skill: ad:100.3 dh:22
+Armr&mhs: ga:0 ya:11 ra:11 mh:7
+Powerups: Q:3 P:0 R:0
+      RL: Took:10 Killed:6 Dropped:7 Xfer:3
+  Damage: Tkn:6873 Gvn:8547 EWep:2819 Tm:681 Self:826 ToDie:202
+    Time: Quad:65
+ Streaks: Frags:14 QuadRun:4
+  SpawnFrags: 4
+
+___________________[=s=] vs [oeks] match statistics:
+___________________
+weapons, powerups, armors&mhs, damage
+___________________[=s=]: Wp: rl66 gl7 sg37% ssg37%
+Powerups: Q:12 P:0 R:0
+Armr&mhs: ga:0 ya:66 ra:42 mh:24
+      RL: Took:45 Killed:39 Dropped:30 Xfer:7
+  Damage: Tkn:36731 Gvn:37080 EWep:13835 Tm:1500
+    Time: Quad:313
+[oeks]: Wp: rl101 gl6 sg32% ssg41%
+Powerups: Q:8 P:0 R:0
+Armr&mhs: ga:0 ya:39 ra:58 mh:21
+      RL: Took:44 Killed:38 Dropped:29 Xfer:6
+  Damage: Tkn:37080 Gvn:36731 EWep:14251 Tm:1253
+    Time: Quad:187
+___________________[dm2] top scorers:
+______________________________________
+      Frags: pre.........axe [60]
+     Deaths: trl.........axe [81]
+Friendkills: lethalwiz [4]
+ Efficiency: andeh [59.0%]
+ FragStreak: mOlle [26]
+    QuadRun: andeh [8]
+  RL Killer: tim.........axe [16]
+Boomsticker: mOlle [39.7%]
+   Survivor: andeh [217]
+Annihilator: tim.........axe [10503]
+
+______________________________________
+
+____________________
+: Team scores
+___________________[=s=]: 191 . 52.0%
+[oeks]: 176 . 48.0%
+___________________Statistics stored (matchtag not recognised)
+goblin: gg wp
+goblin dropped
+]/quit 
+Shutting down SDL audio.

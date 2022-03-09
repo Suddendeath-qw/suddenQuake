@@ -1,0 +1,834 @@
+Playing demo from 7.mvd
+
+
+_____________________________________
+
+_Claustrophobopolis
+andeh is ready [=s=]
+All players ready
+Timer started
+QiZmo: timer lag point disabled
+Server starts recording (memory): 4on4_s_vs_dc[dm2]220202-2035.mvd
+matchdate: 2022-02-02 20:35:21 UTC
+trigger "onmatchstart" has no matching alias
+The match has begun!
+(goblin): >&c599gob:&cfff coming [low-button] need armor weapon
+(lethalwiz): >&c599lwz:&cfff 0/100 [ng] 
+(airman.dc): >&c372 23 &cfff need armor/rl [tele]
+(sniegov.dc): >&ce00sni&cfff __ &ce00lost&cfff &ce00[&cfffquad.low&ce00]&cfff 2 
+(sniegov.dc): >&ce00sni&cfff __ &ce00lost&cfff &ce00[&cfffquad.low&ce00]&cfff 2 
+(pooll.dc): >&ca20poo&cfff  &cf60coming&cfff [secret]
+(sniegov.dc): >&ce00sni&cfff __ &ce00lost&cfff &ce00[&cfffra.mega/rox&ce00]&cfff 2 
+(sniegov.dc): >&ce00sni&cfff __ &ce00lost&cfff &ce00[&cfffra.mega/rox&ce00]&cfff 2 
+(pooll.dc): >&ca20poo&cfff  &ce0093&cfff/96 &cf13rl&cfff:1 [ng] &c05fquad&cfff
+(pooll.dc): >&ca20poo&cfff  &ce0077&cfff/100 &cf13rl&cfff:1 [tele] &c05fquad&cfff
+(airman.dc): >&c372 23 &cfff &cff070&cfff/4 sg [quad] &cf13r&cfff:20 
+(airman.dc): >&c372 23 &cfff &cff070&cfff/4 sg [quad] &cf13r&cfff:20 
+(grl.dc): >&cf0fGRL&cfff coming [quad.button]
+(grl.dc): >&cf0fGRL&cfff coming [quad.button]
+(airman.dc): >&c372 23 &cfff &cff070&cfff/4 sg [quad] &cf13r&cfff:20 
+(pooll.dc): >&ca20poo&cfff  &ce0077&cfff/100 &cf13rl&cfff:1 [tele] &c05fquad&cfff
+Quad Damage is wearing off
+(pooll.dc): >&ca20poo&cfff took &cf00ra&cfff [secret]
+(grl.dc): >&cf0fGRL&cfff &cf00lost&cfff &cf00[&cffftele.high&cf00]&cfff 2
+(grl.dc): >&cf0fGRL&cfff &cf00lost&cfff &cf00[&cffftele.high&cf00]&cfff 2
+(grl.dc): >&cf0fGRL&cfff &cf00lost&cfff &cf00[&cffftele.high&cf00]&cfff 2
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[ng]&cfff &cf60rl&cfff:7
+(pooll.dc): >&ca20poo&cfff  &ce00200&cfff/143 &cf13rl&cfff:37 [tele] 
+(airman.dc): >&c372 23 &cfff 0/100 sg [secret] 
+(airman.dc): >&c372 23 &cfff 0/100 sg [secret] 
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele.entry]&cfff &cf60rl&cfff:6
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele.entry]&cfff &cf60rl&cfff:6
+[19] minutes remaining
+Team [dc] leads by 11 frags
+(pooll.dc): >&ca20poo&cfff  &ce00170&cfff/125 &cf13rl&cfff:34 [quad.way] 
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[path]&cfff &cf60rl&cfff:1
+(grl.dc): >&cf0fGRL&cfff &cf00lost&cfff &cf00[&cffflow.stairs&cf00]&cfff 2
+(grl.dc): >&cf0fGRL&cfff &cf00lost&cfff &cf00[&cffflow.stairs&cf00]&cfff 2
+(pooll.dc): >&ca20poo&cfff  &c0b0team&cfff &c05fquad&cfff
+(pooll.dc): >&ca20poo&cfff  &c0b0team&cfff &c05fquad&cfff
+(airman.dc): >&c372 23 &cfff &cf00lost&cfff &cf00[&cffflow.stairs&cf00]&cfff 0
+(airman.dc): >&c372 23 &cfff &cf00lost&cfff &cf00[&cffflow.stairs&cf00]&cfff 0
+(airman.dc): >&c372 23 &cfff &cf00lost&cfff &cf00[&cffflow.stairs&cf00]&cfff 0
+(pooll.dc): >&ca20poo&cfff  &ce00170&cfff/115 &cf13rl&cfff:40 [ng] &c05fquad&cfff
+(airman.dc): >&c372 23 &cfff &cf00enemy&cfff at [tele]
+(sniegov.dc): >&cf0fsha&cfff    &cf60coming&cfff [tele]
+(airman.dc): >&c372 23 &cfff 0/24 sg [tele.ya] 
+(airman.dc): >&c372 23 &cfff 0/24 sg [tele.ya] 
+(airman.dc): >&c372 23 &cfff 0/24 sg [tele.ya] 
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[ng]&cfff &cf60rl&cfff:7
+(airman.dc): >&c372 23 &cfff 0/24 sg [tele.ya] 
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele.entry]&cfff &cf60rl&cfff:5
+(rio): >&c1ff>&r &r__&cf2aPACK&r__&r &c777at&r [low-stairs]
+(goblin): >&c599gob:&cfff &c991y&cfff83/157 &c299gl&cfff [gl] rox:15 
+(goblin): >&c599gob:&cfff &c991y&cfff31/116 &cf31rl&cfff&cf31:12&cfff [ng] 
+(andeh): >&cf00and &cf55[&cf99tele-entry&cf55] lost&r &cf553&r
+(andeh): >&cf00and &cf55[&cf99tele-entry&cf55] lost&r &cf553&r
+(andeh): >&cf00and &cf55[&cf99tele-entry&cf55] lost&r &cf553&r
+[18] minutes remaining
+Team [dc] leads by 6 frags
+(lethalwiz): >&c599lwz:&cfff 0/100 [ng] 
+(lethalwiz): >&c599lwz:&cfff &cf00lost&cfff [ng] 1
+(andeh): >&cf00and &cf55[&cf99low-rl&cf55] lost&r &cf551&r
+(andeh): >&cf00and &cf55[&cf99low-rl&cf55] lost&r &cf551&r
+(goblin): >&c599gob:&cfff &c931r&cfff128/88 &cf31rl&cfff&cf31:8&cfff [quad-high] 
+(rio): >&c1ff>&r &cf31rl&cfff &c777at&r [low-rl]
+(rio): >&c1ff>&r &cf31rl&cfff &c777at&r [low-rl]
+(lethalwiz): >&c599lwz:&cfff 0/-61 [quad-low] 
+(goblin): >&c599gob:&cfff &c0b0team&cfff &c05fquad&cfff
+(goblin): >&c599gob:&cfff &c0b0team&cfff &c05fquad&cfff
+(andeh): >&cfffand &caaa[&c666low-rl&caaa] took&r &cf31rl&cfff
+(lethalwiz): >&c599lwz:&cfff 0/-1 [tele-ya] 
+(andeh): >&cfffand &caaa[&c666low-rl&caaa] took&r {&r__&cf2aPACK&r__&
+(goblin): >&c599gob:&cfff &cf2apack&cfff at [ng]
+(goblin): >&c599gob:&cfff &cf2apack&cfff at [ng]
+(goblin): >&c599gob:&cfff &cf2apack&cfff at [quad-low]
+(andeh): >  &cd37and&r [secret] &cf660&r/&cfff54&r &cf31rl&cfff&cf66:3&r &caaaneed armor
+(andeh): >&cfffand &caaa[&c666secret&caaa] took&r &ce00ra&cfff
+(goblin): >&c599gob:&cfff &c991y&cfff147/61 &cf31rl&cfff&cf31:36&cfff [floating] &c05fquad&cfff
+(lethalwiz): >&c599lwz:&cfff &cf00lost&cfff [tele-high] 1
+(andeh): >&cfffand &caaa[&c666ng&caaa] took&r {&r__&cf2aPACK&r__&
+(andeh): >  &cd37and&r [ng] &c931r&cfff&cfff163&r/&cfff71&r &cf31rl&cfff &caaa
+(rio): >&c1ff>&r   &c777at&r [low-rl]
+(goblin): >&c599gob:&cfff took &cff0ya&cfff [tele-ya]
+(andeh): >  &cd37and&r [path] &c931r&cfff&cfff163&r/&cfff100&r &cf31rl&cfff &caaa
+(goblin): >&c599gob:&cfff &c991y&cfff150/100 [tele-high] 
+(rio): >  &c353rio&r [low-rl] &c931r&cfff&cfff112&r/&cfff165&r &cf31rl&cfff &caaa
+(goblin): >&c599gob:&cfff &cf00lost&cfff [high-rl] 2
+(goblin): >&c599gob:&cfff &cf00lost&cfff [high-rl] 2
+[17] minutes remaining
+Team [=s=] leads by 7 frags
+(goblin): >&c599gob:&cfff 0/35 [ng] 
+(goblin): >&c599gob:&cfff andeh at [tele]
+(andeh): >&cfffand &caaa[&c666tele-ya&caaa] took&r &cff0ya&cfff
+(andeh): >  &cd37and&r [tele-high] &c991y&cfff&cfff150&r/&cfff85&r &cf31rl&cfff &caaa
+(goblin): >&c599gob:&cfff 0/35 [quad-way] 
+(goblin): >&c599gob:&cfff 0/35 [quad-way] 
+(lethalwiz): >&c599lwz:&cfff &c931r&cfff200/100 &cf60rl&cfff&cf31:48&cfff [water] 
+(andeh): >  &cd37and&r [quad] &c991y&cfff&cfff150&r/&cfff85&r &cf31rl&cfff &caaa
+(lethalwiz): >&c599lwz:&cfff &c05fquad&cfff at [quad]
+(andeh): >&cfffand &caaa[&c666high-rl&caaa] took&r {&r__&cf2aPACK&r__&
+(andeh): >  &c05fand&r __ &c05fteam quad typ&r __
+[16] minutes remaining
+Team [=s=] leads by 25 frags
+(andeh): >&cfffand &caaa[&c666secret&caaa] took&r &ce00ra&cfff
+(goblin): >&c599gob:&cfff &c931r&cfff95/100 &cf31rl&cfff&cf31:22&cfff [quad-low] 
+(andeh): >  &cd37and&r [ng] &c931r&cfff&cfff200&r/&cfff84&r &cf31rl&cfff &caaa
+(goblin): >&c599gob:&cfff &c931r&cfff95/100 &cf31rl&cfff&cf31:22&cfff [quad-low] 
+(andeh): >&cfa1and &cfa6[&cfa9ng&cfa6] coming&r &c931r&cfff&cfa6200/84&r &cf31rl&cfff
+(andeh): >  &c05fand&r __ &c05fteam quad typ&r __
+(lethalwiz): >&c599lwz:&cfff &c931r&cfff60/83 &cf60rl&cfff&cf31:41&cfff [high-rl] 
+(goblin): >&c599gob:&cfff &c931r&cfff15/85 &cf31rl&cfff&cf31:18&cfff [secret] 
+(goblin): >&c599gob:&cfff &c931r&cfff15/85 &cf31rl&cfff&cf31:18&cfff [secret] 
+(andeh): >&cfffand &caaa[&c666low-rl&caaa] took&r {&r__&cf2aPACK&r__&
+(goblin): >&c599gob:&cfff took &ce00ra&cfff [secret]
+(rio): >  &c353rio&r [tele-high] &c991y&cfff&cfff95&r/&cfff67&r sg &caaa
+(goblin): >&c599gob:&cfff &c931r&cfff200/85 &cf31rl&cfff&cf31:17&cfff [ng] 
+(lethalwiz): >&c599lwz:&cfff &cf00dropped&cfff &cf60rl&cfff [quad-way] 2
+(lethalwiz): >&c599lwz:&cfff &cf00dropped&cfff &cf60rl&cfff [quad-way] 2
+(lethalwiz): >&c599lwz:&cfff &cf00dropped&cfff &cf60rl&cfff [quad-way] 2
+Quad Damage is wearing off
+(rio): >&c1ff>&r   &c777at&r [quad-low]
+(andeh): >  &cd37and&r &c05fquad&cfff [secret] &cf660&r/&cfff57&r &cf31rl&cfff &caaaneed armor
+(goblin): >&c599gob:&cfff &c931r&cfff160/100 &cf31rl&cfff&cf31:15&cfff [ng] 
+(andeh): >  &cd37and&r &c05fquad&cfff [secret] &cf660&r/&cfff57&r &cf31rl&cfff &caaaneed armor
+(andeh): >  &cd37and&r [secret] &cf660&r/&cfff57&r &cf31rl&cfff &caaaneed armor
+(rio): >  &c353rio&r [high-rl] &c991y&cfff&cfff150&r/&cfff100&r sg &caaa
+(andeh): >&cfffand &caaa[&c666secret&caaa] took&r &ce00ra&cfff
+(goblin): >&c599gob:&cfff &cf00lost&cfff [tele-high] 1
+(goblin): >&c599gob:&cfff &cf00lost&cfff [tele-high] 1
+(lethalwiz): >&c599lwz:&cfff 0/-29 &cf60rl&cfff&cf31:72&cfff [floating] 
+(lethalwiz): >&c599lwz:&cfff 0/100 [low-button] 
+[15] minutes remaining
+Team [=s=] leads by 38 frags
+(goblin): >&c599gob:&cfff 0/100 [ra-mega] 
+(lethalwiz): >&c599lwz:&cfff 0/96 [tele] 
+(lethalwiz): >&c599lwz:&cfff &cf00lost&cfff [tele-high] 1
+(goblin): >&c599gob:&cfff &c991y&cfff150/100 [big] 
+(andeh): >&cf00and &cf55[&cf99quad-low&cf55] lost&r &cf551&r
+(andeh): >&cf00and &cf55[&cf99quad-low&cf55] lost&r &cf551&r
+(goblin): >&c599gob:&cfff &c991y&cfff65/43 sg [quad-low] rox:25 
+(lethalwiz): >&c599lwz:&cfff &cf00lost&cfff [low-rl] 1
+(lethalwiz): >&c599lwz:&cfff &cf00lost&cfff [low-rl] 1
+(lethalwiz): >&c599lwz:&cfff &cf00lost&cfff [low-rl] 1
+(rio): >  &c353rio&r &c05fquad&cfff [ng] &c991y&cfff&cf6650&r/&cf6636&r &cf31rl&cfff&cf66:4&r &caaaneed armor health
+(lethalwiz): >&c599lwz:&cfff 0/100 sg [tele] rox:10 
+(rio): >&cf00rio &cf55[&cf99path&cf55] lost&r &cf00(dropped rl-pack)&r
+(rio): >&cf00rio &cf55[&cf99path&cf55] lost&r &cf00(dropped rl-pack)&r
+(airman.dc): >&c372 23 &cfff &cf00enemy&cfff at [ng]
+(airman.dc): >&c372 23 &cfff &cf00enemy&cfff at [ng]
+(pooll.dc): >&ca20poo&cfff  &cf60coming&cfff [path.lift]
+(airman.dc): >&c372 23 &cfff &cf2apack&cfff at [path]
+(airman.dc): >&c372 23 &cfff &cf2apack&cfff at [path]
+(airman.dc): >&c372 23 &cfff &cf2apack&cfff at [path]
+(pooll.dc): >&ca20poo&cfff took &cf2apack&cfff [path]
+(grl.dc): >&cf0fGRL&cfff coming [quad.low]
+(grl.dc): >&cf0fGRL&cfff coming [quad.low]
+(pooll.dc): >&ca20poo&cfff  0/100 &cf13rl&cfff:70 [secret] 
+(pooll.dc): >&ca20poo&cfff  0/100 &cf13rl&cfff:70 [secret] 
+(airman.dc): >&c372 23 &cfff &ce0051&cfff/87 &cf13rl&cfff:10 [tele.entry] 
+(airman.dc): >&c372 23 &cfff &ce0051&cfff/100 &cf13rl&cfff:10 [tele.ya] 
+(sniegov.dc): >&ce00sni&cfff __ &ce00lost&cfff &ce00[&cfffpath.lift&ce00]&cfff 2 
+(airman.dc): >&c372 23 &cfff &ce0051&cfff/100 &cf13rl&cfff:10 [tele.ya] 
+(airman.dc): >&c372 23 &cfff &ce0051&cfff/100 &cf13rl&cfff:10 [tele.ya] 
+(airman.dc): >&c372 23 &cfff &ce0051&cfff/100 &cf13rl&cfff:10 [tele.ya] 
+(airman.dc): >&c372 23 &cfff &ce0051&cfff/100 &cf13rl&cfff:10 [tele.ya] 
+(airman.dc): >&c372 23 &cfff &ce0051&cfff/100 &cf13rl&cfff:10 [tele.ya] 
+(grl.dc): >&cf0fGRL&cfff coming [quad.button]
+(grl.dc): >&cf0fGRL&cfff coming [quad.button]
+(airman.dc): >&c372 23 &cfff &cff0150&cfff/63 &cf13rl&cfff:7 [tele.ya] 
+(sniegov.dc): >&cf0fsha&cfff    &cf60coming&cfff [tele]
+(airman.dc): >&c372 23 &cfff &cff0150&cfff/100 &cf13rl&cfff:16 [quad.way] 
+(airman.dc): >&c372 23 &cfff &cff0150&cfff/100 &cf13rl&cfff:16 [quad.way] 
+(airman.dc): >&c372 23 &cfff &cff0150&cfff/100 &cf13rl&cfff:16 [quad.way] 
+(grl.dc): >&cf0fGRL&cfff &cf00lost&cfff &cf00[&cffflow.rl&cf00]&cfff 3
+(grl.dc): >&cf0fGRL&cfff &cf00lost&cfff &cf00[&cffflow.rl&cf00]&cfff 3
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[high.rl]&cfff sg:19
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[high.rl]&cfff sg:19
+(sniegov.dc): >&ce00sni&cfff __ &ce00lost&cfff &ce00[&cfffhigh.rl&ce00]&cfff 1 
+(sniegov.dc): >&ce00sni&cfff __ &ce00lost&cfff &ce00[&cfffhigh.rl&ce00]&cfff 1 
+(sniegov.dc): >&ce00sni&cfff __ &ce00lost&cfff &ce00[&cfffhigh.rl&ce00]&cfff 1 
+(sniegov.dc): >&ce00sni&cfff __ &ce00lost&cfff &ce00[&cfffhigh.rl&ce00]&cfff 1 
+(sniegov.dc): >&ce00sni&cfff __ &ce00lost&cfff &ce00[&cfffhigh.rl&ce00]&cfff 1 
+[14] minutes remaining
+Team [=s=] leads by 30 frags
+(grl.dc): >&cf0fGRL&cfff &cf00lost&cfff &cf00[&cfffbig&cf00]&cfff 1
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele.high]&cfff ng:30
+(airman.dc): >&c372 23 &cfff &cff03&cfff/53 &cf13rl&cfff:15 [path] 
+(airman.dc): >&c372 23 &cfff &cff03&cfff/53 &cf13rl&cfff:15 [path] 
+(airman.dc): >&c372 23 &cfff &cff03&cfff/53 &cf13rl&cfff:15 [path] 
+(airman.dc): >&c372 23 &cfff &cff03&cfff/53 &cf13rl&cfff:15 [path] 
+(airman.dc): >&c372 23 &cfff &cff03&cfff/53 &cf13rl&cfff:15 [path] 
+(airman.dc): >&c372 23 &cfff &cff03&cfff/53 &cf13rl&cfff:15 [path] 
+(grl.dc): >&cf0fGRL&cfff &cf00lost&cfff &cf00[&cfffra.mega&cf00]&cfff 2
+(pooll.dc): >&ca20poo&cfff  &c0b0team&cfff &c05fquad&cfff
+(pooll.dc): >&ca20poo&cfff  &c0b0team&cfff &c05fquad&cfff
+(grl.dc): >&cf0fGRL&cfff coming [tele]
+(grl.dc): >&cf0fGRL&cfff coming [tele]
+(pooll.dc): >&ca20poo&cfff  &ce00153&cfff/100 &cf13rl&cfff:46 [quad.low] &c05fquad&cfff
+(grl.dc): >&cf0fGRL&cfff waiting [tele.ya]
+(grl.dc): >&cf0fGRL&cfff waiting [tele.ya]
+(grl.dc): >&cf0fGRL&cfff waiting [tele.ya]
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[quad.low]&cfff &cf60rl&cfff:36
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele.entry]&cfff &cf60rl&cfff:36
+(pooll.dc): >&ca20poo&cfff  &ce0031&cfff/100 &cf13rl&cfff:64 [ng] &c05fquad&cfff
+(airman.dc): >&c372 23 &cfff &c0b0safe&cfff &c0b0[&cfffsecret&c0b0]&cfff &ce00200&cfff / &cf13rl&cfff
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele.entry]&cfff &cf60rl&cfff:35
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele.entry]&cfff &cf60rl&cfff:35
+Quad Damage is wearing off
+(airman.dc): >&c372 23 &cfff &cf2apack&cfff at [ng]
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele.entry]&cfff &cf60rl&cfff:35
+(pooll.dc): >&ca20poo&cfff  &cff0150&cfff/100 &cf13rl&cfff:62 [ng] &c05fquad&cfff
+(airman.dc): >&c372 23 &cfff &ce00200&cfff/68 &cf13rl&cfff:5 [tele.high] 
+(airman.dc): >&c372 23 &cfff &ce00200&cfff/68 &cf13rl&cfff:5 [tele.high] 
+(airman.dc): >&c372 23 &cfff &ce00200&cfff/68 &cf13rl&cfff:5 [tele.high] 
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele.entry]&cfff &cf60rl&cfff:35
+(airman.dc): >&c372 23 &cfff &ce00200&cfff/68 &cf13rl&cfff:5 [tele.high] 
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele]&cfff &cf60rl&cfff:33
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele.entry]&cfff &cf60rl&cfff:31
+(pooll.dc): >&ca20poo&cfff  &cf00lost&cfff &cf00[&cfffra.mega&cf00]&cfff 2
+(pooll.dc): >&ca20poo&cfff  &cf00lost&cfff &cf00[&cfffra.mega&cf00]&cfff 2
+[13] minutes remaining
+Team [=s=] leads by 23 frags
+(pooll.dc): >&ca20poo&cfff  0/100 sg [quad.low] 
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele]&cfff &cf60rl&cfff:26
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele]&cfff &cf60rl&cfff:26
+(pooll.dc): >&ca20poo&cfff   &cf2apack&cfff at [ng]
+(pooll.dc): >&ca20poo&cfff   &cf2apack&cfff at [ng]
+(airman.dc): >&c372 23 &cfff 0/96 sg [secret] 
+(airman.dc): >&c372 23 &cfff 0/96 sg [secret] 
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele]&cfff &cf60rl&cfff:24
+(airman.dc): >&c372 23 &cfff &c05fquad&cfff at [quad]
+(airman.dc): >&c372 23 &cfff &ce00200&cfff/100 sg [high.rl] &cf13r&cfff:26 
+(airman.dc): >&c372 23 &cfff &ce00200&cfff/100 sg [high.rl] &cf13r&cfff:26 
+(pooll.dc): >&ca20poo&cfff  0/77 &cf13rl&cfff:58 [tele] 
+(airman.dc): >&c372 23 &cfff &ce00200&cfff/100 sg [high.rl] &cf13r&cfff:31 
+(airman.dc): >&c372 23 &cfff &ce00200&cfff/100 sg [high.rl] &cf13r&cfff:31 
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele.entry]&cfff &cf60rl&cfff:24
+(grl.dc): >&cf0fGRL&cfff quad over &cf00[&cffflow.rl&cf00]&cfff 3
+(grl.dc): >&cf0fGRL&cfff quad over &cf00[&cffflow.rl&cf00]&cfff 3
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele.entry]&cfff &cf60rl&cfff:21
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele.entry]&cfff &cf60rl&cfff:21
+(grl.dc): >&cf0fGRL&cfff &cf00lost&cfff &cf00[&cffflow.rl&cf00]&cfff 4
+(grl.dc): >&cf0fGRL&cfff &cf00lost&cfff &cf00[&cffflow.rl&cf00]&cfff 4
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele.entry]&cfff &cf60rl&cfff:21
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele.entry]&cfff &cf60rl&cfff:19
+(grl.dc): >&cf0fGRL&cfff &cf00lost&cfff &cf00[&cfffra.mega&cf00]&cfff 1
+(grl.dc): >&cf0fGRL&cfff &cf00lost&cfff &cf00[&cfffra.mega&cf00]&cfff 1
+(airman.dc): >&c372 23 &cfff need health [ng]
+(grl.dc): >&cf0fGRL&cfff &cf00lost&cfff &cf00[&cffflow.rl&cf00]&cfff 2
+(grl.dc): >&cf0fGRL&cfff &cf00lost&cfff &cf00[&cffflow.rl&cf00]&cfff 2
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele.entry]&cfff &cf60rl&cfff:16
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele]&cfff &cf60rl&cfff:24
+[12] minutes remaining
+Team [=s=] leads by 10 frags
+(pooll.dc): >&ca20poo&cfff  &ce00190&cfff/25 &cf13rl&cfff:51 [ra.mega] 
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele]&cfff &cf60rl&cfff:21
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele]&cfff &cf60rl&cfff:21
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele]&cfff &cf60rl&cfff:21
+(airman.dc): >&c372 23 &cfff &ce00134&cfff/91 &cf13rl&cfff:46 [ng] 
+(grl.dc): >&cf0fGRL&cfff coming [big.stairs]
+(grl.dc): >&cf0fGRL&cfff coming [big.stairs]
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele.entry]&cfff &cf60rl&cfff:21
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele.entry]&cfff &cf60rl&cfff:20
+(pooll.dc): >&ca20poo&cfff  0/98 &cf13rl&cfff:45 [tele] 
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele.entry]&cfff &cf60rl&cfff:20
+(pooll.dc): >&ca20poo&cfff  &cff0150&cfff/98 &cf13rl&cfff:44 [tele.ya] 
+(airman.dc): >&c372 23 &cfff &c0b0safe&cfff &c0b0[&cfffquad&c0b0]&cfff &ce00164&cfff / &cf13rl&cfff
+(airman.dc): >&c372 23 &cfff &c0b0safe&cfff &c0b0[&cfffquad&c0b0]&cfff &ce00164&cfff / &cf13rl&cfff
+(airman.dc): >&c372 23 &cfff &c0b0safe&cfff &c0b0[&cfffquad&c0b0]&cfff &ce00164&cfff / &cf13rl&cfff
+(airman.dc): >&c372 23 &cfff &ce00164&cfff/100 &cf13rl&cfff:41 [quad] 
+(pooll.dc): >&ca20poo&cfff   &cf2apack&cfff at [quad.low]
+(airman.dc): >&c372 23 &cfff &ce00164&cfff/100 &cf13rl&cfff:41 [quad] 
+(airman.dc): >&c372 23 &cfff &ce00164&cfff/100 &cf13rl&cfff:41 [quad] 
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele.entry]&cfff &cf60rl&cfff:19
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele]&cfff &cf60rl&cfff:16
+(grl.dc): >&cf0fGRL&cfff coming [big]
+(grl.dc): >&cf0fGRL&cfff coming [big]
+(grl.dc): >&cf0fGRL&cfff coming [big]
+(grl.dc): >&cf0fGRL&cfff coming [big]
+(grl.dc): >&cf0fGRL&cfff coming [big.button]
+(grl.dc): >&cf0fGRL&cfff coming [big.button]
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele]&cfff &cf60rl&cfff:14
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele]&cfff &cf60rl&cfff:13
+Quad Damage is wearing off
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele]&cfff &cf60rl&cfff:11
+(pooll.dc): >&ca20poo&cfff took &cf00ra&cfff [secret]
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele]&cfff &cf60rl&cfff:20
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele.entry]&cfff &cf60rl&cfff:20
+[11] minutes remaining
+Team [dc] leads by 15 frags
+(airman.dc): >&c372 23 &cfff &cf2apack&cfff at [tele]
+(grl.dc): >&cf0fGRL&cfff coming [low.rl]
+(grl.dc): >&cf0fGRL&cfff coming [low.rl]
+(grl.dc): >&cf0fGRL&cfff &cf00lost&cfff &cf00[&cffflow.rl&cf00]&cfff 1
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele.entry]&cfff &cf60rl&cfff:14
+(pooll.dc): >&ca20poo&cfff   &cf00enemy&cfff at [low.rl]
+(airman.dc): >&c372 23 &cfff rox at [high.rl]
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele]&cfff &cf60rl&cfff:13
+(pooll.dc): >&ca20poo&cfff  &cf00lost&cfff &cf00[&cfffbig&cf00]&cfff 2
+(pooll.dc): >&ca20poo&cfff  &cf00lost&cfff &cf00[&cfffbig&cf00]&cfff 2
+(airman.dc): >&c372 23 &cfff &c0b0team&cfff &c05fquad&cfff
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele.ya]&cfff &cf60rl&cfff:13
+(grl.dc): >&cf0fGRL&cfff 0/100 &cf13rl&cfff:5 [high.rl]
+(grl.dc): >&cf0fGRL&cfff 0/100 &cf13rl&cfff:5 [high.rl]
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele.ya]&cfff &cf60rl&cfff:13
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele.ya]&cfff &cf60rl&cfff:13
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele.ya]&cfff &cf60rl&cfff:13
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele.ya]&cfff &cf60rl&cfff:13
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele.ya]&cfff &cf60rl&cfff:13
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele.ya]&cfff &cf60rl&cfff:13
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele.ya]&cfff &cf60rl&cfff:13
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele.ya]&cfff &cf60rl&cfff:13
+(grl.dc): >&cf0fGRL&cfff waiting [tele.high]
+(grl.dc): >&cf0fGRL&cfff waiting [tele.high]
+(pooll.dc): >&ca20poo&cfff  &cf60coming&cfff [ra.mega]
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele]&cfff &cf60rl&cfff:9
+(pooll.dc): >&ca20poo&cfff  &cf60coming&cfff [ra.mega]
+(pooll.dc): >&ca20poo&cfff  0/200 sg [ra.mega] 
+(pooll.dc): >&ca20poo&cfff took &cf2apack&cfff [low.rl]
+(pooll.dc): >&ca20poo&cfff  0/89 &cf13rl&cfff:8 [low.stairs] 
+(pooll.dc): >&ca20poo&cfff  0/89 &cf13rl&cfff:8 [low.stairs] 
+(airman.dc): >&c372 23 &cfff &cff014&cfff/82 &cf13rl&cfff:33 [secret] &c05fquad&cfff
+(airman.dc): >&c372 23 &cfff &cff014&cfff/82 &cf13rl&cfff:33 [secret] &c05fquad&cfff
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele]&cfff &cf60rl&cfff:12
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele]&cfff &cf60rl&cfff:11
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele]&cfff &cf60rl&cfff:8
+Quad Damage is wearing off
+(grl.dc): >&cf0fGRL&cfff coming [quad.low]
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele.entry]&cfff &cf60rl&cfff:7
+(airman.dc): >&c372 23 &cfff &ce00152&cfff/96 &cf13rl&cfff:26 [low.rl] 
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele]&cfff &cf60rl&cfff:7
+[10] minutes remaining
+Team [dc] leads by 44 frags
+(grl.dc): >&cf0fGRL&cfff &cf00lost&cfff &cf00[&cfffng&cf00]&cfff 1
+(grl.dc): >&cf0fGRL&cfff &cf00lost&cfff &cf00[&cfffng&cf00]&cfff 1
+(grl.dc): >&cf0fGRL&cfff &cf00lost&cfff &cf00[&cfffng&cf00]&cfff 1
+(grl.dc): >&cf0fGRL&cfff coming [big.stairs]
+(grl.dc): >&cf0fGRL&cfff coming [big.stairs]
+(airman.dc): >&c372 23 &cfff 0/68 &cf13rl&cfff:20 [secret] 
+(airman.dc): >&c372 23 &cfff 0/68 &cf13rl&cfff:20 [secret] 
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele.high]&cfff &cf60rl&cfff:16
+(airman.dc): >&c372 23 &cfff &ce00133&cfff/100 &cf13rl&cfff:17 [quad] 
+(airman.dc): >&c372 23 &cfff &ce00133&cfff/100 &cf13rl&cfff:17 [quad] 
+(airman.dc): >&c372 23 &cfff &ce005&cfff/93 &cf13rl&cfff:15 [quad] &c05fquad&cfff
+(sniegov.dc): >&cf0fsha&cfff &cff056&cfff/99 [tele.high] &cf60rl&cfff:29 
+(airman.dc): >&c372 23 &cfff &c0b0team&cfff &c05fquad&cfff [quad.low] need armor 
+(airman.dc): >&c372 23 &cfff &c0b0team&cfff &c05fquad&cfff [quad.low] need armor 
+(grl.dc): >&cf0fGRL&cfff coming [tele.high]
+(grl.dc): >&cf0fGRL&cfff coming [tele.high]
+(pooll.dc): >&ca20poo&cfff  0/35 &cf13rl&cfff:7 [ng] 
+(airman.dc): >&c372 23 &cfff 0/81 &cf13rl&cfff:11 [ng] &c05fquad&cfff
+(airman.dc): >&c372 23 &cfff 0/81 &cf13rl&cfff:11 [ng] &c05fquad&cfff
+(pooll.dc): >&ca20poo&cfff  0/85 &cf13rl&cfff:7 [ng] 
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele.entry]&cfff &cf60rl&cfff:29
+(airman.dc): >&c372 23 &cfff 0/81 &cf13rl&cfff:7 [secret] &c05fquad&cfff
+(airman.dc): >&c372 23 &cfff 0/81 &cf13rl&cfff:7 [secret] &c05fquad&cfff
+(airman.dc): >&c372 23 &cfff &c0b0safe&cfff &c0b0[&cfffsecret&c0b0]&cfff &cf13rl&cfff
+(airman.dc): >&c372 23 &cfff &c0b0safe&cfff &c0b0[&cfffsecret&c0b0]&cfff &cf13rl&cfff
+(airman.dc): >&c372 23 &cfff 0/81 &cf13rl&cfff:7 [secret] &c05fquad&cfff
+(airman.dc): >&c372 23 &cfff 0/81 &cf13rl&cfff:7 [secret] &c05fquad&cfff
+(grl.dc): >&cf0fGRL&cfff coming [ng]
+(grl.dc): >&cf0fGRL&cfff coming [ng]
+Quad Damage is wearing off
+[9] minutes remaining
+Team [dc] leads by 64 frags
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele.ya]&cfff &cf60rl&cfff:20
+(airman.dc): >&c372 23 &cfff 0/19 &cf13rl&cfff:7 [path.lift] 
+(airman.dc): >&c372 23 &cfff 0/19 &cf13rl&cfff:7 [path] 
+(airman.dc): >&c372 23 &cfff 0/19 &cf13rl&cfff:7 [path] 
+(airman.dc): >&c372 23 &cfff &cf00lost&cfff &cf00[&cfffpath.lift&cf00]&cfff 2
+(airman.dc): >&c372 23 &cfff &cf00lost&cfff &cf00[&cfffpath.lift&cf00]&cfff 2
+(airman.dc): >&c372 23 &cfff &cf00lost&cfff &cf00[&cfffpath.lift&cf00]&cfff 2
+(pooll.dc): >&ca20poo&cfff  &cff050&cfff/55 &cf13rl&cfff:1 [tele] 
+(grl.dc): >&cf0fGRL&cfff coming [quad.low]
+(grl.dc): >&cf0fGRL&cfff coming [quad.low]
+(grl.dc): >&cf0fGRL&cfff coming [quad.low]
+(grl.dc): >&cf0fGRL&cfff &c0b0safe&cfff &c0b0[&cffftele.entry&c0b0]&cfff &cff0119&cfff/&cf13rl&cfff
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele.entry]&cfff &cf60rl&cfff:13
+(airman.dc): >&c372 23 &cfff 0/100 sg [ra.mega] 
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele]&cfff &cf60rl&cfff:10
+(pooll.dc): >&ca20poo&cfff  &cf00lost&cfff &cf00[&cfffquad.low&cf00]&cfff 2
+(airman.dc): >&c372 23 &cfff &ce00200&cfff/200 sg [quad.button] 
+(airman.dc): >&c372 23 &cfff &ce00200&cfff/200 sg [quad.low] 
+(airman.dc): >&c372 23 &cfff &ce00200&cfff/200 sg [quad.low] 
+(airman.dc): >&c372 23 &cfff &ce00200&cfff/200 sg [quad.low] 
+(airman.dc): >&c372 23 &cfff &ce00200&cfff/199 sg [quad.low] 
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele.entry]&cfff &cf60rl&cfff:7
+(airman.dc): >&c372 23 &cfff &ce00200&cfff/199 sg [quad.low] 
+(airman.dc): >&c372 23 &cfff &ce00200&cfff/199 sg [quad.low] 
+(airman.dc): >&c372 23 &cfff &ce00200&cfff/198 sg [quad.low] 
+(airman.dc): >&c372 23 &cfff &ce00200&cfff/198 sg [quad.low] 
+(airman.dc): >&c372 23 &cfff &ce00200&cfff/198 sg [quad.low] 
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele.entry]&cfff &cf60rl&cfff:4
+(sniegov.dc): >&ce00sni&cfff __ &ce00lost&cfff &ce00[&cffftele&ce00]&cfff 1 
+(pooll.dc): >&ca20poo&cfff  &ce00200&cfff/100 sg [secret] 
+(sniegov.dc): >&ce00sni&cfff __ &ce00lost&cfff &ce00[&cffftele&ce00]&cfff 1 
+(sniegov.dc): >&ce00sni&cfff __ &ce00lost&cfff &ce00[&cffftele&ce00]&cfff 1 
+(sniegov.dc): >&ce00sni&cfff __ &ce00lost&cfff &ce00[&cffftele&ce00]&cfff 1 
+(sniegov.dc): >&ce00sni&cfff __ &ce00lost&cfff &ce00[&cffftele&ce00]&cfff 1 
+(pooll.dc): >&ca20poo&cfff  &cf00lost&cfff &cf00[&cffftele&cf00]&cfff 1
+(pooll.dc): >&ca20poo&cfff  &cf00lost&cfff &cf00[&cffftele&cf00]&cfff 1
+(airman.dc): >&c372 23 &cfff &cff0150&cfff/100 &cf13rl&cfff:14 [high.rl] 
+(airman.dc): >&c372 23 &cfff &cf13rl&cfff at [high.rl]
+(sniegov.dc): >&ce00sni&cfff __ &ce00lost&cfff &ce00[&cffflow.rl&ce00]&cfff 1 
+(sniegov.dc): >&ce00sni&cfff __ &ce00lost&cfff &ce00[&cffflow.rl&ce00]&cfff 1 
+(sniegov.dc): >&ce00sni&cfff __ &ce00lost&cfff &ce00[&cffflow.rl&ce00]&cfff 1 
+(sniegov.dc): >&ce00sni&cfff __ &ce00lost&cfff &ce00[&cffflow.rl&ce00]&cfff 1 
+(pooll.dc): >&ca20poo&cfff  &cf60coming&cfff [tele.entry]
+(pooll.dc): >&ca20poo&cfff  &cf60coming&cfff [tele.entry]
+(pooll.dc): >&ca20poo&cfff  0/100 ng [tele] 
+(airman.dc): >&c372 23 &cfff &cf00lost&cfff &cf00[&cfffhigh.rl&cf00]&cfff 3
+(airman.dc): >&c372 23 &cfff &cf00lost&cfff &cf00[&cfffhigh.rl&cf00]&cfff 3
+(airman.dc): >&c372 23 &cfff &cf00lost&cfff &cf00[&cfffhigh.rl&cf00]&cfff 3
+(airman.dc): >&c372 23 &cfff &cf00lost&cfff &cf00[&cfffhigh.rl&cf00]&cfff 3
+(grl.dc): >&cf0fGRL&cfff waiting [secret]
+(grl.dc): >&cf0fGRL&cfff waiting [secret]
+(airman.dc): >&c372 23 &cfff 0/100 sg [big.stairs] 
+(airman.dc): >&c372 23 &cfff 0/100 sg [big] 
+[8] minutes remaining
+Team [dc] leads by 70 frags
+world squishes pooll.dc
+(grl.dc): >&cf0fGRL&cfff coming [gl]
+(grl.dc): >&cf0fGRL&cfff coming [gl]
+(sniegov.dc): >&ce00sni&cfff __ &ce00lost&cfff &ce00[&cfffhigh.rl&ce00]&cfff 1 
+(sniegov.dc): >&ce00sni&cfff __ &ce00lost&cfff &ce00[&cfffhigh.rl&ce00]&cfff 1 
+(sniegov.dc): >&ce00sni&cfff __ &ce00lost&cfff &ce00[&cfffhigh.rl&ce00]&cfff 1 
+(sniegov.dc): >&ce00sni&cfff __ &ce00lost&cfff &ce00[&cfffhigh.rl&ce00]&cfff 1 
+(sniegov.dc): >&ce00sni&cfff __ &ce00lost&cfff &ce00[&cfffhigh.rl&ce00]&cfff 1 
+(airman.dc): >&c372 23 &cfff &cf2apack&cfff at [low.rl]
+(sniegov.dc): >&ce00sni&cfff __ &ce00lost&cfff &ce00[&cfffng&ce00]&cfff 2 
+(sniegov.dc): >&ce00sni&cfff __ &ce00lost&cfff &ce00[&cfffng&ce00]&cfff 2 
+(airman.dc): >&c372 23 &cfff 0/20 sg [big.stairs] &cf13r&cfff:5 
+(airman.dc): >&c372 23 &cfff 0/76 sg [tele.ya] 
+(airman.dc): >&c372 23 &cfff 0/76 sg [tele.ya] 
+(airman.dc): >&c372 23 &cfff 0/76 sg [tele.ya] 
+(airman.dc): >&c372 23 &cfff 0/76 sg [tele.ya] 
+(pooll.dc): >&ca20poo&cfff took &cf2apack&cfff [quad]
+(airman.dc): >&c372 23 &cfff 0/76 sg [tele.ya] 
+(airman.dc): >&c372 23 &cfff 0/76 sg [tele.ya] 
+(airman.dc): >&c372 23 &cfff 0/76 sg [tele.ya] 
+(airman.dc): >&c372 23 &cfff 0/76 sg [tele.ya] 
+(airman.dc): >&c372 23 &cfff &cff0150&cfff/76 sg [tele.ya] 
+(airman.dc): >&c372 23 &cfff &cff0150&cfff/76 sg [tele.ya] 
+(airman.dc): >&c372 23 &cfff &cff0150&cfff/76 sg [high.rl] &cf13r&cfff:5 
+(airman.dc): >&c372 23 &cfff &cff0150&cfff/76 sg [high.rl] &cf13r&cfff:5 
+Quad Damage is wearing off
+(sniegov.dc): >&cf0fsha&cfff 0/4 [quad.low] sg 
+(sniegov.dc): >&cf0fsha&cfff 0/4 [quad.low] sg 
+(pooll.dc): >&ca20poo&cfff  &c0b0safe&cfff &c0b0[&cffftele.entry&c0b0]&cfff &ce00180&cfff / &cf13rl&cfff
+[7] minutes remaining
+Team [dc] leads by 75 frags
+(airman.dc): >&c372 23 &cfff &cff0150&cfff/76 sg [high.rl] &cf13r&cfff:5 
+(airman.dc): >&c372 23 &cfff &cff0150&cfff/76 sg [high.rl] &cf13r&cfff:5 
+(airman.dc): >&c372 23 &cfff &cff0150&cfff/76 &cf13rl&cfff:10 [high.rl] 
+(airman.dc): >&c372 23 &cfff &cff0150&cfff/76 &cf13rl&cfff:10 [high.rl] 
+(airman.dc): >&c372 23 &cfff &cff0150&cfff/76 &cf13rl&cfff:10 [high.rl] 
+(sniegov.dc): >&ce00sni&cfff __ &ce00lost&cfff &ce00[&cfffhigh.rl&ce00]&cfff 1 
+(sniegov.dc): >&ce00sni&cfff __ &ce00lost&cfff &ce00[&cfffhigh.rl&ce00]&cfff 1 
+(pooll.dc): >&ca20poo&cfff  &c0b0safe&cfff &c0b0[&cfffquad.high&c0b0]&cfff &ce00159&cfff / &cf13rl&cfff
+(pooll.dc): >&ca20poo&cfff  &c0b0safe&cfff &c0b0[&cfffquad.high&c0b0]&cfff &ce00159&cfff / &cf13rl&cfff
+(pooll.dc): >&ca20poo&cfff  &c0b0safe&cfff &c0b0[&cfffquad.high&c0b0]&cfff &ce00159&cfff / &cf13rl&cfff
+(grl.dc): >&cf0fGRL&cfff &cf00lost&cfff &cf00[&cffftele.high&cf00]&cfff 1
+(grl.dc): >&cf0fGRL&cfff &cf00lost&cfff &cf00[&cffftele.high&cf00]&cfff 1
+(pooll.dc): >&ca20poo&cfff  &c0b0team&cfff &c05fquad&cfff
+(pooll.dc): >&ca20poo&cfff  &c0b0team&cfff &c05fquad&cfff
+(sniegov.dc): >&cf0fsha&cfff __ &cff0help&cfff &cff0[low.lift]&cfff 1
+(pooll.dc): >&ca20poo&cfff  &ce00159&cfff/100 &cf13rl&cfff:13 [quad.low] &c05fquad&cfff
+(airman.dc): >&c372 23 &cfff &cff055&cfff/100 &cf13rl&cfff:7 [secret] 
+(airman.dc): >&c372 23 &cfff &cff055&cfff/100 &cf13rl&cfff:7 [secret] 
+(airman.dc): >&c372 23 &cfff &cff055&cfff/100 &cf13rl&cfff:7 [secret] 
+(airman.dc): >&c372 23 &cfff &cff055&cfff/100 &cf13rl&cfff:7 [secret] 
+(airman.dc): >&c372 23 &cfff &cff055&cfff/100 &cf13rl&cfff:7 [secret] 
+(airman.dc): >&c372 23 &cfff &cff055&cfff/100 &cf13rl&cfff:7 [secret] 
+(airman.dc): >&c372 23 &cfff &cff055&cfff/100 &cf13rl&cfff:7 [secret] 
+(airman.dc): >&c372 23 &cfff &cff055&cfff/100 &cf13rl&cfff:7 [secret] 
+(airman.dc): >&c372 23 &cfff &cff055&cfff/100 &cf13rl&cfff:7 [secret] 
+(airman.dc): >&c372 23 &cfff &cff055&cfff/100 &cf13rl&cfff:7 [secret] 
+(airman.dc): >&c372 23 &cfff &cf00dropped&cfff &cf13rl&cfff &cf40[&cfffsecret&cf40]&cfff 2
+(airman.dc): >&c372 23 &cfff &cf00dropped&cfff &cf13rl&cfff &cf40[&cfffsecret&cf40]&cfff 2
+(grl.dc): >&cf0fGRL&cfff coming [quad.low]
+(grl.dc): >&cf0fGRL&cfff coming [quad.low]
+(grl.dc): >&cf0fGRL&cfff &cf00lost&cfff &cf00[&cfffquad.low&cf00]&cfff 3
+(grl.dc): >&cf0fGRL&cfff &cf00lost&cfff &cf00[&cfffquad.low&cf00]&cfff 3
+(grl.dc): >&cf0fGRL&cfff coming [low.button]
+(grl.dc): >&cf0fGRL&cfff coming [low.button]
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele.ya]&cfff &cf60rl&cfff:13
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele.ya]&cfff &cf60rl&cfff:13
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele.ya]&cfff &cf60rl&cfff:13
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele.ya]&cfff &cf60rl&cfff:13
+(grl.dc): >&cf0fGRL&cfff &cf00lost&cfff &cf00[&cffftele&cf00]&cfff 2
+(grl.dc): >&cf0fGRL&cfff &cf00lost&cfff &cf00[&cffftele&cf00]&cfff 2
+Quad Damage is wearing off
+(airman.dc): >&c372 23 &cfff &cf2apack&cfff at [tele]
+(grl.dc): >&cf0fGRL&cfff &cf00lost&cfff &cf00[&cffftele.high&cf00]&cfff 1
+(grl.dc): >&cf0fGRL&cfff &cf00lost&cfff &cf00[&cffftele.high&cf00]&cfff 1
+[6] minutes remaining
+Team [dc] leads by 91 frags
+(pooll.dc): >&ca20poo&cfff  0/95 &cf13rl&cfff:25 [secret] 
+(sniegov.dc): >&ce00sni&cfff __ &ce00lost&cfff &ce00[&cffflow.rl&ce00]&cfff 2 
+(sniegov.dc): >&ce00sni&cfff __ &ce00lost&cfff &ce00[&cffflow.rl&ce00]&cfff 2 
+(airman.dc): >&c372 23 &cfff 0/24 sg [tele] 
+(airman.dc): >&c372 23 &cfff 0/24 ssg [tele] 
+(airman.dc): >&c372 23 &cfff &cf00lost&cfff &cf00[&cffflow.button&cf00]&cfff 1
+(airman.dc): >&c372 23 &cfff &cf00lost&cfff &cf00[&cffflow.button&cf00]&cfff 1
+(airman.dc): >&c372 23 &cfff &cf00lost&cfff &cf00[&cffflow.button&cf00]&cfff 1
+(sniegov.dc): >&cf0fsha&cfff &ce00200&cfff/100 [low.button] sg 
+(pooll.dc): >&ca20poo&cfff  &ce00167&cfff/100 &cf13rl&cfff:12 [quad] 
+(pooll.dc): >&ca20poo&cfff  &ce00167&cfff/100 &cf13rl&cfff:12 [quad] 
+(pooll.dc): >&ca20poo&cfff  &ce00167&cfff/100 &cf13rl&cfff:12 [quad] 
+(airman.dc): >&c372 23 &cfff 0/5 sg [tele.high] 
+(airman.dc): >&c372 23 &cfff 0/5 sg [tele.high] 
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[low.stairs]&cfff &cf60rl&cfff:3
+(grl.dc): >&cf0fGRL&cfff waiting [secret]
+(grl.dc): >&cf0fGRL&cfff waiting [secret]
+(sniegov.dc): >&ce00sni&cfff __ &ce00lost&cfff &ce00[&cfffra.mega&ce00]&cfff 1 
+(airman.dc): >&c372 23 &cfff 0/96 sg [secret] &cf13r&cfff:43 
+(grl.dc): >&cf0fGRL&cfff waiting [secret]
+(pooll.dc): >&ca20poo&cfff  &cff0138&cfff/88 &cf13rl&cfff:3 [tele.entry] &c05fquad&cfff
+(pooll.dc): >&ca20poo&cfff  &cff0138&cfff/88 &cf13rl&cfff:3 [ng] &c05fquad&cfff
+(airman.dc): >&c372 23 &cfff &cf2apack&cfff at [tele]
+(sniegov.dc): >&cf0fsha&cfff    &cf60coming&cfff [tele]
+(grl.dc): >&cf0fGRL&cfff &cf00lost&cfff &cf00[&cfffng&cf00]&cfff 3
+(grl.dc): >&cf0fGRL&cfff &cf00lost&cfff &cf00[&cfffng&cf00]&cfff 3
+(grl.dc): >&cf0fGRL&cfff &cf00lost&cfff &cf00[&cfffng&cf00]&cfff 3
+(pooll.dc): >&ca20poo&cfff  &cff0104&cfff/95 &cf13rl&cfff:3 [low.rl] &c05fquad&cfff
+Quad Damage is wearing off
+(sniegov.dc): >&cf0fsha&cfff 0/100 [quad.low] &cf60rl&cfff:20 
+[5] minutes remaining
+Team [dc] leads by 104 frags
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele]&cfff &cf60rl&cfff:16
+(grl.dc): >&cf0fGRL&cfff &cf00lost&cfff &cf00[&cfffplatforms&cf00]&cfff 3
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele]&cfff &cf60rl&cfff:16
+(pooll.dc): >&ca20poo&cfff  &cf00lost&cfff &cf00[&cfffbig.stairs&cf00]&cfff 2
+(pooll.dc): >&ca20poo&cfff  &cf00lost&cfff &cf00[&cfffbig.stairs&cf00]&cfff 2
+(pooll.dc): >&ca20poo&cfff  &cf00lost&cfff &cf00[&cfffbig.stairs&cf00]&cfff 2
+(airman.dc): >&c372 23 &cfff &cf00lost&cfff &cf00[&cfffbig.stairs&cf00]&cfff 3
+(airman.dc): >&c372 23 &cfff &cf00lost&cfff &cf00[&cfffbig.stairs&cf00]&cfff 3
+world squishes andeh
+world squishes lethalwiz
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele.entry]&cfff &cf60rl&cfff:16
+(airman.dc): >&c372 23 &cfff &cf00lost&cfff &cf00[&cfffbig.button&cf00]&cfff 2
+(airman.dc): >&c372 23 &cfff &cf00lost&cfff &cf00[&cfffbig.button&cf00]&cfff 2
+(airman.dc): >&c372 23 &cfff 0/100 sg [low.rl] 
+(airman.dc): >&c372 23 &cfff 0/100 sg [low.rl] 
+(airman.dc): >&c372 23 &cfff &ce00200&cfff/100 ssg [ra.mega] 
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele.entry]&cfff &cf60rl&cfff:11
+(grl.dc): >&cf0fGRL&cfff &cf00lost&cfff &cf00[&cfffquad.way&cf00]&cfff 2
+(grl.dc): >&cf0fGRL&cfff &cf00lost&cfff &cf00[&cfffquad.way&cf00]&cfff 2
+(rio): >&cf00rio &cf55[&cf99low-rl&cf55] lost&r &cf552&r
+(goblin): >&c599gob:&cfff andeh at [quad]
+(airman.dc): >&c372 23 &cfff &ce00144&cfff/100 &cf13rl&cfff:15 [low.lift] 
+(sniegov.dc): >&cf0fsha&cfff &cff047&cfff/34 [tele.high] &cf60rl&cfff:5 
+(pooll.dc): >&ca20poo&cfff  0/100 sg [low.stairs] 
+(pooll.dc): >&ca20poo&cfff  0/100 sg [low.stairs] 
+(pooll.dc): >&ca20poo&cfff  0/100 sg [low.stairs] 
+(grl.dc): >&cf0fGRL&cfff &cf00lost&cfff &cf00[&cfffng&cf00]&cfff 3
+(grl.dc): >&cf0fGRL&cfff &cf00lost&cfff &cf00[&cfffng&cf00]&cfff 3
+(pooll.dc): >&ca20poo&cfff took &cf00ra&cfff [ra.mega]
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[quad.low]&cfff &cf60rl&cfff:20
+(airman.dc): >&c372 23 &cfff &ce0021&cfff/92 &cf13rl&cfff:19 [secret] 
+(airman.dc): >&c372 23 &cfff &ce0021&cfff/92 &cf13rl&cfff:19 [secret] 
+(airman.dc): >&c372 23 &cfff &ce0021&cfff/92 &cf13rl&cfff:19 [secret] 
+(airman.dc): >&c372 23 &cfff &ce0021&cfff/92 &cf13rl&cfff:19 [secret] 
+(airman.dc): >&c372 23 &cfff &ce0021&cfff/92 &cf13rl&cfff:19 [secret] 
+(airman.dc): >&c372 23 &cfff &ce0021&cfff/92 &cf13rl&cfff:19 [secret] 
+(airman.dc): >&c372 23 &cfff 0/74 &cf13rl&cfff:18 [secret] 
+(airman.dc): >&c372 23 &cfff 0/74 &cf13rl&cfff:18 [secret] 
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele.entry]&cfff &cf60rl&cfff:17
+(grl.dc): >&cf0fGRL&cfff &cf00lost&cfff &cf00[&cffflow.rl&cf00]&cfff 2
+(grl.dc): >&cf0fGRL&cfff &cf00lost&cfff &cf00[&cffflow.rl&cf00]&cfff 2
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele.ya]&cfff &cf60rl&cfff:15
+[4] minutes remaining
+Team [dc] leads by 107 frags
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele.ya]&cfff &cf60rl&cfff:15
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele.ya]&cfff &cf60rl&cfff:15
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele]&cfff &cf60rl&cfff:15
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele]&cfff &cf60rl&cfff:15
+(pooll.dc): >&ca20poo&cfff  &cf00lost&cfff &cf00[&cfffbig.button&cf00]&cfff 4
+(pooll.dc): >&ca20poo&cfff  &cf00lost&cfff &cf00[&cfffbig.button&cf00]&cfff 4
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele.entry]&cfff &cf60rl&cfff:15
+(airman.dc): >&c372 23 &cfff &ce0073&cfff/100 &cf13rl&cfff:26 [secret] 
+(airman.dc): >&c372 23 &cfff &ce0073&cfff/100 &cf13rl&cfff:26 [secret] 
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele]&cfff &cf60rl&cfff:11
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele.entry]&cfff &cf60rl&cfff:11
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele.entry]&cfff &cf60rl&cfff:10
+(pooll.dc): >&ca20poo&cfff  0/198 gl [high.rl] &cf13r&cfff:25 
+(airman.dc): >&c372 23 &cfff 0/63 &cf13rl&cfff:11 [ng] 
+(pooll.dc): >&ca20poo&cfff  0/197 gl [high.rl] &cf13r&cfff:25 
+(airman.dc): >&c372 23 &cfff &c0b0safe&cfff &c0b0[&cfffsecret&c0b0]&cfff &cf13rl&cfff
+(airman.dc): >&c372 23 &cfff &c0b0safe&cfff &c0b0[&cfffsecret&c0b0]&cfff &cf13rl&cfff
+(airman.dc): >&c372 23 &cfff &c0b0safe&cfff &c0b0[&cfffsecret&c0b0]&cfff &cf13rl&cfff
+(airman.dc): >&c372 23 &cfff &c0b0safe&cfff &c0b0[&cfffsecret&c0b0]&cfff &cf13rl&cfff
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele.entry]&cfff &cf60rl&cfff:7
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele.entry]&cfff &cf60rl&cfff:7
+(pooll.dc): >&ca20poo&cfff took &cf13rl&cfff [high.rl]
+Quad Damage is wearing off
+[3] minutes remaining
+Team [dc] leads by 118 frags
+(airman.dc): >&c372 23 &cfff &cf2apack&cfff at [quad.low]
+(airman.dc): >&c372 23 &cfff &cf2apack&cfff at [quad.low]
+(airman.dc): >&c372 23 &cfff &ce0025&cfff/72 &cf13rl&cfff:17 [quad.low] 
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele.entry]&cfff &cf60rl&cfff:7
+(airman.dc): >&c372 23 &cfff &ce001&cfff/100 &cf13rl&cfff:15 [secret] 
+(airman.dc): >&c372 23 &cfff &c0b0safe&cfff &c0b0[&cfffsecret&c0b0]&cfff &ce001&cfff / &cf13rl&cfff
+(airman.dc): >&c372 23 &cfff &c0b0safe&cfff &c0b0[&cfffsecret&c0b0]&cfff &ce001&cfff / &cf13rl&cfff
+(airman.dc): >&c372 23 &cfff &c0b0safe&cfff &c0b0[&cfffsecret&c0b0]&cfff &ce001&cfff / &cf13rl&cfff
+(pooll.dc): >&ca20poo&cfff   &cf2apack&cfff at [ng]
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele.entry]&cfff &cf60rl&cfff:16
+(airman.dc): >&c372 23 &cfff &c0b0safe&cfff &c0b0[&cfffquad&c0b0]&cfff &ce00116&cfff / &cf13rl&cfff
+(airman.dc): >&c372 23 &cfff &c0b0safe&cfff &c0b0[&cfffquad&c0b0]&cfff &ce00116&cfff / &cf13rl&cfff
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele.entry]&cfff &cf60rl&cfff:14
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele.entry]&cfff &cf60rl&cfff:13
+(lethalwiz): >&c599lwz:&cfff &c991y&cfff103/115 &cf60rl&cfff&cf31:11&cfff [quad-low] &c05fquad&cfff
+(goblin): >&c599gob:&cfff 0/100 &cf31rl&cfff&cf31:5&cfff [low-rl] 
+(goblin): >&c599gob:&cfff 0/100 &cf31rl&cfff&cf31:5&cfff [low-rl] 
+(goblin): >&c599gob:&cfff 0/100 &cf31rl&cfff&cf31:6&cfff [secret] 
+(goblin): >&c599gob:&cfff 0/100 &cf31rl&cfff&cf31:6&cfff [secret] 
+(andeh): >&cf00and &cf55[&cf99path&cf55] lost&r &cf551&r
+(goblin): >&c599gob:&cfff &c0b0safe&cfff [secret]
+(goblin): >&c599gob:&cfff &c0b0safe&cfff [secret]
+(andeh): >&cf00and &cf55[&cf99path-lift&cf55] lost&r &cf551&r
+(andeh): >&cf00and &cf55[&cf99path-lift&cf55] lost&r &cf551&r
+(lethalwiz): >&c599lwz:&cfff 0/-31 &cf60rl&cfff&cf31:4&cfff [low-rl] &c05fquad&cfff
+(rio): >  &c353rio&r [low-rl] &c931r&cfff&cfff145&r/&cfff86&r ssg &caaa
+(pooll.dc): >&ca20poo&cfff  &cf00lost&cfff &cf00[&cffflow.rl&cf00]&cfff 4
+(pooll.dc): >&ca20poo&cfff  &cf00lost&cfff &cf00[&cffflow.rl&cf00]&cfff 4
+(airman.dc): >&c372 23 &cfff &cff0150&cfff/198 &cf13rl&cfff:23 [quad] 
+(pooll.dc): >&ca20poo&cfff  0/100 sg [low.button] 
+[2] minutes remaining
+Team [dc] leads by 134 frags
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele.entry]&cfff &cf60rl&cfff:14
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele.entry]&cfff &cf60rl&cfff:14
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele.entry]&cfff &cf60rl&cfff:11
+(grl.dc): >&cf0fGRL&cfff &cf00lost&cfff &cf00[&cffflow.stairs&cf00]&cfff 2
+(grl.dc): >&cf0fGRL&cfff &cf00lost&cfff &cf00[&cffflow.stairs&cf00]&cfff 2
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele.entry]&cfff &cf60rl&cfff:10
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele.entry]&cfff &cf60rl&cfff:10
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele.entry]&cfff &cf60rl&cfff:10
+[01:42] remaining
+Team [dc] = 280
+Team [=s=] = 141
+(airman.dc): >&c372 23 &cfff &c0b0safe&cfff &c0b0[&cfffquad&c0b0]&cfff &ce00159&cfff / &cf13rl&cfff
+(airman.dc): >&c372 23 &cfff &c0b0safe&cfff &c0b0[&cfffquad&c0b0]&cfff &ce00159&cfff / &cf13rl&cfff
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele]&cfff &cf60rl&cfff:20
+(airman.dc): >&c372 23 &cfff &ce00159&cfff/103 &cf13rl&cfff:20 [quad] 
+(airman.dc): >&c372 23 &cfff &c0b0team&cfff &c05fquad&cfff
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele.entry]&cfff &cf60rl&cfff:17
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele.entry]&cfff &cf60rl&cfff:15
+(pooll.dc): >&ca20poo&cfff  0/100 sg [low.stairs] 
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele.entry]&cfff &cf60rl&cfff:12
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele]&cfff &cf60rl&cfff:12
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele]&cfff &cf60rl&cfff:21
+[1] minute remaining
+Team [dc] leads by 147 frags
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele.entry]&cfff &cf60rl&cfff:19
+world squishes rio
+(airman.dc): >&c372 23 &cfff 0/100 sg [tele.ya] 
+(airman.dc): >&c372 23 &cfff 0/100 sg [tele.ya] 
+(sniegov.dc): >&cf0fsha&cfff __ &c0b0safe&cfff &c0b0[tele]&cfff &cf60rl&cfff:12
+(sniegov.dc): >&ce00sni&cfff __ &ce00lost&cfff &ce00[&cffftele&ce00]&cfff 2 
+(sniegov.dc): >&ce00sni&cfff __ &ce00lost&cfff &ce00[&cffftele&ce00]&cfff 2 
+(sniegov.dc): >&ce00sni&cfff __ &ce00lost&cfff &ce00[&cffftele&ce00]&cfff 2 
+(pooll.dc): >&ca20poo&cfff  0/150 &cf13rl&cfff:17 [quad.way] 
+(airman.dc): >&c372 23 &cfff &cf00lost&cfff &cf00[&cffflow.rl&cf00]&cfff 2
+(pooll.dc): >&ca20poo&cfff  &c0b0safe&cfff &c0b0[&cfffquad&c0b0]&cfff &cf13rl&cfff
+(pooll.dc): >&ca20poo&cfff  &c0b0safe&cfff &c0b0[&cfffquad&c0b0]&cfff &cf13rl&cfff
+(pooll.dc): >&ca20poo&cfff  &c0b0safe&cfff &c0b0[&cfffquad&c0b0]&cfff &cf13rl&cfff
+[30] seconds
+(pooll.dc): >&ca20poo&cfff  0/141 &cf13rl&cfff:7 [quad] &c05fquad&cfff
+[15] seconds
+[10] seconds
+[9] seconds
+[8] seconds
+[7] seconds
+[6] seconds
+[5] seconds
+[4] seconds
+[3] seconds
+Quad Damage is wearing off
+[2] seconds
+[1] second
+The match is over
+trigger "onmatchover" has no matching alias
+
+____________________
+:
+___________________Frags (rank) friendkills . efficiency
+Team [=s=]:
+__________
+_ andeh:
+  31 (-52) 3 27.2%
+Wp: rl63.5% gl33.3% sg43.0% ssg37.8%
+RL skill: ad:109.1 dh:10
+Armr&mhs: ga:0 ya:10 ra:10 mh:3
+Powerups: Q:3 P:0 R:0
+      RL: Took:8 Killed:7 Dropped:3 Xfer:1
+  Damage: Tkn:11346 Gvn:7932 EWep:3072 Tm:88 Self:666 ToDie:136
+    Time: Quad:60
+ Streaks: Frags:17 QuadRun:3
+  SpawnFrags: 3
+__________
+_ rio:
+  50 (-23) 0 40.7%
+Wp: rl70.5% gl23.1% sg45.4% ssg56.1%
+RL skill: ad:78.9 dh:17
+Armr&mhs: ga:0 ya:17 ra:14 mh:9
+Powerups: Q:1 P:0 R:0
+      RL: Took:13 Killed:9 Dropped:6 Xfer:3
+  Damage: Tkn:12224 Gvn:9182 EWep:3245 Tm:750 Self:503 ToDie:167
+    Time: Quad:5
+ Streaks: Frags:18 QuadRun:0
+  SpawnFrags: 3
+__________
+_ goblin:
+  41 (-67) 1 27.5%
+Wp: rl64.0% gl25.0% sg35.9% ssg45.9%
+RL skill: ad:92.4 dh:10
+Armr&mhs: ga:0 ya:10 ra:13 mh:6
+Powerups: Q:1 P:0 R:0
+      RL: Took:10 Killed:7 Dropped:5 Xfer:1
+  Damage: Tkn:14065 Gvn:10145 EWep:3813 Tm:149 Self:582 ToDie:130
+    Time: Quad:17
+ Streaks: Frags:8 QuadRun:5
+  SpawnFrags: 1
+__________
+_ lethalwiz:
+  30 (-43) 4 29.1%
+Wp: rl49.5% sg44.6% ssg43.3%
+RL skill: ad:89.0 dh:14
+Armr&mhs: ga:0 ya:12 ra:20 mh:9
+Powerups: Q:1 P:0 R:0
+      RL: Took:13 Killed:8 Dropped:6 Xfer:2
+  Damage: Tkn:12453 Gvn:7838 EWep:3683 Tm:303 Self:886 ToDie:170
+    Time: Quad:19
+ Streaks: Frags:10 QuadRun:1
+  SpawnFrags: 4
+
+Team [dc]:
+__________
+_ pooll.dc:
+  73 (20) 8 57.9%
+Wp: rl51.9% gl11.7% sg42.6% ssg43.3%
+RL skill: ad:129.0 dh:30
+Armr&mhs: ga:0 ya:10 ra:13 mh:7
+Powerups: Q:7 P:0 R:0
+      RL: Took:11 Killed:13 Dropped:4
+  Damage: Tkn:9687 Gvn:13281 EWep:2917 Tm:867 Self:800 ToDie:182
+    Time: Quad:176
+ Streaks: Frags:21 QuadRun:8
+  SpawnFrags: 13
+__________
+_ sniegov.dc:
+  85 (48) 4 69.7%
+Wp: rl73.3% gl25.0% sg56.1% ssg49.3%
+RL skill: ad:81.6 dh:37
+Armr&mhs: ga:0 ya:18 ra:4 mh:3
+Powerups: Q:0 P:0 R:0
+      RL: Took:8 Killed:7 Dropped:4 Xfer:2
+  Damage: Tkn:6333 Gvn:11665 EWep:1439 Tm:308 Self:706 ToDie:171
+    Time: Quad:0
+ Streaks: Frags:42 QuadRun:0
+  SpawnFrags: 18
+__________
+_ airman.dc:
+  79 (33) 2 63.2%
+Wp: rl61.1% gl7.1% sg40.6% ssg40.3%
+RL skill: ad:119.1 dh:33
+Armr&mhs: ga:0 ya:10 ra:18 mh:5
+Powerups: Q:4 P:0 R:0
+      RL: Took:9 Killed:13 Dropped:4 Xfer:1
+  Damage: Tkn:9793 Gvn:14815 EWep:3012 Tm:449 Self:1168 ToDie:212
+    Time: Quad:116
+ Streaks: Frags:29 QuadRun:8
+  SpawnFrags: 8
+__________
+_ grl.dc:
+  66 (16) 3 56.9%
+Wp: rl52.3% gl41.7% sg37.5% ssg100.0%
+RL skill: ad:102.8 dh:28
+Armr&mhs: ga:0 ya:26 ra:10 mh:4
+Powerups: Q:3 P:0 R:0
+      RL: Took:8 Killed:6 Dropped:2
+  Damage: Tkn:9284 Gvn:10327 EWep:2272 Tm:233 Self:773 ToDie:185
+    Time: Quad:75
+ Streaks: Frags:19 QuadRun:6
+  SpawnFrags: 15
+
+___________________[=s=] vs [dc] match statistics:
+___________________
+weapons, powerups, armors&mhs, damage
+___________________[=s=]: Wp: rl51 gl11 sg41% ssg48%
+Powerups: Q:6 P:0 R:0
+Armr&mhs: ga:0 ya:49 ra:57 mh:27
+      RL: Took:44 Killed:31 Dropped:20 Xfer:7
+  Damage: Tkn:50088 Gvn:35097 EWep:13813 Tm:1290
+    Time: Quad:103
+[dc]: Wp: rl128 gl4 sg42% ssg45%
+Powerups: Q:14 P:0 R:0
+Armr&mhs: ga:0 ya:64 ra:45 mh:19
+      RL: Took:36 Killed:39 Dropped:14 Xfer:3
+  Damage: Tkn:35097 Gvn:50088 EWep:9640 Tm:1857
+    Time: Quad:369
+___________________[dm2] top scorers:
+______________________________________
+      Frags: sniegov.dc [85]
+     Deaths: goblin [108]
+Friendkills: pooll.dc [8]
+ Efficiency: sniegov.dc [69.7%]
+ FragStreak: sniegov.dc [42]
+    QuadRun: pooll.dc [8]
+             airman.dc [8]
+  RL Killer: pooll.dc [13]
+             airman.dc [13]
+Boomsticker: sniegov.dc [56.1%]
+   Survivor: airman.dc [212]
+Annihilator: airman.dc [14815]
+
+______________________________________
+
+____________________
+: Team scores
+___________________[=s=]: 152 . 33.4%
+[dc]: 303 . 66.6%
+]log 8

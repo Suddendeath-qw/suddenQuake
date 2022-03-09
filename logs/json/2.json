@@ -1,0 +1,248 @@
+{
+  "id": "02d0b905dfffbf152efd8411ae751ac2f1c4c930",
+  "date": "2022-01-12 20:37:12 UTC",
+  "mvd": "4on4_s_vs_puls[dm3]220112-2037.mvd",
+  "map": "dm3",
+  "teams": {
+    "=s=": {
+      "players": [
+        {
+          "team": "=s=",
+          "name": "rio",
+          "frags": 61,
+          "net": 31,
+          "tk": 4,
+          "eff": 0.67,
+          "wp": { "lg": 33.9, "rl": 41.7, "gl": 33.3, "sg": 45.3, "ssg": 42.3 },
+          "rl_skill": { "ad": 85.5, "dh": 7 },
+          "armr_mhs": { "ga": 0, "ya": 8, "ra": 13, "mh": 11 },
+          "powerups": { "Q": 4, "P": 2, "R": 0 },
+          "rl": { "Took": 6, "Killed": 8, "Dropped": 4, "Xfer": 1 },
+          "lg": { "Took": 5, "Killed": 7, "Dropped": 0 },
+          "damage": {
+            "Tkn": 6987,
+            "Gvn": 8023,
+            "EWep": 2407,
+            "Tm": 438,
+            "Self": 303,
+            "ToDie": 232
+          },
+          "time": { "Quad": 120 },
+          "spawnfrags": null
+        },
+        {
+          "team": "=s=",
+          "name": "lethalwiz",
+          "frags": 46,
+          "net": 0,
+          "tk": 3,
+          "eff": 0.5,
+          "wp": { "lg": 28.6, "rl": 52.1, "gl": 33.3, "sg": 44.3, "ssg": 27.1 },
+          "rl_skill": { "ad": 98.3, "dh": 10 },
+          "armr_mhs": { "ga": 0, "ya": 12, "ra": 5, "mh": 8 },
+          "powerups": { "Q": 4, "P": 0, "R": 2 },
+          "rl": { "Took": 8, "Killed": 5, "Dropped": 4, "Xfer": 1 },
+          "lg": { "Took": 3, "Killed": 5, "Dropped": 2 },
+          "damage": {
+            "Tkn": 7010,
+            "Gvn": 6992,
+            "EWep": 1561,
+            "Tm": 403,
+            "Self": 765,
+            "ToDie": 152
+          },
+          "time": { "Quad": 91 },
+          "spawnfrags": null
+        },
+        {
+          "team": "=s=",
+          "name": "andeh",
+          "frags": 37,
+          "net": -32,
+          "tk": 1,
+          "eff": 0.349,
+          "wp": { "lg": 34, "rl": 70.5, "sg": 52.2, "ssg": 58.7 },
+          "rl_skill": { "ad": 70.6, "dh": 2 },
+          "armr_mhs": { "ga": 0, "ya": 7, "ra": 4, "mh": 3 },
+          "powerups": { "Q": 1, "P": 0, "R": 0 },
+          "rl": { "Took": 11, "Killed": 3, "Dropped": 1, "Xfer": 1 },
+          "lg": { "Took": 8, "Killed": 5, "Dropped": 3 },
+          "damage": {
+            "Tkn": 8345,
+            "Gvn": 7294,
+            "EWep": 2066,
+            "Tm": 68,
+            "Self": 181,
+            "ToDie": 120
+          },
+          "time": { "Quad": 18 },
+          "spawnfrags": null
+        },
+        {
+          "team": "=s=",
+          "name": "goblin",
+          "frags": 72,
+          "net": 40,
+          "tk": 1,
+          "eff": 0.6920000000000001,
+          "wp": { "lg": 40.2, "rl": 63.5, "gl": 18.2, "sg": 38.2, "ssg": 45.7 },
+          "rl_skill": { "ad": 83.2, "dh": 6 },
+          "armr_mhs": { "ga": 0, "ya": 7, "ra": 8, "mh": 13 },
+          "powerups": { "Q": 4, "P": 2, "R": 0 },
+          "rl": { "Took": 9, "Killed": 8, "Dropped": 4, "Xfer": 2 },
+          "lg": { "Took": 4, "Killed": 5, "Dropped": 2 },
+          "damage": {
+            "Tkn": 6498,
+            "Gvn": 8704,
+            "EWep": 2249,
+            "Tm": 151,
+            "Self": 238,
+            "ToDie": 203
+          },
+          "time": { "Quad": 77 },
+          "spawnfrags": null
+        }
+      ],
+      "name": "=s=",
+      "teamStats": {
+        "wp": { "lg": 36, "rl": 25, "gl": 2, "sg": 46, "ssg": 38 },
+        "powerups": { "Q": 13, "P": 4, "R": 2 },
+        "armr_mhs": { "ga": 0, "ya": 34, "ra": 30, "mh": 35 },
+        "rl": { "Took": 34, "Killed": 24, "Dropped": 13, "Xfer": 5 },
+        "lg": { "Took": 20, "Killed": 22, "Dropped": 7 },
+        "damage": { "Tkn": 28840, "Gvn": 31013, "EWep": 8283, "Tm": 1060 }
+      },
+      "frags": 216,
+      "eff": 59
+    },
+    "puls": {
+      "players": [
+        {
+          "team": "puls",
+          "name": "eikooren",
+          "frags": 30,
+          "net": -42,
+          "tk": 2,
+          "eff": 0.294,
+          "wp": { "lg": 44.5, "rl": 72.7, "sg": 35, "ssg": 25.7 },
+          "rl_skill": { "ad": 89.1, "dh": 3 },
+          "armr_mhs": { "ga": 0, "ya": 3, "ra": 3, "mh": 4 },
+          "powerups": { "Q": 1, "P": 0, "R": 0 },
+          "rl": { "Took": 9, "Killed": 6, "Dropped": 5, "Xfer": 2 },
+          "lg": { "Took": 9, "Killed": 2, "Dropped": 6 },
+          "damage": {
+            "Tkn": 8337,
+            "Gvn": 6705,
+            "EWep": 2699,
+            "Tm": 274,
+            "Self": 195,
+            "ToDie": 115
+          },
+          "time": { "Quad": 13 },
+          "spawnfrags": null
+        },
+        {
+          "team": "puls",
+          "name": "baresi",
+          "frags": 44,
+          "net": -14,
+          "tk": 1,
+          "eff": 0.431,
+          "wp": { "lg": 63, "rl": 64.9, "sg": 35.9, "ssg": 39 },
+          "rl_skill": { "ad": 93.2, "dh": 13 },
+          "armr_mhs": { "ga": 0, "ya": 3, "ra": 7, "mh": 3 },
+          "powerups": { "Q": 2, "P": 0, "R": 1 },
+          "rl": { "Took": 11, "Killed": 11, "Dropped": 6, "Xfer": 3 },
+          "lg": { "Took": 6, "Killed": 7, "Dropped": 3 },
+          "damage": {
+            "Tkn": 7304,
+            "Gvn": 7657,
+            "EWep": 3178,
+            "Tm": 343,
+            "Self": 285,
+            "ToDie": 125
+          },
+          "time": { "Quad": 24 },
+          "spawnfrags": null
+        },
+        {
+          "team": "puls",
+          "name": "Timon",
+          "frags": 43,
+          "net": -11,
+          "tk": 1,
+          "eff": 0.44299999999999995,
+          "wp": { "lg": 41.9, "rl": 27.5, "gl": 23.1, "sg": 41.9, "ssg": 53.1 },
+          "rl_skill": { "ad": 74.5, "dh": 3 },
+          "armr_mhs": { "ga": 0, "ya": 5, "ra": 4, "mh": 10 },
+          "powerups": { "Q": 1, "P": 0, "R": 0 },
+          "rl": { "Took": 6, "Killed": 10, "Dropped": 1 },
+          "lg": { "Took": 8, "Killed": 4, "Dropped": 4 },
+          "damage": {
+            "Tkn": 7490,
+            "Gvn": 6782,
+            "EWep": 3023,
+            "Tm": 364,
+            "Self": 164,
+            "ToDie": 138
+          },
+          "time": { "Quad": 3 },
+          "spawnfrags": null
+        },
+        {
+          "team": "puls",
+          "name": "Nidweyr",
+          "frags": 33,
+          "net": -27,
+          "tk": 4,
+          "eff": 0.355,
+          "wp": { "lg": 33.3, "rl": 71.8, "gl": 19.4, "sg": 49.6, "ssg": 36 },
+          "rl_skill": { "ad": 79.2, "dh": 7 },
+          "armr_mhs": { "ga": 0, "ya": 6, "ra": 2, "mh": 10 },
+          "powerups": { "Q": 3, "P": 0, "R": 1 },
+          "rl": { "Took": 4, "Killed": 5, "Dropped": 2 },
+          "lg": { "Took": 3, "Killed": 3, "Dropped": 0 },
+          "damage": {
+            "Tkn": 7882,
+            "Gvn": 7696,
+            "EWep": 2721,
+            "Tm": 501,
+            "Self": 159,
+            "ToDie": 131
+          },
+          "time": { "Quad": 24 },
+          "spawnfrags": null
+        }
+      ],
+      "name": "puls",
+      "teamStats": {
+        "wp": { "lg": 45, "rl": 26, "gl": 6, "sg": 40, "ssg": 37 },
+        "powerups": { "Q": 7, "P": 0, "R": 2 },
+        "armr_mhs": { "ga": 0, "ya": 17, "ra": 16, "mh": 27 },
+        "rl": { "Took": 30, "Killed": 32, "Dropped": 14, "Xfer": 5 },
+        "lg": { "Took": 26, "Killed": 16, "Dropped": 13 },
+        "damage": { "Tkn": 31013, "Gvn": 28840, "EWep": 11621, "Tm": 1482 }
+      },
+      "frags": 150,
+      "eff": 41
+    }
+  },
+  "top": {
+    "frags": [{ "name": "goblin", "score": 72 }],
+    "deaths": [{ "name": "eikooren", "score": 72 }],
+    "friendkills": [
+      { "name": "rio", "score": 4 },
+      { "name": "Nidweyr", "score": 4 }
+    ],
+    "efficiency": [{ "name": "goblin", "score": 69.2 }],
+    "fragstreak": [{ "name": "rio", "score": 27 }],
+    "quadrun": [
+      { "name": "rio", "score": 4 },
+      { "name": "goblin", "score": 4 }
+    ],
+    "rl_killer": [{ "name": "baresi", "score": 11 }],
+    "boomsticker": [{ "name": "andeh", "score": 52.2 }],
+    "survivor": [{ "name": "rio", "score": 232 }],
+    "annihilator": [{ "name": "goblin", "score": 8704 }]
+  }
+}
