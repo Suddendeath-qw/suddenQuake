@@ -12,6 +12,7 @@ let players = [
     "mOlle"
 ]
 
+
 interface PlayerStats {
     team: string,
     name: string,
@@ -74,6 +75,64 @@ interface PlayerStats {
     spawnfrag: number
 }
 
+interface TeamStats {
+    name: string,
+    frags: number,
+    eff: number,
+    players: Array<PlayerStats>
+}
+
+interface TeamStatsObj {
+    [index: string]: TeamStats
+}
+
+interface TopScorerEntry {
+    name: string,
+    score: number
+}
+
+interface TopScorerStats {
+    frags: Array<TopScorerEntry>,
+    deaths: Array<TopScorerEntry>,
+    friendkills: Array<TopScorerEntry>,
+    efficiency: Array<TopScorerEntry>,
+    fragstreak: Array<TopScorerEntry>,
+    quadrun: Array<TopScorerEntry>,
+    rl_killer: Array<TopScorerEntry>,
+    boomsticker: Array<TopScorerEntry>,
+    survivor: Array<TopScorerEntry>,
+    annihilator: Array<TopScorerEntry>
+}
+
+interface MatchStats {
+    id: string,
+    date: string,
+    mvd: string,
+    map: string,
+    teams: TeamStatsObj,
+    top: TopScorerStats
+}
+
+class Match implements MatchStats {
+    id = ""
+    date = ""
+    mvd = ""
+    map = ""
+    teams = null
+    top = null
+
+    constructor (m: MatchStats) {
+        this.id = m.id
+        this.date = m.date
+        this.mvd = m.mvd
+        this.map = m.map
+        this.teams = m.teams
+        this.top = m.top
+    }
+}
+
+
+
 class Player {
     name: string
     matches: number
@@ -96,10 +155,12 @@ function importJSON () {
     const filenames = fs.readdirSync(dirname)
     filenames.forEach(function(filename) {
         const content = fs.readFileSync(dirname + "/" + filename, 'utf-8');
-        const match = JSON.parse(content)
-        data.matches.push(match);
+        const match = new Match(JSON.parse(content))
+        console.log(match)
     });
 }
+
+
 
 importJSON();
 console.log(data.matches.length)
