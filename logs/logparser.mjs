@@ -102,6 +102,7 @@ function Log_TopScorers () {
         if (m) cat = m[1].replace(" ", "_").toLowerCase()
 
         col = ln.split(" ").slice(-2)
+        if (col.length < 2) break;
         col[1] = parseFloat(col[1].replace(/[\[\]]/g, ""))
 
         topscorers[cat] = topscorers[cat] || []
@@ -137,7 +138,7 @@ function Log_MatchStats () {
         tStats.wp = {}
         col.forEach((wp, i) => {
             wp = wp.match(/^([a-z]+)([0-9\.]+)/)
-            tStats.wp[wp[1]] = parseFloat(wp[2]) 
+            tStats.wp[wp[1].toLowerCase()] = parseFloat(wp[2]) 
         })
 
         // Next 5 rows:
@@ -150,7 +151,7 @@ function Log_MatchStats () {
             tStats[row] = {}
             col.forEach(a => {
                 a = a.split(":")
-                tStats[row][a[0]] = parseFloat(a[1])
+                tStats[row][a[0].toLowerCase()] = parseFloat(a[1])
             })
         }
 
@@ -206,34 +207,43 @@ function Log_ParseTeam() {
         col.forEach((wp, i) => {
             wp = wp.match(/^([a-z]+)([0-9\.]+)/)
             if (!wp) return;
-            player.wp[wp[1]] = parseFloat(wp[2]) 
+            player.wp[wp[1].toLowerCase()] = parseFloat(wp[2]) 
         })
 
-        // Next 7 rows:
-        let r = 7;
+        // Next X rows:
+        do {
+            ln = c.lines[++c.i].trim()
+            let m = ln.match(/^(.+)\:\s(.+)/)
+            if (!m) break; // this is not a stats row, next player
+            let row = m[1].toLowerCase()
+            player[row] = {}
+            let cols = m[2].split(' ')
+            cols.forEach(col => {
+                col = col.split(':')
+                if (col.length === 1) player[row] = parseFloat(col[0])
+                else player[row][col[0].toLowerCase()] = parseFloat(col[1])
+            })
+        } while (true)
+/*
         while (r--) {
             ln = c.lines[++c.i].trim()
+
             charIndex = ln.indexOf(":")
             row = ln.slice(0, charIndex).replace(/[\s\&]/g, "_").toLowerCase()
             col = ln.slice(charIndex + 1).trim().split(' ')
             player[row] = {}
             col.forEach(a => {
                 a = a.split(":")
-                player[row][a[0]] = parseFloat(a[1])
+                player[row][a[0].toLowerCase()] = parseFloat(a[1])
             })
-        }
-
-        // Next row: Spawnfrags
-        ln = c.lines[++c.i].trim()
-        col = ln.split(' ').slice(1)
-        player.spawnfrags = parseInt(col[0])
+        }*/
 
         // Save player
         team.players.push(player)
 
         // Next player
         c.i++
-    } while (c.lines[c.i][0] != '\r')
+    } while (c.lines[c.i] && c.lines[c.i][0] != '\r')
 
     // Save team
     data.teams[team.name] = team;

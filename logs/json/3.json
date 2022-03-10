@@ -1,1 +1,525 @@
-{"id":"04cbcc1542a41a12f4c899e7e35f6fa33c07a79b","date":"2022-01-20 21:16:58 UTC","mvd":"4on4_s_vs_+er+[dm2]220120-2116.mvd","map":"dm2","teams":{"=s=":{"players":[{"team":"=s=","name":"rio","frags":38,"net":-28,"tk":2,"eff":0.365,"wp":{"rl":45.1,"sg":43.9,"ssg":53.4},"rl_skill":{"ad":84.2,"dh":11},"armr_mhs":{"ga":0,"ya":16,"ra":12,"mh":7},"powerups":{"Q":3,"P":0,"R":0},"rl":{"Took":11,"Killed":6,"Dropped":6,"Xfer":1},"lg":{"Took":0,"Killed":0,"Dropped":0},"damage":{"Tkn":11248,"Gvn":8007,"EWep":2775,"Tm":363,"Self":526,"ToDie":170},"time":{"Quad":76},"spawnfrags":null},{"team":"=s=","name":"lethalwiz","frags":51,"net":3,"tk":3,"eff":0.515,"wp":{"rl":56.6,"gl":24,"sg":43.3},"rl_skill":{"ad":95.7,"dh":15},"armr_mhs":{"ga":0,"ya":22,"ra":18,"mh":5},"powerups":{"Q":4,"P":0,"R":0},"rl":{"Took":15,"Killed":18,"Dropped":9,"Xfer":1},"lg":{"Took":0,"Killed":0,"Dropped":0},"damage":{"Tkn":9916,"Gvn":9238,"EWep":4409,"Tm":476,"Self":1360,"ToDie":206},"time":{"Quad":115},"spawnfrags":null},{"team":"=s=","name":"andeh","frags":38,"net":-33,"tk":3,"eff":0.349,"wp":{"rl":53.4,"gl":80,"sg":47.5,"ssg":71.4},"rl_skill":{"ad":96.2,"dh":11},"armr_mhs":{"ga":0,"ya":13,"ra":10,"mh":3},"powerups":{"Q":1,"P":0,"R":0},"rl":{"Took":11,"Killed":6,"Dropped":6,"Xfer":1},"lg":{"Took":0,"Killed":0,"Dropped":0},"damage":{"Tkn":10655,"Gvn":8388,"EWep":3203,"Tm":343,"Self":445,"ToDie":150},"time":{"Quad":30},"spawnfrags":null},{"team":"=s=","name":"goblin","frags":33,"net":-43,"tk":1,"eff":0.303,"wp":{"rl":64.4,"gl":12.5,"sg":32.6,"ssg":35.7},"rl_skill":{"ad":96.7,"dh":13},"armr_mhs":{"ga":0,"ya":8,"ra":13,"mh":3},"powerups":{"Q":1,"P":0,"R":0},"rl":{"Took":10,"Killed":10,"Dropped":7},"lg":{"Took":0,"Killed":0,"Dropped":0},"damage":{"Tkn":10740,"Gvn":7742,"EWep":3483,"Tm":484,"Self":541,"ToDie":141},"time":{"Quad":30},"spawnfrags":null}],"name":"=s=","teamStats":{"wp":{"rl":50,"gl":9,"sg":41,"ssg":53},"powerups":{"Q":9,"P":0,"R":0},"armr_mhs":{"ga":0,"ya":59,"ra":53,"mh":18},"rl":{"Took":47,"Killed":40,"Dropped":28,"Xfer":3},"lg":{"Took":0,"Killed":0,"Dropped":0},"damage":{"Tkn":42559,"Gvn":33375,"EWep":13870,"Tm":1666}},"frags":160,"eff":40.7},"+er+":{"players":[{"team":"+er+","name":"splif","frags":43,"net":-16,"tk":1,"eff":0.42200000000000004,"wp":{"rl":61.7,"gl":10,"sg":30.5,"ssg":37.1},"rl_skill":{"ad":90.9,"dh":21},"armr_mhs":{"ga":0,"ya":18,"ra":6,"mh":2},"powerups":{"Q":1,"P":0,"R":0},"rl":{"Took":10,"Killed":5,"Dropped":8,"Xfer":1},"lg":{"Took":0,"Killed":0,"Dropped":0},"damage":{"Tkn":9100,"Gvn":10513,"EWep":2975,"Tm":341,"Self":346,"ToDie":154},"time":{"Quad":30},"spawnfrags":null},{"team":"+er+","name":"hangtime","frags":64,"net":8,"tk":3,"eff":0.5329999999999999,"wp":{"rl":58.9,"sg":46,"ssg":31},"rl_skill":{"ad":87.5,"dh":33},"armr_mhs":{"ga":0,"ya":13,"ra":10,"mh":5},"powerups":{"Q":1,"P":0,"R":0},"rl":{"Took":13,"Killed":9,"Dropped":8,"Xfer":1},"lg":{"Took":0,"Killed":0,"Dropped":0},"damage":{"Tkn":9398,"Gvn":9874,"EWep":2884,"Tm":414,"Self":779,"ToDie":167},"time":{"Quad":0},"spawnfrags":null},{"team":"+er+","name":"eb","frags":53,"net":7,"tk":1,"eff":0.535,"wp":{"rl":60.1,"gl":24,"sg":39.8,"ssg":29.4},"rl_skill":{"ad":93.4,"dh":23},"armr_mhs":{"ga":0,"ya":10,"ra":11,"mh":6},"powerups":{"Q":3,"P":0,"R":0},"rl":{"Took":13,"Killed":12,"Dropped":7,"Xfer":1},"lg":{"Took":0,"Killed":0,"Dropped":0},"damage":{"Tkn":7771,"Gvn":8043,"EWep":2359,"Tm":296,"Self":783,"ToDie":168},"time":{"Quad":84},"spawnfrags":null},{"team":"+er+","name":"Wimdowlicker","frags":73,"net":46,"tk":4,"eff":0.73,"wp":{"rl":60.7,"gl":6.7,"sg":43.3,"ssg":23.5},"rl_skill":{"ad":105.9,"dh":36},"armr_mhs":{"ga":0,"ya":14,"ra":17,"mh":13},"powerups":{"Q":6,"P":0,"R":0},"rl":{"Took":11,"Killed":16,"Dropped":5,"Xfer":1},"lg":{"Took":0,"Killed":0,"Dropped":0},"damage":{"Tkn":7106,"Gvn":14129,"EWep":4358,"Tm":703,"Self":1835,"ToDie":263},"time":{"Quad":124},"spawnfrags":null}],"name":"+er+","teamStats":{"wp":{"rl":113,"gl":5,"sg":38,"ssg":29},"powerups":{"Q":11,"P":0,"R":0},"armr_mhs":{"ga":0,"ya":55,"ra":44,"mh":26},"rl":{"Took":47,"Killed":42,"Dropped":28,"Xfer":4},"lg":{"Took":0,"Killed":0,"Dropped":0},"damage":{"Tkn":33375,"Gvn":42559,"EWep":12576,"Tm":1754}},"frags":233,"eff":59.3}},"top":{"frags":[{"name":"Wimdowlicker","score":73}],"deaths":[{"name":"goblin","score":76}],"friendkills":[{"name":"Wimdowlicker","score":4}],"efficiency":[{"name":"Wimdowlicker","score":73}],"fragstreak":[{"name":"hangtime","score":35},{"name":"Wimdowlicker","score":35}],"quadrun":[{"name":"Wimdowlicker","score":8}],"rl_killer":[{"name":"lethalwiz","score":18}],"boomsticker":[{"name":"andeh","score":47.5}],"survivor":[{"name":"Wimdowlicker","score":263}],"annihilator":[{"name":"Wimdowlicker","score":14129}]}}
+{
+    "id": "04cbcc1542a41a12f4c899e7e35f6fa33c07a79b",
+    "date": "2022-01-20 21:16:58 UTC",
+    "mvd": "4on4_s_vs_+er+[dm2]220120-2116.mvd",
+    "map": "dm2",
+    "teams": {
+        "=s=": {
+            "players": [
+                {
+                    "team": "=s=",
+                    "name": "rio",
+                    "frags": 38,
+                    "net": -28,
+                    "tk": 2,
+                    "eff": 0.365,
+                    "wp": {
+                        "rl": 45.1,
+                        "sg": 43.9,
+                        "ssg": 53.4
+                    },
+                    "rl skill": {
+                        "ad": 84.2,
+                        "dh": 11
+                    },
+                    "armr&mhs": {
+                        "ga": 0,
+                        "ya": 16,
+                        "ra": 12,
+                        "mh": 7
+                    },
+                    "powerups": {
+                        "q": 3,
+                        "p": 0,
+                        "r": 0
+                    },
+                    "rl": {
+                        "took": 11,
+                        "killed": 6,
+                        "dropped": 6,
+                        "xfer": 1
+                    },
+                    "lg": {
+                        "took": 0,
+                        "killed": 0,
+                        "dropped": 0
+                    },
+                    "damage": {
+                        "tkn": 11248,
+                        "gvn": 8007,
+                        "ewep": 2775,
+                        "tm": 363,
+                        "self": 526,
+                        "todie": 170
+                    },
+                    "time": {
+                        "quad": 76
+                    },
+                    "streaks": {
+                        "frags": 17,
+                        "quadrun": 4
+                    },
+                    "spawnfrags": 4
+                },
+                {
+                    "team": "=s=",
+                    "name": "lethalwiz",
+                    "frags": 51,
+                    "net": 3,
+                    "tk": 3,
+                    "eff": 0.515,
+                    "wp": {
+                        "rl": 56.6,
+                        "gl": 24,
+                        "sg": 43.3
+                    },
+                    "rl skill": {
+                        "ad": 95.7,
+                        "dh": 15
+                    },
+                    "armr&mhs": {
+                        "ga": 0,
+                        "ya": 22,
+                        "ra": 18,
+                        "mh": 5
+                    },
+                    "powerups": {
+                        "q": 4,
+                        "p": 0,
+                        "r": 0
+                    },
+                    "rl": {
+                        "took": 15,
+                        "killed": 18,
+                        "dropped": 9,
+                        "xfer": 1
+                    },
+                    "lg": {
+                        "took": 0,
+                        "killed": 0,
+                        "dropped": 0
+                    },
+                    "damage": {
+                        "tkn": 9916,
+                        "gvn": 9238,
+                        "ewep": 4409,
+                        "tm": 476,
+                        "self": 1360,
+                        "todie": 206
+                    },
+                    "time": {
+                        "quad": 115
+                    },
+                    "streaks": {
+                        "frags": 8,
+                        "quadrun": 5
+                    },
+                    "spawnfrags": 3
+                },
+                {
+                    "team": "=s=",
+                    "name": "andeh",
+                    "frags": 38,
+                    "net": -33,
+                    "tk": 3,
+                    "eff": 0.349,
+                    "wp": {
+                        "rl": 53.4,
+                        "gl": 80,
+                        "sg": 47.5,
+                        "ssg": 71.4
+                    },
+                    "rl skill": {
+                        "ad": 96.2,
+                        "dh": 11
+                    },
+                    "armr&mhs": {
+                        "ga": 0,
+                        "ya": 13,
+                        "ra": 10,
+                        "mh": 3
+                    },
+                    "powerups": {
+                        "q": 1,
+                        "p": 0,
+                        "r": 0
+                    },
+                    "rl": {
+                        "took": 11,
+                        "killed": 6,
+                        "dropped": 6,
+                        "xfer": 1
+                    },
+                    "lg": {
+                        "took": 0,
+                        "killed": 0,
+                        "dropped": 0
+                    },
+                    "damage": {
+                        "tkn": 10655,
+                        "gvn": 8388,
+                        "ewep": 3203,
+                        "tm": 343,
+                        "self": 445,
+                        "todie": 150
+                    },
+                    "time": {
+                        "quad": 30
+                    },
+                    "streaks": {
+                        "frags": 8,
+                        "quadrun": 4
+                    },
+                    "spawnfrags": 5
+                },
+                {
+                    "team": "=s=",
+                    "name": "goblin",
+                    "frags": 33,
+                    "net": -43,
+                    "tk": 1,
+                    "eff": 0.303,
+                    "wp": {
+                        "rl": 64.4,
+                        "gl": 12.5,
+                        "sg": 32.6,
+                        "ssg": 35.7
+                    },
+                    "rl skill": {
+                        "ad": 96.7,
+                        "dh": 13
+                    },
+                    "armr&mhs": {
+                        "ga": 0,
+                        "ya": 8,
+                        "ra": 13,
+                        "mh": 3
+                    },
+                    "powerups": {
+                        "q": 1,
+                        "p": 0,
+                        "r": 0
+                    },
+                    "rl": {
+                        "took": 10,
+                        "killed": 10,
+                        "dropped": 7
+                    },
+                    "lg": {
+                        "took": 0,
+                        "killed": 0,
+                        "dropped": 0
+                    },
+                    "damage": {
+                        "tkn": 10740,
+                        "gvn": 7742,
+                        "ewep": 3483,
+                        "tm": 484,
+                        "self": 541,
+                        "todie": 141
+                    },
+                    "time": {
+                        "quad": 30
+                    },
+                    "streaks": {
+                        "frags": 9,
+                        "quadrun": 2
+                    },
+                    "spawnfrags": 3
+                },
+                {
+                    "team": "=s=",
+                    "name": "splif",
+                    "frags": 43,
+                    "net": -16,
+                    "tk": 1,
+                    "eff": 0.42200000000000004,
+                    "wp": {
+                        "rl": 61.7,
+                        "gl": 10,
+                        "sg": 30.5,
+                        "ssg": 37.1
+                    },
+                    "rl skill": {
+                        "ad": 90.9,
+                        "dh": 21
+                    },
+                    "armr&mhs": {
+                        "ga": 0,
+                        "ya": 18,
+                        "ra": 6,
+                        "mh": 2
+                    },
+                    "powerups": {
+                        "q": 1,
+                        "p": 0,
+                        "r": 0
+                    },
+                    "rl": {
+                        "took": 10,
+                        "killed": 5,
+                        "dropped": 8,
+                        "xfer": 1
+                    },
+                    "lg": {
+                        "took": 0,
+                        "killed": 0,
+                        "dropped": 0
+                    },
+                    "damage": {
+                        "tkn": 9100,
+                        "gvn": 10513,
+                        "ewep": 2975,
+                        "tm": 341,
+                        "self": 346,
+                        "todie": 154
+                    },
+                    "time": {
+                        "quad": 30
+                    },
+                    "streaks": {
+                        "frags": 12,
+                        "quadrun": 5
+                    },
+                    "spawnfrags": 3
+                },
+                {
+                    "team": "=s=",
+                    "name": "hangtime",
+                    "frags": 64,
+                    "net": 8,
+                    "tk": 3,
+                    "eff": 0.5329999999999999,
+                    "wp": {
+                        "rl": 58.9,
+                        "sg": 46,
+                        "ssg": 31
+                    },
+                    "rl skill": {
+                        "ad": 87.5,
+                        "dh": 33
+                    },
+                    "armr&mhs": {
+                        "ga": 0,
+                        "ya": 13,
+                        "ra": 10,
+                        "mh": 5
+                    },
+                    "powerups": {
+                        "q": 1,
+                        "p": 0,
+                        "r": 0
+                    },
+                    "rl": {
+                        "took": 13,
+                        "killed": 9,
+                        "dropped": 8,
+                        "xfer": 1
+                    },
+                    "lg": {
+                        "took": 0,
+                        "killed": 0,
+                        "dropped": 0
+                    },
+                    "damage": {
+                        "tkn": 9398,
+                        "gvn": 9874,
+                        "ewep": 2884,
+                        "tm": 414,
+                        "self": 779,
+                        "todie": 167
+                    },
+                    "time": {
+                        "quad": 0
+                    },
+                    "streaks": {
+                        "frags": 35,
+                        "quadrun": 0
+                    },
+                    "spawnfrags": 13
+                },
+                {
+                    "team": "=s=",
+                    "name": "eb",
+                    "frags": 53,
+                    "net": 7,
+                    "tk": 1,
+                    "eff": 0.535,
+                    "wp": {
+                        "rl": 60.1,
+                        "gl": 24,
+                        "sg": 39.8,
+                        "ssg": 29.4
+                    },
+                    "rl skill": {
+                        "ad": 93.4,
+                        "dh": 23
+                    },
+                    "armr&mhs": {
+                        "ga": 0,
+                        "ya": 10,
+                        "ra": 11,
+                        "mh": 6
+                    },
+                    "powerups": {
+                        "q": 3,
+                        "p": 0,
+                        "r": 0
+                    },
+                    "rl": {
+                        "took": 13,
+                        "killed": 12,
+                        "dropped": 7,
+                        "xfer": 1
+                    },
+                    "lg": {
+                        "took": 0,
+                        "killed": 0,
+                        "dropped": 0
+                    },
+                    "damage": {
+                        "tkn": 7771,
+                        "gvn": 8043,
+                        "ewep": 2359,
+                        "tm": 296,
+                        "self": 783,
+                        "todie": 168
+                    },
+                    "time": {
+                        "quad": 84
+                    },
+                    "streaks": {
+                        "frags": 14,
+                        "quadrun": 4
+                    },
+                    "spawnfrags": 5
+                },
+                {
+                    "team": "=s=",
+                    "name": "Wimdowlicker",
+                    "frags": 73,
+                    "net": 46,
+                    "tk": 4,
+                    "eff": 0.73,
+                    "wp": {
+                        "rl": 60.7,
+                        "gl": 6.7,
+                        "sg": 43.3,
+                        "ssg": 23.5
+                    },
+                    "rl skill": {
+                        "ad": 105.9,
+                        "dh": 36
+                    },
+                    "armr&mhs": {
+                        "ga": 0,
+                        "ya": 14,
+                        "ra": 17,
+                        "mh": 13
+                    },
+                    "powerups": {
+                        "q": 6,
+                        "p": 0,
+                        "r": 0
+                    },
+                    "rl": {
+                        "took": 11,
+                        "killed": 16,
+                        "dropped": 5,
+                        "xfer": 1
+                    },
+                    "lg": {
+                        "took": 0,
+                        "killed": 0,
+                        "dropped": 0
+                    },
+                    "damage": {
+                        "tkn": 7106,
+                        "gvn": 14129,
+                        "ewep": 4358,
+                        "tm": 703,
+                        "self": 1835,
+                        "todie": 263
+                    },
+                    "time": {
+                        "quad": 124
+                    },
+                    "streaks": {
+                        "frags": 35,
+                        "quadrun": 8
+                    },
+                    "spawnfrags": 11
+                }
+            ],
+            "name": "=s=",
+            "frags": 160,
+            "eff": 40.7
+        }
+    },
+    "top": {
+        "frags": [
+            {
+                "name": "Wimdowlicker",
+                "score": 73
+            }
+        ],
+        "deaths": [
+            {
+                "name": "goblin",
+                "score": 76
+            }
+        ],
+        "friendkills": [
+            {
+                "name": "Wimdowlicker",
+                "score": 4
+            }
+        ],
+        "efficiency": [
+            {
+                "name": "Wimdowlicker",
+                "score": 73
+            }
+        ],
+        "fragstreak": [
+            {
+                "name": "hangtime",
+                "score": 35
+            },
+            {
+                "name": "Wimdowlicker",
+                "score": 35
+            }
+        ],
+        "quadrun": [
+            {
+                "name": "Wimdowlicker",
+                "score": 8
+            }
+        ],
+        "rl_killer": [
+            {
+                "name": "lethalwiz",
+                "score": 18
+            }
+        ],
+        "boomsticker": [
+            {
+                "name": "andeh",
+                "score": 47.5
+            }
+        ],
+        "survivor": [
+            {
+                "name": "Wimdowlicker",
+                "score": 263
+            }
+        ],
+        "annihilator": [
+            {
+                "name": "Wimdowlicker",
+                "score": 14129
+            }
+        ]
+    }
+}

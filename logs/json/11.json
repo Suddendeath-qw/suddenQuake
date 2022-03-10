@@ -1,1 +1,528 @@
-{"id":"2e556416e2f52537b5ad0be0fd5a5b6d5761b341","date":"2022-02-21 21:45:05 CET","mvd":"4on4_thug_vs_s_[dm2]210222-2144.mvd","map":"dm2","teams":{"thug":{"players":[{"team":"thug","name":"fl4m3r","frags":36,"net":-41,"tk":1,"eff":0.319,"wp":{"rl":49.1,"gl":27.5,"sg":47.1,"ssg":52.9},"rl_skill":{"ad":83.1,"dh":5},"armr_mhs":{"ga":0,"ya":18,"ra":5,"mh":4},"powerups":{"Q":1,"P":0,"R":0},"rl":{"Took":13,"Killed":11,"Dropped":6},"lg":{"Took":0,"Killed":0,"Dropped":0},"damage":{"Tkn":11211,"Gvn":9024,"EWep":4088,"Tm":337,"Self":296,"ToDie":145},"time":{"Quad":5},"spawnfrags":null},{"team":"thug","name":"btk","frags":50,"net":-5,"tk":1,"eff":0.47600000000000003,"wp":{"rl":57.2,"gl":11.3,"sg":45.3},"rl_skill":{"ad":83.1,"dh":18},"armr_mhs":{"ga":0,"ya":12,"ra":10,"mh":9},"powerups":{"Q":3,"P":0,"R":0},"rl":{"Took":11,"Killed":10,"Dropped":5,"Xfer":2},"lg":{"Took":0,"Killed":0,"Dropped":0},"damage":{"Tkn":9475,"Gvn":9298,"EWep":3529,"Tm":243,"Self":539,"ToDie":172},"time":{"Quad":21},"spawnfrags":null},{"team":"thug","name":"ThundeR","frags":44,"net":-24,"tk":6,"eff":0.39299999999999996,"wp":{"rl":60.7,"sg":42.6,"ssg":31.4},"rl_skill":{"ad":100,"dh":20},"armr_mhs":{"ga":0,"ya":22,"ra":7,"mh":3},"powerups":{"Q":2,"P":0,"R":0},"rl":{"Took":16,"Killed":11,"Dropped":11,"Xfer":1},"lg":{"Took":0,"Killed":0,"Dropped":0},"damage":{"Tkn":10874,"Gvn":10123,"EWep":3945,"Tm":788,"Self":975,"ToDie":159},"time":{"Quad":60},"spawnfrags":null},{"team":"thug","name":"samon","frags":40,"net":-58,"tk":4,"eff":0.29,"wp":{"rl":51.4,"gl":15.4,"sg":38.1,"ssg":39.9},"rl_skill":{"ad":107.2,"dh":21},"armr_mhs":{"ga":0,"ya":16,"ra":8,"mh":5},"powerups":{"Q":1,"P":0,"R":0},"rl":{"Took":16,"Killed":6,"Dropped":7,"Xfer":2},"lg":{"Took":0,"Killed":0,"Dropped":0},"damage":{"Tkn":12872,"Gvn":9339,"EWep":3416,"Tm":762,"Self":630,"ToDie":131},"time":{"Quad":20},"spawnfrags":null}],"name":"thug","teamStats":{"wp":{"rl":64,"gl":17,"sg":43,"ssg":42},"powerups":{"Q":7,"P":0,"R":0},"armr_mhs":{"ga":0,"ya":68,"ra":30,"mh":21},"rl":{"Took":56,"Killed":38,"Dropped":29,"Xfer":5},"lg":{"Took":0,"Killed":0,"Dropped":0},"damage":{"Tkn":44432,"Gvn":37784,"EWep":14978,"Tm":2130}},"frags":170,"eff":38.7},"=s=":{"players":[{"team":"=s=","name":"goblin","frags":63,"net":-10,"tk":1,"eff":0.46299999999999997,"wp":{"rl":68,"gl":22.2,"sg":31,"ssg":43.5},"rl_skill":{"ad":88,"dh":18},"armr_mhs":{"ga":0,"ya":12,"ra":16,"mh":3},"powerups":{"Q":3,"P":0,"R":0},"rl":{"Took":10,"Killed":10,"Dropped":6,"Xfer":3},"lg":{"Took":0,"Killed":0,"Dropped":0},"damage":{"Tkn":11136,"Gvn":10815,"EWep":2615,"Tm":155,"Self":1079,"ToDie":152},"time":{"Quad":33},"spawnfrags":null},{"team":"=s=","name":"rio","frags":77,"net":48,"tk":0,"eff":0.726,"wp":{"rl":59.7,"gl":6.2,"sg":43.7,"ssg":31.1},"rl_skill":{"ad":99.6,"dh":28},"armr_mhs":{"ga":0,"ya":15,"ra":14,"mh":9},"powerups":{"Q":5,"P":0,"R":0},"rl":{"Took":11,"Killed":14,"Dropped":7,"Xfer":2},"lg":{"Took":0,"Killed":0,"Dropped":0},"damage":{"Tkn":7505,"Gvn":12121,"EWep":2713,"Tm":509,"Self":1261,"ToDie":258},"time":{"Quad":117},"spawnfrags":null},{"team":"=s=","name":"mOlle","frags":60,"net":12,"tk":1,"eff":0.556,"wp":{"rl":64.5,"sg":42.4,"ssg":49.1},"rl_skill":{"ad":86.1,"dh":18},"armr_mhs":{"ga":0,"ya":8,"ra":19,"mh":7},"powerups":{"Q":1,"P":0,"R":0},"rl":{"Took":12,"Killed":7,"Dropped":5,"Xfer":1},"lg":{"Took":0,"Killed":0,"Dropped":0},"damage":{"Tkn":8879,"Gvn":10128,"EWep":1699,"Tm":210,"Self":454,"ToDie":184},"time":{"Quad":30},"spawnfrags":null},{"team":"=s=","name":"lethalwiz","frags":69,"net":20,"tk":2,"eff":0.585,"wp":{"rl":51.9,"sg":39.2,"ssg":47.2},"rl_skill":{"ad":93.7,"dh":24},"armr_mhs":{"ga":0,"ya":12,"ra":20,"mh":5},"powerups":{"Q":4,"P":0,"R":0},"rl":{"Took":12,"Killed":14,"Dropped":10,"Xfer":2},"lg":{"Took":0,"Killed":0,"Dropped":0},"damage":{"Tkn":10264,"Gvn":11368,"EWep":3170,"Tm":286,"Self":1074,"ToDie":209},"time":{"Quad":93},"spawnfrags":null}],"name":"=s=","teamStats":{"wp":{"rl":88,"gl":2,"sg":38,"ssg":43},"powerups":{"Q":13,"P":0,"R":0},"armr_mhs":{"ga":0,"ya":47,"ra":69,"mh":24},"rl":{"Took":45,"Killed":45,"Dropped":28,"Xfer":8},"lg":{"Took":0,"Killed":0,"Dropped":0},"damage":{"Tkn":37784,"Gvn":44432,"EWep":10197,"Tm":1160}},"frags":269,"eff":61.3}},"top":{"frags":[{"name":"rio","score":77}],"deaths":[{"name":"samon","score":98}],"friendkills":[{"name":"ThundeR","score":6}],"efficiency":[{"name":"rio","score":72.6}],"fragstreak":[{"name":"mOlle","score":30}],"quadrun":[{"name":"rio","score":8},{"name":"samon","score":8}],"rl_killer":[{"name":"rio","score":14},{"name":"lethalwiz","score":14}],"boomsticker":[{"name":"fl4m3r","score":47.1}],"survivor":[{"name":"rio","score":258}],"annihilator":[{"name":"rio","score":12121}]}}
+{
+    "id": "2e556416e2f52537b5ad0be0fd5a5b6d5761b341",
+    "date": "2022-02-21 21:45:05 CET",
+    "mvd": "4on4_thug_vs_s_[dm2]210222-2144.mvd",
+    "map": "dm2",
+    "teams": {
+        "thug": {
+            "players": [
+                {
+                    "team": "thug",
+                    "name": "fl4m3r",
+                    "frags": 36,
+                    "net": -41,
+                    "tk": 1,
+                    "eff": 0.319,
+                    "wp": {
+                        "rl": 49.1,
+                        "gl": 27.5,
+                        "sg": 47.1,
+                        "ssg": 52.9
+                    },
+                    "rl skill": {
+                        "ad": 83.1,
+                        "dh": 5
+                    },
+                    "armr&mhs": {
+                        "ga": 0,
+                        "ya": 18,
+                        "ra": 5,
+                        "mh": 4
+                    },
+                    "powerups": {
+                        "q": 1,
+                        "p": 0,
+                        "r": 0
+                    },
+                    "rl": {
+                        "took": 13,
+                        "killed": 11,
+                        "dropped": 6
+                    },
+                    "lg": {
+                        "took": 0,
+                        "killed": 0,
+                        "dropped": 0
+                    },
+                    "damage": {
+                        "tkn": 11211,
+                        "gvn": 9024,
+                        "ewep": 4088,
+                        "tm": 337,
+                        "self": 296,
+                        "todie": 145
+                    },
+                    "time": {
+                        "quad": 5
+                    },
+                    "streaks": {
+                        "frags": 4,
+                        "quadrun": 1
+                    },
+                    "spawnfrags": 1
+                },
+                {
+                    "team": "thug",
+                    "name": "btk",
+                    "frags": 50,
+                    "net": -5,
+                    "tk": 1,
+                    "eff": 0.47600000000000003,
+                    "wp": {
+                        "rl": 57.2,
+                        "gl": 11.3,
+                        "sg": 45.3
+                    },
+                    "rl skill": {
+                        "ad": 83.1,
+                        "dh": 18
+                    },
+                    "armr&mhs": {
+                        "ga": 0,
+                        "ya": 12,
+                        "ra": 10,
+                        "mh": 9
+                    },
+                    "powerups": {
+                        "q": 3,
+                        "p": 0,
+                        "r": 0
+                    },
+                    "rl": {
+                        "took": 11,
+                        "killed": 10,
+                        "dropped": 5,
+                        "xfer": 2
+                    },
+                    "lg": {
+                        "took": 0,
+                        "killed": 0,
+                        "dropped": 0
+                    },
+                    "damage": {
+                        "tkn": 9475,
+                        "gvn": 9298,
+                        "ewep": 3529,
+                        "tm": 243,
+                        "self": 539,
+                        "todie": 172
+                    },
+                    "time": {
+                        "quad": 21
+                    },
+                    "streaks": {
+                        "frags": 11,
+                        "quadrun": 3
+                    },
+                    "spawnfrags": 6
+                },
+                {
+                    "team": "thug",
+                    "name": "ThundeR",
+                    "frags": 44,
+                    "net": -24,
+                    "tk": 6,
+                    "eff": 0.39299999999999996,
+                    "wp": {
+                        "rl": 60.7,
+                        "sg": 42.6,
+                        "ssg": 31.4
+                    },
+                    "rl skill": {
+                        "ad": 100,
+                        "dh": 20
+                    },
+                    "armr&mhs": {
+                        "ga": 0,
+                        "ya": 22,
+                        "ra": 7,
+                        "mh": 3
+                    },
+                    "powerups": {
+                        "q": 2,
+                        "p": 0,
+                        "r": 0
+                    },
+                    "rl": {
+                        "took": 16,
+                        "killed": 11,
+                        "dropped": 11,
+                        "xfer": 1
+                    },
+                    "lg": {
+                        "took": 0,
+                        "killed": 0,
+                        "dropped": 0
+                    },
+                    "damage": {
+                        "tkn": 10874,
+                        "gvn": 10123,
+                        "ewep": 3945,
+                        "tm": 788,
+                        "self": 975,
+                        "todie": 159
+                    },
+                    "time": {
+                        "quad": 60
+                    },
+                    "streaks": {
+                        "frags": 19,
+                        "quadrun": 7
+                    },
+                    "spawnfrags": 6
+                },
+                {
+                    "team": "thug",
+                    "name": "samon",
+                    "frags": 40,
+                    "net": -58,
+                    "tk": 4,
+                    "eff": 0.29,
+                    "wp": {
+                        "rl": 51.4,
+                        "gl": 15.4,
+                        "sg": 38.1,
+                        "ssg": 39.9
+                    },
+                    "rl skill": {
+                        "ad": 107.2,
+                        "dh": 21
+                    },
+                    "armr&mhs": {
+                        "ga": 0,
+                        "ya": 16,
+                        "ra": 8,
+                        "mh": 5
+                    },
+                    "powerups": {
+                        "q": 1,
+                        "p": 0,
+                        "r": 0
+                    },
+                    "rl": {
+                        "took": 16,
+                        "killed": 6,
+                        "dropped": 7,
+                        "xfer": 2
+                    },
+                    "lg": {
+                        "took": 0,
+                        "killed": 0,
+                        "dropped": 0
+                    },
+                    "damage": {
+                        "tkn": 12872,
+                        "gvn": 9339,
+                        "ewep": 3416,
+                        "tm": 762,
+                        "self": 630,
+                        "todie": 131
+                    },
+                    "time": {
+                        "quad": 20
+                    },
+                    "streaks": {
+                        "frags": 9,
+                        "quadrun": 8
+                    },
+                    "spawnfrags": 5
+                },
+                {
+                    "team": "thug",
+                    "name": "goblin",
+                    "frags": 63,
+                    "net": -10,
+                    "tk": 1,
+                    "eff": 0.46299999999999997,
+                    "wp": {
+                        "rl": 68,
+                        "gl": 22.2,
+                        "sg": 31,
+                        "ssg": 43.5
+                    },
+                    "rl skill": {
+                        "ad": 88,
+                        "dh": 18
+                    },
+                    "armr&mhs": {
+                        "ga": 0,
+                        "ya": 12,
+                        "ra": 16,
+                        "mh": 3
+                    },
+                    "powerups": {
+                        "q": 3,
+                        "p": 0,
+                        "r": 0
+                    },
+                    "rl": {
+                        "took": 10,
+                        "killed": 10,
+                        "dropped": 6,
+                        "xfer": 3
+                    },
+                    "lg": {
+                        "took": 0,
+                        "killed": 0,
+                        "dropped": 0
+                    },
+                    "damage": {
+                        "tkn": 11136,
+                        "gvn": 10815,
+                        "ewep": 2615,
+                        "tm": 155,
+                        "self": 1079,
+                        "todie": 152
+                    },
+                    "time": {
+                        "quad": 33
+                    },
+                    "streaks": {
+                        "frags": 18,
+                        "quadrun": 2
+                    },
+                    "spawnfrags": 7
+                },
+                {
+                    "team": "thug",
+                    "name": "rio",
+                    "frags": 77,
+                    "net": 48,
+                    "tk": 0,
+                    "eff": 0.726,
+                    "wp": {
+                        "rl": 59.7,
+                        "gl": 6.2,
+                        "sg": 43.7,
+                        "ssg": 31.1
+                    },
+                    "rl skill": {
+                        "ad": 99.6,
+                        "dh": 28
+                    },
+                    "armr&mhs": {
+                        "ga": 0,
+                        "ya": 15,
+                        "ra": 14,
+                        "mh": 9
+                    },
+                    "powerups": {
+                        "q": 5,
+                        "p": 0,
+                        "r": 0
+                    },
+                    "rl": {
+                        "took": 11,
+                        "killed": 14,
+                        "dropped": 7,
+                        "xfer": 2
+                    },
+                    "lg": {
+                        "took": 0,
+                        "killed": 0,
+                        "dropped": 0
+                    },
+                    "damage": {
+                        "tkn": 7505,
+                        "gvn": 12121,
+                        "ewep": 2713,
+                        "tm": 509,
+                        "self": 1261,
+                        "todie": 258
+                    },
+                    "time": {
+                        "quad": 117
+                    },
+                    "streaks": {
+                        "frags": 17,
+                        "quadrun": 8
+                    },
+                    "spawnfrags": 8
+                },
+                {
+                    "team": "thug",
+                    "name": "mOlle",
+                    "frags": 60,
+                    "net": 12,
+                    "tk": 1,
+                    "eff": 0.556,
+                    "wp": {
+                        "rl": 64.5,
+                        "sg": 42.4,
+                        "ssg": 49.1
+                    },
+                    "rl skill": {
+                        "ad": 86.1,
+                        "dh": 18
+                    },
+                    "armr&mhs": {
+                        "ga": 0,
+                        "ya": 8,
+                        "ra": 19,
+                        "mh": 7
+                    },
+                    "powerups": {
+                        "q": 1,
+                        "p": 0,
+                        "r": 0
+                    },
+                    "rl": {
+                        "took": 12,
+                        "killed": 7,
+                        "dropped": 5,
+                        "xfer": 1
+                    },
+                    "lg": {
+                        "took": 0,
+                        "killed": 0,
+                        "dropped": 0
+                    },
+                    "damage": {
+                        "tkn": 8879,
+                        "gvn": 10128,
+                        "ewep": 1699,
+                        "tm": 210,
+                        "self": 454,
+                        "todie": 184
+                    },
+                    "time": {
+                        "quad": 30
+                    },
+                    "streaks": {
+                        "frags": 30,
+                        "quadrun": 2
+                    },
+                    "spawnfrags": 11
+                },
+                {
+                    "team": "thug",
+                    "name": "lethalwiz",
+                    "frags": 69,
+                    "net": 20,
+                    "tk": 2,
+                    "eff": 0.585,
+                    "wp": {
+                        "rl": 51.9,
+                        "sg": 39.2,
+                        "ssg": 47.2
+                    },
+                    "rl skill": {
+                        "ad": 93.7,
+                        "dh": 24
+                    },
+                    "armr&mhs": {
+                        "ga": 0,
+                        "ya": 12,
+                        "ra": 20,
+                        "mh": 5
+                    },
+                    "powerups": {
+                        "q": 4,
+                        "p": 0,
+                        "r": 0
+                    },
+                    "rl": {
+                        "took": 12,
+                        "killed": 14,
+                        "dropped": 10,
+                        "xfer": 2
+                    },
+                    "lg": {
+                        "took": 0,
+                        "killed": 0,
+                        "dropped": 0
+                    },
+                    "damage": {
+                        "tkn": 10264,
+                        "gvn": 11368,
+                        "ewep": 3170,
+                        "tm": 286,
+                        "self": 1074,
+                        "todie": 209
+                    },
+                    "time": {
+                        "quad": 93
+                    },
+                    "streaks": {
+                        "frags": 16,
+                        "quadrun": 5
+                    },
+                    "spawnfrags": 14
+                }
+            ],
+            "name": "thug",
+            "frags": 170,
+            "eff": 38.7
+        }
+    },
+    "top": {
+        "frags": [
+            {
+                "name": "rio",
+                "score": 77
+            }
+        ],
+        "deaths": [
+            {
+                "name": "samon",
+                "score": 98
+            }
+        ],
+        "friendkills": [
+            {
+                "name": "ThundeR",
+                "score": 6
+            }
+        ],
+        "efficiency": [
+            {
+                "name": "rio",
+                "score": 72.6
+            }
+        ],
+        "fragstreak": [
+            {
+                "name": "mOlle",
+                "score": 30
+            }
+        ],
+        "quadrun": [
+            {
+                "name": "rio",
+                "score": 8
+            },
+            {
+                "name": "samon",
+                "score": 8
+            }
+        ],
+        "rl_killer": [
+            {
+                "name": "rio",
+                "score": 14
+            },
+            {
+                "name": "lethalwiz",
+                "score": 14
+            }
+        ],
+        "boomsticker": [
+            {
+                "name": "fl4m3r",
+                "score": 47.1
+            }
+        ],
+        "survivor": [
+            {
+                "name": "rio",
+                "score": 258
+            }
+        ],
+        "annihilator": [
+            {
+                "name": "rio",
+                "score": 12121
+            }
+        ]
+    }
+}
