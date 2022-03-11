@@ -1,533 +1,522 @@
 {
-    "id": "5d78581f7ffd9b702a51fd338582865d967ee811",
-    "date": "2022-02-10 21:28:57 CET",
-    "mvd": "4on4_[m]_vs_s_[dm2]100222-2128.mvd",
-    "map": "dm2",
-    "teams": {
-        "[m]": {
-            "players": [
-                {
-                    "team": "[m]",
-                    "name": "splash",
-                    "frags": 67,
-                    "net": 34,
-                    "tk": 2,
-                    "eff": 0.67,
-                    "wp": {
-                        "rl": 57.1,
-                        "gl": 17.5,
-                        "sg": 37.2,
-                        "ssg": 21.4
-                    },
-                    "rl skill": {
-                        "ad": 82.4,
-                        "dh": 31
-                    },
-                    "armr&mhs": {
-                        "ga": 0,
-                        "ya": 10,
-                        "ra": 9,
-                        "mh": 7
-                    },
-                    "powerups": {
-                        "q": 0,
-                        "p": 0,
-                        "r": 0
-                    },
-                    "rl": {
-                        "took": 6,
-                        "killed": 8,
-                        "dropped": 4,
-                        "xfer": 1
-                    },
-                    "lg": {
-                        "took": 0,
-                        "killed": 0,
-                        "dropped": 0
-                    },
-                    "damage": {
-                        "tkn": 6602,
-                        "gvn": 11197,
-                        "ewep": 2896,
-                        "tm": 217,
-                        "self": 918,
-                        "todie": 200
-                    },
-                    "time": {
-                        "quad": 0
-                    },
-                    "streaks": {
-                        "frags": 28,
-                        "quadrun": 0
-                    },
-                    "spawnfrags": 18
-                },
-                {
-                    "team": "[m]",
-                    "name": "conan",
-                    "frags": 43,
-                    "net": -3,
-                    "tk": 2,
-                    "eff": 0.483,
-                    "wp": {
-                        "rl": 53.2,
-                        "sg": 42.8,
-                        "ssg": 24.5
-                    },
-                    "rl skill": {
-                        "ad": 100.9,
-                        "dh": 21
-                    },
-                    "armr&mhs": {
-                        "ga": 0,
-                        "ya": 14,
-                        "ra": 9,
-                        "mh": 3
-                    },
-                    "powerups": {
-                        "q": 3,
-                        "p": 0,
-                        "r": 0
-                    },
-                    "rl": {
-                        "took": 15,
-                        "killed": 6,
-                        "dropped": 9
-                    },
-                    "lg": {
-                        "took": 0,
-                        "killed": 0,
-                        "dropped": 0
-                    },
-                    "damage": {
-                        "tkn": 7772,
-                        "gvn": 8927,
-                        "ewep": 2795,
-                        "tm": 296,
-                        "self": 671,
-                        "todie": 168
-                    },
-                    "time": {
-                        "quad": 34
-                    },
-                    "streaks": {
-                        "frags": 10,
-                        "quadrun": 4
-                    },
-                    "spawnfrags": 7
-                },
-                {
-                    "team": "[m]",
-                    "name": "elguapo",
-                    "frags": 68,
-                    "net": 41,
-                    "tk": 1,
-                    "eff": 0.716,
-                    "wp": {
-                        "rl": 55.1,
-                        "gl": 16.7,
-                        "sg": 25.4,
-                        "ssg": 34.1
-                    },
-                    "rl skill": {
-                        "ad": 110.4,
-                        "dh": 27
-                    },
-                    "armr&mhs": {
-                        "ga": 0,
-                        "ya": 19,
-                        "ra": 15,
-                        "mh": 7
-                    },
-                    "powerups": {
-                        "q": 6,
-                        "p": 0,
-                        "r": 0
-                    },
-                    "rl": {
-                        "took": 10,
-                        "killed": 13,
-                        "dropped": 4,
-                        "xfer": 1
-                    },
-                    "lg": {
-                        "took": 0,
-                        "killed": 0,
-                        "dropped": 0
-                    },
-                    "damage": {
-                        "tkn": 6915,
-                        "gvn": 11524,
-                        "ewep": 3094,
-                        "tm": 496,
-                        "self": 1431,
-                        "todie": 256
-                    },
-                    "time": {
-                        "quad": 169
-                    },
-                    "streaks": {
-                        "frags": 21,
-                        "quadrun": 5
-                    },
-                    "spawnfrags": 10
-                },
-                {
-                    "team": "[m]",
-                    "name": "xero",
-                    "frags": 68,
-                    "net": 32,
-                    "tk": 0,
-                    "eff": 0.654,
-                    "wp": {
-                        "rl": 57.3,
-                        "sg": 41.5,
-                        "ssg": 40.5
-                    },
-                    "rl skill": {
-                        "ad": 106.1,
-                        "dh": 31
-                    },
-                    "armr&mhs": {
-                        "ga": 0,
-                        "ya": 16,
-                        "ra": 14,
-                        "mh": 4
-                    },
-                    "powerups": {
-                        "q": 4,
-                        "p": 0,
-                        "r": 0
-                    },
-                    "rl": {
-                        "took": 13,
-                        "killed": 14,
-                        "dropped": 6
-                    },
-                    "lg": {
-                        "took": 0,
-                        "killed": 0,
-                        "dropped": 0
-                    },
-                    "damage": {
-                        "tkn": 8002,
-                        "gvn": 12667,
-                        "ewep": 4945,
-                        "tm": 341,
-                        "self": 1029,
-                        "todie": 222
-                    },
-                    "time": {
-                        "quad": 91
-                    },
-                    "streaks": {
-                        "frags": 17,
-                        "quadrun": 5
-                    },
-                    "spawnfrags": 8
-                },
-                {
-                    "team": "[m]",
-                    "name": "goblin",
-                    "frags": 23,
-                    "net": -43,
-                    "tk": 3,
-                    "eff": 0.258,
-                    "wp": {
-                        "rl": 48.6,
-                        "gl": 6.7,
-                        "sg": 24.8,
-                        "ssg": 44
-                    },
-                    "rl skill": {
-                        "ad": 108.8,
-                        "dh": 16
-                    },
-                    "armr&mhs": {
-                        "ga": 0,
-                        "ya": 12,
-                        "ra": 18,
-                        "mh": 10
-                    },
-                    "powerups": {
-                        "q": 1,
-                        "p": 0,
-                        "r": 0
-                    },
-                    "rl": {
-                        "took": 14,
-                        "killed": 11,
-                        "dropped": 7,
-                        "xfer": 1
-                    },
-                    "lg": {
-                        "took": 0,
-                        "killed": 0,
-                        "dropped": 0
-                    },
-                    "damage": {
-                        "tkn": 11068,
-                        "gvn": 7013,
-                        "ewep": 3882,
-                        "tm": 746,
-                        "self": 501,
-                        "todie": 167
-                    },
-                    "time": {
-                        "quad": 30
-                    },
-                    "streaks": {
-                        "frags": 7,
-                        "quadrun": 3
-                    },
-                    "spawnfrags": 3
-                },
-                {
-                    "team": "[m]",
-                    "name": "rio",
-                    "frags": 40,
-                    "net": -16,
-                    "tk": 3,
-                    "eff": 0.41700000000000004,
-                    "wp": {
-                        "rl": 51.6,
-                        "gl": 20,
-                        "sg": 43.4,
-                        "ssg": 36.8
-                    },
-                    "rl skill": {
-                        "ad": 93.3,
-                        "dh": 16
-                    },
-                    "armr&mhs": {
-                        "ga": 0,
-                        "ya": 10,
-                        "ra": 21,
-                        "mh": 6
-                    },
-                    "powerups": {
-                        "q": 4,
-                        "p": 0,
-                        "r": 0
-                    },
-                    "rl": {
-                        "took": 15,
-                        "killed": 13,
-                        "dropped": 10,
-                        "xfer": 3
-                    },
-                    "lg": {
-                        "took": 0,
-                        "killed": 0,
-                        "dropped": 0
-                    },
-                    "damage": {
-                        "tkn": 10629,
-                        "gvn": 8569,
-                        "ewep": 4989,
-                        "tm": 845,
-                        "self": 550,
-                        "todie": 189
-                    },
-                    "time": {
-                        "quad": 71
-                    },
-                    "streaks": {
-                        "frags": 8,
-                        "quadrun": 4
-                    },
-                    "spawnfrags": 3
-                },
-                {
-                    "team": "[m]",
-                    "name": "mOlle",
-                    "frags": 27,
-                    "net": -40,
-                    "tk": 2,
-                    "eff": 0.287,
-                    "wp": {
-                        "rl": 43.1,
-                        "gl": 5.3,
-                        "sg": 40.9,
-                        "ssg": 41.8
-                    },
-                    "rl skill": {
-                        "ad": 89.4,
-                        "dh": 10
-                    },
-                    "armr&mhs": {
-                        "ga": 0,
-                        "ya": 12,
-                        "ra": 7,
-                        "mh": 3
-                    },
-                    "powerups": {
-                        "q": 1,
-                        "p": 0,
-                        "r": 0
-                    },
-                    "rl": {
-                        "took": 8,
-                        "killed": 7,
-                        "dropped": 8,
-                        "xfer": 4
-                    },
-                    "lg": {
-                        "took": 0,
-                        "killed": 0,
-                        "dropped": 0
-                    },
-                    "damage": {
-                        "tkn": 9434,
-                        "gvn": 6884,
-                        "ewep": 3276,
-                        "tm": 442,
-                        "self": 367,
-                        "todie": 140
-                    },
-                    "time": {
-                        "quad": 30
-                    },
-                    "streaks": {
-                        "frags": 6,
-                        "quadrun": 3
-                    },
-                    "spawnfrags": 3
-                },
-                {
-                    "team": "[m]",
-                    "name": "lethalwiz",
-                    "frags": 22,
-                    "net": -65,
-                    "tk": 2,
-                    "eff": 0.20199999999999999,
-                    "wp": {
-                        "rl": 47.3,
-                        "gl": 50,
-                        "sg": 43.3,
-                        "ssg": 28.6
-                    },
-                    "rl skill": {
-                        "ad": 88.1,
-                        "dh": 10
-                    },
-                    "armr&mhs": {
-                        "ga": 0,
-                        "ya": 17,
-                        "ra": 11,
-                        "mh": 2
-                    },
-                    "powerups": {
-                        "q": 1,
-                        "p": 0,
-                        "r": 0
-                    },
-                    "rl": {
-                        "took": 13,
-                        "killed": 5,
-                        "dropped": 9,
-                        "xfer": 1
-                    },
-                    "lg": {
-                        "took": 0,
-                        "killed": 0,
-                        "dropped": 0
-                    },
-                    "damage": {
-                        "tkn": 13184,
-                        "gvn": 6825,
-                        "ewep": 3540,
-                        "tm": 324,
-                        "self": 490,
-                        "todie": 151
-                    },
-                    "time": {
-                        "quad": 30
-                    },
-                    "streaks": {
-                        "frags": 4,
-                        "quadrun": 1
-                    },
-                    "spawnfrags": 1
-                }
-            ],
-            "name": "[m]",
-            "frags": 246,
-            "eff": 68.7
+  "id": "5d78581f7ffd9b702a51fd338582865d967ee811",
+  "date": "2022-02-10 21:28:57 CET",
+  "mvd": "4on4_[m]_vs_s_[dm2]100222-2128.mvd",
+  "map": "dm2",
+  "teams": {
+    "[m]": {
+      "name": "[m]",
+      "frags": 246,
+      "eff": 68.7,
+      "players": [
+        {
+          "name": "splash",
+          "frags": 67,
+          "net": 34,
+          "tk": 2,
+          "eff": 67,
+          "wp": {
+            "rl": 57.1,
+            "gl": 17.5,
+            "sg": 37.2,
+            "ssg": 21.4
+          },
+          "rl_skill": {
+            "ad": 82.4,
+            "dh": 31
+          },
+          "armr&mhs": {
+            "ga": 0,
+            "ya": 10,
+            "ra": 9,
+            "mh": 7
+          },
+          "powerups": {
+            "q": 0,
+            "p": 0,
+            "r": 0
+          },
+          "rl": {
+            "took": 6,
+            "killed": 8,
+            "dropped": 4,
+            "xfer": 1
+          },
+          "lg": {
+            "took": 0,
+            "killed": 0,
+            "dropped": 0
+          },
+          "damage": {
+            "tkn": 6602,
+            "gvn": 11197,
+            "ewep": 2896,
+            "tm": 217,
+            "self": 918,
+            "todie": 200
+          },
+          "time": {
+            "quad": 0
+          },
+          "streaks": {
+            "frags": 28,
+            "quadrun": 0
+          },
+          "spawnfrags": 18
+        },
+        {
+          "name": "conan",
+          "frags": 43,
+          "net": -3,
+          "tk": 2,
+          "eff": 48.3,
+          "rl_skill": {
+            "ad": 100.9,
+            "dh": 21
+          },
+          "armr&mhs": {
+            "ga": 0,
+            "ya": 14,
+            "ra": 9,
+            "mh": 3
+          },
+          "powerups": {
+            "q": 3,
+            "p": 0,
+            "r": 0
+          },
+          "rl": {
+            "took": 15,
+            "killed": 6,
+            "dropped": 9
+          },
+          "lg": {
+            "took": 0,
+            "killed": 0,
+            "dropped": 0
+          },
+          "damage": {
+            "tkn": 7772,
+            "gvn": 8927,
+            "ewep": 2795,
+            "tm": 296,
+            "self": 671,
+            "todie": 168
+          },
+          "time": {
+            "quad": 34
+          },
+          "streaks": {
+            "frags": 10,
+            "quadrun": 4
+          },
+          "spawnfrags": 7
+        },
+        {
+          "name": "elguapo",
+          "frags": 68,
+          "net": 41,
+          "tk": 1,
+          "eff": 71.6,
+          "wp": {
+            "rl": 55.1,
+            "gl": 16.7,
+            "sg": 25.4,
+            "ssg": 34.1
+          },
+          "rl_skill": {
+            "ad": 110.4,
+            "dh": 27
+          },
+          "armr&mhs": {
+            "ga": 0,
+            "ya": 19,
+            "ra": 15,
+            "mh": 7
+          },
+          "powerups": {
+            "q": 6,
+            "p": 0,
+            "r": 0
+          },
+          "rl": {
+            "took": 10,
+            "killed": 13,
+            "dropped": 4,
+            "xfer": 1
+          },
+          "lg": {
+            "took": 0,
+            "killed": 0,
+            "dropped": 0
+          },
+          "damage": {
+            "tkn": 6915,
+            "gvn": 11524,
+            "ewep": 3094,
+            "tm": 496,
+            "self": 1431,
+            "todie": 256
+          },
+          "time": {
+            "quad": 169
+          },
+          "streaks": {
+            "frags": 21,
+            "quadrun": 5
+          },
+          "spawnfrags": 10
+        },
+        {
+          "name": "xero",
+          "frags": 68,
+          "net": 32,
+          "tk": 0,
+          "eff": 65.4,
+          "rl_skill": {
+            "ad": 106.1,
+            "dh": 31
+          },
+          "armr&mhs": {
+            "ga": 0,
+            "ya": 16,
+            "ra": 14,
+            "mh": 4
+          },
+          "powerups": {
+            "q": 4,
+            "p": 0,
+            "r": 0
+          },
+          "rl": {
+            "took": 13,
+            "killed": 14,
+            "dropped": 6
+          },
+          "lg": {
+            "took": 0,
+            "killed": 0,
+            "dropped": 0
+          },
+          "damage": {
+            "tkn": 8002,
+            "gvn": 12667,
+            "ewep": 4945,
+            "tm": 341,
+            "self": 1029,
+            "todie": 222
+          },
+          "time": {
+            "quad": 91
+          },
+          "streaks": {
+            "frags": 17,
+            "quadrun": 5
+          },
+          "spawnfrags": 8
         }
+      ]
     },
-    "top": {
-        "frags": [
-            {
-                "name": "elguapo",
-                "score": 68
-            },
-            {
-                "name": "xero",
-                "score": 68
-            }
-        ],
-        "deaths": [
-            {
-                "name": "lethalwiz",
-                "score": 87
-            }
-        ],
-        "friendkills": [
-            {
-                "name": "goblin",
-                "score": 3
-            },
-            {
-                "name": "rio",
-                "score": 3
-            }
-        ],
-        "efficiency": [
-            {
-                "name": "elguapo",
-                "score": 71.6
-            }
-        ],
-        "fragstreak": [
-            {
-                "name": "splash",
-                "score": 28
-            }
-        ],
-        "quadrun": [
-            {
-                "name": "elguapo",
-                "score": 5
-            },
-            {
-                "name": "xero",
-                "score": 5
-            }
-        ],
-        "rl_killer": [
-            {
-                "name": "xero",
-                "score": 14
-            }
-        ],
-        "boomsticker": [
-            {
-                "name": "rio",
-                "score": 43.4
-            }
-        ],
-        "survivor": [
-            {
-                "name": "elguapo",
-                "score": 256
-            }
-        ],
-        "annihilator": [
-            {
-                "name": "xero",
-                "score": 12667
-            }
-        ]
+    "=s=": {
+      "name": "=s=",
+      "frags": 112,
+      "eff": 31.3,
+      "players": [
+        {
+          "name": "goblin",
+          "frags": 23,
+          "net": -43,
+          "tk": 3,
+          "eff": 25.8,
+          "wp": {
+            "rl": 48.6,
+            "gl": 6.7,
+            "sg": 24.8,
+            "ssg": 44
+          },
+          "rl_skill": {
+            "ad": 108.8,
+            "dh": 16
+          },
+          "armr&mhs": {
+            "ga": 0,
+            "ya": 12,
+            "ra": 18,
+            "mh": 10
+          },
+          "powerups": {
+            "q": 1,
+            "p": 0,
+            "r": 0
+          },
+          "rl": {
+            "took": 14,
+            "killed": 11,
+            "dropped": 7,
+            "xfer": 1
+          },
+          "lg": {
+            "took": 0,
+            "killed": 0,
+            "dropped": 0
+          },
+          "damage": {
+            "tkn": 11068,
+            "gvn": 7013,
+            "ewep": 3882,
+            "tm": 746,
+            "self": 501,
+            "todie": 167
+          },
+          "time": {
+            "quad": 30
+          },
+          "streaks": {
+            "frags": 7,
+            "quadrun": 3
+          },
+          "spawnfrags": 3
+        },
+        {
+          "name": "rio",
+          "frags": 40,
+          "net": -16,
+          "tk": 3,
+          "eff": 41.7,
+          "wp": {
+            "rl": 51.6,
+            "gl": 20,
+            "sg": 43.4,
+            "ssg": 36.8
+          },
+          "rl_skill": {
+            "ad": 93.3,
+            "dh": 16
+          },
+          "armr&mhs": {
+            "ga": 0,
+            "ya": 10,
+            "ra": 21,
+            "mh": 6
+          },
+          "powerups": {
+            "q": 4,
+            "p": 0,
+            "r": 0
+          },
+          "rl": {
+            "took": 15,
+            "killed": 13,
+            "dropped": 10,
+            "xfer": 3
+          },
+          "lg": {
+            "took": 0,
+            "killed": 0,
+            "dropped": 0
+          },
+          "damage": {
+            "tkn": 10629,
+            "gvn": 8569,
+            "ewep": 4989,
+            "tm": 845,
+            "self": 550,
+            "todie": 189
+          },
+          "time": {
+            "quad": 71
+          },
+          "streaks": {
+            "frags": 8,
+            "quadrun": 4
+          },
+          "spawnfrags": 3
+        },
+        {
+          "name": "mOlle",
+          "frags": 27,
+          "net": -40,
+          "tk": 2,
+          "eff": 28.7,
+          "wp": {
+            "rl": 43.1,
+            "gl": 5.3,
+            "sg": 40.9,
+            "ssg": 41.8
+          },
+          "rl_skill": {
+            "ad": 89.4,
+            "dh": 10
+          },
+          "armr&mhs": {
+            "ga": 0,
+            "ya": 12,
+            "ra": 7,
+            "mh": 3
+          },
+          "powerups": {
+            "q": 1,
+            "p": 0,
+            "r": 0
+          },
+          "rl": {
+            "took": 8,
+            "killed": 7,
+            "dropped": 8,
+            "xfer": 4
+          },
+          "lg": {
+            "took": 0,
+            "killed": 0,
+            "dropped": 0
+          },
+          "damage": {
+            "tkn": 9434,
+            "gvn": 6884,
+            "ewep": 3276,
+            "tm": 442,
+            "self": 367,
+            "todie": 140
+          },
+          "time": {
+            "quad": 30
+          },
+          "streaks": {
+            "frags": 6,
+            "quadrun": 3
+          },
+          "spawnfrags": 3
+        },
+        {
+          "name": "lethalwiz",
+          "frags": 22,
+          "net": -65,
+          "tk": 2,
+          "eff": 20.2,
+          "wp": {
+            "rl": 47.3,
+            "gl": 50,
+            "sg": 43.3,
+            "ssg": 28.6
+          },
+          "rl_skill": {
+            "ad": 88.1,
+            "dh": 10
+          },
+          "armr&mhs": {
+            "ga": 0,
+            "ya": 17,
+            "ra": 11,
+            "mh": 2
+          },
+          "powerups": {
+            "q": 1,
+            "p": 0,
+            "r": 0
+          },
+          "rl": {
+            "took": 13,
+            "killed": 5,
+            "dropped": 9,
+            "xfer": 1
+          },
+          "lg": {
+            "took": 0,
+            "killed": 0,
+            "dropped": 0
+          },
+          "damage": {
+            "tkn": 13184,
+            "gvn": 6825,
+            "ewep": 3540,
+            "tm": 324,
+            "self": 490,
+            "todie": 151
+          },
+          "time": {
+            "quad": 30
+          },
+          "streaks": {
+            "frags": 4,
+            "quadrun": 1
+          },
+          "spawnfrags": 1
+        }
+      ]
     }
+  },
+  "top": {
+    "frags": [
+      {
+        "name": "elguapo",
+        "score": 68
+      },
+      {
+        "name": "xero",
+        "score": 68
+      }
+    ],
+    "deaths": [
+      {
+        "name": "lethalwiz",
+        "score": 87
+      }
+    ],
+    "friendkills": [
+      {
+        "name": "goblin",
+        "score": 3
+      },
+      {
+        "name": "rio",
+        "score": 3
+      }
+    ],
+    "efficiency": [
+      {
+        "name": "elguapo",
+        "score": 71.6
+      }
+    ],
+    "fragstreak": [
+      {
+        "name": "splash",
+        "score": 28
+      }
+    ],
+    "quadrun": [
+      {
+        "name": "elguapo",
+        "score": 5
+      },
+      {
+        "name": "xero",
+        "score": 5
+      }
+    ],
+    "rl_killer": [
+      {
+        "name": "xero",
+        "score": 14
+      }
+    ],
+    "boomsticker": [
+      {
+        "name": "rio",
+        "score": 43.4
+      }
+    ],
+    "survivor": [
+      {
+        "name": "elguapo",
+        "score": 256
+      }
+    ],
+    "annihilator": [
+      {
+        "name": "xero",
+        "score": 12667
+      }
+    ]
+  }
 }

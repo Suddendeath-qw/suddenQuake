@@ -52,7 +52,8 @@ function main () {
     c.len = lines.length;
 
     Log_ParseLines();
-    fs.writeFileSync(jsonName, JSON.stringify(data))
+    console.log(data.map, data.mvd, data.date)
+    fs.writeFileSync(jsonName, JSON.stringify(data, null, 2))
 }
 
 function getFileNameFromArgs() {
@@ -66,10 +67,10 @@ function getFileNameFromArgs() {
 function Log_ParseLines () {
     while (c.i < c.len) {
         let line = c.lines[c.i];
-        if (line.match(/Team\s\[.{0,4}\]\:/)) Log_ParseTeam();
+        if (line.match(/Team\s\[.{0,4}\]\:/i)) Log_ParseTeam();
         //if (line.match(/\[.{0,4}\]\svs\s\[.{0,4}\]/)) Log_MatchStats();
-        if (line.match(/\[.+\]\stop\sscorers\:/)) Log_TopScorers();
-        if (line.match(/\[.{0,4}\]\:\s[0-4]+/)) Log_TeamScores();
+        if (line.match(/\[.+\]\stop\sscorers\:/i)) Log_TopScorers();
+        if (line.match(/Team\sscores/i)) Log_TeamScores();
 
         // Go to next line
         c.i++;
@@ -77,35 +78,54 @@ function Log_ParseLines () {
 }
 
 function Log_TeamScores () {
-    let ln = c.lines[c.i];
-    let m = ln.match(/\[(.{0,4})\]\:\s([0-9]+)\s\.\s([0-9\.\%]+)/)
-    if (!m || !data.teams.hasOwnProperty(m[1])) return;
+    let m;
+    let nTeams = 0;
 
-    data.teams[m[1]].frags = parseInt(m[2])
-    data.teams[m[1]].eff = parseFloat(m[3])
+    do {
+        let ln = c.lines[c.i];
+
+        if (m = ln.match(/\[(.+)\]\:\s([0-9\-]+)[\s\.]*([0-9\.\%]+)/i)) {
+            if (data.teams.hasOwnProperty(m[1])) {
+                nTeams++;
+                data.teams[m[1]].frags = parseInt(m[2])
+                data.teams[m[1]].eff = parseFloat(m[3])
+                //console.log(c.i, data.teams[m[1]].frags, data.teams[m[1]].eff)
+            }
+            continue;
+        }
+    } while (nTeams < Object.keys(data.teams).length && c.i++ && c.i < c.lines.length)
+        
 }
 
 function Log_TopScorers () {
-    let ln = c.lines[c.i];
-    data.map = ln.match(/\[(.+)\]/)[1]
-    console.log(c.i, data.map)
+
     let topscorers = {}
+    let m;
     let cat;
 
-    do {
-        let col;
-        ln = c.lines[c.i].trim()
-        let m = ln.match(/^([a-z\sA-Z]+)\:/)
-        if (m) cat = m[1].replace(" ", "_").toLowerCase()
+    do {    
+        let ln = c.lines[c.i];
+        // Map
+        if (m = ln.match(/\[([a-z0-9]+)\]\stop\sscorers\:/)) {
+            data.map = m[1]
+            continue;
+        }
 
-        col = ln.split(" ").slice(-2)
-        if (col.length < 2) break;
-        col[1] = parseFloat(col[1].replace(/[\[\]]/g, ""))
+        // Category
+        if (m = ln.trim().match(/^([a-z\s]+)\:\s(.+)\s\[([0-9\.\%]+)\]/i)) {
+            cat = m[1].replace(" ", "_").toLowerCase()
+            topscorers[cat] = new Array()
+            topscorers[cat].push({ name: m[2], score: parseFloat(m[3])})
+            continue;
+        }
 
-        topscorers[cat] = topscorers[cat] || []
-        topscorers[cat].push({ name: col[0], score: col[1] })
+        // Player from last category
+        if (m = ln.trim().match(/^([^\:]+)\s\[([0-9\.\%]+)\]/)) {
+            topscorers[cat].push({ name: m[1], score: parseFloat(m[2])})
+            continue;
+        }
 
-    } while (c.lines[++c.i].match(/^[\r\n ]+$/))
+    } while (c.i++ && c.lines[c.i].length > 2)
 
     // Save topscorers
     data.top = topscorers
@@ -123,6 +143,8 @@ function Log_MatchStats () {
 function Log_ParseTeam() {
     let team = {
         name: "",
+        frags: 0,
+        eff: 0,
         players: []
     }
 
@@ -152,7 +174,7 @@ function Log_ParseTeam() {
             // Begin of new player, save old
             p++;
             players[p] = { name: m[1] }
-            console.log(c.i, m[1])
+            //console.log(c.i, m[1])
         
             continue;
         }
@@ -164,7 +186,7 @@ function Log_ParseTeam() {
             players[p].net = parseInt(m[2])
             players[p].tk = parseInt(m[3])
             players[p].eff = parseFloat(m[4])
-            console.log(c.i, players[p])
+            //console.log(c.i, players[p])
             
             continue;
         }
@@ -191,7 +213,8 @@ function Log_ParseTeam() {
                 Time: Quad:27
             Streaks: Frags:9 QuadRun:2
         */
-        if (m = ln.trim().match(/^(.+)\:\s([a-z]+:[0-9\.]+)\s?([a-z]+:[0-9\.]+)?\s?([a-z]+:[0-9\.]+)?\s?([a-z]+:[0-9\.]+)?([a-z]+:[0-9\.]+)?\s?([a-z]+:[0-9\.]+)?/i)) {
+        if (m = ln.trim().match(/^([a-z\s\&]+)\:\s([a-z]+\:[0-9\.]+)\s?([a-z]+\:[0-9\.]+)?\s?([a-z]+\:[0-9\.]+)?\s?([a-z]+\:[0-9\.]+)?\s?([a-z]+\:[0-9\.]+)?\s?([a-z]+\:[0-9\.]+)?/i)) {
+            //console.log(c.i, m)
             m[1] = m[1].trim().replace(' ', '_').toLowerCase();
             players[p][m[1]] = {}
             m.slice(2).forEach(cl => {
@@ -210,10 +233,10 @@ function Log_ParseTeam() {
         }
         //console.log(c.i - 1, "->", c.i, p, team.name, c.lines[c.i].charCodeAt(0))
 
-    console.log(c.i, c.lines[c.i + 1].charCodeAt(0))
-    } while (!c.lines[++c.i].match(/^[\r\n\s]+$/))
+    } while (c.i++ && !c.lines[c.i].match(/^[\r\n\s]+$/) && c.lines[c.i].charCodeAt(0) !== 13 && c.lines[c.i].length > 2)
 
     // Save team
-    data.teams[team.name] = team;   
+    team.players = players
+    data.teams[team.name] = team 
     //console.log(c.i, "save_team", team.name)
 }
