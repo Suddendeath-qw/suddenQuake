@@ -126,11 +126,14 @@ function Log_ParseTeam() {
         players: []
     }
 
-    let player;
+    let p = -1;
+    let players = [];
 
     do {
         let ln = c.lines[c.i];
         let m;
+
+        //console.log(c.i, ln)
 
         // Row: Team name
         if (m = ln.match(/Team\s\[(.{0,4})\]\:/)) {
@@ -139,41 +142,41 @@ function Log_ParseTeam() {
             continue;
         }
 
-        if (ln.match(/^([\_]+)[\r\n ]+$/)) {
-            // Row: __________
-            // Begin of new player, save old
-            if (player) team.players.push(player)
-            //console.log(c.i, "save", player && player.name)
-            player = {} // reset
+        /*if (ln.match(/^([\_]+)[\r\n ]+$/)) {
+
             continue;
-        }
+        }*/
 
         // Row: Player name
-        if (m = ln.match(/^\_\s(.+)\:/)) {
-            player.name = m[1]
-            //console.log(c.i, m[1])
+        if (m = ln.match(/^\_\s(.+)\:/)) {        
+            // Begin of new player, save old
+            p++;
+            players[p] = { name: m[1] }
+            console.log(c.i, m[1])
+        
             continue;
         }
 
         // Row: Frags (net) friendkills . efficiency
         // 86 (39) 6 64.7%
-        if (m = ln.match(/\s\s([0-9]+)\s\(([0-9]+)\)\s([0-9]+)\s([0-9\.\%]+)/)) {
-            player.frags = parseInt(m[1])
-            player.net = parseInt(m[2])
-            player.tk = parseInt(m[3])
-            player.eff = parseFloat(m[4])
-            //console.log(c.i, player)
+        if (m = ln.match(/\s\s([0-9\-]+)\s\(([0-9\-]+)\)\s([0-9]+)\s([0-9\.\%]+)/)) {
+            players[p].frags = parseInt(m[1])
+            players[p].net = parseInt(m[2])
+            players[p].tk = parseInt(m[3])
+            players[p].eff = parseFloat(m[4])
+            console.log(c.i, players[p])
+            
             continue;
         }
         
         // Wp: rl71.0% gl44.0% sg45.3% ssg26.8%
         if (m = ln.match(/Wp:\s([a-z0-9\.\%]+)?\s(?:\([0-9\/]+\))?\s?([a-z0-9\.\%]+)?\s([a-z0-9\.\%]+)?\s([a-z0-9\.\%]+)?\s([a-z0-9\.\%]+)?/i)) {
             //console.log(c.i, m.slice(1))
-            player.wp = {}
+            players[p].wp = {}
             m.slice(1).forEach(wp => {
                 if (!wp) return;
                 wp = wp.match(/^([a-z]+)([0-9\.]+)/)
-                player.wp[wp[1].toLowerCase()] = parseFloat(wp[2]) 
+                players[p].wp[wp[1].toLowerCase()] = parseFloat(wp[2]) 
             })
             continue;
         }
@@ -190,11 +193,11 @@ function Log_ParseTeam() {
         */
         if (m = ln.trim().match(/^(.+)\:\s([a-z]+:[0-9\.]+)\s?([a-z]+:[0-9\.]+)?\s?([a-z]+:[0-9\.]+)?\s?([a-z]+:[0-9\.]+)?([a-z]+:[0-9\.]+)?\s?([a-z]+:[0-9\.]+)?/i)) {
             m[1] = m[1].trim().replace(' ', '_').toLowerCase();
-            player[m[1]] = {}
+            players[p][m[1]] = {}
             m.slice(2).forEach(cl => {
                 if (!cl) return;
                 cl = cl.split(':')
-                player[m[1]][cl[0].toLowerCase()] = parseFloat(cl[1]) 
+                players[p][m[1]][cl[0].toLowerCase()] = parseFloat(cl[1]) 
             })
 
             //console.log(c.i, m[1])
@@ -202,15 +205,15 @@ function Log_ParseTeam() {
         }
 
         if (m = ln.match(/SpawnFrags\:\s([0-9]+)/i)) {
-            player.spawnfrags = parseInt(m[1])
+            players[p].spawnfrags = parseInt(m[1])
             //console.log(c.i, "spawnfrags", player.spawnfrags)
         }
-        //console.log(c.i - 1, "->", c.i, "player.name", team.name, c.lines[c.i].charCodeAt(0))
+        //console.log(c.i - 1, "->", c.i, p, team.name, c.lines[c.i].charCodeAt(0))
 
-
-    } while (!c.lines[++c.i].match(/^[\r\n ]+$/))
+    console.log(c.i, c.lines[c.i + 1].charCodeAt(0))
+    } while (!c.lines[++c.i].match(/^[\r\n\s]+$/))
 
     // Save team
-    data.teams[team.name] = team;
+    data.teams[team.name] = team;   
     //console.log(c.i, "save_team", team.name)
 }
