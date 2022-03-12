@@ -2,6 +2,13 @@ import fs from "fs"
 import path from "path"
 import crypto from "crypto"
 
+// TODO
+// Normalize Quad, Q, Quadrun?
+// armr&mhs => armrmhs
+// rl skill => rlskill
+// spawnfrags move up in output object
+// TYPESCRIPT THIS FILE
+
 let c = {
     lines: null,
     i: 0,
