@@ -1,4 +1,5 @@
 import * as fs from "fs"
+import {PlayerData} from "./logtypes"
 
 // TODO
 // Convert to flat instantly!
@@ -21,71 +22,6 @@ const FILTER_PLAYERS  = [
     "mOlle"
 ]
 
-
-
-
-interface PlayerData {
-    team: string,
-    name: string,
-    frags: number
-    net: number,
-    tk: number,
-    eff: number,
-    wp: {
-        axe?: number,
-        sg?: number,
-        ssg?: number,
-        ng?: number,
-        sng?: number
-        gl?: number,
-        rl?: number,
-        lg?: number
-    },
-    rl_skill: {
-        ad?: number,
-        dh?: number
-    },
-    'armr&mhs': {
-        ga?: number,
-        ya?: number,
-        ra?: number,
-        mh?: number
-    },
-    powerups: {
-        q?: number,
-        p?: number,
-        r?: number
-    },
-    rl: {
-        took: number,
-        killed: number,
-        dropped: number,
-        xfer?: number
-    },
-    lg: {
-        took: number,
-        killed: number,
-        dropped: number,
-        xfer?: number
-    },
-    damage: {
-        tkn: number,
-        gvn: number,
-        ewep?: number,
-        tm?: number,
-        self?: number,
-        todie?: number
-    },
-    time: {
-        quad?: number
-    },
-    streaks: {
-        frags: number,
-        quadrun?: number
-    },
-    spawnfrags: number
-}
-
 const emptyPlayerData = ():PlayerData => ({
     team: "",
     name: "",
@@ -94,9 +30,9 @@ const emptyPlayerData = ():PlayerData => ({
     net: 0,
     eff: 0,
     wp: {},
-    rl_skill: {},
-    'armr&mhs': {},
-    powerups: {},
+    rlskill: { ad: 0, dh: 0},
+    armrmhs: { ga: 0, ya: 0, ra:0, mh: 0},
+    powerups: { q: 0, p: 0, r: 0 },
     rl: {took :0, killed: 0, dropped: 0},
     lg: {took :0, killed: 0, dropped: 0},
     damage: {

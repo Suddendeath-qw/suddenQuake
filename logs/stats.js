@@ -36,9 +36,9 @@ var emptyPlayerData = function () { return ({
     net: 0,
     eff: 0,
     wp: {},
-    rl_skill: {},
-    'armr&mhs': {},
-    powerups: {},
+    rlskill: { ad: 0, dh: 0 },
+    armrmhs: { ga: 0, ya: 0, ra: 0, mh: 0 },
+    powerups: { q: 0, p: 0, r: 0 },
     rl: { took: 0, killed: 0, dropped: 0 },
     lg: { took: 0, killed: 0, dropped: 0 },
     damage: {

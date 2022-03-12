@@ -3,10 +3,6 @@ import path from "path"
 import crypto from "crypto"
 
 // TODO
-// Normalize Quad, Q, Quadrun?
-// armr&mhs => armrmhs
-// rl skill => rlskill
-// spawnfrags move up in output object
 // TYPESCRIPT THIS FILE
 
 let c = {
@@ -27,6 +23,19 @@ main();
 
 function main () {
     let logStr, logEnd, jsonName
+/*
+    try {
+        if (!process.argv[2]) throw new Error("usage: node logparser.mjs <logfile|logdir>")
+        const fpath = path.join(process.cwd(), process.argv[2])
+        if (!fs.existsSync(fpath)) throw new Error("logfile or directory not found")
+        
+        const fstat = fs.lstatSync(fpath)
+        if (fstat.isDirectory()) Log_ParseFiles(fpath)
+        else if (fstat.isFile()) Log_ParseFile(fpath)
+    } catch (e) {
+        console.error(e)
+    }*/
+
     try {
         const fileName = getFileNameFromArgs();
         jsonName = path.basename(fileName, path.extname(fileName)) + ".json"
@@ -180,7 +189,7 @@ function Log_ParseTeam() {
         if (m = ln.match(/^\_\s(.+)\:/)) {        
             // Begin of new player, save old
             p++;
-            players[p] = { name: m[1] }
+            players[p] = { name: m[1], team: team.name }
             //console.log(c.i, m[1])
         
             continue;
@@ -222,7 +231,7 @@ function Log_ParseTeam() {
         */
         if (m = ln.trim().match(/^([a-z\s\&]+)\:\s([a-z]+\:[0-9\.]+)\s?([a-z]+\:[0-9\.]+)?\s?([a-z]+\:[0-9\.]+)?\s?([a-z]+\:[0-9\.]+)?\s?([a-z]+\:[0-9\.]+)?\s?([a-z]+\:[0-9\.]+)?/i)) {
             //console.log(c.i, m)
-            m[1] = m[1].trim().replace(' ', '_').toLowerCase();
+            m[1] = m[1].trim().replace(/[\s\&]/g, '').toLowerCase();
             players[p][m[1]] = {}
             m.slice(2).forEach(cl => {
                 if (!cl) return;
