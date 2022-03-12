@@ -58,3 +58,42 @@ export interface PlayerData {
     },
     spawnfrags: number
 }
+
+
+export interface TeamData {
+    name: string,
+    frags: number,
+    eff: number,
+    players?: Array<PlayerData>
+}
+
+export interface TeamDataObj {
+    [index: string]: TeamData
+}
+
+export interface TopScorerEntry {
+    name?: string,
+    score?: number
+}
+
+export interface TopScorerStats {
+    frags: Array<TopScorerEntry>,
+    deaths: Array<TopScorerEntry>,
+    friendkills: Array<TopScorerEntry>,
+    efficiency: Array<TopScorerEntry>,
+    fragstreak: Array<TopScorerEntry>,
+    quadrun: Array<TopScorerEntry>,
+    rl_killer: Array<TopScorerEntry>,
+    boomsticker: Array<TopScorerEntry>,
+    survivor: Array<TopScorerEntry>,
+    annihilator: Array<TopScorerEntry>
+}
+
+export interface MatchDataObj {
+    id: string,
+    date: string,
+    mvd: string,
+    map: string,
+    teams: TeamDataObj,
+    top?: TopScorerStats
+}

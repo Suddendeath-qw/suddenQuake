@@ -1,5 +1,5 @@
 import * as fs from "fs"
-import {PlayerData} from "./logtypes"
+import {PlayerData, MatchDataObj, TopScorerStats, TopScorerEntry, TeamDataObj, TeamData} from "./logtypes"
 
 // TODO
 // Convert to flat instantly!
@@ -21,30 +21,6 @@ const FILTER_PLAYERS  = [
     "goblin",
     "mOlle"
 ]
-
-const emptyPlayerData = ():PlayerData => ({
-    team: "",
-    name: "",
-    frags: 0,
-    tk: 0,
-    net: 0,
-    eff: 0,
-    wp: {},
-    rlskill: { ad: 0, dh: 0},
-    armrmhs: { ga: 0, ya: 0, ra:0, mh: 0},
-    powerups: { q: 0, p: 0, r: 0 },
-    rl: {took :0, killed: 0, dropped: 0},
-    lg: {took :0, killed: 0, dropped: 0},
-    damage: {
-        tkn: 0,
-        gvn: 0
-    },
-    time: {},
-    streaks: {
-        frags: 0
-    },
-    spawnfrags: 0
-})
 
 interface FlatPlayerStats {
     // Metadata
@@ -168,46 +144,6 @@ const defaultFlatPlayerStats = ():FlatPlayerStats => ({
     streaks_quadrun: 0,
 })
 
-
-
-
-interface TeamData {
-    name: string,
-    frags: number,
-    eff: number,
-    players: Array<PlayerData>
-}
-
-interface TeamDataObj {
-    [index: string]: TeamData
-}
-
-interface TopScorerEntry {
-    name: string,
-    score: number
-}
-
-interface TopScorerStats {
-    frags: Array<TopScorerEntry>,
-    deaths: Array<TopScorerEntry>,
-    friendkills: Array<TopScorerEntry>,
-    efficiency: Array<TopScorerEntry>,
-    fragstreak: Array<TopScorerEntry>,
-    quadrun: Array<TopScorerEntry>,
-    rl_killer: Array<TopScorerEntry>,
-    boomsticker: Array<TopScorerEntry>,
-    survivor: Array<TopScorerEntry>,
-    annihilator: Array<TopScorerEntry>
-}
-
-interface MatchDataObj {
-    id: string,
-    date: string,
-    mvd: string,
-    map: string,
-    teams: TeamDataObj,
-    top: TopScorerStats
-}
 
 class MatchData implements MatchDataObj {
     id = ""
