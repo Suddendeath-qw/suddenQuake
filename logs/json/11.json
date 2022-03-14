@@ -10,6 +10,7 @@
       "eff": 38.7,
       "players": [
         {
+          "team": "thug",
           "name": "fl4m3r",
           "frags": 36,
           "net": -41,
@@ -21,11 +22,11 @@
             "sg": 47.1,
             "ssg": 52.9
           },
-          "rl_skill": {
+          "rlskill": {
             "ad": 83.1,
             "dh": 5
           },
-          "armr&mhs": {
+          "armrmhs": {
             "ga": 0,
             "ya": 18,
             "ra": 5,
@@ -64,16 +65,22 @@
           "spawnfrags": 1
         },
         {
+          "team": "thug",
           "name": "btk",
           "frags": 50,
           "net": -5,
           "tk": 1,
           "eff": 47.6,
-          "rl_skill": {
+          "wp": {
+            "rl": 57.2,
+            "gl": 11.3,
+            "sg": 45.3
+          },
+          "rlskill": {
             "ad": 83.1,
             "dh": 18
           },
-          "armr&mhs": {
+          "armrmhs": {
             "ga": 0,
             "ya": 12,
             "ra": 10,
@@ -113,16 +120,22 @@
           "spawnfrags": 6
         },
         {
+          "team": "thug",
           "name": "ThundeR",
           "frags": 44,
           "net": -24,
           "tk": 6,
           "eff": 39.3,
-          "rl_skill": {
+          "wp": {
+            "rl": 60.7,
+            "sg": 42.6,
+            "ssg": 31.4
+          },
+          "rlskill": {
             "ad": 100,
             "dh": 20
           },
-          "armr&mhs": {
+          "armrmhs": {
             "ga": 0,
             "ya": 22,
             "ra": 7,
@@ -162,6 +175,7 @@
           "spawnfrags": 6
         },
         {
+          "team": "thug",
           "name": "samon",
           "frags": 40,
           "net": -58,
@@ -173,11 +187,11 @@
             "sg": 38.1,
             "ssg": 39.9
           },
-          "rl_skill": {
+          "rlskill": {
             "ad": 107.2,
             "dh": 21
           },
-          "armr&mhs": {
+          "armrmhs": {
             "ga": 0,
             "ya": 16,
             "ra": 8,
@@ -224,6 +238,7 @@
       "eff": 61.3,
       "players": [
         {
+          "team": "=s=",
           "name": "goblin",
           "frags": 63,
           "net": -10,
@@ -235,11 +250,11 @@
             "sg": 31,
             "ssg": 43.5
           },
-          "rl_skill": {
+          "rlskill": {
             "ad": 88,
             "dh": 18
           },
-          "armr&mhs": {
+          "armrmhs": {
             "ga": 0,
             "ya": 12,
             "ra": 16,
@@ -279,6 +294,7 @@
           "spawnfrags": 7
         },
         {
+          "team": "=s=",
           "name": "rio",
           "frags": 77,
           "net": 48,
@@ -290,11 +306,11 @@
             "sg": 43.7,
             "ssg": 31.1
           },
-          "rl_skill": {
+          "rlskill": {
             "ad": 99.6,
             "dh": 28
           },
-          "armr&mhs": {
+          "armrmhs": {
             "ga": 0,
             "ya": 15,
             "ra": 14,
@@ -334,16 +350,22 @@
           "spawnfrags": 8
         },
         {
+          "team": "=s=",
           "name": "mOlle",
           "frags": 60,
           "net": 12,
           "tk": 1,
           "eff": 55.6,
-          "rl_skill": {
+          "wp": {
+            "rl": 64.5,
+            "sg": 42.4,
+            "ssg": 49.1
+          },
+          "rlskill": {
             "ad": 86.1,
             "dh": 18
           },
-          "armr&mhs": {
+          "armrmhs": {
             "ga": 0,
             "ya": 8,
             "ra": 19,
@@ -383,16 +405,22 @@
           "spawnfrags": 11
         },
         {
+          "team": "=s=",
           "name": "lethalwiz",
           "frags": 69,
           "net": 20,
           "tk": 2,
           "eff": 58.5,
-          "rl_skill": {
+          "wp": {
+            "rl": 51.9,
+            "sg": 39.2,
+            "ssg": 47.2
+          },
+          "rlskill": {
             "ad": 93.7,
             "dh": 24
           },
-          "armr&mhs": {
+          "armrmhs": {
             "ga": 0,
             "ya": 12,
             "ra": 20,
@@ -475,7 +503,7 @@
         "score": 8
       }
     ],
-    "rl_killer": [
+    "rlkiller": [
       {
         "name": "rio",
         "score": 14

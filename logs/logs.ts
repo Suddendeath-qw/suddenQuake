@@ -1,7 +1,7 @@
 import * as fs from "fs"
 import * as path from "path"
 import * as crypto from "crypto"
-import {PlayerData, MatchDataObj, TopScorerStats, TopScorerEntry, TeamDataObj, TeamData} from "./logtypes"
+import {PlayerData, MatchDataObj} from "./logtypes"
 
 const emptyPlayerData = ():PlayerData => ({
     team: "",
@@ -30,7 +30,7 @@ const emptyMatchDataObj = ():MatchDataObj => ({
     teams: {}
 });
 
-class MatchData implements MatchDataObj {
+export class MatchData implements MatchDataObj {
     id = ""
     date = ""
     mvd = ""
@@ -79,18 +79,23 @@ class LineParser {
     // current
     c_team: string
 
-    re_MatchOver = /^The\smatch\sis\sover$/i
+    re_MatchMvd = /^Server\sstarts\srecording\s\((?:memory|disk)\)\:\s(.+)$/i
+    re_MatchDate = /^matchdate\:\s([0-9]{4}\-[0-9]{2}\-[0-9]{2}\s[0-9]{2}\:[0-9]{2}\:[0-9]{2}\s[a-z]+)$/i
 
     re_PlayerTeam = /^Team\s\[(.+)\]\:$/i
     re_Player = /^\_\s(.+)\:$/i
-    re_Player_1 = /^([0-9\-]+)\s\(([0-9\-]+)\)\s([0-9]+)\s([0-9\.\%]+)$/
-    re_Player_2 = /^Wp\:\s([a-z0-9\.\%]+)?\s?([a-z0-9\.\%]+)?\s?([a-z0-9\.\%]+)?\s?([a-z0-9\.\%]+)?\s?([a-z0-9\.\%]+)?$/i
-    re_Player_3 = /^([a-z\s\&]+)\:\s([a-z]+\:[0-9\.]+)\s?([a-z]+\:[0-9\.]+)?\s?([a-z]+\:[0-9\.]+)?\s?([a-z]+\:[0-9\.]+)?\s?([a-z]+\:[0-9\.]+)?\s?([a-z]+\:[0-9\.]+)?/i
+    re_Player_1 = /^([0-9\-]+)\s\(([0-9\-]+)\)\s([0-9]+)\s([0-9.%]+)$/
+    re_Player_2 = /^Wp\:\s([a-z0-9.%]+)?\s?([a-z0-9.%]+)?\s?([a-z0-9.%]+)?\s?([a-z0-9.%]+)?\s?([a-z0-9.%]+)?$/i
+    re_Player_3 = /^([a-z\s\&]+)\:\s([a-z]+\:[0-9.]+)\s?([a-z]+\:[0-9.]+)?\s?([a-z]+\:[0-9.]+)?\s?([a-z]+\:[0-9.]+)?\s?([a-z]+\:[0-9.]+)?\s?([a-z]+\:[0-9.]+)?/i
     re_Player_4 = /^SpawnFrags\:\s([0-9]+)$/i
     re_PlayerEnd = /^\_{10}$/
     re_WpStats = /^([a-z]+)([0-9\.]+)/i
 
     re_TopScorers = /\[(.+)\]\stop\sscorers\:$/i
+    re_TopCategory = /^([a-z\s]+)\:\s(.+)\s\[([0-9%.\-]+)\]$/i
+    re_TopPlayer = /^(.+)\s\[([0-9%.\-]+)\]$/i
+
+    re_TeamScores = /\[(.{0,4})\]\:\s([0-9\-]+)\s\.\s([0-9.%]+)$/i
 
 
     constructor (lc:LineCursor, data:MatchData) {
@@ -99,26 +104,34 @@ class LineParser {
         this.over = false;
     }
 
-    parse () {
+    parse ():MatchData {
         let lc = this.lc;
         do {
             //console.log(lc.num(), lc.line());
             this.matchLine(lc.line());
         } while (typeof lc.next() === "string")
+
+        return this.data;
     }
 
     matchLine (lineText:string) {
         let matches: RegExpMatchArray;
-        if (matches = lineText.match(this.re_MatchOver)) return this.parse_MatchOver(matches);
+        if (matches = lineText.match(this.re_MatchMvd)) return this.parse_MatchMvd(matches);
+        else if (matches = lineText.match(this.re_MatchDate)) return this.parse_MatchDate(matches);
         else if (matches = lineText.match(this.re_PlayerTeam)) return this.parse_PlayerTeam(matches);
         else if (matches = lineText.match(this.re_Player)) return this.parse_Player(matches);
         // TODO: TeamStats
         else if (matches = lineText.match(this.re_TopScorers)) return this.parse_TopScorers(matches);
+        else if (matches = lineText.match(this.re_TeamScores)) return this.parse_TeamScores(matches);
     }
 
-    private parse_MatchOver (m:RegExpMatchArray) {
-        //console.log(this.lc.num(), this.lc.line(), "parse_MatchOver")
-        this.over = true;
+    private parse_MatchMvd (m:RegExpMatchArray) {
+        this.data.mvd = m[1];
+        this.data.id = crypto.createHash("sha1").update(this.data.mvd).digest("hex")
+    }
+
+    private parse_MatchDate (m:RegExpMatchArray) {
+        this.data.date = m[1];
     }
 
     private parse_PlayerTeam (m:RegExpMatchArray) {
@@ -185,35 +198,56 @@ class LineParser {
 
             ln = this.lc.next()
         } while (!ln.match(this.re_PlayerEnd) && ln.length)
+
+        this.data.teams[p.team].players.push(p);
     } // parse_Player (m:RegExpMatchArray)
 
     private parse_TopScorers (m:RegExpMatchArray) {
         this.data.map = m[1];
+        this.data.top = {};
         let ln:string;
-        let topName:string;
+        let cols:RegExpMatchArray;
+        let scoreName:string;
 
 
-        do {
-
+        do { 
+            if (cols = this.lc.line().match(this.re_TopCategory)) {
+                scoreName = cols[1].replace(/[^a-z0-9]/gi, '').toLowerCase();
+                this.data.top[scoreName] = [];
+                this.data.top[scoreName].push({ name: cols[2], score: parseFloat(cols[3]) })
+            } else if (cols = this.lc.line().match(this.re_TopPlayer)) {
+                this.data.top[scoreName].push({ name: cols[1], score: parseFloat(cols[2]) })
+            }
 
             ln = this.lc.next();
         } while (ln.length)
 
-        console.log(this.lc.num(), m, this.lc.line())
+        //console.log(this.data.top)   
     }
-}
 
-function Log_ParseLines (lc:LineCursor, data:MatchData) {
-    
-}
+    private parse_TeamScores (m:RegExpMatchArray) {
+        const teamName = m[1]; 
+        this.data.teams[teamName].frags = parseInt(m[2]);
+        this.data.teams[teamName].eff = parseFloat(m[3]);
+        //console.log(this.data.teams[teamName])
+    }
+
+} // Class LineParser
+
 
 function Log_ParseFile (fpath:string) {
-    const buf = fs.readFileSync(fpath)
+    const buf = fs.readFileSync(fpath);
     const lc = new LineCursor(buf);
     const md = new MatchData(emptyMatchDataObj());
 
     const lineParser = new LineParser(lc, md);
-    lineParser.parse();
+    const data = lineParser.parse();
+
+    // WriteJSON
+    const outputPath = path.join(process.cwd(), path.parse(fpath).name + ".json");
+    fs.writeFileSync(outputPath, JSON.stringify(data, null, 2));
+
+    //console.log(data)
 }
 
 function Log_ParseFiles (fpath:string) {

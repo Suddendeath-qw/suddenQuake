@@ -10,6 +10,7 @@
       "eff": 33.4,
       "players": [
         {
+          "team": "=s=",
           "name": "andeh",
           "frags": 31,
           "net": -52,
@@ -21,11 +22,11 @@
             "sg": 43,
             "ssg": 37.8
           },
-          "rl_skill": {
+          "rlskill": {
             "ad": 109.1,
             "dh": 10
           },
-          "armr&mhs": {
+          "armrmhs": {
             "ga": 0,
             "ya": 10,
             "ra": 10,
@@ -41,6 +42,12 @@
             "killed": 7,
             "dropped": 3,
             "xfer": 1
+          },
+          "lg": {
+            "took": 0,
+            "killed": 0,
+            "dropped": 0,
+            "xfer": 0
           },
           "damage": {
             "tkn": 11346,
@@ -60,6 +67,7 @@
           "spawnfrags": 3
         },
         {
+          "team": "=s=",
           "name": "rio",
           "frags": 50,
           "net": -23,
@@ -71,11 +79,11 @@
             "sg": 45.4,
             "ssg": 56.1
           },
-          "rl_skill": {
+          "rlskill": {
             "ad": 78.9,
             "dh": 17
           },
-          "armr&mhs": {
+          "armrmhs": {
             "ga": 0,
             "ya": 17,
             "ra": 14,
@@ -91,6 +99,12 @@
             "killed": 9,
             "dropped": 6,
             "xfer": 3
+          },
+          "lg": {
+            "took": 0,
+            "killed": 0,
+            "dropped": 0,
+            "xfer": 0
           },
           "damage": {
             "tkn": 12224,
@@ -110,6 +124,7 @@
           "spawnfrags": 3
         },
         {
+          "team": "=s=",
           "name": "goblin",
           "frags": 41,
           "net": -67,
@@ -121,11 +136,11 @@
             "sg": 35.9,
             "ssg": 45.9
           },
-          "rl_skill": {
+          "rlskill": {
             "ad": 92.4,
             "dh": 10
           },
-          "armr&mhs": {
+          "armrmhs": {
             "ga": 0,
             "ya": 10,
             "ra": 13,
@@ -141,6 +156,12 @@
             "killed": 7,
             "dropped": 5,
             "xfer": 1
+          },
+          "lg": {
+            "took": 0,
+            "killed": 0,
+            "dropped": 0,
+            "xfer": 0
           },
           "damage": {
             "tkn": 14065,
@@ -160,16 +181,22 @@
           "spawnfrags": 1
         },
         {
+          "team": "=s=",
           "name": "lethalwiz",
           "frags": 30,
           "net": -43,
           "tk": 4,
           "eff": 29.1,
-          "rl_skill": {
+          "wp": {
+            "rl": 49.5,
+            "sg": 44.6,
+            "ssg": 43.3
+          },
+          "rlskill": {
             "ad": 89,
             "dh": 14
           },
-          "armr&mhs": {
+          "armrmhs": {
             "ga": 0,
             "ya": 12,
             "ra": 20,
@@ -185,6 +212,12 @@
             "killed": 8,
             "dropped": 6,
             "xfer": 2
+          },
+          "lg": {
+            "took": 0,
+            "killed": 0,
+            "dropped": 0,
+            "xfer": 0
           },
           "damage": {
             "tkn": 12453,
@@ -211,6 +244,7 @@
       "eff": 66.6,
       "players": [
         {
+          "team": "dc",
           "name": "pooll.dc",
           "frags": 73,
           "net": 20,
@@ -222,11 +256,11 @@
             "sg": 42.6,
             "ssg": 43.3
           },
-          "rl_skill": {
+          "rlskill": {
             "ad": 129,
             "dh": 30
           },
-          "armr&mhs": {
+          "armrmhs": {
             "ga": 0,
             "ya": 10,
             "ra": 13,
@@ -241,6 +275,12 @@
             "took": 11,
             "killed": 13,
             "dropped": 4
+          },
+          "lg": {
+            "took": 0,
+            "killed": 0,
+            "dropped": 0,
+            "xfer": 0
           },
           "damage": {
             "tkn": 9687,
@@ -260,6 +300,7 @@
           "spawnfrags": 13
         },
         {
+          "team": "dc",
           "name": "sniegov.dc",
           "frags": 85,
           "net": 48,
@@ -271,11 +312,11 @@
             "sg": 56.1,
             "ssg": 49.3
           },
-          "rl_skill": {
+          "rlskill": {
             "ad": 81.6,
             "dh": 37
           },
-          "armr&mhs": {
+          "armrmhs": {
             "ga": 0,
             "ya": 18,
             "ra": 4,
@@ -291,6 +332,12 @@
             "killed": 7,
             "dropped": 4,
             "xfer": 2
+          },
+          "lg": {
+            "took": 0,
+            "killed": 0,
+            "dropped": 0,
+            "xfer": 0
           },
           "damage": {
             "tkn": 6333,
@@ -310,6 +357,7 @@
           "spawnfrags": 18
         },
         {
+          "team": "dc",
           "name": "airman.dc",
           "frags": 79,
           "net": 33,
@@ -321,11 +369,11 @@
             "sg": 40.6,
             "ssg": 40.3
           },
-          "rl_skill": {
+          "rlskill": {
             "ad": 119.1,
             "dh": 33
           },
-          "armr&mhs": {
+          "armrmhs": {
             "ga": 0,
             "ya": 10,
             "ra": 18,
@@ -341,6 +389,12 @@
             "killed": 13,
             "dropped": 4,
             "xfer": 1
+          },
+          "lg": {
+            "took": 0,
+            "killed": 0,
+            "dropped": 0,
+            "xfer": 0
           },
           "damage": {
             "tkn": 9793,
@@ -360,6 +414,7 @@
           "spawnfrags": 8
         },
         {
+          "team": "dc",
           "name": "grl.dc",
           "frags": 66,
           "net": 16,
@@ -371,11 +426,11 @@
             "sg": 37.5,
             "ssg": 100
           },
-          "rl_skill": {
+          "rlskill": {
             "ad": 102.8,
             "dh": 28
           },
-          "armr&mhs": {
+          "armrmhs": {
             "ga": 0,
             "ya": 26,
             "ra": 10,
@@ -390,6 +445,12 @@
             "took": 8,
             "killed": 6,
             "dropped": 2
+          },
+          "lg": {
+            "took": 0,
+            "killed": 0,
+            "dropped": 0,
+            "xfer": 0
           },
           "damage": {
             "tkn": 9284,
@@ -452,7 +513,7 @@
         "score": 8
       }
     ],
-    "rl_killer": [
+    "rlkiller": [
       {
         "name": "pooll.dc",
         "score": 13

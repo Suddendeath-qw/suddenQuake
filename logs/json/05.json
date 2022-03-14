@@ -10,23 +10,26 @@
       "eff": 47.5,
       "players": [
         {
+          "team": "+er+",
           "name": "Wimdowlicker",
           "frags": 62,
           "net": 42,
           "tk": 3,
           "eff": 75.6,
           "wp": {
-            "lg": 25.7,
-            "rl": 45.9,
-            "gl": 13.3,
-            "sg": 46.8,
-            "ssg": 100
+            "sg": 0,
+            "ssg": 0,
+            "ng": 0,
+            "sng": 0,
+            "gl": 0,
+            "rl": 0,
+            "lg": 0
           },
-          "rl_skill": {
+          "rlskill": {
             "ad": 100.9,
             "dh": 9
           },
-          "armr&mhs": {
+          "armrmhs": {
             "ga": 0,
             "ya": 9,
             "ra": 6,
@@ -66,22 +69,26 @@
           "spawnfrags": 3
         },
         {
+          "team": "+er+",
           "name": "splif",
           "frags": 47,
           "net": -18,
           "tk": 1,
           "eff": 42,
           "wp": {
-            "lg": 35.1,
-            "rl": 63.6,
-            "sg": 28.5,
-            "ssg": 53
+            "sg": 0,
+            "ssg": 0,
+            "ng": 0,
+            "sng": 0,
+            "gl": 0,
+            "rl": 0,
+            "lg": 0
           },
-          "rl_skill": {
+          "rlskill": {
             "ad": 76,
             "dh": 7
           },
-          "armr&mhs": {
+          "armrmhs": {
             "ga": 0,
             "ya": 7,
             "ra": 2,
@@ -120,16 +127,22 @@
           "spawnfrags": 2
         },
         {
+          "team": "+er+",
           "name": "zigg",
           "frags": 31,
           "net": -43,
           "tk": 1,
           "eff": 29.5,
-          "rl_skill": {
+          "wp": {
+            "rl": 55.9,
+            "sg": 38.6,
+            "ssg": 40.8
+          },
+          "rlskill": {
             "ad": 75.8,
             "dh": 7
           },
-          "armr&mhs": {
+          "armrmhs": {
             "ga": 0,
             "ya": 5,
             "ra": 3,
@@ -168,23 +181,26 @@
           "spawnfrags": 0
         },
         {
+          "team": "+er+",
           "name": "hangtime",
           "frags": 38,
           "net": -17,
           "tk": 1,
           "eff": 40.9,
           "wp": {
-            "lg": 28,
-            "rl": 59.5,
-            "gl": 33.3,
-            "sg": 40.6,
-            "ssg": 33.3
+            "sg": 0,
+            "ssg": 0,
+            "ng": 0,
+            "sng": 0,
+            "gl": 0,
+            "rl": 0,
+            "lg": 0
           },
-          "rl_skill": {
+          "rlskill": {
             "ad": 75.2,
             "dh": 5
           },
-          "armr&mhs": {
+          "armrmhs": {
             "ga": 0,
             "ya": 6,
             "ra": 5,
@@ -230,23 +246,26 @@
       "eff": 52.5,
       "players": [
         {
+          "team": "=s=",
           "name": "rio",
           "frags": 46,
           "net": 8,
           "tk": 2,
           "eff": 54.8,
           "wp": {
-            "lg": 44.8,
-            "rl": 34.6,
-            "gl": 12.5,
-            "sg": 50.7,
-            "ssg": 52.7
+            "sg": 0,
+            "ssg": 0,
+            "ng": 0,
+            "sng": 0,
+            "gl": 0,
+            "rl": 0,
+            "lg": 0
           },
-          "rl_skill": {
+          "rlskill": {
             "ad": 99.7,
             "dh": 4
           },
-          "armr&mhs": {
+          "armrmhs": {
             "ga": 0,
             "ya": 7,
             "ra": 6,
@@ -285,22 +304,26 @@
           "spawnfrags": 2
         },
         {
+          "team": "=s=",
           "name": "andeh",
           "frags": 52,
           "net": -8,
           "tk": 0,
           "eff": 46.4,
           "wp": {
-            "lg": 34.5,
-            "rl": 53,
-            "sg": 51.7,
-            "ssg": 39.1
+            "sg": 0,
+            "ssg": 0,
+            "ng": 0,
+            "sng": 0,
+            "gl": 0,
+            "rl": 0,
+            "lg": 0
           },
-          "rl_skill": {
+          "rlskill": {
             "ad": 103.4,
             "dh": 6
           },
-          "armr&mhs": {
+          "armrmhs": {
             "ga": 0,
             "ya": 6,
             "ra": 8,
@@ -339,22 +362,26 @@
           "spawnfrags": 3
         },
         {
+          "team": "=s=",
           "name": "goblin",
           "frags": 67,
           "net": 23,
           "tk": 1,
           "eff": 60.4,
           "wp": {
-            "lg": 37.8,
-            "rl": 73.8,
-            "sg": 38.7,
-            "ssg": 31.9
+            "sg": 0,
+            "ssg": 0,
+            "ng": 0,
+            "sng": 0,
+            "gl": 0,
+            "rl": 0,
+            "lg": 0
           },
-          "rl_skill": {
+          "rlskill": {
             "ad": 77.6,
             "dh": 9
           },
-          "armr&mhs": {
+          "armrmhs": {
             "ga": 0,
             "ya": 7,
             "ra": 9,
@@ -394,23 +421,26 @@
           "spawnfrags": 5
         },
         {
+          "team": "=s=",
           "name": "mOlle",
           "frags": 32,
           "net": -24,
           "tk": 3,
           "eff": 36.4,
           "wp": {
-            "lg": 45.5,
-            "rl": 46.4,
-            "gl": 20,
-            "sg": 37.7,
-            "ssg": 55.4
+            "sg": 0,
+            "ssg": 0,
+            "ng": 0,
+            "sng": 0,
+            "gl": 0,
+            "rl": 0,
+            "lg": 0
           },
-          "rl_skill": {
+          "rlskill": {
             "ad": 78.5,
             "dh": 7
           },
-          "armr&mhs": {
+          "armrmhs": {
             "ga": 0,
             "ya": 3,
             "ra": 5,
@@ -492,7 +522,7 @@
         "score": 7
       }
     ],
-    "rl_killer": [
+    "rlkiller": [
       {
         "name": "goblin",
         "score": 11

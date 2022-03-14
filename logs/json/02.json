@@ -10,23 +10,26 @@
       "eff": 59,
       "players": [
         {
+          "team": "=s=",
           "name": "rio",
           "frags": 61,
           "net": 31,
           "tk": 4,
           "eff": 67,
           "wp": {
-            "lg": 33.9,
-            "rl": 41.7,
-            "gl": 33.3,
-            "sg": 45.3,
-            "ssg": 42.3
+            "sg": 0,
+            "ssg": 0,
+            "ng": 0,
+            "sng": 0,
+            "gl": 0,
+            "rl": 0,
+            "lg": 0
           },
-          "rl_skill": {
+          "rlskill": {
             "ad": 85.5,
             "dh": 7
           },
-          "armr&mhs": {
+          "armrmhs": {
             "ga": 0,
             "ya": 8,
             "ra": 13,
@@ -66,23 +69,26 @@
           "spawnfrags": 2
         },
         {
+          "team": "=s=",
           "name": "lethalwiz",
           "frags": 46,
           "net": 0,
           "tk": 3,
           "eff": 50,
           "wp": {
-            "lg": 28.6,
-            "rl": 52.1,
-            "gl": 33.3,
-            "sg": 44.3,
-            "ssg": 27.1
+            "sg": 0,
+            "ssg": 0,
+            "ng": 0,
+            "sng": 0,
+            "gl": 0,
+            "rl": 0,
+            "lg": 0
           },
-          "rl_skill": {
+          "rlskill": {
             "ad": 98.3,
             "dh": 10
           },
-          "armr&mhs": {
+          "armrmhs": {
             "ga": 0,
             "ya": 12,
             "ra": 5,
@@ -122,22 +128,26 @@
           "spawnfrags": 5
         },
         {
+          "team": "=s=",
           "name": "andeh",
           "frags": 37,
           "net": -32,
           "tk": 1,
           "eff": 34.9,
           "wp": {
-            "lg": 34,
-            "rl": 70.5,
-            "sg": 52.2,
-            "ssg": 58.7
+            "sg": 0,
+            "ssg": 0,
+            "ng": 0,
+            "sng": 0,
+            "gl": 0,
+            "rl": 0,
+            "lg": 0
           },
-          "rl_skill": {
+          "rlskill": {
             "ad": 70.6,
             "dh": 2
           },
-          "armr&mhs": {
+          "armrmhs": {
             "ga": 0,
             "ya": 7,
             "ra": 4,
@@ -177,23 +187,26 @@
           "spawnfrags": 2
         },
         {
+          "team": "=s=",
           "name": "goblin",
           "frags": 72,
           "net": 40,
           "tk": 1,
           "eff": 69.2,
           "wp": {
-            "lg": 40.2,
-            "rl": 63.5,
-            "gl": 18.2,
-            "sg": 38.2,
-            "ssg": 45.7
+            "sg": 0,
+            "ssg": 0,
+            "ng": 0,
+            "sng": 0,
+            "gl": 0,
+            "rl": 0,
+            "lg": 0
           },
-          "rl_skill": {
+          "rlskill": {
             "ad": 83.2,
             "dh": 6
           },
-          "armr&mhs": {
+          "armrmhs": {
             "ga": 0,
             "ya": 7,
             "ra": 8,
@@ -240,22 +253,26 @@
       "eff": 41,
       "players": [
         {
+          "team": "puls",
           "name": "eikooren",
           "frags": 30,
           "net": -42,
           "tk": 2,
           "eff": 29.4,
           "wp": {
-            "lg": 44.5,
-            "rl": 72.7,
-            "sg": 35,
-            "ssg": 25.7
+            "sg": 0,
+            "ssg": 0,
+            "ng": 0,
+            "sng": 0,
+            "gl": 0,
+            "rl": 0,
+            "lg": 0
           },
-          "rl_skill": {
+          "rlskill": {
             "ad": 89.1,
             "dh": 3
           },
-          "armr&mhs": {
+          "armrmhs": {
             "ga": 0,
             "ya": 3,
             "ra": 3,
@@ -295,22 +312,26 @@
           "spawnfrags": 1
         },
         {
+          "team": "puls",
           "name": "baresi",
           "frags": 44,
           "net": -14,
           "tk": 1,
           "eff": 43.1,
           "wp": {
-            "lg": 63,
-            "rl": 64.9,
-            "sg": 35.9,
-            "ssg": 39
+            "sg": 0,
+            "ssg": 0,
+            "ng": 0,
+            "sng": 0,
+            "gl": 0,
+            "rl": 0,
+            "lg": 0
           },
-          "rl_skill": {
+          "rlskill": {
             "ad": 93.2,
             "dh": 13
           },
-          "armr&mhs": {
+          "armrmhs": {
             "ga": 0,
             "ya": 3,
             "ra": 7,
@@ -350,23 +371,26 @@
           "spawnfrags": 3
         },
         {
+          "team": "puls",
           "name": "Timon",
           "frags": 43,
           "net": -11,
           "tk": 1,
           "eff": 44.3,
           "wp": {
-            "lg": 41.9,
-            "rl": 27.5,
-            "gl": 23.1,
-            "sg": 41.9,
-            "ssg": 53.1
+            "sg": 0,
+            "ssg": 0,
+            "ng": 0,
+            "sng": 0,
+            "gl": 0,
+            "rl": 0,
+            "lg": 0
           },
-          "rl_skill": {
+          "rlskill": {
             "ad": 74.5,
             "dh": 3
           },
-          "armr&mhs": {
+          "armrmhs": {
             "ga": 0,
             "ya": 5,
             "ra": 4,
@@ -405,23 +429,26 @@
           "spawnfrags": 1
         },
         {
+          "team": "puls",
           "name": "Nidweyr",
           "frags": 33,
           "net": -27,
           "tk": 4,
           "eff": 35.5,
           "wp": {
-            "lg": 33.3,
-            "rl": 71.8,
-            "gl": 19.4,
-            "sg": 49.6,
-            "ssg": 36
+            "sg": 0,
+            "ssg": 0,
+            "ng": 0,
+            "sng": 0,
+            "gl": 0,
+            "rl": 0,
+            "lg": 0
           },
-          "rl_skill": {
+          "rlskill": {
             "ad": 79.2,
             "dh": 7
           },
-          "armr&mhs": {
+          "armrmhs": {
             "ga": 0,
             "ya": 6,
             "ra": 2,
@@ -507,7 +534,7 @@
         "score": 4
       }
     ],
-    "rl_killer": [
+    "rlkiller": [
       {
         "name": "baresi",
         "score": 11

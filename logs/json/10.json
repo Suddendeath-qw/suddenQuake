@@ -10,6 +10,7 @@
       "eff": 68.7,
       "players": [
         {
+          "team": "[m]",
           "name": "splash",
           "frags": 67,
           "net": 34,
@@ -21,11 +22,11 @@
             "sg": 37.2,
             "ssg": 21.4
           },
-          "rl_skill": {
+          "rlskill": {
             "ad": 82.4,
             "dh": 31
           },
-          "armr&mhs": {
+          "armrmhs": {
             "ga": 0,
             "ya": 10,
             "ra": 9,
@@ -65,16 +66,22 @@
           "spawnfrags": 18
         },
         {
+          "team": "[m]",
           "name": "conan",
           "frags": 43,
           "net": -3,
           "tk": 2,
           "eff": 48.3,
-          "rl_skill": {
+          "wp": {
+            "rl": 53.2,
+            "sg": 42.8,
+            "ssg": 24.5
+          },
+          "rlskill": {
             "ad": 100.9,
             "dh": 21
           },
-          "armr&mhs": {
+          "armrmhs": {
             "ga": 0,
             "ya": 14,
             "ra": 9,
@@ -113,6 +120,7 @@
           "spawnfrags": 7
         },
         {
+          "team": "[m]",
           "name": "elguapo",
           "frags": 68,
           "net": 41,
@@ -124,11 +132,11 @@
             "sg": 25.4,
             "ssg": 34.1
           },
-          "rl_skill": {
+          "rlskill": {
             "ad": 110.4,
             "dh": 27
           },
-          "armr&mhs": {
+          "armrmhs": {
             "ga": 0,
             "ya": 19,
             "ra": 15,
@@ -168,16 +176,22 @@
           "spawnfrags": 10
         },
         {
+          "team": "[m]",
           "name": "xero",
           "frags": 68,
           "net": 32,
           "tk": 0,
           "eff": 65.4,
-          "rl_skill": {
+          "wp": {
+            "rl": 57.3,
+            "sg": 41.5,
+            "ssg": 40.5
+          },
+          "rlskill": {
             "ad": 106.1,
             "dh": 31
           },
-          "armr&mhs": {
+          "armrmhs": {
             "ga": 0,
             "ya": 16,
             "ra": 14,
@@ -223,6 +237,7 @@
       "eff": 31.3,
       "players": [
         {
+          "team": "=s=",
           "name": "goblin",
           "frags": 23,
           "net": -43,
@@ -234,11 +249,11 @@
             "sg": 24.8,
             "ssg": 44
           },
-          "rl_skill": {
+          "rlskill": {
             "ad": 108.8,
             "dh": 16
           },
-          "armr&mhs": {
+          "armrmhs": {
             "ga": 0,
             "ya": 12,
             "ra": 18,
@@ -278,6 +293,7 @@
           "spawnfrags": 3
         },
         {
+          "team": "=s=",
           "name": "rio",
           "frags": 40,
           "net": -16,
@@ -289,11 +305,11 @@
             "sg": 43.4,
             "ssg": 36.8
           },
-          "rl_skill": {
+          "rlskill": {
             "ad": 93.3,
             "dh": 16
           },
-          "armr&mhs": {
+          "armrmhs": {
             "ga": 0,
             "ya": 10,
             "ra": 21,
@@ -333,6 +349,7 @@
           "spawnfrags": 3
         },
         {
+          "team": "=s=",
           "name": "mOlle",
           "frags": 27,
           "net": -40,
@@ -344,11 +361,11 @@
             "sg": 40.9,
             "ssg": 41.8
           },
-          "rl_skill": {
+          "rlskill": {
             "ad": 89.4,
             "dh": 10
           },
-          "armr&mhs": {
+          "armrmhs": {
             "ga": 0,
             "ya": 12,
             "ra": 7,
@@ -388,6 +405,7 @@
           "spawnfrags": 3
         },
         {
+          "team": "=s=",
           "name": "lethalwiz",
           "frags": 22,
           "net": -65,
@@ -399,11 +417,11 @@
             "sg": 43.3,
             "ssg": 28.6
           },
-          "rl_skill": {
+          "rlskill": {
             "ad": 88.1,
             "dh": 10
           },
-          "armr&mhs": {
+          "armrmhs": {
             "ga": 0,
             "ya": 17,
             "ra": 11,
@@ -494,7 +512,7 @@
         "score": 5
       }
     ],
-    "rl_killer": [
+    "rlkiller": [
       {
         "name": "xero",
         "score": 14
