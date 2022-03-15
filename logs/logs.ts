@@ -85,11 +85,11 @@ class LineParser {
     re_PlayerTeam = /^Team\s\[(.+)\]\:$/i
     re_Player = /^\_\s(.+)\:$/i
     re_Player_1 = /^([0-9\-]+)\s\(([0-9\-]+)\)\s([0-9]+)\s([0-9.%]+)$/
-    re_Player_2 = /^Wp\:\s([a-z0-9.%]+)?\s?([a-z0-9.%]+)?\s?([a-z0-9.%]+)?\s?([a-z0-9.%]+)?\s?([a-z0-9.%]+)?$/i
+    re_Player_2 = /^Wp\:\s([a-z0-9.%]+)?(?:\s?\([0-9]+\/[0-9]+\))?\s?([a-z0-9.%]+)?\s?([a-z0-9.%]+)?\s?([a-z0-9.%]+)?\s?([a-z0-9.%]+)?$/i
     re_Player_3 = /^([a-z\s\&]+)\:\s([a-z]+\:[0-9.]+)\s?([a-z]+\:[0-9.]+)?\s?([a-z]+\:[0-9.]+)?\s?([a-z]+\:[0-9.]+)?\s?([a-z]+\:[0-9.]+)?\s?([a-z]+\:[0-9.]+)?/i
     re_Player_4 = /^SpawnFrags\:\s([0-9]+)$/i
     re_PlayerEnd = /^\_{10}$/
-    re_WpStats = /^([a-z]+)([0-9\.]+)/i
+    re_WpStats = /^([a-z]+)([0-9\.%]+)$/i
 
     re_TopScorers = /\[(.+)\]\stop\sscorers\:$/i
     re_TopCategory = /^([a-z\s]+)\:\s(.+)\s\[([0-9%.\-]+)\]$/i

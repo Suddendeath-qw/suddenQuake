@@ -59,78 +59,7 @@ export interface PlayerData {
     spawnfrags: number
 }
 
-export interface PlayerStats extends FlatPlayerMatches, FlatPlayerStats {
-    team: string
-    name: string
-}
-
-interface FlatPlayerMatches {
-        // Matches
-        matches: number
-        win: number
-        loss: number
-        dm2: number
-        dm2_win: number
-        dm2_loss: number
-        dm3: number
-        dm3_win: number
-        dm3_loss: number
-        e1m2: number
-        e1m2_win: number
-        e1m2_loss: number
-}
-
-interface FlatStats {
-      // Flat stats
-      frags: number
-      net: number
-      tk: number
-      eff: number
-      spawnfrags: number
-  
-      wp_lg: number
-      wp_rl: number
-      wp_gl: number
-      wp_sng: number
-      wp_ng: number
-      wp_ssg: number
-      wp_sg: number
-  
-      rlskill_ad: number
-      rlskill_dh: number
-  
-      armrmhs_ga: number
-      armrmhs_ya: number
-      armrmhs_ra: number
-      armrmhs_mh: number
-  
-      powerups_q: number
-      powerups_p: number
-      powerups_r: number
-  
-      rl_took: number
-      rl_killed: number
-      rl_dropped: number
-      rl_xfer: number
-  
-      lg_took: number
-      lg_killed: number
-      lg_dropped: number
-      lg_xfer: number
-  
-      damage_tkn: number
-      damage_gvn: number
-      damage_ewep: number
-      damage_tm: number
-      damage_self: number
-      damage_todie: number
-  
-      time_quad: number
-      streaks_frags: number
-      streaks_quadrun: number
-}
-
-interface FlatPlayerStats {
+export interface FlatPlayerStats {
     // Metadata
     team: string
     name: string
@@ -139,65 +68,132 @@ interface FlatPlayerStats {
     matches: number
     win: number
     loss: number
+    wl: number
     dm2: number
     dm2_win: number
     dm2_loss: number
+    dm2_wl: number
     dm3: number
     dm3_win: number
     dm3_loss: number
+    dm3_wl: number
     e1m2: number
     e1m2_win: number
     e1m2_loss: number
+    e1m2_wl: number
 
-    // Flat stats
-    frags: number
-    net: number
-    tk: number
-    eff: number
-    spawnfrags: number
+    // Awards
+    t_top_frags: number
+    t_top_deaths: number
+    t_top_friendkills: number
+    t_top_efficiency: number
+    t_top_fragstreak: number
+    t_top_quadrun: number
+    t_top_rlkiller: number
+    t_top_boomsticker: number
+    t_top_survivor: number
+    t_top_annihilator: number
 
-    wp_lg: number
-    wp_rl: number
-    wp_gl: number
-    wp_sng: number
-    wp_ng: number
-    wp_ssg: number
-    wp_sg: number
+    // Total
+    t_frags: number
+    t_net: number
+    t_tk: number
+    t_eff: number
+    t_spawnfrags: number
 
-    rlskill_ad: number
-    rlskill_dh: number
+    t_wp_lg: number
+    t_wp_rl: number
+    t_wp_gl: number
+    t_wp_sng: number
+    t_wp_ng: number
+    t_wp_ssg: number
+    t_wp_sg: number
 
-    armrmhs_ga: number
-    armrmhs_ya: number
-    armrmhs_ra: number
-    armrmhs_mh: number
+    t_rlskill_ad: number
+    t_rlskill_dh: number
 
-    powerups_q: number
-    powerups_p: number
-    powerups_r: number
+    t_armrmhs_ga: number
+    t_armrmhs_ya: number
+    t_armrmhs_ra: number
+    t_armrmhs_mh: number
 
-    rl_took: number
-    rl_killed: number
-    rl_dropped: number
-    rl_xfer: number
+    t_powerups_q: number
+    t_powerups_p: number
+    t_powerups_r: number
 
-    lg_took: number
-    lg_killed: number
-    lg_dropped: number
-    lg_xfer: number
+    t_rl_took: number
+    t_rl_killed: number
+    t_rl_dropped: number
+    t_rl_xfer: number
 
-    damage_tkn: number
-    damage_gvn: number
-    damage_ewep: number
-    damage_tm: number
-    damage_self: number
-    damage_todie: number
+    t_lg_took: number
+    t_lg_killed: number
+    t_lg_dropped: number
+    t_lg_xfer: number
 
-    time_quad: number
-    streaks_frags: number
-    streaks_quadrun: number
+    t_damage_tkn: number
+    t_damage_gvn: number
+    t_damage_ewep: number
+    t_damage_tm: number
+    t_damage_self: number
+    t_damage_todie: number
+
+    t_time_quad: number
+    t_streaks_frags: number
+    t_streaks_quadrun: number
+
+    // Avg
+    a_frags: number
+    a_net: number
+    a_tk: number
+    a_eff: number
+    a_spawnfrags: number
+
+    a_wp_lg: number
+    a_wp_rl: number
+    a_wp_gl: number
+    a_wp_sng: number
+    a_wp_ng: number
+    a_wp_ssg: number
+    a_wp_sg: number
+
+    a_rlskill_ad: number
+    a_rlskill_dh: number
+
+    a_armrmhs_ga: number
+    a_armrmhs_ya: number
+    a_armrmhs_ra: number
+    a_armrmhs_mh: number
+
+    a_powerups_q: number
+    a_powerups_p: number
+    a_powerups_r: number
+
+    a_rl_took: number
+    a_rl_killed: number
+    a_rl_dropped: number
+    a_rl_xfer: number
+
+    a_lg_took: number
+    a_lg_killed: number
+    a_lg_dropped: number
+    a_lg_xfer: number
+
+    a_damage_tkn: number
+    a_damage_gvn: number
+    a_damage_ewep: number
+    a_damage_tm: number
+    a_damage_self: number
+    a_damage_todie: number
+
+    a_time_quad: number
+    a_streaks_frags: number
+    a_streaks_quadrun: number
+
+    // Best
+    b_streaks_frags: number,
+    b_streaks_quadrun: number
 }
-
 
 
 export interface TeamData {
