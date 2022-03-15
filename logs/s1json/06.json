@@ -1,0 +1,551 @@
+{
+  "id": "011c7add51104367249bd6c9cf3188e90e4aca27",
+  "date": "2022-01-23 20:51:22 UTC",
+  "mvd": "4on4_-s-_vs_[fs][dm3]220123-2051.mvd",
+  "map": "dm3",
+  "teams": {
+    "-s-": {
+      "name": "-s-",
+      "frags": 185,
+      "eff": 50.1,
+      "players": [
+        {
+          "team": "-s-",
+          "name": "ganon",
+          "frags": 41,
+          "net": -9,
+          "tk": 0,
+          "eff": 45.1,
+          "wp": {
+            "lg": 31.2,
+            "rl": 53.5,
+            "gl": 20,
+            "sg": 50,
+            "ssg": 50.5
+          },
+          "rlskill": {
+            "ad": 89,
+            "dh": 15
+          },
+          "armrmhs": {
+            "ga": 0,
+            "ya": 5,
+            "ra": 6,
+            "mh": 6
+          },
+          "powerups": {
+            "q": 1,
+            "p": 0,
+            "r": 0
+          },
+          "rl": {
+            "took": 8,
+            "killed": 4,
+            "dropped": 3,
+            "xfer": 2
+          },
+          "lg": {
+            "took": 0,
+            "killed": 0,
+            "dropped": 0,
+            "xfer": 0
+          },
+          "damage": {
+            "tkn": 7162,
+            "gvn": 7073,
+            "ewep": 2425,
+            "tm": 303,
+            "self": 549,
+            "todie": 143
+          },
+          "time": {
+            "quad": 30
+          },
+          "streaks": {
+            "frags": 9,
+            "quadrun": 3
+          },
+          "spawnfrags": 3
+        },
+        {
+          "team": "-s-",
+          "name": "bps",
+          "frags": 42,
+          "net": -6,
+          "tk": 4,
+          "eff": 46.7,
+          "wp": {
+            "lg": 37.5,
+            "rl": 47.7,
+            "gl": 20,
+            "sg": 38.3,
+            "ssg": 58.2
+          },
+          "rlskill": {
+            "ad": 102.2,
+            "dh": 8
+          },
+          "armrmhs": {
+            "ga": 0,
+            "ya": 5,
+            "ra": 11,
+            "mh": 7
+          },
+          "powerups": {
+            "q": 5,
+            "p": 0,
+            "r": 1
+          },
+          "rl": {
+            "took": 7,
+            "killed": 3,
+            "dropped": 4,
+            "xfer": 2
+          },
+          "lg": {
+            "took": 0,
+            "killed": 0,
+            "dropped": 0,
+            "xfer": 0
+          },
+          "damage": {
+            "tkn": 7817,
+            "gvn": 7781,
+            "ewep": 2754,
+            "tm": 326,
+            "self": 209,
+            "todie": 162
+          },
+          "time": {
+            "quad": 150
+          },
+          "streaks": {
+            "frags": 18,
+            "quadrun": 4
+          },
+          "spawnfrags": 6
+        },
+        {
+          "team": "-s-",
+          "name": "carapace",
+          "frags": 70,
+          "net": 30,
+          "tk": 1,
+          "eff": 63.6,
+          "wp": {
+            "lg": 38.3,
+            "rl": 47.4,
+            "sg": 47.7,
+            "ssg": 41.5
+          },
+          "rlskill": {
+            "ad": 77.5,
+            "dh": 8
+          },
+          "armrmhs": {
+            "ga": 0,
+            "ya": 5,
+            "ra": 4,
+            "mh": 10
+          },
+          "powerups": {
+            "q": 5,
+            "p": 1,
+            "r": 0
+          },
+          "rl": {
+            "took": 5,
+            "killed": 8,
+            "dropped": 3,
+            "xfer": 1
+          },
+          "lg": {
+            "took": 0,
+            "killed": 0,
+            "dropped": 0,
+            "xfer": 0
+          },
+          "damage": {
+            "tkn": 6240,
+            "gvn": 9016,
+            "ewep": 2337,
+            "tm": 103,
+            "self": 161,
+            "todie": 156
+          },
+          "time": {
+            "quad": 136
+          },
+          "streaks": {
+            "frags": 35,
+            "quadrun": 9
+          },
+          "spawnfrags": 6
+        },
+        {
+          "team": "-s-",
+          "name": "rst",
+          "frags": 32,
+          "net": -51,
+          "tk": 2,
+          "eff": 27.8,
+          "wp": {
+            "lg": 36,
+            "rl": 50,
+            "sg": 47.2,
+            "ssg": 17.9
+          },
+          "rlskill": {
+            "ad": 81,
+            "dh": 7
+          },
+          "armrmhs": {
+            "ga": 0,
+            "ya": 5,
+            "ra": 3,
+            "mh": 6
+          },
+          "powerups": {
+            "q": 0,
+            "p": 1,
+            "r": 0
+          },
+          "rl": {
+            "took": 7,
+            "killed": 5,
+            "dropped": 1,
+            "xfer": 1
+          },
+          "lg": {
+            "took": 0,
+            "killed": 0,
+            "dropped": 0,
+            "xfer": 0
+          },
+          "damage": {
+            "tkn": 9138,
+            "gvn": 6767,
+            "ewep": 1996,
+            "tm": 88,
+            "self": 417,
+            "todie": 110
+          },
+          "time": {
+            "quad": 0
+          },
+          "streaks": {
+            "frags": 5,
+            "quadrun": 0
+          },
+          "spawnfrags": 2
+        }
+      ]
+    },
+    "[fs]": {
+      "name": "[fs]",
+      "frags": 184,
+      "eff": 49.9,
+      "players": [
+        {
+          "team": "[fs]",
+          "name": "reppie",
+          "frags": 59,
+          "net": 11,
+          "tk": 4,
+          "eff": 55.1,
+          "wp": {
+            "lg": 36.8,
+            "rl": 49.6,
+            "gl": 18.2,
+            "sg": 44.7,
+            "ssg": 37.9
+          },
+          "rlskill": {
+            "ad": 99.2,
+            "dh": 17
+          },
+          "armrmhs": {
+            "ga": 0,
+            "ya": 10,
+            "ra": 4,
+            "mh": 7
+          },
+          "powerups": {
+            "q": 1,
+            "p": 0,
+            "r": 1
+          },
+          "rl": {
+            "took": 5,
+            "killed": 7,
+            "dropped": 3
+          },
+          "lg": {
+            "took": 0,
+            "killed": 0,
+            "dropped": 0,
+            "xfer": 0
+          },
+          "damage": {
+            "tkn": 6614,
+            "gvn": 8249,
+            "ewep": 2095,
+            "tm": 286,
+            "self": 638,
+            "todie": 137
+          },
+          "time": {
+            "quad": 30
+          },
+          "streaks": {
+            "frags": 39,
+            "quadrun": 5
+          },
+          "spawnfrags": 8
+        },
+        {
+          "team": "[fs]",
+          "name": "fix",
+          "frags": 36,
+          "net": -19,
+          "tk": 3,
+          "eff": 39.6,
+          "wp": {
+            "lg": 43.1,
+            "rl": 43.5,
+            "gl": 28.6,
+            "sg": 39.2,
+            "ssg": 49.8
+          },
+          "rlskill": {
+            "ad": 81.9,
+            "dh": 5
+          },
+          "armrmhs": {
+            "ga": 0,
+            "ya": 9,
+            "ra": 5,
+            "mh": 8
+          },
+          "powerups": {
+            "q": 3,
+            "p": 0,
+            "r": 1
+          },
+          "rl": {
+            "took": 8,
+            "killed": 5,
+            "dropped": 2,
+            "xfer": 1
+          },
+          "lg": {
+            "took": 0,
+            "killed": 0,
+            "dropped": 0,
+            "xfer": 0
+          },
+          "damage": {
+            "tkn": 7432,
+            "gvn": 7231,
+            "ewep": 2473,
+            "tm": 280,
+            "self": 703,
+            "todie": 135
+          },
+          "time": {
+            "quad": 36
+          },
+          "streaks": {
+            "frags": 8,
+            "quadrun": 2
+          },
+          "spawnfrags": 3
+        },
+        {
+          "team": "[fs]",
+          "name": "blixem",
+          "frags": 48,
+          "net": -3,
+          "tk": 0,
+          "eff": 48.5,
+          "wp": {
+            "lg": 28.6,
+            "rl": 56.6,
+            "sg": 33.9,
+            "ssg": 38.4
+          },
+          "rlskill": {
+            "ad": 95.1,
+            "dh": 18
+          },
+          "armrmhs": {
+            "ga": 0,
+            "ya": 3,
+            "ra": 12,
+            "mh": 13
+          },
+          "powerups": {
+            "q": 2,
+            "p": 1,
+            "r": 0
+          },
+          "rl": {
+            "took": 6,
+            "killed": 6,
+            "dropped": 3,
+            "xfer": 1
+          },
+          "lg": {
+            "took": 0,
+            "killed": 0,
+            "dropped": 0,
+            "xfer": 0
+          },
+          "damage": {
+            "tkn": 7784,
+            "gvn": 7188,
+            "ewep": 2717,
+            "tm": 192,
+            "self": 550,
+            "todie": 152
+          },
+          "time": {
+            "quad": 60
+          },
+          "streaks": {
+            "frags": 15,
+            "quadrun": 2
+          },
+          "spawnfrags": 8
+        },
+        {
+          "team": "[fs]",
+          "name": "razor",
+          "frags": 41,
+          "net": -28,
+          "tk": 4,
+          "eff": 37.3,
+          "wp": {
+            "lg": 30,
+            "rl": 44.5,
+            "sg": 45.8,
+            "ssg": 51.2
+          },
+          "rlskill": {
+            "ad": 107.2,
+            "dh": 15
+          },
+          "armrmhs": {
+            "ga": 0,
+            "ya": 10,
+            "ra": 3,
+            "mh": 3
+          },
+          "powerups": {
+            "q": 3,
+            "p": 1,
+            "r": 1
+          },
+          "rl": {
+            "took": 13,
+            "killed": 4,
+            "dropped": 6,
+            "xfer": 4
+          },
+          "lg": {
+            "took": 0,
+            "killed": 0,
+            "dropped": 0,
+            "xfer": 0
+          },
+          "damage": {
+            "tkn": 8807,
+            "gvn": 7689,
+            "ewep": 2781,
+            "tm": 898,
+            "self": 291,
+            "todie": 127
+          },
+          "time": {
+            "quad": 90
+          },
+          "streaks": {
+            "frags": 18,
+            "quadrun": 5
+          },
+          "spawnfrags": 5
+        }
+      ]
+    }
+  },
+  "top": {
+    "frags": [
+      {
+        "name": "carapace",
+        "score": 70
+      }
+    ],
+    "deaths": [
+      {
+        "name": "rst",
+        "score": 83
+      }
+    ],
+    "friendkills": [
+      {
+        "name": "bps",
+        "score": 4
+      },
+      {
+        "name": "reppie",
+        "score": 4
+      },
+      {
+        "name": "razor",
+        "score": 4
+      }
+    ],
+    "efficiency": [
+      {
+        "name": "carapace",
+        "score": 63.6
+      }
+    ],
+    "fragstreak": [
+      {
+        "name": "reppie",
+        "score": 39
+      }
+    ],
+    "quadrun": [
+      {
+        "name": "carapace",
+        "score": 9
+      }
+    ],
+    "rlkiller": [
+      {
+        "name": "carapace",
+        "score": 8
+      }
+    ],
+    "boomsticker": [
+      {
+        "name": "ganon",
+        "score": 50
+      }
+    ],
+    "survivor": [
+      {
+        "name": "bps",
+        "score": 162
+      }
+    ],
+    "annihilator": [
+      {
+        "name": "carapace",
+        "score": 9016
+      }
+    ]
+  }
+}

@@ -31,14 +31,13 @@ let data = {
 
 
 
-const FILTER_TEAMS = ["=s="]
+const FILTER_TEAMS = ["-s-"]
 const FILTER_MAPS = ["dm3", "dm2", "e1m2"]
 const FILTER_PLAYERS  = [
-    "rio",
-    "andeh",
-    "lethalwiz",
-    "goblin",
-    "mOlle"
+    "bps",
+    "carapace",
+    "ganon",
+    "rst"
 ]
 
 const defaultFlatPlayerStats = ():FlatPlayerStats => ({
@@ -387,7 +386,7 @@ class PlayerStatsTotal  {
 }
 
 function importJSON () {
-    const dirname = "./json";
+    const dirname = "./s1json";
     const filenames = fs.readdirSync(dirname)
     filenames.forEach(filename => {
         const content = fs.readFileSync(dirname + "/" + filename, 'utf-8');
@@ -405,8 +404,6 @@ function importJSON () {
 
 importJSON();
 
-var testPlayer = data.matches[0].teams["=s="].players[0]
-var testPlayer2 = data.matches[1].teams["=s="].players[0]
 
 let playerStats = {};
 FILTER_PLAYERS.forEach(playerName => {
@@ -459,5 +456,5 @@ Object.keys(rows).map(key => {
 
 //console.log(rows)
 
-fs.writeFileSync("janne.json", JSON.stringify(stats, null, 2))
+fs.writeFileSync("janne_s1.json", JSON.stringify(stats, null, 2))
 //console.log("matches", playerStats["andeh"])

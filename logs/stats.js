@@ -28,14 +28,13 @@ exports.MatchData = MatchData;
 var data = {
     matches: []
 };
-var FILTER_TEAMS = ["=s="];
+var FILTER_TEAMS = ["-s-"];
 var FILTER_MAPS = ["dm3", "dm2", "e1m2"];
 var FILTER_PLAYERS = [
-    "rio",
-    "andeh",
-    "lethalwiz",
-    "goblin",
-    "mOlle"
+    "bps",
+    "carapace",
+    "ganon",
+    "rst"
 ];
 var defaultFlatPlayerStats = function () { return ({
     // Metadata
@@ -315,7 +314,7 @@ var PlayerStatsTotal = /** @class */ (function () {
     return PlayerStatsTotal;
 }());
 function importJSON() {
-    var dirname = "./json";
+    var dirname = "./s1json";
     var filenames = fs.readdirSync(dirname);
     filenames.forEach(function (filename) {
         var content = fs.readFileSync(dirname + "/" + filename, 'utf-8');
@@ -330,8 +329,6 @@ function importJSON() {
 // Import the data => data.matches
 // Import the data => data.matches
 importJSON();
-var testPlayer = data.matches[0].teams["=s="].players[0];
-var testPlayer2 = data.matches[1].teams["=s="].players[0];
 var playerStats = {};
 FILTER_PLAYERS.forEach(function (playerName) {
     playerStats[playerName] = new PlayerStatsTotal(defaultFlatPlayerStats());
@@ -373,5 +370,5 @@ Object.keys(rows).map(function (key) {
     stats[prettyKey] = obj;
 });
 //console.log(rows)
-fs.writeFileSync("janne.json", JSON.stringify(stats, null, 2));
+fs.writeFileSync("janne_s1.json", JSON.stringify(stats, null, 2));
 //console.log("matches", playerStats["andeh"])

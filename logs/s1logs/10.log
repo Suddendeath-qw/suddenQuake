@@ -1,0 +1,884 @@
+]playdemo 10
+Playing demo from 10.mvd
+
+
+_____________________________________
+
+_The Abandoned Base
+grc is ready [020]
+All players ready
+Timer started
+QiZmo: timer lag point disabled
+Server starts recording (disk): 4on4_-s-_vs_020[dm3]150222-2242.mvd
+Clients list: players
+id ad vip hdp team name
+47|  |  0|off| -s-|bps
+26|  |  0|off| 020|ok98
+28|  |  0|off| 020|grc
+29|  |  0|off| 020|mm
+36|  |  0|off| -s-|ganon
+31|  |  0|off| -s-|rst
+46|  |  0|off| -s-|carapace
+ 8|  |  0|off| 020|raket
+--  8 found -------------
+Clients list: unconnected
+id vip state      name
+52|  0|connecting|[ServeMe]
+--  1 found -------------
+bps: glhf
+matchdate: 2022-02-15 22:42:45 CET
+trigger "onmatchstart" has no matching alias
+The match has begun!
+(rst): >&c777rst:&cfff 0/100 [lifts] 
+(ok98): >&c25fok   &cfff took &cf13rl&cfff [rl]
+(grc): >haxx: 0/100 [ra.tunnel]
+(bps): >&cc93bps:&cfff &c0b0team&cfff &cff0ring&cfff
+(bps): >&cc93bps:&cfff &c0b0team&cfff &cff0ring&cfff
+(bps): >&cc93bps:&cfff &c0b0team&cfff &cff0ring&cfff
+(bps): >&cc93bps:&cfff &c0b0team&cfff &cff0ring&cfff
+(grc): >haxx: 0/100 [sng.tele]
+(raket): >  rkt  0&ce84/&cfff&cc9974&cfff &c0cflg&cfff:27 [sng]
+(raket): >  rkt  0&ce84/&cfff&cc9974&cfff &c0cflg&cfff:27 [sng-ledge]
+(raket): >  rkt  0&ce84/&cfff&cc9974&cfff &c0cflg&cfff:27 [sng-ledge]
+(ok98): >&c25fok   &cfff took &c0a0mega&cfff [sng.mega]
+(raket): >  rkt  &cf00lost&cfff &cf00[sng]&cfff &cf001&cfff
+Protection is almost burned out
+(raket): >  rkt  &cf00lost&cfff &cf00[ra]&cfff &cf001&cfff
+(grc): >haxx: &cf00lost&cfff &cf00[&cfffya&cf00]&cfff 2
+(grc): >haxx: &cf00lost&cfff &cf00[&cfffya&cf00]&cfff 2
+(grc): >haxx: &cf00lost&cfff &cf00[&cfffya&cf00]&cfff 2
+(grc): >haxx: &cf00lost&cfff &cf00[&cfffya&cf00]&cfff 2
+(grc): >haxx: &cf00lost&cfff &cf00[&cfffya&cf00]&cfff 2
+(ok98): &c0b0>ok safe&cfff &c0b0[&cfffsng.mega&c0b0]&cfff
+(mm): >k: 0/80 &cf13rl&cfff:2 [hill]
+(mm): >k: 0/80 &cf13rl&cfff:2 [hill]
+(mm): >k: 0/80 &cf13rl&cfff:2 [ra-tunnel]
+(ok98): &c0b0>ok safe&cfff &c0b0[&cfffsng.mega&c0b0]&cfff
+(mm): >k: &cf00DROPPED &cf13rl&cfff &cf00[&cfffra-low&cf00]&cfff 2
+(mm): >k: &cf00DROPPED &cf13rl&cfff &cf00[&cfffra-low&cf00]&cfff 2
+(mm): >k: &cf00DROPPED &cf13rl&cfff &cf00[&cfffra-low&cf00]&cfff 2
+(mm): >k: &cf00DROPPED &cf13rl&cfff &cf00[&cfffra-low&cf00]&cfff 2
+(ok98): >&c25fok   &cfff took &c0a0mega&cfff [sng.mega]
+(carapace): >&c693car:&cfff &cf00lost&cfff [ra-entry] 2
+(bps): >&cc93bps:&cfff &cf2apack&cfff at [ra-entry]
+(bps): >&cc93bps:&cfff &c931r&cfff183/61 ng [ring] 
+(ganon): >&c479gan:&cfff &cf00lost&cfff [ra] 1
+(ganon): >&c479gan:&cfff &cf00lost&cfff [ra] 1
+(ganon): >&c479gan:&cfff &cf00lost&cfff [ra] 1
+(rst): >&c777rst:&cfff &cf00lost&cfff [bridge-low] 3
+(rst): >&c777rst:&cfff &cf00lost&cfff [bridge-low] 3
+(rst): >&c777rst:&cfff &cf00lost&cfff [bridge-low] 3
+[19] minutes remaining
+Team [-s-] leads by 3 frags
+(grc): >haxx: &cf00lost&cfff &cf00[&cfffrl&cf00]&cfff 3
+(grc): >haxx: &cf00lost&cfff &cf00[&cfffrl&cf00]&cfff 3
+(grc): >haxx: &cf00lost&cfff &cf00[&cfffrl&cf00]&cfff 3
+(ok98): >&c25fok   &cfff &c0f0team&r &c05fquad&cfff
+(raket): >  rkt  &cf00lost&cfff &cf00[water]&cfff &cf002&cfff
+(raket): >  rkt  &cf00lost&cfff &cf00[water]&cfff &cf002&cfff
+(ok98): >&c25fok   &cfff 0/140 &cf13rl&cfff&cf30:6&r [ra] &c05fquad&cfff
+(ok98): >&c25fok   &cfff &ce00200&cfff/137 &cf13rl&cfff&cf30:8&r [ra] &c2aac&cfff:18 &c05fquad&cfff
+(raket): >  rkt  0&ce84/&cfff&cc99200&cfff [hill]
+(mm): >k: 0/93 sng:30 [ring] &c2aac&cfff:12
+(raket): >  rkt  0&ce84/&cfff&cc99196&cfff [sng-ledge]
+(grc): >haxx: 0/95 [water] &cf13r&cfff:10 &c2aac&cfff:12
+Quad Damage is wearing off
+(mm): >k: 0/93 sng:80 [ra] &c2aac&cfff:12
+(raket): >  rkt  0&ce84/&cfff&cc9978&cfff &c0cfrl&cfff:7 [ra]
+(raket): >  rkt  0&ce84/&cfff&cc9978&cfff &c0cfrl&cfff:7 [ra]
+(ok98): >&c25fok   &cfff 0/79 &cf13rl&cfff&cf30:13&r [ya.entry] &c2aac&cfff:18 
+(ok98): >&c25fok   &cfff took &cff0ya&cfff [ya.box]
+(grc): >haxx: 1 &cf00enemy&cfff at [water.lg]
+(bps): >&cc93bps:&cfff 0/80 [bridge-high] 
+(carapace): >&c693car:&cfff 0/82 &c29flg&cfff&c29f:11&cfff [ra-low] 
+(bps): >&cc93bps:&cfff took &cff0ya&cfff [ya-box]
+(bps): >&cc93bps:&cfff took &cff0ya&cfff [ya-box]
+[18] minutes remaining
+The game is currently a tie
+(carapace): >&c693car:&cfff took &cf00ra&cfff [ra]
+(ok98): >&c25fok   &cfff &cf2apack&cfff at [ring]
+(ok98): &cf00>ok lost&r &cf00[&rring&cf00]&r 2
+(ok98): >&c25fok   &cfff coming [ra.tunnel] 
+(grc): >haxx: &cf00lost&cfff &cf00[&cfffwater&cf00]&cfff 1
+(grc): >haxx: &cf00lost&cfff &cf00[&cfffwater&cf00]&cfff 1
+(grc): >haxx: &cf00lost&cfff &cf00[&cfffwater&cf00]&cfff 1
+(raket): >  rkt  0&ce84/&cfff&cc99109&cfff &c0cfrl&cfff:1 [ya] &c06fquad&cfff
+(raket): >  rkt  0&ce84/&cfff&cc99109&cfff &c0cfrl&cfff:1 [ya] &c06fquad&cfff
+(raket): >  rkt  0&ce84/&cfff&cc99107&cfff &c0cfrl&cfff:1 [ya] &c06fquad&cfff
+(raket): >  rkt  0&ce84/&cfff&cc99107&cfff &c0cfrl&cfff:1 [ya] &c06fquad&cfff
+(ok98): >&c25fok   &cfff took &cf00ra&cfff [ra]
+(ok98): >&c25fok   &cfff &ce00200&cfff/100 sg [rl] 
+Quad Damage is wearing off
+(raket): >  rkt  &cf00lost&cfff &cf00[hill]&cfff &cf002&cfff
+(raket): >  rkt  &cf00lost&cfff &cf00[hill]&cfff &cf002&cfff
+(carapace): >&c693car:&cfff 0/23 &cf31rl&cfff&cf31:4&cfff &c29flg&cfff&c29f:31&cfff [ra-tunnel] 
+(rst): >&c777rst:&cfff &c0b0safe&cfff [ra]
+(rst): >&c777rst:&cfff &c0b0safe&cfff [ra]
+(carapace): >&c693car:&cfff 0/23 &cf31rl&cfff&cf31:4&cfff &c29flg&cfff&c29f:31&cfff [ra-low] 
+(rst): >&c777rst:&cfff took &cf00ra&cfff [ra]
+(carapace): >&c693car:&cfff 0/88 &cf31rl&cfff&cf31:4&cfff &c29flg&cfff&c29f:31&cfff [sng-ledge] 
+(bps): >&cc93bps:&cfff 0/100 sg [water-rox] c:6 
+(bps): >&cc93bps:&cfff 0/80 &c29flg&cfff&c29f:27&cfff [bridge-low] 
+(bps): >&cc93bps:&cfff 0/64 &c29flg&cfff&c29f:27&cfff [hill] 
+(bps): >&cc93bps:&cfff 0/64 &c29flg&cfff&c29f:27&cfff [ra-tunnel] 
+(carapace): >&c693car:&cfff &c0b0safe&cfff [ra]
+(carapace): >&c693car:&cfff 0/88 &cf31rl&cfff&cf31:4&cfff &c29flg&cfff&c29f:31&cfff [ra] 
+[17] minutes remaining
+Team [-s-] leads by 2 frags
+(carapace): >&c693car:&cfff &c931r&cfff200/88 &cf31rl&cfff&cf31:4&cfff &c29flg&cfff&c29f:31&cfff [ra] 
+(carapace): >&c693car:&cfff coming [ra] need &cf31rox&cfff
+(bps): >&cc93bps:&cfff 0/64 &c29flg&cfff&c29f:22&cfff [ring] 
+(bps): >&cc93bps:&cfff rst at [quad]
+(bps): >&cc93bps:&cfff &c05fquad&cfff at [quad]
+(bps): >&cc93bps:&cfff ganon at [ring]
+(bps): >&cc93bps:&cfff 0/60 &c29flg&cfff&c29f:16&cfff [ra] 
+(rst): >&c777rst:&cfff &cf2apack&cfff at [ra-rox]
+(bps): >&cc93bps:&cfff rst at [ra]
+(rst): >&c777rst:&cfff &c931r&cfff33/116 &cf31rl&cfff&cf31:12&cfff [ra] 
+(bps): >&cc93bps:&cfff 0/60 &c29flg&cfff&c29f:16&cfff [ra] 
+(bps): >&cc93bps:&cfff took &ce00ra&cfff [ra]
+(bps): >&cc93bps:&cfff took &ce00ra&cfff [ra]
+(bps): >&cc93bps:&cfff took &ce00ra&cfff [ra]
+(ganon): >&c479gan:&cfff 0/70 &c29flg&cfff&c29f:42&cfff [ra-tunnel] 
+(ganon): >&c479gan:&cfff 0/70 &c29flg&cfff&c29f:42&cfff [ra-tunnel] 
+(bps): >&cc93bps:&cfff &c931r&cfff200/85 &c29flg&cfff&c29f:28&cfff [sng-tele] 
+(rst): >&c777rst:&cfff &c0b0safe&cfff [ra]
+(rst): >&c777rst:&cfff &c0b0safe&cfff [ra]
+(rst): >&c777rst:&cfff &c931r&cfff18/100 &cf31rl&cfff&cf31:12&cfff [ra] 
+(rst): >&c777rst:&cfff &c931r&cfff18/100 &cf31rl&cfff&cf31:12&cfff [ra] 
+Quad Damage is wearing off
+(bps): >&cc93bps:&cfff &c931r&cfff200/100 &c29flg&cfff&c29f:20&cfff [sng-lifts] 
+(ganon): >&c479gan:&cfff 0/70 &c29flg&cfff&c29f:42&cfff [ra] 
+(rst): >&c777rst:&cfff &cf31rox&cfff at [ring]
+(rst): >&c777rst:&cfff &cf31rox&cfff at [ring]
+(ganon): >&c479gan:&cfff took &cf00ra&cfff [ra]
+(bps): >&cc93bps:&cfff carapace at [bridge-high]
+(rst): >&c777rst:&cfff &c931r&cfff18/100 &cf31rl&cfff&cf31:17&cfff [ring] 
+(bps): >&cc93bps:&cfff &c931r&cfff200/100 &c29flg&cfff&c29f:20&cfff [window] 
+(rst): >&c777rst:&cfff &c0b0safe&cfff [ra]
+(rst): >&c777rst:&cfff &c0b0safe&cfff [ra]
+(rst): >&c777rst:&cfff &c0b0safe&cfff [ra]
+(bps): >&cc93bps:&cfff took &c0ffmega&cfff [hill]
+(bps): >&cc93bps:&cfff &c931r&cfff200/200 &c29flg&cfff&c29f:20&cfff [ra-tunnel] 
+(carapace): >&c693car:&cfff took &cff0ya&cfff [ya-box]
+(carapace): >&c693car:&cfff &c991y&cfff150/83 &cf31rl&cfff&cf31:0&cfff &c29flg&cfff&c29f:26&cfff [window] 
+[16] minutes remaining
+Team [-s-] leads by 16 frags
+(bps): >&cc93bps:&cfff &c0b0safe&cfff [quad]
+(bps): >&cc93bps:&cfff &c0b0safe&cfff [quad]
+(bps): >&cc93bps:&cfff &c931r&cfff185/188 &c29flg&cfff&c29f:27&cfff [quad] 
+(bps): >&cc93bps:&cfff &c0b0team&cfff &c05fquad&cfff
+(bps): >&cc93bps:&cfff &c0b0team&cfff &c05fquad&cfff
+(bps): >&cc93bps:&cfff &c0b0team&cfff &c05fquad&cfff
+(bps): >&cc93bps:&cfff &c0b0team&cfff &c05fquad&cfff
+(rst): >&c777rst:&cfff took &cf00ra&cfff [ra]
+(bps): >&cc93bps:&cfff &c931r&cfff185/180 &c29flg&cfff&c29f:27&cfff [sng-ledge] &c05fquad&cfff
+(carapace): >&c693car:&cfff &c0b0safe&cfff [ya-box]
+(carapace): >&c693car:&cfff &c0b0safe&cfff [ya]
+(bps): >&cc93bps:&cfff &c931r&cfff170/169 &c29flg&cfff&c29f:21&cfff [sng-tele] &c05fquad&cfff
+(carapace): >&c693car:&cfff took &cff0ya&cfff [ya-box]
+(carapace): >&c693car:&cfff &c991y&cfff150/100 &cf31rl&cfff&cf31:3&cfff &c29flg&cfff&c29f:22&cfff [window] 
+(bps): >&cc93bps:&cfff &c931r&cfff170/162 &c29flg&cfff&c29f:21&cfff [lifts-below] &c05fquad&cfff
+(bps): >&cc93bps:&cfff &c931r&cfff74/135 &c29flg&cfff&c29f:28&cfff [lifts-below] &c05fquad&cfff
+Quad Damage is wearing off
+(rst): >&c777rst:&cfff took &cf00ra&cfff [ra]
+(ganon): >&c479gan:&cfff &c0b0safe&cfff [window]
+(ganon): >&c479gan:&cfff &c0b0safe&cfff [window]
+(bps): >&cc93bps:&cfff &c931r&cfff74/132 &c29flg&cfff&c29f:25&cfff [ra-low] &c05fquad&cfff
+(bps): >&cc93bps:&cfff rst at [ra-low]
+(bps): >&cc93bps:&cfff &c0b0safe&cfff [ra-low]
+(bps): >&cc93bps:&cfff rst at [ring]
+(carapace): >&c693car:&cfff &c991y&cfff45/56 &cf31rl&cfff&cf31:3&cfff &c29flg&cfff&c29f:8&cfff [ya-box] 
+(ganon): >&c479gan:&cfff &c0b0safe&cfff [window]
+(ganon): >&c479gan:&cfff &c0b0safe&cfff [window]
+(carapace): >&c693car:&cfff &c991y&cfff150/56 &cf31rl&cfff&cf31:3&cfff &c29flg&cfff&c29f:8&cfff [ya-box] 
+(bps): >&cc93bps:&cfff &c0b0safe&cfff [ra]
+(bps): >&cc93bps:&cfff get &cf00pent&cfff
+(carapace): >&c693car:&cfff &c991y&cfff150/56 &cf31rl&cfff&cf31:3&cfff &c29flg&cfff&c29f:8&cfff [sng-lifts] 
+(bps): >&cc93bps:&cfff took &ce00ra&cfff [ra]
+(ganon): >&c479gan:&cfff &c0b0safe&cfff [window]
+(ganon): >&c479gan:&cfff &c0b0safe&cfff [window]
+(rst): >&c777rst:&cfff &c0b0safe&cfff [ya]
+(rst): >&c777rst:&cfff &c0b0safe&cfff [ya]
+[15] minutes remaining
+Team [-s-] leads by 38 frags
+(carapace): >&c693car:&cfff &c991y&cfff115/34 &cf31rl&cfff&cf31:2&cfff &c29flg&cfff&c29f:1&cfff [pent] 
+(bps): >&cc93bps:&cfff &c0b0team&cfff &cff0ring&cfff
+(bps): >&cc93bps:&cfff &c0b0team&cfff &cff0ring&cfff
+(bps): >&cc93bps:&cfff &c0b0team&cfff &cff0ring&cfff
+(bps): >&cc93bps:&cfff &c0b0team&cfff &cff0ring&cfff
+(carapace): >&c693car:&cfff &c991y&cfff53/34 &cf31rl&cfff&cf31:0&cfff &c29flg&cfff&c29f:1&cfff [window] &cf00pent&cfff
+(rst): >&c777rst:&cfff &c0b0safe&cfff [ya-box]
+(rst): >&c777rst:&cfff &c0b0safe&cfff [ya-box]
+(bps): >&cc93bps:&cfff &c0b0team&cfff &c05fquad&cfff  &cff0ring&cfff
+(bps): >&cc93bps:&cfff &c0b0team&cfff &c05fquad&cfff  &cff0ring&cfff
+(rst): >&c777rst:&cfff &c0b0safe&cfff [ya]
+(rst): >&c777rst:&cfff &c0b0safe&cfff [ya]
+(bps): >&cc93bps:&cfff &c931r&cfff180/98 &c29flg&cfff&c29f:37&cfff [ring] &c05fquad&cfff  &cff0ring&cfff
+(ganon): >&c479gan:&cfff &c931r&cfff46/59 &cf31rl&cfff&cf31:14&cfff &c29flg&cfff&c29f:39&cfff [lifts] 
+(ganon): >&c479gan:&cfff &c931r&cfff46/59 &cf31rl&cfff&cf31:14&cfff &c29flg&cfff&c29f:39&cfff [lifts] 
+(rst): >&c777rst:&cfff took &cff0ya&cfff [ya-box]
+(bps): >&cc93bps:&cfff &c931r&cfff180/98 &c29flg&cfff&c29f:37&cfff [ra] &c05fquad&cfff  &cff0ring&cfff
+(bps): >&cc93bps:&cfff &c931r&cfff180/98 &c29flg&cfff&c29f:37&cfff [ra] &c05fquad&cfff  &cff0ring&cfff
+(carapace): >&c693car:&cfff &c991y&cfff53/34 &cf31rl&cfff&cf31:5&cfff &c29flg&cfff&c29f:1&cfff [window] &cf00pent&cfff
+(ganon): >&c479gan:&cfff 0/33 &cf31rl&cfff&cf31:14&cfff &c29flg&cfff&c29f:39&cfff [lifts] 
+(ganon): >&c479gan:&cfff 0/33 &cf31rl&cfff&cf31:14&cfff &c29flg&cfff&c29f:39&cfff [lifts] 
+(ganon): >&c479gan:&cfff 0/33 &cf31rl&cfff&cf31:14&cfff &c29flg&cfff&c29f:39&cfff [lifts] 
+(ganon): >&c479gan:&cfff 0/33 &cf31rl&cfff&cf31:14&cfff &c29flg&cfff&c29f:39&cfff [lifts] 
+(ganon): >&c479gan:&cfff 0/33 &cf31rl&cfff&cf31:14&cfff &c29flg&cfff&c29f:39&cfff [lifts] 
+(bps): >&cc93bps:&cfff &c0b0safe&cfff [ring]
+(bps): >&cc93bps:&cfff &c0b0safe&cfff [ring]
+(bps): >&cc93bps:&cfff &c0b0safe&cfff [lifts-below]
+(carapace): >&c693car:&cfff 0/34 &cf31rl&cfff&cf31:2&cfff &c29flg&cfff&c29f:1&cfff [water] &cf00pent&cfff
+(bps): >&cc93bps:&cfff &c0b0safe&cfff [lifts-below]
+(bps): >&cc93bps:&cfff &c0b0safe&cfff [lifts-below]
+(bps): >&cc93bps:&cfff &c0b0safe&cfff [lifts-below]
+(bps): >&cc93bps:&cfff &c0b0safe&cfff [lifts-below]
+(bps): >&cc93bps:&cfff &c931r&cfff180/98 &c29flg&cfff&c29f:24&cfff [sng-ledge] &c05fquad&cfff  &cff0ring&cfff
+(rst): >&c777rst:&cfff &cf00ra&cfff at [ra]
+Protection is almost burned out
+(bps): >&cc93bps:&cfff &c931r&cfff180/98 &c29flg&cfff&c29f:36&cfff [sng-tele] &c05fquad&cfff  &cff0ring&cfff
+(bps): >&cc93bps:&cfff &c931r&cfff180/98 &c29flg&cfff&c29f:36&cfff [sng-tele] &c05fquad&cfff  &cff0ring&cfff
+(rst): >&c777rst:&cfff &c0b0safe&cfff [ra-low]
+(rst): >&c777rst:&cfff &c0b0safe&cfff [ra-low]
+(carapace): >&c693car:&cfff 0/34 &cf31rl&cfff&cf31:6&cfff &c29flg&cfff&c29f:7&cfff [bridge-high] 
+(bps): >&cc93bps:&cfff &c0b0safe&cfff [ra-tunnel]
+(bps): >&cc93bps:&cfff &c0b0safe&cfff [ra-tunnel]
+(bps): >&cc93bps:&cfff &c0b0safe&cfff [ra-tunnel]
+(carapace): >&c693car:&cfff 0/34 &cf31rl&cfff&cf31:6&cfff &c29flg&cfff&c29f:7&cfff [window] 
+(rst): >&c777rst:&cfff &c0b0safe&cfff [window]
+(rst): >&c777rst:&cfff &c0b0safe&cfff [window]
+(rst): >&c777rst:&cfff &c0b0safe&cfff [window]
+(carapace): >&c693car:&cfff 0/74 &cf31rl&cfff&cf31:6&cfff &c29flg&cfff&c29f:7&cfff [sng-lifts] 
+(ganon): >&c479gan:&cfff &c0b0safe&cfff [ya]
+(ganon): >&c479gan:&cfff &c0b0safe&cfff [ya]
+(bps): >&cc93bps:&cfff &c931r&cfff140/92 &c29flg&cfff&c29f:30&cfff [sng-tele] 
+(rst): >&c777rst:&cfff &cf2apack&cfff at [sng-lifts]
+(rst): >&c777rst:&cfff &c0b0safe&cfff [ra-entry]
+(rst): >&c777rst:&cfff &c0b0safe&cfff [ra-entry]
+[14] minutes remaining
+Team [-s-] leads by 56 frags
+(carapace): >&c693car:&cfff &c29fcells&cfff at [sng-tele]
+(bps): >&cc93bps:&cfff &c931r&cfff100/84 &c29flg&cfff&c29f:30&cfff [sng-tele] 
+(grc): >haxx: &c05fquad&cfff over &cf00[&cfffquad&cf00]&cfff 1
+(grc): >haxx: &c05fquad&cfff over &cf00[&cfffquad&cf00]&cfff 1
+(grc): >haxx: &c05fquad&cfff over &cf00[&cfffquad&cf00]&cfff 1
+(grc): >haxx: &cf00lost&cfff &cf00[&cfffquad&cf00]&cfff 1
+(grc): >haxx: &cf00lost&cfff &cf00[&cfffquad&cf00]&cfff 1
+(carapace): >&c693car:&cfff 0/100 &cf31rl&cfff&cf31:17&cfff &c29flg&cfff&c29f:26&cfff [ra] 
+(bps): >&cc93bps:&cfff 0/12 &c29flg&cfff&c29f:8&cfff [quad] 
+(ganon): >&c479gan:&cfff 0/116 &cf31rl&cfff&cf31:20&cfff &c29flg&cfff&c29f:7&cfff [ra-low] 
+(ganon): >&c479gan:&cfff 0/112 &cf31rl&cfff&cf31:20&cfff &c29flg&cfff&c29f:7&cfff [ra] 
+(ganon): >&c479gan:&cfff 0/112 &cf31rl&cfff&cf31:20&cfff &c29flg&cfff&c29f:7&cfff [ra] 
+(rst): >&c777rst:&cfff &c0b0safe&cfff [sng-lifts]
+(rst): >&c777rst:&cfff &c0b0safe&cfff [sng-lifts]
+(rst): >&c777rst:&cfff &c931r&cfff200/95 &cf31rl&cfff&cf31:9&cfff [sng-lifts] 
+(bps): >&cc93bps:&cfff 0/8 &c29flg&cfff&c29f:8&cfff [hill] 
+(carapace): >&c693car:&cfff 0/100 &cf31rl&cfff&cf31:17&cfff &c29flg&cfff&c29f:26&cfff [ra] 
+(ganon): >&c479gan:&cfff &c0b0safe&cfff [ra]
+(ganon): >&c479gan:&cfff &c0b0safe&cfff [ra]
+(bps): >&cc93bps:&cfff 0/8 &c29flg&cfff&c29f:8&cfff [ra-tunnel] 
+(rst): >&c777rst:&cfff &c0b0safe&cfff [sng-mega]
+(rst): >&c777rst:&cfff &c0b0safe&cfff [sng-mega]
+(carapace): >&c693car:&cfff &c931r&cfff200/100 &cf31rl&cfff&cf31:17&cfff &c29flg&cfff&c29f:26&cfff [ra] 
+(carapace): >&c693car:&cfff took &cf00ra&cfff [ra]
+(bps): >&cc93bps:&cfff 0/8 &c29flg&cfff&c29f:8&cfff [ra-tunnel] 
+(carapace): >&c693car:&cfff &c931r&cfff138/84 &cf31rl&cfff&cf31:15&cfff &c29flg&cfff&c29f:26&cfff [quad] 
+(ganon): >&c479gan:&cfff 0/100 &cf31rl&cfff&cf31:20&cfff &c29flg&cfff&c29f:7&cfff [ra] 
+(ganon): >&c479gan:&cfff &c0b0safe&cfff [ra]
+(bps): >&cc93bps:&cfff 0/8 &c29flg&cfff&c29f:8&cfff [ra-tunnel] 
+(bps): >&cc93bps:&cfff 0/8 &c29flg&cfff&c29f:8&cfff [ra-tunnel] 
+(bps): >&cc93bps:&cfff 0/8 &c29flg&cfff&c29f:8&cfff [ra-tunnel] 
+(carapace): >&c693car:&cfff &c931r&cfff138/84 &cf31rl&cfff&cf31:15&cfff &c29flg&cfff&c29f:26&cfff [window] 
+(rst): >&c777rst:&cfff &c931r&cfff19/135 &cf31rl&cfff&cf31:16&cfff [ra] 
+(ganon): >&c479gan:&cfff took &cf00ra&cfff [ra]
+(carapace): >&c693car:&cfff &cf2apack&cfff at [quad]
+(bps): >&cc93bps:&cfff 0/108 &c29flg&cfff&c29f:8&cfff [hill] 
+(bps): >&cc93bps:&cfff &cf00lost&cfff [bridge-high] 2
+(bps): >&cc93bps:&cfff &cf00lost&cfff [bridge-high] 2
+(bps): >&cc93bps:&cfff &cf00lost&cfff [bridge-high] 2
+[13] minutes remaining
+Team [-s-] leads by 64 frags
+(ok98): >&c25fok   &cfff took &c2aalg&cfff [water.lg]
+(ganon): >&c479gan:&cfff &cf00lost&cfff [ra] 1
+(ganon): >&c479gan:&cfff &cf00lost&cfff [ra] 1
+(ganon): >&c479gan:&cfff &cf00lost&cfff [ra] 1
+(carapace): >&c693car:&cfff took &cf2apack&cfff [ya-quad]
+(bps): >&cc93bps:&cfff &c05fquaded&cfff carapace at [ya-up]
+(rst): >&c777rst:&cfff &c0b0safe&cfff [sng-mega]
+(rst): >&c777rst:&cfff &c0b0safe&cfff [sng-mega]
+(rst): >&c777rst:&cfff &c0b0safe&cfff [sng-mega]
+(carapace): >&c693car:&cfff 0/35 &cf31rl&cfff&cf31:10&cfff &c29flg&cfff&c29f:21&cfff [ya-box] &c05fquad&cfff
+(carapace): >&c693car:&cfff 0/35 &cf31rl&cfff&cf31:10&cfff &c29flg&cfff&c29f:21&cfff [ya-box] &c05fquad&cfff
+(ganon): >&c479gan:&cfff &cf00lost&cfff [ra] 2
+(ganon): >&c479gan:&cfff &cf00lost&cfff [ra] 2
+(ganon): >&c479gan:&cfff &cf00lost&cfff [ra] 2
+(ganon): >&c479gan:&cfff &cf00lost&cfff [ra] 2
+(ganon): >&c479gan:&cfff &cf00lost&cfff [ra] 2
+(ganon): >&c479gan:&cfff &cf00lost&cfff [ra] 2
+(ganon): >&c479gan:&cfff &cf00lost&cfff [ra] 2
+(carapace): >&c693car:&cfff took &cff0ya&cfff [ya-box]
+(carapace): >&c693car:&cfff &c991y&cfff150/60 &cf31rl&cfff&cf31:10&cfff &c29flg&cfff&c29f:21&cfff [window] &c05fquad&cfff
+(carapace): >&c693car:&cfff &c991y&cfff124/86 &cf31rl&cfff&cf31:10&cfff &c29flg&cfff&c29f:21&cfff [sng-lifts] &c05fquad&cfff
+(ganon): >&c479gan:&cfff 0/100 [rl] 
+(bps): >&cc93bps:&cfff 0/55 [hill] 
+(rst): >&c777rst:&cfff &c0b0safe&cfff [sng-tele]
+(rst): >&c777rst:&cfff &c0b0safe&cfff [sng-tele]
+Quad Damage is wearing off
+(bps): >&cc93bps:&cfff 0/100 [ring] 
+(bps): >&cc93bps:&cfff &cf00lost&cfff [ya-box] 2
+(rst): >&c777rst:&cfff took &cf00ra&cfff [ra]
+(bps): >&cc93bps:&cfff ganon at [rl]
+(carapace): >&c693car:&cfff &c991y&cfff124/86 &cf31rl&cfff&cf31:13&cfff &c29flg&cfff&c29f:16&cfff [window] 
+(bps): >&cc93bps:&cfff took &c29flg&cfff [water-lg]
+(bps): >&cc93bps:&cfff took &c29flg&cfff [water-lg]
+(bps): >&cc93bps:&cfff 0/100 &c29flg&cfff&c29f:21&cfff [bridge-low] 
+(carapace): >&c693car:&cfff &c991y&cfff83/60 &cf31rl&cfff&cf31:23&cfff &c29flg&cfff&c29f:16&cfff [sng-lifts] 
+(carapace): >&c693car:&cfff &c991y&cfff83/100 &cf31rl&cfff&cf31:23&cfff &c29flg&cfff&c29f:16&cfff [sng-lifts] 
+(rst): >&c777rst:&cfff &cf00enemy&cfff at [ya-quad]
+[12] minutes remaining
+Team [-s-] leads by 67 frags
+(bps): >&cc93bps:&cfff 0/152 &c29flg&cfff&c29f:14&cfff [hill] 
+(ganon): >&c479gan:&cfff &c0b0safe&cfff [ya]
+(ganon): >&c479gan:&cfff &c0b0safe&cfff [ya]
+(bps): >&cc93bps:&cfff 0/152 &c29flg&cfff&c29f:14&cfff [ra-tunnel] 
+(ganon): >&c479gan:&cfff took &cff0ya&cfff [ya-box]
+(carapace): >&c693car:&cfff &c991y&cfff41/74 &cf31rl&cfff&cf31:28&cfff &c29flg&cfff&c29f:4&cfff [sng-mega] 
+(rst): >&c777rst:&cfff &c0b0safe&cfff [quad]
+(rst): >&c777rst:&cfff &c0b0safe&cfff [quad]
+(bps): >&cc93bps:&cfff 0/146 &c29flg&cfff&c29f:14&cfff [ra-low] 
+(carapace): >&c693car:&cfff &c991y&cfff41/99 &cf31rl&cfff&cf31:28&cfff &c29flg&cfff&c29f:16&cfff [sng-tele] 
+(bps): >&cc93bps:&cfff &c0b0safe&cfff [ra]
+(bps): >&cc93bps:&cfff took &ce00ra&cfff [ra]
+(rst): >&c777rst:&cfff &c0b0safe&cfff [ring]
+(rst): >&c777rst:&cfff &c931r&cfff25/95 &cf31rl&cfff&cf31:40&cfff [ring] &c05fquad&cfff
+(carapace): >&c693car:&cfff &c991y&cfff11/81 &cf31rl&cfff&cf31:25&cfff &c29flg&cfff&c29f:16&cfff [ring] 
+(carapace): >&c693car:&cfff &c991y&cfff11/81 &cf31rl&cfff&cf31:25&cfff &c29flg&cfff&c29f:16&cfff [ra] 
+(bps): >&cc93bps:&cfff &c931r&cfff200/133 &c29flg&cfff&c29f:14&cfff [sng-tele] 
+(rst): >&c777rst:&cfff &c931r&cfff25/95 &cf31rl&cfff&cf31:39&cfff [ring] &c05fquad&cfff
+(rst): >&c777rst:&cfff &c931r&cfff25/95 &cf31rl&cfff&cf31:38&cfff [ra] &c05fquad&cfff
+(bps): >&cc93bps:&cfff &c0b0safe&cfff [sng-tele]
+(rst): >&c777rst:&cfff &c931r&cfff25/95 &cf31rl&cfff&cf31:38&cfff [ra] &c05fquad&cfff
+(rst): >&c777rst:&cfff took &cf00ra&cfff [ra]
+Quad Damage is wearing off
+(carapace): >&c693car:&cfff &c991y&cfff11/81 &cf31rl&cfff&cf31:25&cfff &c29flg&cfff&c29f:16&cfff [ra] 
+(ganon): >&c479gan:&cfff &c991y&cfff103/26 &cf31rl&cfff&cf31:0&cfff [lifts-below] 
+(bps): >&cc93bps:&cfff &c931r&cfff200/117 &cf31rl&cfff&cf31:24&cfff &c29flg&cfff&c29f:14&cfff [sng-tele] 
+(bps): >&cc93bps:&cfff ganon at [sng]
+(carapace): >&c693car:&cfff &c991y&cfff11/81 &cf31rl&cfff&cf31:25&cfff &c29flg&cfff&c29f:16&cfff [ra] 
+(bps): >&cc93bps:&cfff &c0ffmega&cfff at [sng-mega]
+(bps): >&cc93bps:&cfff &c0ffmega&cfff at [sng-mega]
+(bps): >&cc93bps:&cfff &c931r&cfff200/105 &cf31rl&cfff&cf31:29&cfff &c29flg&cfff&c29f:26&cfff [ring] 
+(bps): >&cc93bps:&cfff &c931r&cfff200/105 &cf31rl&cfff&cf31:29&cfff &c29flg&cfff&c29f:26&cfff [quad] 
+(ganon): >&c479gan:&cfff took &c0ffmega&cfff [sng-mega]
+(rst): >&c777rst:&cfff &c0b0safe&cfff [quad]
+(rst): >&c777rst:&cfff &c0b0safe&cfff [quad]
+(carapace): >&c693car:&cfff took &cf00ra&cfff [ra]
+(carapace): >&c693car:&cfff &c931r&cfff200/81 &cf31rl&cfff&cf31:25&cfff &c29flg&cfff&c29f:16&cfff [ra] 
+(ganon): >&c479gan:&cfff &c0b0safe&cfff [sng-tele]
+(ganon): >&c479gan:&cfff &c0b0safe&cfff [sng-tele]
+[11] minutes remaining
+Team [-s-] leads by 82 frags
+(rst): >&c777rst:&cfff &c0b0safe&cfff [window]
+(rst): >&c777rst:&cfff &c0b0safe&cfff [window]
+(bps): >&cc93bps:&cfff &c991y&cfff150/81 &cf31rl&cfff&cf31:26&cfff &c29flg&cfff&c29f:0&cfff [window] 
+(carapace): >&c693car:&cfff coming [ra-tunnel] need nothing
+(bps): >&cc93bps:&cfff &c991y&cfff92/62 &cf31rl&cfff&cf31:21&cfff &c29flg&cfff&c29f:0&cfff [ya] 
+(rst): >&c777rst:&cfff &c931r&cfff18/56 &cf31rl&cfff&cf31:19&cfff [ra] 
+(rst): >&c777rst:&cfff took &cf00ra&cfff [ra]
+(carapace): >&c693car:&cfff &c931r&cfff125/155 &cf31rl&cfff&cf31:15&cfff &c29flg&cfff&c29f:5&cfff [ring] 
+(bps): >&cc93bps:&cfff &c991y&cfff92/62 &cf31rl&cfff&cf31:20&cfff &c29flg&cfff&c29f:0&cfff [ya-box] 
+(bps): >&cc93bps:&cfff carapace at [ya-up]
+(bps): >&cc93bps:&cfff took &cff0ya&cfff [ya-box]
+(bps): >&cc93bps:&cfff &c991y&cfff150/87 &cf31rl&cfff&cf31:25&cfff &c29flg&cfff&c29f:0&cfff [lifts-below] 
+(ganon): >&c479gan:&cfff &c0b0safe&cfff [sng-tele]
+(ganon): >&c479gan:&cfff &c0b0safe&cfff [sng-tele]
+(bps): >&cc93bps:&cfff &c991y&cfff150/87 &cf31rl&cfff&cf31:24&cfff &c29flg&cfff&c29f:0&cfff [ra-entry] 
+(carapace): >&c693car:&cfff 0/-7 &cf31rl&cfff&cf31:6&cfff &c29flg&cfff&c29f:5&cfff [bridge-high] 
+(rst): >&c777rst:&cfff &cf00enemy&cfff at [bridge-low]
+(carapace): >&c693car:&cfff &cf00lost&cfff [bridge-high] 3
+(carapace): >&c693car:&cfff &cf00lost&cfff [bridge-high] 3
+(grc): >haxx: &cf00lost&cfff &cf00[&cfffbridge.stairs&cf00]&cfff 2
+(grc): >haxx: &cf00lost&cfff &cf00[&cfffbridge.stairs&cf00]&cfff 2
+(grc): >haxx: &cf00lost&cfff &cf00[&cfffbridge.stairs&cf00]&cfff 2
+(grc): >haxx: &cf00lost&cfff &cf00[&cfffbridge.stairs&cf00]&cfff 2
+(ok98): >&c25fok   &cfff 0/28 &cf13rl&cfff&cf30:3&r [ra.tunnel] 
+(ok98): >&c25fok   &cfff 0/28 &cf13rl&cfff&cf30:3&r [ra.tunnel] 
+(ok98): >&c25fok   &cfff 0/28 &cf13rl&cfff&cf30:3&r [ra.tunnel] 
+[10] minutes remaining
+Team [-s-] leads by 97 frags
+(rst): >&c777rst:&cfff &c0b0team&cfff &cf00pent&cfff
+(rst): >&c777rst:&cfff &c0b0team&cfff &cf00pent&cfff
+(carapace): >&c693car:&cfff took &c29flg&cfff [water-lg]
+(carapace): >&c693car:&cfff &cf00lost&cfff [water] 1
+(carapace): >&c693car:&cfff 0/100 [ya-box] 
+(rst): >&c777rst:&cfff &c0b0team&cfff &c05fquad&cfff/&cf00pent&cfff
+(rst): >&c777rst:&cfff &c0b0team&cfff &c05fquad&cfff/&cf00pent&cfff
+(carapace): >&c693car:&cfff &c991y&cfff150/100 [ya-box] 
+(ganon): >&c479gan:&cfff &c991y&cfff22/176 &cf31rl&cfff&cf31:7&cfff [ra-tunnel] 
+(ganon): >&c479gan:&cfff &c991y&cfff22/176 &cf31rl&cfff&cf31:7&cfff [ra-tunnel] 
+(carapace): >&c693car:&cfff took &cf31rl&cfff [rl]
+(ganon): >&c479gan:&cfff &c991y&cfff22/174 &cf31rl&cfff&cf31:7&cfff [ra-tunnel] 
+(carapace): >&c693car:&cfff &c991y&cfff150/100 &cf31rl&cfff&cf31:5&cfff [rl] 
+(bps): >&cc93bps:&cfff 0/100 [water] 
+(carapace): >&c693car:&cfff &c991y&cfff150/100 &cf31rl&cfff&cf31:10&cfff [ya] 
+(carapace): >&c693car:&cfff &c991y&cfff150/100 &cf31rl&cfff&cf31:15&cfff [ra-entry] 
+Protection is almost burned out
+(rst): >&c777rst:&cfff 0/86 &cf31rl&cfff&cf31:13&cfff [ya-box] &c05fquad&cfff/&cf00pent&cfff
+(rst): >&c777rst:&cfff 0/86 &cf31rl&cfff&cf31:13&cfff [ya-box] &c05fquad&cfff/&cf00pent&cfff
+(rst): >&c777rst:&cfff took &cff0ya&cfff [ya-box]
+(bps): >&cc93bps:&cfff 0/100 [sng-tele] 
+(carapace): >&c693car:&cfff &c991y&cfff150/100 &cf31rl&cfff&cf31:17&cfff [ring] 
+(bps): >&cc93bps:&cfff 0/6 [ra-low] 
+(ganon): >&c479gan:&cfff 0/100 &cf31rl&cfff&cf31:3&cfff [ya] 
+(rst): >&c777rst:&cfff &c991y&cfff150/86 &cf31rl&cfff&cf31:13&cfff [window] &c05fquad&cfff
+Quad Damage is wearing off
+(ganon): >&c479gan:&cfff 0/100 &cf31rl&cfff&cf31:3&cfff [ya] 
+(carapace): >&c693car:&cfff &c991y&cfff127/187 &cf31rl&cfff&cf31:16&cfff [sng-mega] 
+(bps): >&cc93bps:&cfff 0/100 [bridge-stairs] 
+(carapace): >&c693car:&cfff &c0b0safe&cfff [sng-mega]
+(carapace): >&c693car:&cfff &c991y&cfff127/187 &cf31rl&cfff&cf31:16&cfff [sng-mega] 
+(rst): >&c777rst:&cfff &cf00dropped&cfff &cf31rl&cfff [lifts-below] 2
+(rst): >&c777rst:&cfff &cf00dropped&cfff &cf31rl&cfff [lifts-below] 2
+(rst): >&c777rst:&cfff &cf00dropped&cfff &cf31rl&cfff [lifts-below] 2
+(rst): >&c777rst:&cfff &cf00dropped&cfff &cf31rl&cfff [lifts-below] 2
+(rst): >&c777rst:&cfff &cf00dropped&cfff &cf31rl&cfff [lifts-below] 2
+(rst): >&c777rst:&cfff &cf00dropped&cfff &cf31rl&cfff [lifts-below] 2
+(rst): >&c777rst:&cfff &cf00dropped&cfff &cf31rl&cfff [lifts-below] 2
+(rst): >&c777rst:&cfff &cf00dropped&cfff &cf31rl&cfff [lifts-below] 2
+(ok98): >&c25fok   &cfff &ce0072&cfff/75 &cf13rl&cfff&cf30:10&r [sng.lifts] &c2aac&cfff:29 
+(ok98): >&c25fok   &cfff took &c0a0mega&cfff [hill]
+no weapon
+(raket): >  rkt  &cf00lost&cfff &cf00[ring]&cfff &cf001&cfff
+(raket): >  rkt  &cf00lost&cfff &cf00[ring]&cfff &cf001&cfff
+(bps): >&cc93bps:&cfff 0/100 &cf31rl&cfff&cf31:15&cfff [water-rox] 
+[9] minutes remaining
+Team [-s-] leads by 103 frags
+(bps): >&cc93bps:&cfff &c0b0safe&cfff [window]
+(bps): >&cc93bps:&cfff &c0b0safe&cfff [window]
+(rst): >&c777rst:&cfff took &c29flg&cfff [water-lg]
+(bps): >&cc93bps:&cfff took &cff0ya&cfff [ya-box]
+(bps): >&cc93bps:&cfff &c0b0safe&cfff [ya]
+(rst): >&c777rst:&cfff took &c0ffmega&cfff [pent]
+(carapace): >&c693car:&cfff &c991y&cfff33/99 &cf31rl&cfff&cf31:16&cfff [ra-low] 
+(carapace): >&c693car:&cfff &cf2apack&cfff at [ra]
+(rst): >&c777rst:&cfff coming [lifts] need armor/&cf31rl&cfff
+(rst): >&c777rst:&cfff coming [lifts] need armor/&cf31rl&cfff
+(rst): >&c777rst:&cfff coming [lifts] need armor/&cf31rl&cfff
+(rst): >&c777rst:&cfff coming [lifts] need armor/&cf31rl&cfff
+(bps): >&cc93bps:&cfff &c0b0safe&cfff [ya]
+(rst): >&c777rst:&cfff coming [lifts] need armor/&cf31rl&cfff
+(carapace): >&c693car:&cfff &c991y&cfff18/90 &cf31rl&cfff&cf31:14&cfff [ra] 
+(bps): >&cc93bps:&cfff &c0b0safe&cfff [ya]
+(carapace): >&c693car:&cfff &c991y&cfff18/90 &cf31rl&cfff&cf31:12&cfff [ra] 
+(carapace): >&c693car:&cfff took &cf00ra&cfff [ra]
+(carapace): >&c693car:&cfff &c931r&cfff200/90 &cf31rl&cfff&cf31:12&cfff [ra] 
+(rst): >&c777rst:&cfff &c0b0safe&cfff [ra-low]
+Quad Damage is wearing off
+(rst): >&c777rst:&cfff &c0b0safe&cfff [ra]
+(rst): >&c777rst:&cfff &c0b0safe&cfff [ra]
+(rst): >&c777rst:&cfff &c0b0safe&cfff [ra]
+(bps): >&cc93bps:&cfff took &cff0ya&cfff [ya-box]
+(carapace): >&c693car:&cfff &c931r&cfff200/90 &cf31rl&cfff&cf31:15&cfff [ring] 
+(bps): >&cc93bps:&cfff &c991y&cfff150/90 &cf31rl&cfff&cf31:6&cfff [ya] 
+(rst): >&c777rst:&cfff took &cf00ra&cfff [ra]
+(bps): >&cc93bps:&cfff &c991y&cfff150/90 &cf31rl&cfff&cf31:6&cfff [ya] 
+(carapace): >&c693car:&cfff &c931r&cfff200/90 &cf31rl&cfff&cf31:19&cfff [quad] 
+(bps): >&cc93bps:&cfff &cf00enemy&cfff at [bridge-high]
+[8] minutes remaining
+Team [-s-] leads by 116 frags
+(ganon): >&c479gan:&cfff &c0b0safe&cfff [ra]
+(ganon): >&c479gan:&cfff &c0b0safe&cfff [ra]
+(carapace): >&c693car:&cfff &cf2apack&cfff at [ya]
+(rst): >&c777rst:&cfff 0/66 &c29flg&cfff&c29f:51&cfff [sng-lifts] 
+(carapace): >&c693car:&cfff took &cf31rox&cfff [quad]
+(rst): >&c777rst:&cfff &cf00lost&cfff [sng-ledge] 1
+(rst): >&c777rst:&cfff &cf00lost&cfff [sng-ledge] 1
+(rst): >&c777rst:&cfff &cf00lost&cfff [sng-ledge] 1
+(rst): >&c777rst:&cfff &cf00lost&cfff [sng-ledge] 1
+(rst): >&c777rst:&cfff &cf00lost&cfff [sng-ledge] 1
+(carapace): >&c693car:&cfff &cf2apack&cfff at [ya]
+(bps): >&cc93bps:&cfff &cf00lost&cfff [sng-lifts] 2
+(bps): >&cc93bps:&cfff &cf00lost&cfff [sng-lifts] 2
+(carapace): >&c693car:&cfff &cf2apack&cfff at [ya]
+(rst): >&c777rst:&cfff took &cf2apack&cfff [ya]
+(bps): >&cc93bps:&cfff 0/100 [ring] 
+(bps): >&cc93bps:&cfff &c05fquaded&cfff ganon at [ra-low]
+(rst): >&c777rst:&cfff took &cff0ya&cfff [ya-box]
+(carapace): >&c693car:&cfff &cf00dropped&cfff &cf31rl&cfff [ya] 2
+(carapace): >&c693car:&cfff &cf00dropped&cfff &cf31rl&cfff [ya] 2
+(carapace): >&c693car:&cfff &cf00dropped&cfff &cf31rl&cfff [ya] 2
+(carapace): >&c693car:&cfff coming [sng-tele] need armor rl
+(carapace): >&c693car:&cfff 0/100 [ring] 
+(rst): >&c777rst:&cfff &cf2apack&cfff at [water]
+(carapace): >&c693car:&cfff coming [ya] need armor rl
+(bps): >&cc93bps:&cfff 0/100 ng [window] rox:5 
+(bps): >&cc93bps:&cfff carapace at [water]
+(carapace): >&c693car:&cfff took &cf2apack&cfff [water]
+(carapace): >&c693car:&cfff 0/91 &cf31rl&cfff&cf31:1&cfff [water] 
+Quad Damage is wearing off
+(bps): >&cc93bps:&cfff 0/100 ng [bridge-low] rox:5 
+(bps): >&cc93bps:&cfff rst at [bridge-low]
+(carapace): >&c693car:&cfff &cf00lost&cfff [hill] 2
+(carapace): >&c693car:&cfff &cf00lost&cfff [hill] 2
+(carapace): >&c693car:&cfff &cf00lost&cfff [hill] 2
+(bps): >&cc93bps:&cfff &cff0ya&cfff at [ya-box]
+(carapace): >&c693car:&cfff 0/100 [ra-entry] 
+(bps): >&cc93bps:&cfff &cff0ya&cfff at [ya-box]
+(rst): >&c777rst:&cfff &c991y&cfff28/21 &cf31rl&cfff&cf31:11&cfff &c29flg&cfff&c29f:25&cfff [ya-entry] 
+(bps): >&cc93bps:&cfff took &cff0ya&cfff [ya-box]
+(bps): >&cc93bps:&cfff &c991y&cfff135/87 ng [water] rox:5 
+(rst): >&c777rst:&cfff &c991y&cfff13/27 &cf31rl&cfff&cf31:16&cfff &c29flg&cfff&c29f:18&cfff [ya] 
+(bps): >&cc93bps:&cfff &c991y&cfff94/60 ng [bridge-low] rox:5 
+(carapace): >&c693car:&cfff 0/20 [quad] 
+[7] minutes remaining
+Team [-s-] leads by 130 frags
+(carapace): >&c693car:&cfff &cf00lost&cfff [sng-ledge] 1
+(carapace): >&c693car:&cfff 0/100 [sng-tele] 
+(rst): >&c777rst:&cfff coming [lifts] need armor
+(rst): >&c777rst:&cfff coming [lifts] need armor
+(rst): >&c777rst:&cfff coming [lifts] need armor
+(rst): >&c777rst:&cfff coming [lifts] need armor
+(carapace): >&c693car:&cfff 0/100 sg [ring] rox:5 
+(rst): >&c777rst:&cfff &c991y&cfff13/126 &cf31rl&cfff&cf31:16&cfff &c29flg&cfff&c29f:18&cfff [lifts] 
+(bps): >&cc93bps:&cfff &c0b0safe&cfff [ring]
+(carapace): >&c693car:&cfff &cf00lost&cfff [quad] 2
+(ganon): >&c479gan:&cfff &c0b0safe&cfff [ra]
+(ganon): >&c479gan:&cfff &c0b0safe&cfff [ra]
+(carapace): >&c693car:&cfff 0/100 [lifts] 
+(rst): >&c777rst:&cfff &c991y&cfff13/123 &cf31rl&cfff&cf31:16&cfff &c29flg&cfff&c29f:18&cfff [lifts] 
+(bps): >&cc93bps:&cfff &cf00lost&cfff [quad] 2
+(carapace): >&c693car:&cfff 0/100 [ra-tunnel] 
+(carapace): >&c693car:&cfff took &c0ffmega&cfff [hill]
+(ganon): >&c479gan:&cfff &c931r&cfff200/23 &cf31rl&cfff&cf31:5&cfff [ra] 
+(ganon): >&c479gan:&cfff &c0b0safe&cfff [ra]
+(carapace): >&c693car:&cfff 0/200 [hill] 
+(ganon): >&c479gan:&cfff &c0b0safe&cfff [ra]
+(bps): >&cc93bps:&cfff 0/16 ssg [water-lg] rox:4 c:15 
+(bps): >&cc93bps:&cfff carapace at [water]
+(rst): >&c777rst:&cfff &c991y&cfff13/110 &cf31rl&cfff&cf31:13&cfff &c29flg&cfff&c29f:18&cfff [ring] 
+(carapace): >&c693car:&cfff &cf00lost&cfff [water] 1
+(rst): >&c777rst:&cfff &cf00lost&cfff [lifts-below] 1
+(rst): >&c777rst:&cfff &cf00lost&cfff [lifts-below] 1
+(rst): >&c777rst:&cfff &cf00lost&cfff [lifts-below] 1
+(rst): >&c777rst:&cfff &cf00lost&cfff [lifts-below] 1
+(rst): >&c777rst:&cfff &cf00lost&cfff [lifts-below] 1
+(rst): >&c777rst:&cfff &cf00lost&cfff [lifts-below] 1
+(rst): >&c777rst:&cfff &cf00lost&cfff [lifts-below] 1
+(rst): >&c777rst:&cfff &cf00lost&cfff [lifts-below] 1
+(bps): >&cc93bps:&cfff &cf00lost&cfff [lifts-below] 1
+(rst): >&c777rst:&cfff 0/-10 [bridge-low] 
+(bps): >&cc93bps:&cfff rst at [ring]
+(rst): >&c777rst:&cfff &cf31rox&cfff at [ring]
+(bps): >&cc93bps:&cfff 0/100 ng [ra-low] 
+(carapace): >&c693car:&cfff &cf00lost&cfff [ya] 2
+(carapace): >&c693car:&cfff 0/100 [lifts] 
+(carapace): >&c693car:&cfff coming [ring] need armor rl
+(ganon): >&c479gan:&cfff &cf2apack&cfff at [ya-quad]
+(rst): >&c777rst:&cfff &cf00lost&cfff [hill] 2
+(rst): >&c777rst:&cfff &cf00lost&cfff [hill] 2
+(rst): >&c777rst:&cfff &cf00lost&cfff [hill] 2
+(rst): >&c777rst:&cfff &cf00lost&cfff [hill] 2
+(carapace): >&c693car:&cfff took &cf2apack&cfff [ya-quad]
+(bps): >&cc93bps:&cfff 0/100 [bridge-high] 
+(carapace): >&c693car:&cfff 0/100 sg [ya-quad] rox:7 
+(bps): >&cc93bps:&cfff &cf00lost&cfff [water] 1
+(rst): >&c777rst:&cfff took &cf31rl&cfff [rl]
+(rst): >&c777rst:&cfff &cf00lost&cfff [rl] 1
+(rst): >&c777rst:&cfff &cf00lost&cfff [rl] 1
+(rst): >&c777rst:&cfff &cf00lost&cfff [rl] 1
+(rst): >&c777rst:&cfff &cf00lost&cfff [rl] 1
+(rst): >&c777rst:&cfff &cf00lost&cfff [rl] 1
+(bps): >&cc93bps:&cfff 0/100 [sng-tele] 
+[6] minutes remaining
+Team [-s-] leads by 125 frags
+(carapace): >&c693car:&cfff &c991y&cfff150/100 sg [ya-box] rox:7 
+(bps): >&cc93bps:&cfff rst at [ring]
+(ganon): >&c479gan:&cfff &cf00dropped&cfff &cf31rl&cfff [sng-tele] 1
+(ganon): >&c479gan:&cfff &cf00dropped&cfff &cf31rl&cfff [sng-tele] 1
+(ganon): >&c479gan:&cfff &cf00dropped&cfff &cf31rl&cfff [sng-tele] 1
+(ganon): >&c479gan:&cfff &cf00dropped&cfff &cf31rl&cfff [sng-tele] 1
+(grc): >haxx: &cf00lost&cfff &cf00[&cfffbridge.high&cf00]&cfff 1
+(grc): >haxx: &cf00lost&cfff &cf00[&cfffbridge.high&cf00]&cfff 1
+(raket): >  rkt  &cf00lost&cfff &cf00[ra]&cfff &cf001&cfff
+(ok98): >&c25fok   &cfff coming [ra.tunnel] 
+(ok98): >&c25fok   &cfff coming [ra.tunnel] 
+(ok98): >&c25fok   &cfff coming [ra.tunnel] 
+(ok98): >&c25fok   &cfff coming [ra.tunnel] 
+(grc): >haxx: &cf00lost&cfff &cf00[&cfffbridge.low&cf00]&cfff 3
+Quad Damage is wearing off
+(grc): >haxx: &cf00lost&cfff &cf00[&cfffbridge.low&cf00]&cfff 2
+(grc): >haxx: &cf00lost&cfff &cf00[&cfffbridge.low&cf00]&cfff 2
+(grc): >haxx: &cf00lost&cfff &cf00[&cfffbridge.low&cf00]&cfff 2
+(ok98): &cf00>ok lost&r &cf00[&rya.box&cf00]&r 1
+(grc): >haxx: &cf00lost&cfff &cf00[&cfffbridge.low&cf00]&cfff 2
+(grc): >haxx: 0/200 [water]
+(ok98): >&c25fok   &cfff took &c2aalg&cfff [water.lg]
+(raket): >  rkt  0&ce84/&cfff&cc9975&cfff ssg:30 [ya]
+[5] minutes remaining
+Team [-s-] leads by 131 frags
+(bps): >&cc93bps:&cfff &cf00dropped&cfff &cf31rl&cfff [pent] 3
+(bps): >&cc93bps:&cfff &cf00dropped&cfff &cf31rl&cfff [pent] 3
+(ok98): >&c25fok   &cfff &cff0ring&cfff at [ring]
+(ok98): >&c25fok   &cfff &cff0ring&cfff at [ring]
+(ok98): >&c25fok   &cfff &c0f0team&r &cff0ring&cfff
+(raket): >  rkt  0&ce84/&cfff&cc993&cfff &c0cfrl&cfff:0 [lifts] &cf00pent&cfff
+(ok98): >&c25fok   &cfff 0/100 sg [quad] &cff0ring&cfff
+(ok98): >&c25fok   &cfff 0/100 sg [quad] &cff0ring&cfff
+(ok98): >&c25fok   &cfff 0/100 sg [quad] &cff0ring&cfff
+(ok98): >&c25fok   &cfff 0/100 sg [quad] &cff0ring&cfff
+(grc): >haxx: &cf00lost&cfff &cf00[&cfffya.box&cf00]&cfff 1
+(grc): >haxx: &cf00lost&cfff &cf00[&cfffya.box&cf00]&cfff 1
+(ok98): &cf00>ok lost&r &cf00[&rra.low&cf00]&r 2
+Protection is almost burned out
+(grc): >haxx: 0/12 &c2aalg&cfff:50 [water.tunnel]
+(ok98): >&c25fok   &cfff &cff0ya&cfff at [ya.box]
+(ok98): >&c25fok   &cfff took &cff0ya&cfff [ya.box]
+Quad Damage is wearing off
+(ok98): &cf00>ok lost&r &cf00[&rwindow&cf00]&r 1
+(ok98): >&c25fok   &cfff coming [ra.tunnel] 
+(ok98): >&c25fok   &cfff coming [ra.tunnel] 
+(grc): >haxx: &c0a0mega&cfff at [pent] 0
+(raket): >  rkt  0&ce84/&cfff&cc9943&cfff &c0cfrl&cfff:58 [ra]
+(ok98): &cf00>ok lost&r &cf00[&rya.box&cf00]&r 1
+[4] minutes remaining
+Team [-s-] leads by 136 frags
+(ok98): &cf00>ok lost&r &cf00[&rrl&cf00]&r 3
+(grc): >haxx: 0/197 &c2aalg&cfff:62 [ra.low]
+(mm): >k: &cf00ra&cfff at [ra] 0
+(mm): >k: &cf00ra&cfff at [ra] 0
+(mm): >k: &cf00ra&cfff at [ra] 0
+(grc): >haxx: 0/193 &c2aalg&cfff:62 [ra]
+(ok98): &cf00>ok lost&r &cf00[&rya&cf00]&r 1
+(ok98): &cf00>ok lost&r &cf00[&rya.box&cf00]&r 1
+(grc): >haxx: &ce00200&cfff/183 &c2aalg&cfff:62 [quad]
+(ok98): &cf00>ok lost&r &cf00[&rya&cf00]&r 2
+(ok98): >&c25fok   &cfff took &c2aalg&cfff [water.lg]
+(ok98): >&c25fok   &cfff took &cff0ya&cfff [ya.box]
+Quad Damage is wearing off
+(ok98): &cf00>ok lost&r &cf00[&rrl&cf00]&r 1
+(raket): >  rkt  37&cf00r&cfff&ce84/&cfff&cc9988&cfff &c0cfrl&cfff:54 [ra]
+[3] minutes remaining
+Team [-s-] leads by 130 frags
+(ok98): &cf00>ok lost&r &cf00[&rrl&cf00]&r 1
+(ok98): >&c25fok   &cfff took &cff0ya&cfff [ya.box]
+(ok98): >&c25fok   &cfff &cff0150&cfff/100 sg [window] 
+(ok98): >&c25fok   &cfff &cff0150&cfff/100 sg [window] 
+no weapon
+no weapon
+no weapon
+no weapon
+no weapon
+no weapon
+no weapon
+(ok98): >&c25fok   &cfff &cff06&cfff/15 gl [ra.tunnel] &cf30r&cfff:30
+no weapon
+no weapon
+no weapon
+no weapon
+Quad Damage is wearing off
+no weapon
+(ok98): &cf00>ok lost&r &cf00[&rra.low&cf00]&r 2
+(grc): >haxx: &ce0040&cfff/100 &c2aalg&cfff:16 [bridge.high]
+no weapon
+no weapon
+no weapon
+no weapon
+[2] minutes remaining
+Team [-s-] leads by 116 frags
+no weapon
+(ok98): >&c25fok   &cfff 0/8 sng [sng.lifts] &c05fquad&cfff
+(ok98): >&c25fok   &cfff 0/8 sng [sng.lifts] &c05fquad&cfff
+(grc): >haxx: 0/71 &c2aalg&cfff:12 [ra]
+(mm): >k: 0/126 &c2aalg&cfff:21 [lifts] &cf13r&cfff:11
+(ok98): &cf00>ok lost&r &cf00[&rwindow&cf00]&r 1
+(ok98): &cf00>ok lost&r &cf00[&rlifts.below&cf00]&r 1
+(grc): >haxx: &cff0122&cfff/20 &c2aalg&cfff:6 [sng.tele]
+[1] minute remaining
+Team [-s-] leads by 110 frags
+(grc): >haxx: &cff0122&cfff/143 &c2aalg&cfff:6 [rl]
+(ok98): &cf00>ok lost&r &cf00[&rquad&cf00]&r 2
+(ok98): >&c25fok   &cfff took &c0a0mega&cfff [pent]
+[30] seconds
+(ok98): >&c25fok   &cfff took &cf2apack&cfff [water.lg]
+(ok98): &c0b0>ok safe&cfff &c0b0[&cfffrl&c0b0]&cfff
+(ok98): >&c25fok   &cfff took &cf13rl&cfff [rl]
+(raket): >  rkt  &cf00lost&cfff &cf00[ra]&cfff &cf003&cfff
+(raket): >  rkt  &cf00lost&cfff &cf00[ra]&cfff &cf003&cfff
+raket: :)))
+(grc): >haxx: &cff047&cfff/100 &cf13rl&cfff:10 &c2aalg&cfff:1 [sng]
+(grc): >haxx: &cff047&cfff/200 &cf13rl&cfff:10 &c2aalg&cfff:1 [sng.mega]
+[15] seconds
+(ok98): >&c25fok   &cfff 0/89 &cf13rl&cfff&cf30:3&cfff &c2aalg&cfff&c2aa:9&cfff [bridge.high] 
+bps: &c900*&r8)
+(ok98): >&c25fok   &cfff took &cff0ya&cfff [ya.box]
+[10] seconds
+(grc): >haxx: 2 &cf00enemy&cfff at [ra]
+[9] seconds
+[8] seconds
+[7] seconds
+[6] seconds
+[5] seconds
+[4] seconds
+[3] seconds
+[2] seconds
+[1] second
+The match is over
+trigger "onmatchover" has no matching alias
+
+Player statistics:
+______________________________________
+Frags (rank) friendkills . efficiency
+Team [-s-]:
+__________
+_ bps:
+  51 (3) 1 51.5%
+Wp: lg35.6% (52/146) rl54.3% sg38.2% ssg42.0%
+RL skill: ad:86.4 dh:12
+Armr&mhs: ga:0 ya:10 ra:5 mh:5
+Powerups: Q:2 P:0 R:2
+      RL: Took:6 Killed:6 Dropped:4 Xfer:1
+      LG: Took:8 Killed:4 Dropped:3
+  Damage: Tkn:6740 Gvn:8001 EWep:2492 Tm:179 Self:219 ToDie:140
+    Time: Quad:60
+ Streaks: Frags:17 QuadRun:5
+  SpawnFrags: 7
+__________
+_ ganon:
+  48 (4) 3 52.2%
+Wp: lg35.8% (39/109) rl35.9% gl40.0% sg47.5% ssg50.0%
+RL skill: ad:93.9 dh:15
+Armr&mhs: ga:0 ya:4 ra:7 mh:4
+Powerups: Q:2 P:0 R:0
+      RL: Took:6 Killed:6 Dropped:3 Xfer:1
+      LG: Took:2 Killed:3 Dropped:0
+  Damage: Tkn:6399 Gvn:7512 EWep:2250 Tm:360 Self:378 ToDie:145
+    Time: Quad:60
+ Streaks: Frags:23 QuadRun:5
+  SpawnFrags: 6
+__________
+_ rst:
+  62 (32) 0 67.4%
+Wp: lg37.4% (37/99) rl40.9% sg41.1% ssg58.1%
+RL skill: ad:81.2 dh:14
+Armr&mhs: ga:0 ya:5 ra:10 mh:9
+Powerups: Q:3 P:1 R:0
+      RL: Took:3 Killed:6 Dropped:1
+      LG: Took:5 Killed:7 Dropped:1
+  Damage: Tkn:5898 Gvn:8412 EWep:2867 Tm:245 Self:550 ToDie:196
+    Time: Quad:90
+ Streaks: Frags:36 QuadRun:2
+  SpawnFrags: 4
+__________
+_ carapace:
+  67 (42) 1 72.8%
+Wp: lg37.2% (55/148) rl42.5% sg48.9% ssg25.3%
+RL skill: ad:81.2 dh:14
+Armr&mhs: ga:0 ya:11 ra:6 mh:8
+Powerups: Q:3 P:1 R:0
+      RL: Took:6 Killed:10 Dropped:2 Xfer:1
+      LG: Took:5 Killed:5 Dropped:1
+  Damage: Tkn:5626 Gvn:9863 EWep:3439 Tm:100 Self:419 ToDie:225
+    Time: Quad:60
+ Streaks: Frags:35 QuadRun:7
+  SpawnFrags: 15
+
+Team [020]:
+__________
+_ ok98:
+  37 (-38) 0 33.0%
+Wp: lg28.2% (11/39) rl59.0% gl15.8% sg47.0%
+RL skill: ad:86.4 dh:10
+Armr&mhs: ga:0 ya:9 ra:5 mh:8
+Powerups: Q:2 P:0 R:1
+      RL: Took:10 Killed:6 Dropped:5
+      LG: Took:6 Killed:3 Dropped:2
+  Damage: Tkn:10275 Gvn:6415 EWep:2344 Tm:16 Self:307 ToDie:137
+    Time: Quad:53
+ Streaks: Frags:9 QuadRun:4
+  SpawnFrags: 0
+__________
+_ grc:
+  26 (-32) 0 31.0%
+Wp: lg31.4% (53/169) rl25.0% gl12.5% sg37.6% ssg53.6%
+RL skill: ad:81.7 dh:2
+Armr&mhs: ga:0 ya:3 ra:3 mh:9
+Powerups: Q:2 P:0 R:0
+      RL: Took:3 Killed:0 Dropped:2
+      LG: Took:6 Killed:4 Dropped:5
+  Damage: Tkn:7659 Gvn:5202 EWep:2403 Tm:19 Self:116 ToDie:132
+    Time: Quad:30
+ Streaks: Frags:14 QuadRun:4
+  SpawnFrags: 2
+__________
+_ mm:
+  28 (-17) 1 38.4%
+Wp: lg41.7% (65/156) rl37.5% sg32.1% ssg56.8%
+RL skill: ad:97.7 dh:4
+Armr&mhs: ga:0 ya:6 ra:4 mh:10
+Powerups: Q:1 P:1 R:1
+      RL: Took:9 Killed:8 Dropped:3 Xfer:1
+      LG: Took:7 Killed:4 Dropped:3
+  Damage: Tkn:6865 Gvn:5989 EWep:3299 Tm:158 Self:182 ToDie:152
+    Time: Quad:30
+ Streaks: Frags:8 QuadRun:2
+  SpawnFrags: 5
+__________
+_ raket:
+  39 (-28) 1 36.8%
+Wp: lg27.2% (31/114) rl33.3% gl11.1% sg42.9% ssg40.1%
+RL skill: ad:114.0 dh:10
+Armr&mhs: ga:0 ya:4 ra:7 mh:9
+Powerups: Q:5 P:1 R:0
+      RL: Took:9 Killed:3 Dropped:6 Xfer:1
+      LG: Took:4 Killed:5 Dropped:0
+  Damage: Tkn:8989 Gvn:7057 EWep:3140 Tm:100 Self:446 ToDie:134
+    Time: Quad:110
+ Streaks: Frags:26 QuadRun:5
+  SpawnFrags: 4
+
+______________________________________
+[-s-] vs [020] match statistics:
+______________________________________
+
+weapons, powerups, armors&mhs, damage
+______________________________________
+[-s-]: Wp: lg36% rl55 gl4 sg44% ssg49%
+Powerups: Q:10 P:2 R:2
+Armr&mhs: ga:0 ya:30 ra:28 mh:26
+      RL: Took:21 Killed:28 Dropped:10 Xfer:3
+      LG: Took:20 Killed:19 Dropped:5
+  Damage: Tkn:24663 Gvn:33788 EWep:11048 Tm:884
+    Time: Quad:270
+[020]: Wp: lg33% rl26 gl5 sg39% ssg49%
+Powerups: Q:10 P:2 R:2
+Armr&mhs: ga:0 ya:22 ra:19 mh:36
+      RL: Took:31 Killed:17 Dropped:16 Xfer:2
+      LG: Took:23 Killed:16 Dropped:10
+  Damage: Tkn:33788 Gvn:24663 EWep:11186 Tm:293
+    Time: Quad:224
+______________________________________
+[dm3] top scorers:
+______________________________________
+      Frags: carapace [67]
+     Deaths: ok98 [75]
+Friendkills: ganon [3]
+ Efficiency: carapace [72.8%]
+ FragStreak: rst [36]
+    QuadRun: carapace [7]
+  RL Killer: carapace [10]
+Boomsticker: carapace [48.9%]
+   Survivor: carapace [225]
+Annihilator: carapace [9863]
+
+______________________________________
+
+Team scores: frags . percentage
+______________________________________
+[-s-]: 228 . 63.7%
+[020]: 130 . 36.3%
+______________________________________
+carapace: ggs
+rst: ggs
+mm: ggs
+]log 11

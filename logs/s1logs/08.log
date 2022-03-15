@@ -1,0 +1,1499 @@
+]playdemo 08
+Playing demo from 08.mvd
+
+
+_____________________________________
+
+_Claustrophobopolis
+ganon is ready [-s-]
+All players ready
+Timer started
+QiZmo: timer lag point disabled
+Server starts recording (memory): 4on4_com_vs_-s-[dm2]220127-2239.mvd
+Milton: gl hf
+matchdate: 2022-01-27 22:39:57 EET
+trigger "onmatchstart" has no matching alias
+The match has begun!
+(Xterm): > &cc22 xte&cfff [low-button] 0&ce84/&cfff&cc99100&cfff
+(Milton): > &cf60 mil coming [water]&cfff 
+(nit): > &cc36 nit&cfff [quad.button] 0&ce84/&cfff&cc99100&cfff
+(Diki): > &c6ffdik:&cfff [lower-lift] &cf660&cfff/100 &cf60rl&cfff 
+(Diki): > &c6ffdik:&cfff [lower-lift] &cf660&cfff/100 &cf60rl&cfff 
+(Diki): > &c6ffdik:&cfff took &cf00ra&cfff [secret]
+(Diki): > &c6ffdik:&cfff took &cf00ra&cfff [secret]
+no weapon
+(Xterm): > &cc22 xte&cfff [big] 0&ce84/&cfff&cc99100&cfff
+(Milton): > &c666 mil&cfff [quad tunnel] 0/38 ng &c05fquad&cfff
+(Milton): > &c666 mil&cfff [quad tunnel] 0/38 ng &c05fquad&cfff
+no weapon
+(Xterm): > &cc22 xte&cfff [big] 0&ce84/&cfff&cc99100&cfff
+(Milton): > &c666 mil&cfff [upper tele] 0/38 ng &c05fquad&cfff
+(Xterm): > &cc22 xte&cfff [big] 150&cff0y&cfff&ce84/&cfff&cc99100&cfff
+no weapon
+no weapon
+(nit): > &cc36 nit&cfff [ra.mega] 0&ce84/&cfff&cc99100&cfff
+(Diki): >&cf00 dik lost [path] 2
+(Diki): >&cf00 dik lost [path] 2
+no weapon
+no weapon
+no weapon
+(nit): > &cc36 nit&cfff [ra.mega] 0&ce84/&cfff&cc99100&cfff
+no weapon
+(Milton): >&cf00  mil lost [center] 2
+(Milton): >&cf00  mil lost [center] 2
+(Milton): >&cf00  mil lost [center] 2
+(nit): > &cc36 nit&cfff [ra.mega] 0&ce84/&cfff&cc99100&cfff
+(bps): >&cc93bps:&cfff 0/76 ssg [secret] rox:10 
+(bps): >&cc93bps:&cfff took &ce00ra&cfff [secret]
+(bps): >&cc93bps:&cfff took &ce00ra&cfff [secret]
+(carapace): >&c693car:&cfff &cf00lost&cfff [low-rl] 2
+(bps): >&cc93bps:&cfff &c931r&cfff180/72 ssg [path] rox:10 
+(rst): >&c777rst:&cfff 0/33 &cf31rl&cfff&cf31:5&cfff [tele-entry] 
+(bps): >&cc93bps:&cfff &c931r&cfff60/46 &cf31rl&cfff&cf31:13&cfff [path-lift] 
+(rst): >&c777rst:&cfff &cf00dropped&cfff &cf31rl&cfff [tele-high] 2
+(rst): >&c777rst:&cfff &cf00dropped&cfff &cf31rl&cfff [tele-high] 2
+(bps): >&cc93bps:&cfff &c931r&cfff60/46 &cf31rl&cfff&cf31:13&cfff [path] 
+(rst): >&c777rst:&cfff &cf00dropped&cfff &cf31rl&cfff [tele-high] 2
+(rst): >&c777rst:&cfff &cf00dropped&cfff &cf31rl&cfff [tele-high] 2
+(rst): >&c777rst:&cfff &cf00dropped&cfff &cf31rl&cfff [tele-high] 2
+(rst): >&c777rst:&cfff &cf00dropped&cfff &cf31rl&cfff [tele-high] 2
+(rst): >&c777rst:&cfff &cf00dropped&cfff &cf31rl&cfff [tele-high] 2
+(carapace): >&c693car:&cfff &cf00lost&cfff [tele-entry] 2
+(rst): >&c777rst:&cfff &cf00dropped&cfff &cf31rl&cfff [tele-high] 2
+(rst): >&c777rst:&cfff &c991y&cfff135/-4 &cf31rl&cfff&cf31:3&cfff [high-rl] 
+(carapace): >&c693car:&cfff 0/100 [low-rl] 
+(bps): >&cc93bps:&cfff &c931r&cfff60/86 &cf31rl&cfff&cf31:12&cfff [path] 
+(bps): >&cc93bps:&cfff &c931r&cfff60/86 &cf31rl&cfff&cf31:12&cfff [path] 
+(carapace): >&c693car:&cfff 0/100 [secret] 
+(bps): >&cc93bps:&cfff &c931r&cfff60/86 &cf31rl&cfff&cf31:12&cfff [path-lift] 
+(rst): >&c777rst:&cfff &cf00lost&cfff [quad-low] 3
+(rst): >&c777rst:&cfff &cf00lost&cfff [quad-low] 3
+(rst): >&c777rst:&cfff &cf00lost&cfff [quad-low] 3
+(rst): >&c777rst:&cfff &cf00lost&cfff [quad-low] 3
+(rst): >&c777rst:&cfff &cf00lost&cfff [quad-low] 3
+(carapace): >&c693car:&cfff 0/100 [tele] 
+(bps): >&cc93bps:&cfff &c931r&cfff60/86 &cf31rl&cfff&cf31:12&cfff [secret] 
+(bps): >&cc93bps:&cfff took &ce00ra&cfff [secret]
+(rst): >&c777rst:&cfff get &c05fquad&cfff
+(carapace): >&c693car:&cfff &cf00lost&cfff [tele] 2
+(ganon): >&c479gan:&cfff &c931r&cfff200/84 ssg [ra-mega] rox:10 
+(ganon): >&c479gan:&cfff &c931r&cfff200/84 ssg [ra-mega] rox:10 
+(carapace): >&c693car:&cfff &cf00lost&cfff [big] 2
+(carapace): >&c693car:&cfff 0/100 [water] 
+(bps): >&cc93bps:&cfff &c991y&cfff150/63 &cf31rl&cfff&cf31:15&cfff [tele-high] 
+(ganon): >&c479gan:&cfff &c931r&cfff200/100 ssg [low-rl] rox:10 
+[19] minutes remaining
+Team [-s-] leads by 2 frags
+(carapace): >&c693car:&cfff &cf00lost&cfff [tele] 1
+(rst): >&c777rst:&cfff coming [ng] need armor/weapon
+(carapace): >&c693car:&cfff coming [tele] need armor rl
+(Milton): > &c666 mil&cfff [low rl] 0/100 sg 
+(nit): >       &c06fquad&cfff over
+(Diki): > &c6ffdik:&cfff [high-way] &cf660&cfff/&cf6616&cfff &cf60rl&cfff 
+(Diki): > &c6ffdik:&cfff [high-way] &cf660&cfff/&cf6616&cfff &cf60rl&cfff 
+(bps): >&cc93bps:&cfff &cf00dropped&cfff &cf2apack&cfff [quad-way] 1
+(bps): >&cc93bps:&cfff &cf00dropped&cfff &cf2apack&cfff [quad-way] 1
+(carapace): >&c693car:&cfff &cf00lost&cfff [quad-low] 2
+(rst): >&c777rst:&cfff &c0b0safe&cfff [tele]
+(carapace): >&c693car:&cfff 0/100 [big-stairs] 
+(carapace): >&c693car:&cfff &c991y&cfff150/100 [big] 
+(carapace): >&c693car:&cfff coming [quad-button] need rl
+(carapace): >&c693car:&cfff took &cf2apack&cfff [quad-low]
+(bps): >&cc93bps:&cfff rst at [tele]
+(rst): >&c777rst:&cfff took &cff0ya&cfff [tele-ya]
+(bps): >&cc93bps:&cfff &cf31rox&cfff at [gl]
+(carapace): >&c693car:&cfff &c991y&cfff64/47 &cf31rl&cfff&cf31:0&cfff [quad-low] 
+(carapace): >&c693car:&cfff &c991y&cfff38/33 &cf31rl&cfff&cf31:0&cfff [tele] 
+(carapace): >&c693car:&cfff &c991y&cfff8/15 &cf31rl&cfff&cf31:0&cfff [tele] 
+(bps): >&cc93bps:&cfff 0/19 &c299gl&cfff [big] rox:3 
+(carapace): >&c693car:&cfff 0/111 &cf31rl&cfff&cf31:10&cfff [gl] 
+(Xterm): > &cc22 xte&cfff &cf00enemy&cfff &ce84>&cfff [quad] 3
+(Xterm): > &cc22 xte&cfff [big] 0&ce84/&cfff&cc99100&cfff
+(Diki): >&cf00 dik lost [quad-below] 3
+(Diki): >&cf00 dik lost [quad-below] 3
+(Xterm): > &cc22 xte&cfff [big] 0&ce84/&cfff&cc99100&cfff
+(nit): > &cc36 nit&cfff [low.stairs] 0&ce84/&cfff&cc9922&cfff &c0cfrl&cfff:0
+(Diki): >&cf00 dik lost [tele] 2
+(Diki): >&cf00 dik lost [tele] 2
+(Xterm): > &cc22 xte&cfff [big] 140&cff0y&cfff&ce84/&cfff&cc9994&cfff
+(Milton): > &c666 mil&cfff [ra box] &cf660&cfff/113 &cf60rl&cfff 
+(nit): > &cc36 nit&cfff [ra.mega] 200&cf00r&cfff&ce84/&cfff&cc9922&cfff &c0cfrl&cfff:0
+(Xterm): > &cc22 xte&cfff [platforms] 140&cff0y&cfff&ce84/&cfff&cc9994&cfff
+(Xterm): > &cc22 xte&cfff [low] 140&cff0y&cfff&ce84/&cfff&cc9994&cfff
+(Diki): > &c6ffdik:&cfff [platforms] 0/100 sg 
+(Diki): > &c6ffdik:&cfff [lower-button] 0/100 sg 
+(Milton): > &c666 mil&cfff took &cf00ra&cfff [ra box]
+(Milton): > &c666 mil&cfff took &cf00ra&cfff [ra box]
+(Xterm): > &cc22 xte&cfff [low] 140&cff0y&cfff&ce84/&cfff&cc99100&cfff
+(Diki): > &c6ffdik:&cfff [large] 0/100 sg 
+(nit): > &cc36 nit&cfff [low.lift] 179&cf00r&cfff&ce84/&cfff&cc9919&cfff &c0cfrl&cfff:7
+(Diki): > &c6ffdik:&cfff [large] 0/100 sg 
+(Milton): > &c666 mil&cfff [water] r138/92 &cf60rl&cfff 
+[18] minutes remaining
+Team [-s-] leads by 5 frags
+(Diki): > &c6ffdik:&cfff [large] 0/100 sg 
+(Xterm): > &cc22 xte&cfff took &c0cfrl&cfff [low]
+(Diki): > &c6ffdik:&cfff [large] 0/100 sg 
+(Xterm): > &cc22 xte&cfff took &c0cfrl&cfff [low]
+(Milton): >&cf39  mil pack left at [below quad] 1
+(Milton): >&cf39  mil pack left at [below quad] 1
+(Milton): >&cf39  mil pack left at [below quad] 1
+no weapon
+(carapace): >&c693car:&cfff &cf00lost&cfff [ng] 4
+(carapace): >&c693car:&cfff &cf00lost&cfff [ng] 4
+(carapace): >&c693car:&cfff &cf00lost&cfff [ng] 4
+(carapace): >&c693car:&cfff &cf00lost&cfff [ng] 4
+(Xterm): > &cc22 xte&cfff [path] 83&cff0y&cfff&ce84/&cfff&cc9979&cfff &c0cfrl&cfff:0
+(Xterm): > &cc22 xte&cfff [secret] 83&cff0y&cfff&ce84/&cfff&cc9979&cfff &c0cfrl&cfff:0
+(Xterm): > &cc22 xte&cfff took &cf00ra&cfff [secret]
+(Xterm): > &cc22 xte&cfff [secret] 200&cf00r&cfff&ce84/&cfff&cc9979&cfff &c0cfrl&cfff:0
+(Milton): > &c666 mil&cfff [tele] 0/100 sg 
+(Milton): > &c666 mil&cfff [tele] y150/100 sg 
+(Milton): > &cf60 mil coming [tele]&cfff 
+(Xterm): > &cc22 xte&cfff [water] 13&cf00r&cfff&ce84/&cfff&cc9933&cfff &c0cfrl&cfff:0
+(Milton): > &c666 mil&cfff [high rl] y150/100 &cf60rl&cfff 
+(nit): > &cf00 nit&cfff &cf00lost&cfff &cf00[ra.mega]&cfff &cf001&cfff
+(nit): > &cf00 nit&cfff &cf00lost&cfff &cf00[ra.mega]&cfff &cf001&cfff
+(nit): > &cf00 nit&cfff &cf00lost&cfff &cf00[ra.mega]&cfff &cf001&cfff
+(Milton): >&c0f0  mil safe [high rl]&cfff &cf60rl&cfff 
+(Milton): >&c0f0  mil safe [high rl]&cfff &cf60rl&cfff 
+(Xterm): > &cc22 xte&cfff [tele] 0&ce84/&cfff&cc9923&cfff &c0cfrl&cfff:0
+(Xterm): > &cf00 xte&cfff &cf00lost&cfff &cf00[tele]&cfff &cf001&cfff
+(nit): > &cc36 nit&cfff [low.rl] 0&ce84/&cfff&cc99100&cfff
+(nit): > &cc36 nit&cfff [low.rl] 0&ce84/&cfff&cc99100&cfff
+(nit): > &cc36 nit&cfff [low.rl] 0&ce84/&cfff&cc99100&cfff
+(nit): > &cc36 nit&cfff &cff0help&cfff &cff0[low.rl]&cfff
+(Xterm): > &cc22 xte&cfff [path] 0&ce84/&cfff&cc99100&cfff
+(Xterm): > &cf00 xte&cfff &cf00lost&cfff &cf00[secret]&cfff &cf001&cfff
+(Diki): >&cf00 dik lost [lower] 2
+(Xterm): > &cc22 xte&cfff [quad] 0&ce84/&cfff&cc99100&cfff
+(nit): > &cf00 nit&cfff &cf00lost&cfff &cf00[low.rl]&cfff &cf003&cfff
+(Milton): > &c666 mil&cfff [upper tele] y96/66 &cf60rl&cfff 
+(Milton): > &c666 mil&cfff [upper tele] y96/66 &cf60rl&cfff 
+(Xterm): > &cc22 xte&cfff [tele] 0&ce84/&cfff&cc99100&cfff
+(nit): > &cc36 nit&cfff [ra.mega] 200&cf00r&cfff&ce84/&cfff&cc99100&cfff
+(Milton): >&c0f0  mil safe [gl/mega]&cfff &cf60rl&cfff 
+(Milton): >&c0f0  mil safe [gl/mega]&cfff &cf60rl&cfff 
+(Xterm): > &cc22 xte&cfff [tele] 0&ce84/&cfff&cc99100&cfff
+(Xterm): > &cc22 xte&cfff [tele] 0&ce84/&cfff&cc99100&cfff
+(nit): > &cc36 nit&cfff [quad.low] 170&cf00r&cfff&ce84/&cfff&cc9994&cfff
+(Xterm): > &cc22 xte&cfff [high] 150&cff0y&cfff&ce84/&cfff&cc99100&cfff rox:10
+(nit): > &cc36 nit&cfff [tele.entry] 163&cf00r&cfff&ce84/&cfff&cc9999&cfff
+(Xterm): > &cc22 xte&cfff [high] 150&cff0y&cfff&ce84/&cfff&cc99100&cfff rox:10
+(Xterm): > &cc22 xte&cfff [high] 135&cff0y&cfff&ce84/&cfff&cc9991&cfff rox:10
+(Diki): >&cf00 dik lost [water-mid] 1
+(Diki): >&cf00 dik lost [water-mid] 1
+(Milton): > &cf60 mil coming [center]&cfff 
+(Milton): > &c666 mil&cfff [center] y&cf6656&cfff/136 &cf60rl&cfff 
+(Xterm): > &cc22 xte&cfff &cf3fu take&cfff &cf3f[high]&cfff
+(nit): > &cc36 nit&cfff [high.rl] 163&cf00r&cfff&ce84/&cfff&cc9999&cfff
+(Diki): > &c6ffdik:&cfff [tele] 0/100 sg 
+(Diki): > &c6ffdik:&cfff [tele] 0/100 sg 
+(Xterm): > &cf00 xte&cfff &cf00lost&cfff &cf00[high]&cfff &cf001&cfff
+(Xterm): > &cc22 xte&cfff [big] 0&ce84/&cfff&cc99100&cfff
+(Milton): > &c666 mil&cfff [below quad] y98/101 &cf60rl&cfff 
+(Xterm): > &c3f0 xte&cfff &c3f0safe&cfff &c3f0[big]&cfff
+[17] minutes remaining
+Team [-s-] leads by 3 frags
+(nit): > &c3f0 nit&cfff &c3f0safe&cfff &c3f0[quad.way]&cfff  &c0ffrl&cfff
+(Diki): > &c6ffdik:&cfff [water-ng] 0/100 sg 
+(Diki): > &c6ffdik:&cfff [water-ng] 0/100 sg 
+(Xterm): > &cf00 xte&cfff &cf00lost&cfff &cf00[tele]&cfff &cf002&cfff
+(Xterm): >       &cff0attack&cfff &cff0[tele]&cfff
+(Xterm): > &cf00 xte&cfff &cf00lost&cfff &cf00[tele]&cfff &cf002&cfff
+(Milton): > &c666 mil&cfff [path] &cf660&cfff/&cf6611&cfff &cf60rl&cfff 
+(nit): > &c3f0 nit&cfff &c3f0safe&cfff &c3f0[quad]&cfff  &c0ffrl&cfff
+(Milton): > &c666 mil&cfff [path] &cf660&cfff/&cf6611&cfff &cf60rl&cfff 
+(Xterm): > &cc22 xte&cfff [low] 0&ce84/&cfff&cc9964&cfff &c0cfrl&cfff:29
+(Xterm): > &cc22 xte&cfff took &cf0fpack&cfff [low]
+(Xterm): > &cc22 xte&cfff [low-button] 0&ce84/&cfff&cc9940&cfff &c0cfrl&cfff:28
+(Diki): > &c6ffdik:&cfff [lower] 0/100 sg 
+(Diki): > &c6ffdik:&cfff [lower] 0/100 sg 
+(Xterm): > &cc22 xte&cfff [low-button] 0&ce84/&cfff&cc9940&cfff &c0cfrl&cfff:28
+(Milton): > &c666 mil&cfff [ra box] &cf660&cfff/&cf6611&cfff &cf60rl&cfff 
+(Milton): > &c666 mil&cfff [ra box] &cf660&cfff/&cf6611&cfff &cf60rl&cfff 
+(Milton): > &c666 mil&cfff [ra box] &cf660&cfff/&cf6611&cfff &cf60rl&cfff 
+(Milton): > &c666 mil&cfff [ra box] &cf660&cfff/&cf6611&cfff &cf60rl&cfff 
+(Xterm): > &cc22 xte&cfff [ra-mega] 0&ce84/&cfff&cc99116&cfff &c0cfrl&cfff:28
+(Milton): > &c666 mil&cfff [ra box] &cf660&cfff/&cf6611&cfff &cf60rl&cfff 
+(Milton): > &c666 mil&cfff [ra box] &cf660&cfff/&cf6611&cfff &cf60rl&cfff 
+(Milton): > &c666 mil&cfff took &cf00ra&cfff [ra box]
+(Xterm): > &cc22 xte&cfff [ra-mega] 0&ce84/&cfff&cc9930&cfff &c0cfrl&cfff:27
+(nit): > &cc36 nit&cfff [high.rl] 76&cf00r&cfff&ce84/&cfff&cc9996&cfff &c0cfrl&cfff:8 &c06fquad&cfff
+(Xterm): > &cc22 xte&cfff [ra-mega] 200&cf00r&cfff&ce84/&cfff&cc9930&cfff &c0cfrl&cfff:26
+(Diki): > &c6ffdik:&cfff [large] 0/44 sg 
+(Diki): > &c6ffdik:&cfff [large] 0/44 sg 
+(Xterm): > &c3f0 xte&cfff &c3f0safe&cfff &c3f0[ra-mega]&cfff  &c0ffrl&cfff
+(Milton): >&c0f0  mil safe [ng]&cfff &cf60rl&cfff 
+(Diki): > &c6ffdik:&cfff [quad-below] &cff0y&cfff150/44 sg 
+(Diki): > &c6ffdik:&cfff [quad-below] &cff0y&cfff150/44 sg 
+(Diki): > &c6ffdik:&cfff [water-mid] &cff0y&cfff150/69 sg 
+(Xterm): > &c3f0 xte&cfff &c3f0safe&cfff &c3f0[ra-mega]&cfff  &c0ffrl&cfff
+(Xterm): > &c3f0 xte&cfff &c3f0safe&cfff &c3f0[ra-mega]&cfff  &c0ffrl&cfff
+(nit): > &cc36 nit&cfff [ng] 76&cf00r&cfff&ce84/&cfff&cc99100&cfff &c0cfrl&cfff:5 &c06fquad&cfff
+(Xterm): > &c3f0 xte&cfff &c3f0safe&cfff &c3f0[ra-mega]&cfff  &c0ffrl&cfff
+(Xterm): > &c3f0 xte&cfff &c3f0safe&cfff &c3f0[ra-mega]&cfff  &c0ffrl&cfff
+(Xterm): > &c3f0 xte&cfff &c3f0safe&cfff &c3f0[ra-mega]&cfff  &c0ffrl&cfff
+(Milton): > &cf60 mil coming [tele]&cfff 
+(Xterm): > &cc22 xte&cfff [ra-mega] 153&cf00r&cfff&ce84/&cfff&cc9921&cfff &c0cfrl&cfff:31
+(Diki): > &c6ffdik:&cfff [tele] &cff0y&cfff150/94 sg 
+(Diki): > &c6ffdik:&cfff [tele] &cff0y&cfff150/94 sg 
+(Xterm): > &c3f0 xte&cfff &c3f0safe&cfff &c3f0[ra-mega]&cfff  &c0ffrl&cfff
+(Xterm): > &c3f0 xte&cfff &c3f0safe&cfff &c3f0[ra-mega]&cfff  &c0ffrl&cfff
+(Milton): >&cf39  mil pack left at [upper tele] 1
+(Milton): >&cf39  mil pack left at [upper tele] 1
+(Milton): >&cf39  mil pack left at [upper tele] 1
+(Milton): >&cf39  mil pack left at [upper tele] 1
+(Xterm): > &cc22 xte&cfff [ra-mega] 153&cf00r&cfff&ce84/&cfff&cc9921&cfff &c0cfrl&cfff:31
+(Milton): >&cf39  mil pack left at [upper tele] 1
+(Xterm): > &cc22 xte&cfff [ra-mega] 153&cf00r&cfff&ce84/&cfff&cc9921&cfff &c0cfrl&cfff:31
+Quad Damage is wearing off
+(Milton): >&cf39  mil pack left at [upper tele] 1
+(Milton): >&cf39  mil pack left at [upper tele] 1
+(Milton): >&cf39  mil pack left at [upper tele] 1
+(Milton): > &c666 mil&cfff [low rl] 0/100 sg 
+(Xterm): > &cc22 xte&cfff [ra-mega] 153&cf00r&cfff&ce84/&cfff&cc9921&cfff &c0cfrl&cfff:31
+(Milton): > &c666 mil&cfff __ &cf39pack&cfff at [low rl]
+(Milton): > &c666 mil&cfff __ &cf39pack&cfff at [low rl]
+(nit): > &cc36 nit&cfff [path.lift] 53&cf00r&cfff&ce84/&cfff&cc9995&cfff &c0cfrl&cfff:8 &c06fquad&cfff
+(Milton): > &c666 mil&cfff [low rl] 0/100 sg 
+(Xterm): > &cc22 xte&cfff [ra-mega] 153&cf00r&cfff&ce84/&cfff&cc9921&cfff &c0cfrl&cfff:31
+(Milton): > &c666 mil&cfff [low rl] 0/80 sg 
+(Milton): > &c666 mil&cfff [low rl] 0/80 sg 
+(nit): > &c3f0 nit&cfff &c3f0safe&cfff &c3f0[quad.low]&cfff  &c0ffrl&cfff
+(Diki): >&cf00 dik lost [high] 2
+(Diki): >&cf00 dik lost [high] 2
+(Diki): >&cf00 dik lost [high] 2
+(Milton): >&cf00  mil lost [low rl] 2
+(Milton): >&cf00  mil lost [low rl] 2
+(Milton): >&cf00  mil lost [low rl] 2
+(Xterm): > &c3f0 xte&cfff &c3f0safe&cfff &c3f0[ra-mega]&cfff  &c0ffrl&cfff
+(Milton): > &c666 mil&cfff [tele] 0/100 sg 
+(Xterm): > &c3f0 xte&cfff &c3f0safe&cfff &c3f0[ra-mega]&cfff  &c0ffrl&cfff
+(Diki): >&cf00 dik lost [lower] 1
+(Diki): >&cf00 dik lost [lower] 1
+(Xterm): > &c3f0 xte&cfff &c3f0safe&cfff &c3f0[ra-mega]&cfff  &c0ffrl&cfff
+(nit): > &c3f0 nit&cfff &c3f0safe&cfff &c3f0[quad.way]&cfff  &c0ffrl&cfff
+(Milton): >&cf00  mil lost [high rl] 1
+(Milton): >&cf00  mil lost [high rl] 1
+(Milton): >&cf00  mil lost [high rl] 1
+(Milton): >&cf00  mil lost [high rl] 1
+(Diki): > &c6ffdik:&cfff [tele] 0/100 sg 
+(Milton): > &c666 mil&cfff [center] 0/100 sg 
+(Diki): > &c6ffdik:&cfff [tele] 0/100 sg 
+(Milton): > &c666 mil&cfff took rox [tele]
+(Milton): > &c666 mil&cfff [center] 0/100 sg 
+(Xterm): > &c3f0 xte&cfff &c3f0safe&cfff &c3f0[low]&cfff  &c0ffrl&cfff
+(Xterm): > &c3f0 xte&cfff &c3f0safe&cfff &c3f0[low]&cfff  &c0ffrl&cfff
+(Milton): > &cf60 mil coming [center]&cfff 
+(Milton): > &c666 mil&cfff [center] y150/100 sg 
+(Xterm): > &cc22 xte&cfff [ra-mega] 200&cf00r&cfff&ce84/&cfff&cc99112&cfff &c0cfrl&cfff:30
+(Xterm): > &c3f0 xte&cfff &c3f0safe&cfff &c3f0[ra-mega]&cfff  &c0ffrl&cfff
+(nit): > &c3f0 nit&cfff &c3f0safe&cfff &c3f0[quad.way]&cfff  &c0ffrl&cfff
+(Diki): > &c6ffdik:&cfff [high] &cff0y&cfff33/25 sg 
+(Diki): > &c6ffdik:&cfff [high] &cff0y&cfff33/25 sg 
+(Milton): >&c0f0  mil safe [low rl]&cfff sg 
+(Milton): > &c666 mil&cfff [low rl] y123/83 sg 
+(nit): > &c3f0 nit&cfff &c3f0safe&cfff &c3f0[quad.way]&cfff  &c0ffrl&cfff
+[16] minutes remaining
+Team [com] leads by 8 frags
+(Diki): > &c6ffdik:&cfff [high] &cff0y&cfff33/25 sg 
+(Diki): > &c6ffdik:&cfff [high] &cff0y&cfff33/25 sg 
+(Milton): > &c666 mil&cfff [low rl] y123/83 sg 
+(Diki): >&cf00 dik lost [high] 2
+(Diki): >&cf00 dik lost [high] 2
+(Milton): > &c666 mil&cfff took &cf60rl&cfff [low rl]
+(Diki): >&cf00 dik lost [quad-below] 3
+(Diki): >&cf00 dik lost [quad-below] 3
+(Milton): > &c666 mil&cfff [path] y99/96 &cf60rl&cfff 
+(nit): > &cf00 nit&cfff &cf00lost&cfff &cf00[quad.low]&cfff &cf003&cfff &c0ffdropped&cfff &c0cfrl&cfff
+(nit): > &cf00 nit&cfff &cf00lost&cfff &cf00[quad.low]&cfff &cf003&cfff &c0ffdropped&cfff &c0cfrl&cfff
+(Diki): > &c6ffdik:&cfff [large] 0/100 sg 
+(nit): > &cf00 nit&cfff &cf00lost&cfff &cf00[quad.low]&cfff &cf003&cfff &c0ffdropped&cfff &c0cfrl&cfff
+(bps): >&cc93bps:&cfff &cf00lost&cfff [big] 1
+no weapon
+(ganon): >&c479gan:&cfff &cf00lost&cfff [quad-button] 1
+(Milton): > &c666 mil&cfff [ng] &cf660&cfff/&cf6620&cfff &cf60rl&cfff&cf66:1&cfff 
+(Diki): > &c6ffdik:&cfff [lower] &cff0y&cfff137/93 gl:24 
+(Diki): > &c6ffdik:&cfff [lower] &cff0y&cfff137/93 gl:24 
+(Diki): > &c6ffdik:&cfff [lower] &cff0y&cfff137/93 gl:24 
+(Diki): > &c6ffdik:&cfff [lower] &cff0y&cfff137/93 gl:24 
+(nit): >       &c06fquad&cfff over
+(Milton): > &c666 mil&cfff [low rl] &cf660&cfff/&cf6645&cfff &cf60rl&cfff&cf66:1&cfff 
+(nit): >       &c06fquad&cfff over
+(Xterm): > &cc22 xte&cfff [ra-mega] 183&cf00r&cfff&ce84/&cfff&cc9986&cfff &c0cfrl&cfff:36
+(Milton): > &c666 mil&cfff [low rl] &cf660&cfff/&cf6645&cfff &cf60rl&cfff&cf66:1&cfff 
+(Xterm): > &c3f0 xte&cfff &c3f0safe&cfff &c3f0[ra-mega]&cfff  &c0ffrl&cfff
+(Xterm): > &c3f0 xte&cfff &c3f0safe&cfff &c3f0[ra-mega]&cfff  &c0ffrl&cfff
+(Diki): > &c6ffdik:&cfff [lower] &cff0y&cfff137/93 gl:21 
+(Diki): > &c6ffdik:&cfff [lower] &cff0y&cfff137/93 gl:21 
+(Xterm): > &cc22 xte&cfff [ra-mega] 183&cf00r&cfff&ce84/&cfff&cc9986&cfff &c0cfrl&cfff:36
+(Milton): > &c666 mil&cfff [ra box] &cf660&cfff/&cf6645&cfff &cf60rl&cfff&cf66:1&cfff 
+(Milton): > &c666 mil&cfff [ra box] &cf660&cfff/&cf6645&cfff &cf60rl&cfff&cf66:1&cfff 
+(Diki): > &c6ffdik:&cfff [lower] &cff0y&cfff137/93 gl:21 
+(Diki): > &c6ffdik:&cfff [lower] &cff0y&cfff137/93 gl:21 
+(Xterm): > &cc22 xte&cfff [ra-mega] 183&cf00r&cfff&ce84/&cfff&cc9986&cfff &c0cfrl&cfff:36
+(Milton): > &c666 mil&cfff took &cf00ra&cfff [ra box]
+(Milton): > &c666 mil&cfff [water] r200/&cf6645&cfff &cf60rl&cfff&cf66:1&cfff 
+(Xterm): > &c3f0 xte&cfff &c3f0safe&cfff &c3f0[ra-mega]&cfff  &c0ffrl&cfff
+(nit): > &cf00 nit&cfff &cf00lost&cfff &cf00[high.rl]&cfff &cf002&cfff
+(nit): > &cf00 nit&cfff &cf00lost&cfff &cf00[high.rl]&cfff &cf002&cfff
+(nit): > &cf00 nit&cfff &cf00lost&cfff &cf00[high.rl]&cfff &cf002&cfff
+(nit): > &cf00 nit&cfff &cf00lost&cfff &cf00[high.rl]&cfff &cf002&cfff
+(nit): > &cf00 nit&cfff &cf00lost&cfff &cf00[high.rl]&cfff &cf002&cfff
+(nit): > &cf00 nit&cfff &cf00lost&cfff &cf00[high.rl]&cfff &cf002&cfff
+(nit): > &cf00 nit&cfff &cf00lost&cfff &cf00[high.rl]&cfff &cf002&cfff
+(Xterm): > &cc22 xte&cfff [ra-mega] 183&cf00r&cfff&ce84/&cfff&cc9986&cfff &c0cfrl&cfff:36
+(Xterm): > &c3f0 xte&cfff &c3f0safe&cfff &c3f0[low]&cfff  &c0ffrl&cfff
+(Diki): > &c6ffdik:&cfff [lower] &cff0y&cfff137/93 gl:19 
+(Diki): > &c6ffdik:&cfff [lower] &cff0y&cfff137/93 gl:19 
+(Milton): > &c666 mil&cfff [tele] r193/69 &cf60rl&cfff&cf66:1&cfff 
+(Xterm): > &c3f0 xte&cfff &c3f0safe&cfff &c3f0[low]&cfff  &c0ffrl&cfff
+(Xterm): > &c3f0 xte&cfff &c3f0safe&cfff &c3f0[low]&cfff  &c0ffrl&cfff
+(Diki): > &c6ffdik:&cfff [lower] &cff0y&cfff125/100 gl:16 
+(Diki): > &c6ffdik:&cfff [lower] &cff0y&cfff125/100 gl:16 
+(Diki): > &c6ffdik:&cfff [lower] &cff0y&cfff125/100 gl:16 
+(Diki): > &c6ffdik:&cfff [lower] &cff0y&cfff125/100 gl:16 
+(Milton): > &cf60 mil coming [upper tele]&cfff 
+(nit): > &cf00 nit&cfff &cf00lost&cfff &cf00[high.rl]&cfff &cf003&cfff
+(nit): > &cc36 nit&cfff [big] 150&cff0y&cfff&ce84/&cfff&cc99100&cfff
+(Milton): > &c666 mil&cfff took &cf39pack&cfff [upper tele]
+(nit): > &cc36 nit&cfff [big.button] 150&cff0y&cfff&ce84/&cfff&cc99100&cfff
+(Xterm): > &c3f0 xte&cfff &c3f0safe&cfff &c3f0[low]&cfff  &c0ffrl&cfff
+(nit): > &cc36 nit&cfff [low.stairs] 150&cff0y&cfff&ce84/&cfff&cc99100&cfff
+(Diki): > &c6ffdik:&cfff [lower] &cff0y&cfff&cf6619&cfff/&cf6638&cfff &cf60rl&cfff 
+(Diki): > &c6ffdik:&cfff [lower] &cff0y&cfff&cf6619&cfff/&cf6638&cfff &cf60rl&cfff 
+(Diki): > &c6ffdik:&cfff [ra-mega] &cff0y&cfff&cf6619&cfff/&cf6638&cfff &cf60rl&cfff 
+(Xterm): > &cc22 xte&cfff &cf00ra&cfff &ce84>&cfff [ra-mega]
+(Diki): > &c6ffdik:&cfff [ra-mega] &cff0y&cfff&cf6619&cfff/&cf6638&cfff &cf60rl&cfff 
+(Diki): > &c6ffdik:&cfff [ra-mega] &cff0y&cfff&cf6619&cfff/&cf6638&cfff &cf60rl&cfff 
+(Milton): > &cf60 mil coming [center]&cfff 
+(Milton): > &c666 mil&cfff took &cf39pack&cfff [upper tele]
+(Diki): > &c6ffdik:&cfff [lower-lift] &cf00r&cfff200/63 &cf60rl&cfff 
+(Milton): >&c0f0  mil safe [high rl]&cfff &cf60rl&cfff 
+(Xterm): > &c3f0 xte&cfff &c3f0safe&cfff &c3f0[high]&cfff  &c0ffrl&cfff
+(Milton): >&c0f0  mil safe [high rl]&cfff &cf60rl&cfff 
+[15] minutes remaining
+Team [com] leads by 15 frags
+(Milton): >&c0f0  mil safe [high rl]&cfff &cf60rl&cfff 
+(nit): > &cc36 nit&cfff [tele.high] 150&cff0y&cfff&ce84/&cfff&cc99100&cfff
+(Milton): > &c666 mil&cfff [quad tunnel] y122/73 &cf60rl&cfff&cf66:4&cfff 
+(Xterm): > &cc22 xte&cfff [quad] 42&cf00r&cfff&ce84/&cfff&cc99139&cfff &c0cfrl&cfff:34
+(Milton): > &c666 mil&cfff [quad tunnel] y122/73 &cf60rl&cfff&cf66:4&cfff 
+(Milton): > &c666 mil&cfff [quad tunnel] y122/73 &cf60rl&cfff&cf66:4&cfff 
+(Milton): > &c666 mil&cfff [quad tunnel] y122/73 &cf60rl&cfff&cf66:4&cfff 
+(Xterm): > &cc22 xte&cfff [quad] 42&cf00r&cfff&ce84/&cfff&cc99137&cfff &c0cfrl&cfff:33
+(Xterm): > &cc22 xte&cfff [quad] 42&cf00r&cfff&ce84/&cfff&cc99135&cfff &c0cfrl&cfff:33
+(Milton): > &c666 mil&cfff [quad tunnel] y122/73 &cf60rl&cfff&cf66:4&cfff 
+(nit): > &cc36 nit&cfff &cf0fpack&cfff &ce84>&cfff [ng]
+(Diki): >&cf00 dik lost [water-stair] 1
+(Diki): >&cf00 dik lost [water-stair] 1
+(Xterm): > &cc22 xte&cfff &c3f0team&cfff &c06fquad&cfff
+(Xterm): > &cc22 xte&cfff &c3f0team&cfff &c06fquad&cfff
+(Xterm): > &cc22 xte&cfff [quad] 42&cf00r&cfff&ce84/&cfff&cc99125&cfff &c0cfrl&cfff:31 &c06fquad&cfff
+(Milton): > &c666 mil&cfff [quad tunnel] y119/97 &cf60rl&cfff&cf66:2&cfff 
+(Milton): > &c666 mil&cfff [high rl] y119/97 &cf60rl&cfff&cf66:2&cfff 
+(Xterm): > &cc22 xte&cfff [water] 0&ce84/&cfff&cc99106&cfff &c0cfrl&cfff:29 &c06fquad&cfff
+(nit): > &cc36 nit&cfff [tele] 163&cf00r&cfff&ce84/&cfff&cc9917&cfff &c0cfrl&cfff:25
+(Milton): > &c666 mil&cfff [gl/mega] y119/197 &cf60rl&cfff 
+(Diki): > &c6ffdik:&cfff [high] &cff0y&cfff115/3 sg 
+(Xterm): > &cf00 xte&cfff &cf00lost&cfff &cf00[water]&cfff &cf002&cfff
+(Xterm): > &cf00 xte&cfff &cf00lost&cfff &cf00[water]&cfff &cf002&cfff
+no weapon
+(Xterm): > &cc22 xte&cfff [water] 0&ce84/&cfff&cc99100&cfff
+(Milton): > &c666 mil&cfff [upper tele] y119/197 &cf60rl&cfff 
+(nit): > &cc36 nit&cfff [tele.high] 163&cf00r&cfff&ce84/&cfff&cc9917&cfff &c0cfrl&cfff:34
+(nit): > &cc36 nit&cfff [quad.way] 163&cf00r&cfff&ce84/&cfff&cc9917&cfff &c0cfrl&cfff:34
+(Diki): > &c6ffdik:&cfff [high] &cff0y&cfff115/28 sg 
+(Diki): > &c6ffdik:&cfff [high] &cff0y&cfff115/28 sg 
+(Xterm): > &cf00 xte&cfff &cf00lost&cfff &cf00[tele]&cfff &cf002&cfff
+(Milton): > &c666 mil&cfff [quad tunnel] y119/194 &cf60rl&cfff 
+(nit): > &cc36 nit&cfff [quad] 163&cf00r&cfff&ce84/&cfff&cc9917&cfff &c0cfrl&cfff:34
+(Diki): > &c6ffdik:&cfff took &cf60rl&cfff [high]
+(Diki): > &c6ffdik:&cfff took &cf60rl&cfff [high]
+(Milton): > &c666 mil&cfff [tele] y119/188 &cf60rl&cfff 
+(Xterm): > &cc22 xte&cfff [path] 0&ce84/&cfff&cc9917&cfff
+(Milton): >&c0f0  mil safe [tele]&cfff &cf60rl&cfff 
+(Xterm): > &cf00 xte&cfff &cf00lost&cfff &cf00[path]&cfff &cf002&cfff
+(Xterm): > &cf00 xte&cfff &cf00lost&cfff &cf00[ra-mega]&cfff &cf001&cfff
+(Xterm): > &cc22 xte&cfff [water] 0&ce84/&cfff&cc99100&cfff
+(nit): > &c3f0 nit&cfff &c3f0safe&cfff &c3f0[quad]&cfff  &c0ffrl&cfff
+(Xterm): > &cc22 xte&cfff [tele] 0&ce84/&cfff&cc99100&cfff
+(Diki): > &c6ffdik:&cfff [tele] &cff0y&cfff105/72 &cf60rl&cfff 
+(Diki): > &c6ffdik:&cfff [tele] &cff0y&cfff105/72 &cf60rl&cfff 
+(Xterm): > &cc22 xte&cfff [tele] 150&cff0y&cfff&ce84/&cfff&cc99100&cfff
+(Diki): > &c6ffdik:&cfff [tele] &cff0y&cfff105/72 &cf60rl&cfff 
+(Diki): > &c6ffdik:&cfff [tele] &cff0y&cfff105/72 &cf60rl&cfff 
+(Xterm): > &cc22 xte&cfff [high] 150&cff0y&cfff&ce84/&cfff&cc99100&cfff
+(Milton): >&c0f0  mil safe [low rl]&cfff &cf60rl&cfff 
+(Xterm): > &cc22 xte&cfff [high] 150&cff0y&cfff&ce84/&cfff&cc99100&cfff
+(Xterm): > &cc22 xte&cfff [high] 150&cff0y&cfff&ce84/&cfff&cc99100&cfff
+(nit): > &cc36 nit&cfff [tele] 163&cf00r&cfff&ce84/&cfff&cc9992&cfff &c0cfrl&cfff:27
+(nit): > &c3f0 nit&cfff &c3f0safe&cfff &c3f0[tele]&cfff  &c0ffrl&cfff
+(Milton): > &c666 mil&cfff [ra box] y&cf6651&cfff/129 &cf60rl&cfff&cf66:4&cfff 
+(Xterm): > &cc22 xte&cfff [high] 150&cff0y&cfff&ce84/&cfff&cc99100&cfff
+(Milton): > &c666 mil&cfff [ra box] y&cf6651&cfff/128 &cf60rl&cfff&cf66:4&cfff 
+(Milton): >&c0f0  mil safe [ra box]&cfff &cf60rl&cfff&cf66:4&cfff 
+(Milton): >&c0f0  mil safe [ra box]&cfff &cf60rl&cfff&cf66:4&cfff 
+(Xterm): >       &c06fquad&cfff on 16
+(Xterm): >       &c06fquad&cfff on 16
+(Xterm): >       &c06fquad&cfff on 16
+(Xterm): >       &c06fquad&cfff on 16
+(Milton): > &c666 mil&cfff [ra box] y&cf6651&cfff/126 &cf60rl&cfff&cf66:4&cfff 
+(Milton): > &c666 mil&cfff [ra box] y&cf6651&cfff/126 &cf60rl&cfff&cf66:4&cfff 
+(nit): > &c3f0 nit&cfff &c3f0safe&cfff &c3f0[tele]&cfff  &c0ffrl&cfff
+(Diki): > &c6ffdik:&cfff [water-mid] &cff0y&cfff&cf6620&cfff/&cf6618&cfff &cf60rl&cfff:&cf664&cfff 
+(Diki): > &c6ffdik:&cfff [quad-below] &cff0y&cfff&cf6620&cfff/&cf6618&cfff &cf60rl&cfff:&cf664&cfff 
+(nit): > &c3f0 nit&cfff &c3f0safe&cfff &c3f0[tele]&cfff  &c0ffrl&cfff
+(nit): > &c3f0 nit&cfff &c3f0safe&cfff &c3f0[tele]&cfff  &c0ffrl&cfff
+[14] minutes remaining
+Team [com] leads by 23 frags
+(Xterm): > &cc22 xte&cfff [high] 150&cff0y&cfff&ce84/&cfff&cc99100&cfff
+(Xterm): > &cc22 xte&cfff [high] 150&cff0y&cfff&ce84/&cfff&cc99100&cfff
+(Xterm): > &cc22 xte&cfff [high] 150&cff0y&cfff&ce84/&cfff&cc99100&cfff &c0cfrl&cfff:10
+(nit): > &c3f0 nit&cfff &c3f0safe&cfff &c3f0[quad.way]&cfff  &c0ffrl&cfff
+(Xterm): > &c3f0 xte&cfff &c3f0safe&cfff &c3f0[high]&cfff  &c0ffrl&cfff
+(Milton): > &c666 mil&cfff [water] r79/90 &cf60rl&cfff&cf66:1&cfff 
+(Milton): > &c666 mil&cfff [water] r79/90 &cf60rl&cfff&cf66:1&cfff 
+(Diki): > &c6ffdik:&cfff [tele] &cf660&cfff/&cf6628&cfff &cf60rl&cfff 
+(Diki): > &c6ffdik:&cfff [tele] &cf660&cfff/&cf6628&cfff &cf60rl&cfff 
+(Milton): >&cf00  mil lost [water] 2
+(Milton): >&cf00  mil lost [water] 2
+(Milton): >&cf00  mil lost [water] 2
+(ganon): >&c479gan:&cfff &cf2apack&cfff at [water]
+(carapace): >&c693car:&cfff took &cf00ra&cfff [ra-mega]
+(rst): >&c777rst:&cfff &cf00lost&cfff [quad-button] 2
+(rst): >&c777rst:&cfff &cf00lost&cfff [quad-button] 2
+(rst): >&c777rst:&cfff &cf00lost&cfff [quad-button] 2
+(rst): >&c777rst:&cfff &cf00lost&cfff [quad-button] 2
+(Xterm): > &c3f0 xte&cfff &c3f0safe&cfff &c3f0[quad-way]&cfff  &c0ffrl&cfff
+(Xterm): > &cc22 xte&cfff [quad-way] 150&cff0y&cfff&ce84/&cfff&cc99100&cfff &c0cfrl&cfff:22
+(Milton): > &cf60 mil coming [center]&cfff 
+(Milton): > &cf60 mil coming [center]&cfff 
+(Milton): > &c666 mil&cfff [center] 0/8 sg 
+(Milton): > &c666 mil&cfff [below quad] y150/58 sg 
+(Milton): > &c666 mil&cfff [tele] y92/44 sg 
+(Xterm): > &cc22 xte&cfff [tele] 120&cff0y&cfff&ce84/&cfff&cc9981&cfff &c0cfrl&cfff:18
+(nit): > &cc36 nit&cfff [low.rl] 75&cf00r&cfff&ce84/&cfff&cc9978&cfff &c0cfrl&cfff:14 &c06fquad&cfff
+(Diki): > &c6ffdik:&cfff [water-mid] &cff0y&cfff125/62 &cf60rl&cfff 
+(Diki): > &c6ffdik:&cfff [water-mid] &cff0y&cfff125/62 &cf60rl&cfff 
+(Xterm): > &cc22 xte&cfff [tele] 120&cff0y&cfff&ce84/&cfff&cc9981&cfff &c0cfrl&cfff:18
+(Milton): > &cf60 mil coming [path]&cfff 
+(Xterm): > &cc22 xte&cfff [tele] 120&cff0y&cfff&ce84/&cfff&cc99100&cfff &c0cfrl&cfff:18
+(Milton): > &cf60 mil coming [path]&cfff 
+(Milton): > &cf60 mil coming [path]&cfff 
+(Milton): > &cf60 mil coming [path]&cfff 
+(Milton): > &cf60 mil coming [low rl]&cfff 
+(Diki): > &c6ffdik:&cfff [tele] &cff0y&cfff125/62 &cf60rl&cfff 
+(Diki): > &c6ffdik:&cfff [tele] &cff0y&cfff125/62 &cf60rl&cfff 
+(Milton): > &c666 mil&cfff took &cf60rl&cfff [low rl]
+(nit): > &cc36 nit&cfff [secret] 62&cf00r&cfff&ce84/&cfff&cc9975&cfff &c0cfrl&cfff:12 &c06fquad&cfff
+(Milton): > &c666 mil&cfff [low rl] y&cf6659&cfff/&cf6647&cfff &cf60rl&cfff&cf66:4&cfff 
+(Xterm): > &cc22 xte&cfff &c0cfrl&cfff &ce84>&cfff [high]
+(Xterm): > &cc22 xte&cfff [high] 102&cff0y&cfff&ce84/&cfff&cc9988&cfff &c0cfrl&cfff:30
+(nit): > &cc36 nit&cfff [secret] 62&cf00r&cfff&ce84/&cfff&cc9975&cfff &c0cfrl&cfff:12 &c06fquad&cfff
+(Milton): > &c666 mil&cfff [low rl] y&cf668&cfff/&cf6614&cfff &cf60rl&cfff&cf66:3&cfff 
+(nit): > &cc36 nit&cfff [secret] 62&cf00r&cfff&ce84/&cfff&cc9975&cfff &c0cfrl&cfff:12 &c06fquad&cfff
+(Milton): >&cf00  mil lost [low rl] 2
+(Milton): >&cf00  mil lost [low rl] 2
+(Milton): >&cf00  mil lost [low rl] 2
+(Milton): >&cf00  mil lost [low rl] 2
+(Milton): >&cf00  mil lost [low rl] 2
+(nit): > &cc36 nit&cfff [secret] 62&cf00r&cfff&ce84/&cfff&cc9975&cfff &c0cfrl&cfff:12 &c06fquad&cfff
+(Xterm): > &cc22 xte&cfff &c0cfrl&cfff &ce84>&cfff [high]
+(Xterm): > &cc22 xte&cfff &c0cfrl&cfff &ce84>&cfff [high]
+(Xterm): > &cc22 xte&cfff [high] 102&cff0y&cfff&ce84/&cfff&cc9988&cfff &c0cfrl&cfff:30
+(nit): > &cc36 nit&cfff [secret] 200&cf00r&cfff&ce84/&cfff&cc9975&cfff &c0cfrl&cfff:12 &c06fquad&cfff
+Quad Damage is wearing off
+(Xterm): > &c3f0 xte&cfff &c3f0safe&cfff &c3f0[high]&cfff  &c0ffrl&cfff
+(Milton): > &cf60 mil coming [ng]&cfff 
+(Milton): > &cf60 mil coming [ng]&cfff 
+(nit): > &cc36 nit&cfff [ng] 200&cf00r&cfff&ce84/&cfff&cc9975&cfff &c0cfrl&cfff:10 &c06fquad&cfff
+(Milton): > &c666 mil&cfff [tele] 0/100 sg 
+(Milton): > &c666 mil&cfff [tele] y150/100 sg 
+(Milton): > &cf60 mil coming [upper tele]&cfff 
+(Xterm): > &c3f0 xte&cfff &c3f0safe&cfff &c3f0[high]&cfff  &c0ffrl&cfff
+(Diki): > &c6ffdik:&cfff [tele] &cff0y&cfff125/87 &cf60rl&cfff 
+(Diki): > &c6ffdik:&cfff [tele] &cff0y&cfff125/87 &cf60rl&cfff 
+(Milton): > &c666 mil&cfff took &cff0ya&cfff [tele]
+(Milton): > &c666 mil&cfff [high rl] y150/100 &cf60rl&cfff 
+(Diki): > &c6ffdik:&cfff [tele] &cff0y&cfff107/75 &cf60rl&cfff 
+(Diki): > &c6ffdik:&cfff [tele] &cff0y&cfff107/75 &cf60rl&cfff 
+(Milton): > &c666 mil&cfff [upper tele] y150/100 &cf60rl&cfff 
+(Xterm): > &c3f0 xte&cfff &c3f0safe&cfff &c3f0[water]&cfff  &c0ffrl&cfff
+(nit): > &cc36 nit&cfff [path] 163&cf00r&cfff&ce84/&cfff&cc9993&cfff &c0cfrl&cfff:0
+[13] minutes remaining
+Team [com] leads by 32 frags
+(Diki): > &c6ffdik:&cfff [tele] &cff0y&cfff107/75 &cf60rl&cfff 
+(Diki): > &c6ffdik:&cfff [tele] &cff0y&cfff107/75 &cf60rl&cfff 
+(Milton): > &c666 mil&cfff [center] y94/67 &cf60rl&cfff 
+(nit): > &cc36 nit&cfff [tele] 163&cf00r&cfff&ce84/&cfff&cc9993&cfff &c0cfrl&cfff:10
+(Diki): > &c6ffdik:&cfff [quad] &cff0y&cfff89/88 &cf60rl&cfff 
+(Diki): > &c6ffdik:&cfff [quad] &cff0y&cfff89/88 &cf60rl&cfff 
+(Milton): >&cf39  mil pack left at [low rl] 4
+(nit): > &cc36 nit&cfff [quad.way] 163&cf00r&cfff&ce84/&cfff&cc9993&cfff &c0cfrl&cfff:10
+(Milton): >&cf39  mil pack left at [low rl] 4
+(Xterm): > &cc22 xte&cfff [water] 87&cff0y&cfff&ce84/&cfff&cc9991&cfff &c0cfrl&cfff:16
+(Diki): > &c6ffdik:&cfff [high-way] &cff0y&cfff89/100 &cf60rl&cfff 
+(Milton): > &c666 mil&cfff [center] 0/100 sg 
+(Milton): > &c666 mil&cfff took &cf60rl&cfff [low rl]
+(Milton): > &c666 mil&cfff [center] y150/100 sg 
+(Milton): > &cf60 mil coming [center]&cfff 
+(Milton): > &cf60 mil coming [center]&cfff 
+(Xterm): > &cc22 xte&cfff [quad] 0&ce84/&cfff&cc9953&cfff &c0cfrl&cfff:14
+(Milton): > &c666 mil&cfff [below quad] y116/78 sg 
+(nit): > &cc36 nit&cfff [quad] 163&cf00r&cfff&ce84/&cfff&cc99100&cfff &c0cfrl&cfff:9
+(Xterm): > &cc22 xte&cfff [quad] 0&ce84/&cfff&cc9953&cfff &c0cfrl&cfff:13
+(Diki): > &c6ffdik:&cfff [high] &cff0y&cfff89/100 &cf60rl&cfff 
+(Diki): > &c6ffdik:&cfff [high-lift] &cff0y&cfff89/100 &cf60rl&cfff 
+(Diki): > &c6ffdik:&cfff [high-lift] &cff0y&cfff89/100 &cf60rl&cfff 
+(Xterm): > &cc22 xte&cfff [big] 150&cff0y&cfff&ce84/&cfff&cc9953&cfff &c0cfrl&cfff:6
+(Milton): > &cf60 mil coming [ng]&cfff 
+(Milton): > &c666 mil&cfff [tele] y11/44 sg 
+(Xterm): > &cc22 xte&cfff [water] 150&cff0y&cfff&ce84/&cfff&cc9978&cfff &c0cfrl&cfff:6
+(Diki): > &c6ffdik:&cfff [high-lift] &cff0y&cfff89/100 &cf60rl&cfff 
+(Diki): > &c6ffdik:&cfff [high-lift] &cff0y&cfff89/100 &cf60rl&cfff 
+(Xterm): > &c3f0 xte&cfff &c3f0safe&cfff &c3f0[tele]&cfff  &c0ffrl&cfff
+(Milton): > &cf60 mil coming [upper tele]&cfff 
+(Milton): > &c666 mil&cfff [below quad] 0/100 sg 
+(Milton): > &cf60 mil coming [ng]&cfff 
+(Milton): > &cf60 mil coming [tele]&cfff 
+(Milton): > &cf60 mil coming [ng]&cfff 
+(Milton): > &c666 mil&cfff [tele] 0/100 sg 
+(Diki): > &c6ffdik:&cfff [high-lift] &cff0y&cfff89/100 &cf60rl&cfff 
+(Milton): > &cf60 mil coming [tele]&cfff 
+(Milton): > &c666 mil&cfff took &cf60rl&cfff [high rl]
+(Diki): > &c6ffdik:&cfff [high-lift] &cff0y&cfff89/100 &cf60rl&cfff 
+(Diki): > &c6ffdik:&cfff [high-lift] &cff0y&cfff89/100 &cf60rl&cfff 
+(Xterm): > &cc22 xte&cfff [quad] 0&ce84/&cfff&cc9926&cfff &c0cfrl&cfff:13
+(nit): > &cc36 nit&cfff [ra.mega] 19&cf00r&cfff&ce84/&cfff&cc9990&cfff &c0cfrl&cfff:32 &c06fquad&cfff
+(nit): > &cc36 nit&cfff [ra.mega] 19&cf00r&cfff&ce84/&cfff&cc9990&cfff &c0cfrl&cfff:32 &c06fquad&cfff
+(nit): > &cc36 nit&cfff [ra.mega] 19&cf00r&cfff&ce84/&cfff&cc9990&cfff &c0cfrl&cfff:32 &c06fquad&cfff
+(Xterm): > &cf00 xte&cfff &cf00lost&cfff &cf00[quad]&cfff &cf002&cfff
+(nit): > &cc36 nit&cfff [ra.mega] 19&cf00r&cfff&ce84/&cfff&cc9990&cfff &c0cfrl&cfff:32 &c06fquad&cfff
+(Milton): > &c666 mil&cfff [ra box] &cf660&cfff/100 &cf60rl&cfff 
+(Milton): > &c666 mil&cfff [ra box] &cf660&cfff/100 &cf60rl&cfff 
+(Xterm): > &cc22 xte&cfff [low] 0&ce84/&cfff&cc99100&cfff
+Quad Damage is wearing off
+(nit): > &cc36 nit&cfff [ra.mega] 19&cf00r&cfff&ce84/&cfff&cc9990&cfff &c0cfrl&cfff:32 &c06fquad&cfff
+(Diki): > &c6ffdik:&cfff [quad-below] &cff0y&cfff&cf6613&cfff/64 &cf60rl&cfff 
+(Milton): > &c666 mil&cfff [ra box] &cf660&cfff/100 &cf60rl&cfff 
+(Diki): > &c6ffdik:&cfff [quad-below] &cff0y&cfff&cf6613&cfff/64 &cf60rl&cfff 
+(Milton): > &c666 mil&cfff [ra box] &cf660&cfff/100 &cf60rl&cfff 
+(Xterm): > &cc22 xte&cfff [low] 0&ce84/&cfff&cc9960&cfff
+(Milton): >&c0f0  mil safe [ra box]&cfff &cf60rl&cfff 
+(Milton): >&c0f0  mil safe [ra box]&cfff &cf60rl&cfff 
+(Xterm): > &cc22 xte&cfff &cf3fu take&cfff &cf3f[secret]&cfff
+(Diki): > &c6ffdik:&cfff [tele] &cf660&cfff/76 &cf60rl&cfff 
+(Diki): > &c6ffdik:&cfff [tele] &cf660&cfff/76 &cf60rl&cfff 
+(nit): > &cc36 nit&cfff [ra.mega] 200&cf00r&cfff&ce84/&cfff&cc99190&cfff &c0cfrl&cfff:30
+(Xterm): > &cc22 xte&cfff [secret] 0&ce84/&cfff&cc9936&cfff
+(Milton): > &c666 mil&cfff [ra box] &cf660&cfff/100 &cf60rl&cfff 
+(nit): > &c3f0 nit&cfff &c3f0safe&cfff &c3f0[ra.mega/rox]&cfff  &c0ffrl&cfff
+(nit): > &c3f0 nit&cfff &c3f0safe&cfff &c3f0[ra.mega]&cfff  &c0ffrl&cfff
+(nit): > &c3f0 nit&cfff &c3f0safe&cfff &c3f0[ra.mega]&cfff  &c0ffrl&cfff
+(Diki): > &c6ffdik:&cfff [lower-lift] &cf660&cfff/100 &cf60rl&cfff 
+(Diki): > &c6ffdik:&cfff [lower-lift] &cf660&cfff/100 &cf60rl&cfff 
+(Milton): > &c666 mil&cfff [tele] r120/67 &cf60rl&cfff&cf66:4&cfff 
+[12] minutes remaining
+Team [com] leads by 45 frags
+(Xterm): > &cf00 xte&cfff &cf00lost&cfff &cf00[path]&cfff &cf002&cfff
+(Milton): > &cf60 mil coming [tele]&cfff 
+(Xterm): > &cc22 xte&cfff [ra-mega] 0&ce84/&cfff&cc99100&cfff
+(Xterm): > &cc22 xte&cfff coming [ra-mega]
+(Diki): > &c6ffdik:&cfff [secret] &cf660&cfff/100 &cf60rl&cfff 
+(Diki): > &c6ffdik:&cfff [secret] &cf660&cfff/100 &cf60rl&cfff 
+(Xterm): > &cc22 xte&cfff [low-button] 0&ce84/&cfff&cc99100&cfff
+(Milton): > &c666 mil&cfff [high rl] r100/63 &cf60rl&cfff 
+(nit): > &cc36 nit&cfff [low.stairs] 0&ce84/&cfff&cc99119&cfff &c0cfrl&cfff:37
+(Xterm): > &cc22 xte&cfff [low] 0&ce84/&cfff&cc99100&cfff
+(Milton): > &c666 mil&cfff [high rl] r100/63 &cf60rl&cfff 
+(Diki): > &c6ffdik:&cfff [secret] &cf660&cfff/100 &cf60rl&cfff 
+(Diki): > &c6ffdik:&cfff [secret] &cf660&cfff/100 &cf60rl&cfff 
+(Xterm): > &c3f0 xte&cfff &c3f0safe&cfff &c3f0[path]&cfff
+(Xterm): > &cc22 xte&cfff [path] 0&ce84/&cfff&cc99100&cfff
+(Xterm): > &c3f0 xte&cfff &c3f0safe&cfff &c3f0[path]&cfff
+(Diki): > &c6ffdik:&cfff took &cf00ra&cfff [secret]
+(Diki): > &c6ffdik:&cfff took &cf00ra&cfff [secret]
+(Milton): > &c666 mil&cfff [quad tunnel] &cf660&cfff/&cf6629&cfff &cf60rl&cfff 
+(Diki): > &c6ffdik:&cfff [water-mid] &cf00r&cfff147/100 &cf60rl&cfff 
+(Diki): > &c6ffdik:&cfff [water-mid] &cf00r&cfff147/100 &cf60rl&cfff 
+(Xterm): > &cc22 xte&cfff [high] 0&ce84/&cfff&cc99100&cfff
+(Diki): > &c6ffdik:&cfff [tele] &cf00r&cfff147/100 &cf60rl&cfff 
+(Diki): > &c6ffdik:&cfff [tele] &cf00r&cfff147/100 &cf60rl&cfff 
+(Milton): > &c666 mil&cfff took &cf39pack&cfff [below quad]
+(Milton): > &c666 mil&cfff [below quad] &cf660&cfff/&cf6639&cfff &cf60rl&cfff &c05fquad&cfff
+(Milton): > &c666 mil&cfff [ng] &cf660&cfff/&cf6639&cfff &cf60rl&cfff &c05fquad&cfff
+(Xterm): > &cc22 xte&cfff [high] 0&ce84/&cfff&cc99100&cfff
+(Xterm): > &cc22 xte&cfff [high] 0&ce84/&cfff&cc99100&cfff
+(Milton): > &c666 mil&cfff [path] &cf660&cfff/79 &cf60rl&cfff &c05fquad&cfff
+(Diki): > &c6ffdik:&cfff [tele] &cf00r&cfff147/100 &cf60rl&cfff 
+(Xterm): > &cc22 xte&cfff [quad-way] 0&ce84/&cfff&cc9916&cfff
+(Diki): > &c6ffdik:&cfff [tele] &cf00r&cfff116/92 &cf60rl&cfff 
+(Xterm): > &cc22 xte&cfff [quad-way] 0&ce84/&cfff&cc9916&cfff
+(Xterm): > &cc22 xte&cfff [high] 0&ce84/&cfff&cc9916&cfff
+(nit): > &cc36 nit&cfff [ng] 52&cff0y&cfff&ce84/&cfff&cc9938&cfff &c0cfrl&cfff:37
+(nit): > &cc36 nit&cfff [ng] 52&cff0y&cfff&ce84/&cfff&cc9938&cfff &c0cfrl&cfff:37
+(Xterm): > &cc22 xte&cfff [high] 0&ce84/&cfff&cc9916&cfff rox:5
+(Xterm): > &cc22 xte&cfff took &c0cfrl&cfff [high]
+(Diki): > &c6ffdik:&cfff [tele] &cf00r&cfff&cf6634&cfff/90 &cf60rl&cfff 
+(Milton): > &c666 mil&cfff [low rl] &cf660&cfff/76 &cf60rl&cfff &c05fquad&cfff
+(Diki): > &c6ffdik:&cfff [tele] &cf00r&cfff&cf6634&cfff/90 &cf60rl&cfff 
+(nit): > &cf00 nit&cfff &cf00lost&cfff &cf00[path]&cfff &cf003&cfff
+(Xterm): > &cc22 xte&cfff [quad] 0&ce84/&cfff&cc99100&cfff &c0cfrl&cfff:10
+(Diki): > &c6ffdik:&cfff took &cff0ya&cfff [tele]
+(Diki): > &c6ffdik:&cfff took &cff0ya&cfff [tele]
+(Milton): > &c666 mil&cfff took &cf00ra&cfff [ra box]
+(Xterm): > &cc22 xte&cfff [quad] 0&ce84/&cfff&cc99100&cfff &c0cfrl&cfff:7
+Quad Damage is wearing off
+(Diki): > &c6ffdik:&cfff [tele] &cff0y&cfff150/90 &cf60rl&cfff 
+(Diki): > &c6ffdik:&cfff [tele] &cff0y&cfff150/90 &cf60rl&cfff 
+(Xterm): > &cc22 xte&cfff [tele] 0&ce84/&cfff&cc99100&cfff &c0cfrl&cfff:6
+(nit): > &c3f0 nit&cfff &c3f0safe&cfff &c3f0[tele.high]&cfff
+(nit): > &cc36 nit&cfff [tele.high] 0&ce84/&cfff&cc99100&cfff
+(Xterm): > &cc22 xte&cfff [tele] 0&ce84/&cfff&cc99100&cfff &c0cfrl&cfff:6
+(Milton): > &c666 mil&cfff [path] r183/97 &cf60rl&cfff 
+(Xterm): > &c3f0 xte&cfff &c3f0safe&cfff &c3f0[tele]&cfff  &c0ffrl&cfff
+(Xterm): > &c3f0 xte&cfff &c3f0safe&cfff &c3f0[tele]&cfff  &c0ffrl&cfff
+(Milton): > &c666 mil&cfff [low rl] r91/100 &cf60rl&cfff 
+(Xterm): > &c3f0 xte&cfff &c3f0safe&cfff &c3f0[tele]&cfff  &c0ffrl&cfff
+(Xterm): > &cc22 xte&cfff [tele] 0&ce84/&cfff&cc99100&cfff &c0cfrl&cfff:16
+(Xterm): > &c3f0 xte&cfff &c3f0safe&cfff &c3f0[tele]&cfff  &c0ffrl&cfff
+(Xterm): > &c3f0 xte&cfff &c3f0safe&cfff &c3f0[tele]&cfff  &c0ffrl&cfff
+(Xterm): > &c3f0 xte&cfff &c3f0safe&cfff &c3f0[tele]&cfff  &c0ffrl&cfff
+[11] minutes remaining
+Team [com] leads by 67 frags
+(Xterm): > &c3f0 xte&cfff &c3f0safe&cfff &c3f0[tele]&cfff  &c0ffrl&cfff
+(nit): > &cc36 nit&cfff [high.rl] 0&ce84/&cfff&cc99172&cfff gl:6
+(Xterm): > &c3f0 xte&cfff &c3f0safe&cfff &c3f0[tele]&cfff  &c0ffrl&cfff
+(Diki): >&cf00 dik lost [water-stair] 4
+(Diki): >&cf00 dik lost [water-stair] 4
+(Xterm): > &c3f0 xte&cfff &c3f0safe&cfff &c3f0[tele]&cfff  &c0ffrl&cfff
+(Xterm): > &c3f0 xte&cfff &c3f0safe&cfff &c3f0[tele]&cfff  &c0ffrl&cfff
+(nit): > &cc36 nit&cfff [high.rl] 0&ce84/&cfff&cc99170&cfff gl:6
+(nit): > &cc36 nit&cfff [high.rl] 0&ce84/&cfff&cc99169&cfff gl:6
+(nit): > &cc36 nit&cfff [high.rl] 0&ce84/&cfff&cc99168&cfff gl:11
+(Diki): > &c6ffdik:&cfff [large] 0/26 sg 
+(Milton): > &c666 mil&cfff [center] &cf660&cfff/&cf6615&cfff &cf60rl&cfff 
+(Diki): > &c6ffdik:&cfff took &cff0ya&cfff [large-ya]
+(Milton): > &cf60 mil coming [center]&cfff 
+(Milton): > &c666 mil&cfff [below quad] &cf660&cfff/65 &cf60rl&cfff 
+(Xterm): > &cc22 xte&cfff [tele] 100&cff0y&cfff&ce84/&cfff&cc9969&cfff &c0cfrl&cfff:11
+(Xterm): > &c3f0 xte&cfff &c3f0safe&cfff &c3f0[tele]&cfff  &c0ffrl&cfff
+(Xterm): > &c3f0 xte&cfff &c3f0safe&cfff &c3f0[tele]&cfff  &c0ffrl&cfff
+(nit): > &c3f0 nit&cfff &c3f0safe&cfff &c3f0[quad.way]&cfff  &c0ffrl&cfff
+(Xterm): > &c3f0 xte&cfff &c3f0safe&cfff &c3f0[tele]&cfff  &c0ffrl&cfff
+(nit): > &c3f0 nit&cfff &c3f0safe&cfff &c3f0[quad.way]&cfff  &c0ffrl&cfff
+(Diki): >&cf00 dik lost [lower] 1
+(Milton): > &c666 mil&cfff took &cf00ra&cfff [ra box]
+(Milton): > &cf60 mil coming [ra box]&cfff 
+(Milton): > &cf60 mil coming [water]&cfff 
+(Diki): > &c6ffdik:&cfff [large] 0/100 sg 
+(nit): > &c3f0 nit&cfff &c3f0safe&cfff &c3f0[quad.way]&cfff  &c0ffrl&cfff
+(Milton): > &cf60 mil coming [water]&cfff 
+(Diki): > &c6ffdik:&cfff [large] 0/100 sg 
+(Xterm): > &c3f0 xte&cfff &c3f0safe&cfff &c3f0[tele]&cfff  &c0ffrl&cfff
+(Milton): > &c666 mil&cfff [ng] r200/100 &cf60rl&cfff 
+(Xterm): > &c3f0 xte&cfff &c3f0safe&cfff &c3f0[tele]&cfff  &c0ffrl&cfff
+(nit): > &cc36 nit&cfff [quad.way] 0&ce84/&cfff&cc99155&cfff &c0cfrl&cfff:16
+(nit): > &cc36 nit&cfff [quad.way] 0&ce84/&cfff&cc99155&cfff &c0cfrl&cfff:16
+(nit): > &cc36 nit&cfff &c06fquad&cfff &ce84>&cfff [quad]
+(Xterm): > &c3f0 xte&cfff &c3f0safe&cfff &c3f0[tele]&cfff  &c0ffrl&cfff
+(Milton): > &c666 mil&cfff team &c05fquad&cfff
+(Xterm): > &c3f0 xte&cfff &c3f0safe&cfff &c3f0[tele]&cfff  &c0ffrl&cfff
+(nit): > &cc36 nit&cfff [quad.way] 0&ce84/&cfff&cc99153&cfff &c0cfrl&cfff:16
+(Milton): > &c666 mil&cfff [below quad] r182/100 &cf60rl&cfff &c05fquad&cfff
+(Milton): > &c666 mil&cfff [center] r182/100 &cf60rl&cfff &c05fquad&cfff
+(nit): > &cc36 nit&cfff [tele.entry] 0&ce84/&cfff&cc99150&cfff &c0cfrl&cfff:16
+(Xterm): > &cc22 xte&cfff &cff0ya&cfff &ce84>&cfff [tele]
+(Diki): > &c6ffdik:&cfff [large] &cff0y&cfff150/100 sg 
+(Diki): > &c6ffdik:&cfff [large] &cff0y&cfff150/100 sg 
+(Milton): > &c666 mil&cfff [low rl] r182/100 &cf60rl&cfff &c05fquad&cfff
+(Diki): > &c6ffdik:&cfff [lower-button] &cff0y&cfff135/91 sg 
+(Diki): > &c6ffdik:&cfff [lower-button] &cff0y&cfff127/87 sg 
+(Xterm): > &c3f0 xte&cfff &c3f0safe&cfff &c3f0[tele]&cfff  &c0ffrl&cfff
+(Diki): > &c6ffdik:&cfff [lower] &cff0y&cfff55/43 sg 
+(Diki): > &c6ffdik:&cfff [lower] &cff0y&cfff55/43 sg 
+(nit): > &cc36 nit&cfff [ng] 150&cff0y&cfff&ce84/&cfff&cc99138&cfff &c0cfrl&cfff:30
+(Xterm): > &c3f0 xte&cfff &c3f0safe&cfff &c3f0[high]&cfff  &c0ffrl&cfff
+(Xterm): > &cc22 xte&cfff [high] 53&cff0y&cfff&ce84/&cfff&cc9965&cfff &c0cfrl&cfff:18
+(Xterm): > &cc22 xte&cfff took &c0cfrl&cfff [high]
+(Xterm): > &cc22 xte&cfff [high] 53&cff0y&cfff&ce84/&cfff&cc9965&cfff &c0cfrl&cfff:18
+(Diki): > &c6ffdik:&cfff [lower] &cff0y&cfff10/16 sg 
+(Diki): > &c6ffdik:&cfff [lower] &cff0y&cfff10/16 sg 
+(Diki): > &c6ffdik:&cfff [lower] &cff0y&cfff10/16 sg 
+(Milton): > &c666 mil&cfff [low rl] r&cf6628&cfff/100 &cf60rl&cfff &c05fquad&cfff
+(Diki): >&cf00 dik lost [lower] 2
+(Diki): >&cf00 dik lost [lower] 2
+(Xterm): > &cc22 xte&cfff [tele] 53&cff0y&cfff&ce84/&cfff&cc99100&cfff &c0cfrl&cfff:18
+Quad Damage is wearing off
+(Diki): > &c6ffdik:&cfff [tele] 0/56 sg 
+(nit): > &c3f0 nit&cfff &c3f0safe&cfff &c3f0[tele.entry]&cfff  &c0ffrl&cfff
+(Diki): > &c6ffdik:&cfff [tele] 0/56 sg 
+(Milton): >&cf00  mil lost [ra box] 2
+(Milton): >&cf00  mil lost [ra box] 2
+(Milton): >&cf00  mil lost [ra box] 2
+(Milton): >&cf00  mil lost [ra box] 2
+(Milton): >&cf00  mil lost [ra box] 2
+(Milton): >&cf39  mil pack left at [ra box] 2
+(Milton): >&cf39  mil pack left at [ra box] 2
+no weapon
+(Milton): >&cf39  mil pack left at [ra box] 2
+(Xterm): > &c3f0 xte&cfff &c3f0safe&cfff &c3f0[tele]&cfff  &c0ffrl&cfff
+(Diki): > &c6ffdik:&cfff [high-way] 0/32 sg 
+(Diki): > &c6ffdik:&cfff [high-way] 0/32 sg 
+(Milton): > &c666 mil&cfff took &cf39pack&cfff [low rl]
+(Xterm): > &c3f0 xte&cfff &c3f0safe&cfff &c3f0[tele]&cfff  &c0ffrl&cfff
+(Diki): > &c6ffdik:&cfff [high-way] 0/32 sg 
+(Diki): > &c6ffdik:&cfff [high-way] 0/32 sg 
+(Milton): > &c666 mil&cfff [tele] 0/100 sg 
+(nit): > &cf00 nit&cfff &cf00lost&cfff &cf00[secret]&cfff &cf001&cfff &c0ffdropped&cfff &c0cfrl&cfff
+(nit): > &cf00 nit&cfff &cf00lost&cfff &cf00[secret]&cfff &cf001&cfff &c0ffdropped&cfff &c0cfrl&cfff
+(nit): > &cf00 nit&cfff &cf00lost&cfff &cf00[secret]&cfff &cf001&cfff &c0ffdropped&cfff &c0cfrl&cfff
+(nit): > &cc36 nit&cfff [ng] 0&ce84/&cfff&cc99100&cfff
+(Diki): > &c6ffdik:&cfff [high] 0/32 sg 
+(Diki): > &c6ffdik:&cfff [high] 0/32 sg 
+[10] minutes remaining
+Team [com] leads by 79 frags
+(Milton): > &cf60 mil coming [upper tele]&cfff 
+(Milton): > &cf60 mil coming [upper tele]&cfff 
+(Xterm): > &cc22 xte&cfff [path] 84&cff0y&cfff&ce84/&cfff&cc9956&cfff &c0cfrl&cfff:11
+(Diki): > &c6ffdik:&cfff [high] 0/32 sg 
+(nit): > &cf00 nit&cfff &cf00lost&cfff &cf00[ng]&cfff &cf003&cfff
+(Diki): > &c6ffdik:&cfff [high] 0/32 sg 
+(Diki): > &c6ffdik:&cfff [high-way] 0/32 sg 
+(Xterm): > &cf00 xte&cfff &cf00lost&cfff &cf00[water]&cfff &cf003&cfff
+(Xterm): > &cf00 xte&cfff &cf00lost&cfff &cf00[water]&cfff &cf003&cfff
+(Milton): > &c666 mil&cfff [high rl] 0/52 sg 
+(Milton): > &c666 mil&cfff [high rl] 0/52 sg 
+(Xterm): > &cc22 xte&cfff [tele] 0&ce84/&cfff&cc99100&cfff
+(carapace): >&c693car:&cfff &cf00lost&cfff [quad-low] 2
+(rst): >&c777rst:&cfff took &cf31rl&cfff [low-rl]
+(carapace): >&c693car:&cfff 0/58 [tele] 
+(rst): >&c777rst:&cfff 0/54 &cf31rl&cfff&cf31:5&cfff [low-rl] 
+(carapace): >&c693car:&cfff took &cff0ya&cfff [tele-ya]
+(rst): >&c777rst:&cfff &c0b0team&cfff &c05fquad&cfff
+(rst): >&c777rst:&cfff &c0b0team&cfff &c05fquad&cfff
+(carapace): >&c693car:&cfff &c991y&cfff63/4 [quad-way] 
+(ganon): >&c479gan:&cfff &cb1akill me&cfff [quad-way] &cf31rl&cfff:58
+(ganon): >&c479gan:&cfff &cb1akill me&cfff [quad-way] &cf31rl&cfff:58
+(ganon): >&c479gan:&cfff &cb1akill me&cfff [quad-way] &cf31rl&cfff:58
+(ganon): >&c479gan:&cfff &cb1akill me&cfff [quad-way] &cf31rl&cfff:58
+(ganon): >&c479gan:&cfff &cb1akill me&cfff [quad-way] &cf31rl&cfff:58
+(carapace): >&c693car:&cfff &cf2apack&cfff at [quad-low]
+(ganon): >&c479gan:&cfff &cb1akill me&cfff [quad-way] &cf31rl&cfff:58
+(ganon): >&c479gan:&cfff &cb1akill me&cfff [quad-way] &cf31rl&cfff:58
+(ganon): >&c479gan:&cfff &cb1akill me&cfff [quad-way] &cf31rl&cfff:58
+(ganon): >&c479gan:&cfff &cb1akill me&cfff [quad-way] &cf31rl&cfff:58
+(bps): >      &cf2aenemy slipped&cfff [tele]
+(bps): >      &cf2aenemy slipped&cfff [tele]
+(ganon): >&c479gan:&cfff &cb1akill me&cfff [quad-way] &cf31rl&cfff:58
+(ganon): >&c479gan:&cfff &cb1akill me&cfff [quad-way] &cf31rl&cfff:58
+(bps): >&cc93bps:&cfff 0/100 [tele-high] 
+(bps): >&cc93bps:&cfff carapace at [quad-way]
+(carapace): >&c693car:&cfff &c991y&cfff63/4 [quad-way] 
+(bps): >&cc93bps:&cfff ganon at [quad-way]
+(ganon): >&c479gan:&cfff &cb1akill me&cfff [quad-way] &cf31rl&cfff:58
+(bps): >&cc93bps:&cfff ganon at [quad-way]
+(ganon): >&c479gan:&cfff &cb1akill me&cfff [quad-way] &cf31rl&cfff:58
+(ganon): >&c479gan:&cfff &cb1akill me&cfff [quad-way] &cf31rl&cfff:58
+(ganon): >&c479gan:&cfff &cb1akill me&cfff [quad-way] &cf31rl&cfff:58
+(ganon): >&c479gan:&cfff &cb1akill me&cfff [quad-way] &cf31rl&cfff:58
+(ganon): >&c479gan:&cfff &cb1akill me&cfff [quad-way] &cf31rl&cfff:58
+(bps): >&cc93bps:&cfff ganon at [quad-way]
+(carapace): >&c693car:&cfff &cf00lost&cfff [big] 2
+(rst): >&c777rst:&cfff took &cf2apack&cfff [low-rl]
+(carapace): >&c693car:&cfff took &cf31rl&cfff [low-rl]
+(carapace): >&c693car:&cfff &c0b0safe&cfff [ra-mega]
+Quad Damage is wearing off
+(carapace): >&c693car:&cfff 0/100 &cf31rl&cfff&cf31:14&cfff [ra-mega] 
+(carapace): >&c693car:&cfff took &cf00ra&cfff [ra-mega]
+(carapace): >&c693car:&cfff &c931r&cfff200/100 &cf31rl&cfff&cf31:14&cfff [ra-mega] 
+(bps): >&cc93bps:&cfff &c991y&cfff150/100 [quad-button] 
+[9] minutes remaining
+Team [com] leads by 71 frags
+(bps): >&cc93bps:&cfff &c991y&cfff150/100 [big-button] 
+(carapace): >&c693car:&cfff &c0b0safe&cfff [ra-mega]
+(rst): >&c777rst:&cfff &c0b0safe&cfff [secret]
+(rst): >&c777rst:&cfff &c0b0safe&cfff [secret]
+(bps): >&cc93bps:&cfff &c991y&cfff150/100 sg [low-rl] rox:19 
+(bps): >&cc93bps:&cfff took &cf31rl&cfff [low-rl]
+(ganon): >&c479gan:&cfff &cf00lost&cfff [tele-high] 2
+(ganon): >&c479gan:&cfff &cf00lost&cfff [tele-high] 2
+(bps): >&cc93bps:&cfff took &cf31rl&cfff [low-rl]
+(carapace): >&c693car:&cfff took &c0ffmega&cfff [ra-mega]
+(bps): >&cc93bps:&cfff &c991y&cfff150/100 &cf31rl&cfff&cf31:24&cfff [path] 
+(rst): >&c777rst:&cfff &c0b0safe&cfff [quad-way]
+(rst): >&c777rst:&cfff &c0b0safe&cfff [quad-way]
+(carapace): >&c693car:&cfff &c0b0team&cfff &c05fquad&cfff
+(carapace): >&c693car:&cfff &c0b0team&cfff &c05fquad&cfff
+(carapace): >&c693car:&cfff &c931r&cfff66/157 &cf31rl&cfff&cf31:4&cfff [ng] &c05fquad&cfff
+(rst): >&c777rst:&cfff &c0b0safe&cfff [high-rl]
+(rst): >&c777rst:&cfff &c0b0safe&cfff [high-rl]
+(bps): >&cc93bps:&cfff &c991y&cfff14/61 &cf31rl&cfff&cf31:21&cfff [secret] 
+(bps): >&cc93bps:&cfff &c0b0safe&cfff [secret]
+(bps): >&cc93bps:&cfff &c0b0safe&cfff [secret]
+(bps): >&cc93bps:&cfff &c0b0safe&cfff [secret]
+(bps): >&cc93bps:&cfff &c0b0safe&cfff [secret]
+(ganon): >&c479gan:&cfff 0/100 [tele-ya] 
+(bps): >&cc93bps:&cfff took &ce00ra&cfff [secret]
+(carapace): >&c693car:&cfff &c931r&cfff27/140 &cf31rl&cfff&cf31:4&cfff [low-rl] &c05fquad&cfff
+(carapace): >&c693car:&cfff &c0b0safe&cfff [low-rl]
+(bps): >&cc93bps:&cfff &c931r&cfff200/86 &cf31rl&cfff&cf31:19&cfff [tele] 
+(ganon): >&c479gan:&cfff 0/56 [tele-ya] 
+(carapace): >&c693car:&cfff took &cf31rl&cfff [low-rl]
+(bps): >&cc93bps:&cfff &c931r&cfff152/76 &cf31rl&cfff&cf31:15&cfff [ng] 
+(rst): >&c777rst:&cfff 0/68 [big-stairs] 
+(ganon): >&c479gan:&cfff &cf00lost&cfff [high-rl] 3
+(ganon): >&c479gan:&cfff &cf00lost&cfff [high-rl] 3
+Quad Damage is wearing off
+(carapace): >&c693car:&cfff 0/100 &cf31rl&cfff&cf31:19&cfff [ra-mega] &c05fquad&cfff
+(bps): >&cc93bps:&cfff &c931r&cfff46/100 &cf31rl&cfff&cf31:8&cfff [path] 
+(bps): >&cc93bps:&cfff &c931r&cfff46/100 &cf31rl&cfff&cf31:8&cfff [secret] 
+(bps): >&cc93bps:&cfff took &ce00ra&cfff [secret]
+(rst): >&c777rst:&cfff 0/100 [big] 
+(bps): >&cc93bps:&cfff took &ce00ra&cfff [secret]
+(bps): >&cc93bps:&cfff took &ce00ra&cfff [secret]
+(rst): >&c777rst:&cfff &cf00lost&cfff [quad-button] 1
+(rst): >&c777rst:&cfff &cf00lost&cfff [quad-button] 1
+(carapace): >&c693car:&cfff took &cf00ra&cfff [ra-mega]
+(rst): >&c777rst:&cfff &cf00lost&cfff [tele-high] 2
+(rst): >&c777rst:&cfff &cf00lost&cfff [tele-high] 2
+(rst): >&c777rst:&cfff &cf00lost&cfff [tele-high] 2
+[8] minutes remaining
+Team [com] leads by 62 frags
+(carapace): >&c693car:&cfff &c0b0safe&cfff [ra-mega]
+(rst): >&c777rst:&cfff &cf00lost&cfff [ng] 3
+(rst): >&c777rst:&cfff &cf00lost&cfff [ng] 3
+(rst): >&c777rst:&cfff &cf00lost&cfff [ng] 3
+(rst): >&c777rst:&cfff &cf00lost&cfff [ng] 3
+(bps): >&cc93bps:&cfff &c931r&cfff153/96 &cf31rl&cfff&cf31:11&cfff [floating] 
+(carapace): >&c693car:&cfff took &cf2apack&cfff [low-rl]
+(rst): >&c777rst:&cfff 0/17 [tele-high] 
+(carapace): >&c693car:&cfff &c931r&cfff173/95 &cf31rl&cfff&cf31:21&cfff [low-rl] 
+(rst): >&c777rst:&cfff 0/17 &cf31rl&cfff&cf31:8&cfff [high-rl] 
+(bps): >&cc93bps:&cfff &c931r&cfff100/90 &cf31rl&cfff&cf31:3&cfff [quad] 
+(bps): >&cc93bps:&cfff &c931r&cfff100/90 &cf31rl&cfff&cf31:3&cfff [quad] 
+(carapace): >&c693car:&cfff &c931r&cfff97/79 &cf31rl&cfff&cf31:17&cfff [big] 
+(bps): >&cc93bps:&cfff rst at [quad-way]
+(bps): >&cc93bps:&cfff rst at [quad-way]
+(bps): >&cc93bps:&cfff &c0b0team&cfff &c05fquad&cfff
+(bps): >&cc93bps:&cfff &c0b0team&cfff &c05fquad&cfff
+(bps): >&cc93bps:&cfff &c0b0team&cfff &c05fquad&cfff
+(bps): >&cc93bps:&cfff &c0b0team&cfff &c05fquad&cfff
+(carapace): >&c693car:&cfff took &cf00ra&cfff [ra-mega]
+(rst): >&c777rst:&cfff &cf00lost&cfff [quad] 1
+(rst): >&c777rst:&cfff &cf00lost&cfff [quad] 1
+(rst): >&c777rst:&cfff &cf00lost&cfff [quad] 1
+(rst): >&c777rst:&cfff &cf00lost&cfff [quad] 1
+(rst): >&c777rst:&cfff &cf00lost&cfff [quad] 1
+(bps): >&cc93bps:&cfff &c931r&cfff64/82 &cf31rl&cfff&cf31:2&cfff [path] &c05fquad&cfff
+(carapace): >&c693car:&cfff &c931r&cfff154/57 &cf31rl&cfff&cf31:17&cfff [ra-mega] 
+(rst): >&c777rst:&cfff &cf2apack&cfff at [ng]
+(bps): >&cc93bps:&cfff 0/44 &cf31rl&cfff&cf31:1&cfff [path-lift] &c05fquad&cfff
+(bps): >&cc93bps:&cfff 0/44 &cf31rl&cfff&cf31:1&cfff [path-lift] &c05fquad&cfff
+(carapace): >&c693car:&cfff took &c0ffmega&cfff [ra-mega]
+(carapace): >&c693car:&cfff took &cf31rl&cfff [low-rl]
+(rst): >&c777rst:&cfff &cf00lost&cfff [high-rl] 3
+(rst): >&c777rst:&cfff &cf00lost&cfff [high-rl] 3
+(rst): >&c777rst:&cfff &cf00lost&cfff [high-rl] 3
+(rst): >&c777rst:&cfff &cf00lost&cfff [high-rl] 3
+(rst): >&c777rst:&cfff &cf00lost&cfff [high-rl] 3
+(bps): >&cc93bps:&cfff took &ce00ra&cfff [secret]
+Quad Damage is wearing off
+(bps): >&cc93bps:&cfff 0/14 &cf31rl&cfff&cf31:24&cfff [high-rl] &c05fquad&cfff
+(rst): >&c777rst:&cfff &cf00lost&cfff [tele-high] 2
+(rst): >&c777rst:&cfff &cf00lost&cfff [tele-high] 2
+no weapon
+(rst): >&c777rst:&cfff &cf00lost&cfff [tele-high] 2
+(rst): >&c777rst:&cfff &cf00lost&cfff [tele-high] 2
+(carapace): >&c693car:&cfff took &cf00ra&cfff [ra-mega]
+(carapace): >&c693car:&cfff &c931r&cfff200/147 &cf31rl&cfff&cf31:20&cfff [ra-mega] 
+bps: &c905*&r8)
+(rst): >&c777rst:&cfff &c991y&cfff150/100 [low-rl] 
+[7] minutes remaining
+Team [com] leads by 42 frags
+(carapace): >&c693car:&cfff &c931r&cfff200/89 &cf31rl&cfff&cf31:33&cfff [secret] 
+(bps): >&cc93bps:&cfff rst at [low-rl]
+(rst): >&c777rst:&cfff you take [low-rl]
+(rst): >&c777rst:&cfff you take [low-rl]
+(carapace): >&c693car:&cfff &cf2apack&cfff at [quad]
+(ganon): >&c479gan:&cfff &cf00dropped&cfff &cf31rl&cfff [quad] 1
+(ganon): >&c479gan:&cfff &cf00dropped&cfff &cf31rl&cfff [quad] 1
+(ganon): >&c479gan:&cfff &cf00dropped&cfff &cf31rl&cfff [quad] 1
+(ganon): >&c479gan:&cfff &cf00dropped&cfff &cf31rl&cfff [quad] 1
+(rst): >&c777rst:&cfff &c0b0safe&cfff [secret]
+(rst): >&c777rst:&cfff &c0b0safe&cfff [secret]
+(rst): >&c777rst:&cfff &c0b0safe&cfff [secret]
+(carapace): >&c693car:&cfff &cf00lost&cfff [quad] 1
+(carapace): >&c693car:&cfff &cf00lost&cfff [quad] 1
+(carapace): >&c693car:&cfff &cf00lost&cfff [quad] 1
+(carapace): >&c693car:&cfff &cf00lost&cfff [quad] 1
+(rst): >&c777rst:&cfff &cf00lost&cfff [secret] 1
+(carapace): >&c693car:&cfff 0/100 [ng] 
+(rst): >&c777rst:&cfff &cf00lost&cfff [secret] 1
+(rst): >&c777rst:&cfff &cf00lost&cfff [secret] 1
+(rst): >&c777rst:&cfff &cf00lost&cfff [secret] 1
+(rst): >&c777rst:&cfff &cf00lost&cfff [secret] 1
+(Diki): > &c6ffdik:&cfff [ra-mega] 0/100 ssg 
+(Milton): > &c666 mil&cfff get &c05fquad&cfff  
+(Milton): > &c666 mil&cfff get &c05fquad&cfff  
+(Milton): > &c666 mil&cfff get &c05fquad&cfff  
+(Milton): > &c666 mil&cfff get &c05fquad&cfff  
+(Milton): > &c666 mil&cfff get &c05fquad&cfff  
+(Milton): > &c666 mil&cfff get &c05fquad&cfff  
+(Milton): > &c666 mil&cfff get &c05fquad&cfff  
+(Xterm): > &cc22 xte&cfff [tele] 167&cf00r&cfff&ce84/&cfff&cc9993&cfff rox:3
+(Diki): > &c6ffdik:&cfff [ra-mega] 0/200 ssg 
+(Diki): > &c6ffdik:&cfff [ra-mega] 0/200 ssg 
+(Diki): > &c6ffdik:&cfff [ra-mega] 0/200 ssg 
+(bps): >&cc93bps:&cfff 0/40 [quad-way] &c05fquad&cfff
+(bps): >&cc93bps:&cfff 0/40 [quad-way] &c05fquad&cfff
+(bps): >&cc93bps:&cfff 0/40 [quad-way] &c05fquad&cfff
+(bps): >&cc93bps:&cfff 0/40 &cf31rl&cfff&cf31:10&cfff [high-rl] &c05fquad&cfff
+(carapace): >&c693car:&cfff &cf00lost&cfff [tele] 2
+(carapace): >&c693car:&cfff 0/100 [ra-mega] 
+(bps): >&cc93bps:&cfff 0/40 &cf31rl&cfff&cf31:10&cfff [floating] &c05fquad&cfff
+(rst): >&c777rst:&cfff &cf00lost&cfff [tele] 2
+(rst): >&c777rst:&cfff &cf00lost&cfff [tele] 2
+(rst): >&c777rst:&cfff &cf00lost&cfff [tele] 2
+(rst): >&c777rst:&cfff &cf00lost&cfff [tele] 2
+(rst): >&c777rst:&cfff &cf00lost&cfff [tele] 2
+(rst): >&c777rst:&cfff &cf00lost&cfff [tele] 2
+(bps): >&cc93bps:&cfff 0/119 &cf31rl&cfff&cf31:5&cfff [big-stairs] &c05fquad&cfff
+(carapace): >&c693car:&cfff 0/100 [tele] 
+(bps): >&cc93bps:&cfff &c991y&cfff150/116 &cf31rl&cfff&cf31:5&cfff [quad-button] &c05fquad&cfff
+(carapace): >&c693car:&cfff awaits [tele-ya]
+(bps): >&cc93bps:&cfff &c991y&cfff150/109 &cf31rl&cfff&cf31:5&cfff [quad-low] &c05fquad&cfff
+Quad Damage is wearing off
+(rst): >&c777rst:&cfff &c991y&cfff57/45 [high-rl] 
+(rst): >&c777rst:&cfff &c991y&cfff57/45 [high-rl] 
+(rst): >&c777rst:&cfff &c991y&cfff57/45 [high-rl] 
+(carapace): >&c693car:&cfff 0/100 [tele-ya] 
+[6] minutes remaining
+Team [com] leads by 38 frags
+(carapace): >&c693car:&cfff &c991y&cfff150/100 [tele-high] 
+(rst): >&c777rst:&cfff took &cf31rl&cfff [high-rl]
+(carapace): >&c693car:&cfff &c991y&cfff150/100 [gl] 
+(bps): >&cc93bps:&cfff &c991y&cfff150/100 &cf31rl&cfff&cf31:3&cfff [path-lift] 
+(rst): >&c777rst:&cfff &c0b0safe&cfff [quad]
+(rst): >&c777rst:&cfff &c0b0safe&cfff [quad]
+(carapace): >&c693car:&cfff &c991y&cfff29/22 gl [big] rox:7 
+(bps): >&cc93bps:&cfff &c931r&cfff200/77 &cf31rl&cfff&cf31:1&cfff [secret] 
+(carapace): >&c693car:&cfff &c991y&cfff29/22 gl [quad-button] rox:7 
+(bps): >&cc93bps:&cfff &c931r&cfff200/77 &cf31rl&cfff&cf31:1&cfff [ng] 
+(rst): >&c777rst:&cfff &c0b0safe&cfff [tele-ya]
+(rst): >&c777rst:&cfff &c0b0safe&cfff [tele-ya]
+(carapace): >&c693car:&cfff &c991y&cfff17/100 gl [ng] rox:7 
+(bps): >&cc93bps:&cfff &c931r&cfff200/77 &cf31rl&cfff&cf31:100&cfff [quad-way] 
+(bps): >&cc93bps:&cfff &c0b0safe&cfff [quad-way]
+(bps): >&cc93bps:&cfff &c0b0safe&cfff [quad]
+(bps): >&cc93bps:&cfff &c0b0safe&cfff [quad]
+(rst): >&c777rst:&cfff &c991y&cfff150/100 &cf31rl&cfff&cf31:18&cfff [tele-entry] 
+(ganon): >&c479gan:&cfff &c991y&cfff87/58 ng [big] 
+(ganon): >&c479gan:&cfff &c991y&cfff87/58 ng [big] 
+(carapace): >&c693car:&cfff &c991y&cfff17/100 gl [high-rl] rox:5 
+(bps): >&cc93bps:&cfff &c0b0team&cfff &c05fquad&cfff
+(bps): >&cc93bps:&cfff &c0b0team&cfff &c05fquad&cfff
+(carapace): >&c693car:&cfff &c991y&cfff17/100 gl [high-rl] rox:5 
+(carapace): >&c693car:&cfff &c991y&cfff17/100 gl [tele-high] rox:5 
+(bps): >&cc93bps:&cfff &c931r&cfff88/72 &cf31rl&cfff&cf31:97&cfff [low-stairs] &c05fquad&cfff
+(ganon): >&c479gan:&cfff &cf00lost&cfff [ra-mega] 3
+(ganon): >&c479gan:&cfff &cf00lost&cfff [ra-mega] 3
+(carapace): >&c693car:&cfff &c991y&cfff17/200 gl [gl] rox:20 
+(carapace): >&c693car:&cfff 0/133 gl [tele-high] rox:12 
+(bps): >&cc93bps:&cfff &c931r&cfff16/57 &cf31rl&cfff&cf31:90&cfff [secret] &c05fquad&cfff
+(bps): >&cc93bps:&cfff &c931r&cfff16/57 &cf31rl&cfff&cf31:90&cfff [secret] &c05fquad&cfff
+(bps): >&cc93bps:&cfff &c931r&cfff16/57 &cf31rl&cfff&cf31:90&cfff [secret] &c05fquad&cfff
+(carapace): >&c693car:&cfff &cf00lost&cfff [low-rl] 2
+(bps): >&cc93bps:&cfff took &ce00ra&cfff [secret]
+Quad Damage is wearing off
+(carapace): >&c693car:&cfff &cf00lost&cfff [big] 1
+(rst): >&c777rst:&cfff &c0b0safe&cfff [tele-ya]
+(rst): >&c777rst:&cfff &c0b0safe&cfff [tele-ya]
+(carapace): >&c693car:&cfff 0/100 [tele] 
+(bps): >&cc93bps:&cfff &c931r&cfff200/57 &cf31rl&cfff&cf31:88&cfff [quad-low] 
+[5] minutes remaining
+Team [com] leads by 42 frags
+(bps): >&cc93bps:&cfff &c931r&cfff200/97 &cf31rl&cfff&cf31:87&cfff [path-lift] 
+(ganon): >&c479gan:&cfff &cf00lost&cfff [high-rl] 1
+(ganon): >&c479gan:&cfff &cf00lost&cfff [high-rl] 1
+(ganon): >&c479gan:&cfff &cf00lost&cfff [high-rl] 1
+(carapace): >&c693car:&cfff &c991y&cfff150/100 [tele-high] 
+(rst): >&c777rst:&cfff &cf2apack&cfff at [quad-way]
+(bps): >&cc93bps:&cfff &c931r&cfff2/78 &cf31rl&cfff&cf31:78&cfff [secret] 
+(bps): >&cc93bps:&cfff &c931r&cfff2/78 &cf31rl&cfff&cf31:78&cfff [secret] 
+(rst): >&c777rst:&cfff &cf2apack&cfff at [quad-low]
+(bps): >&cc93bps:&cfff &c0b0safe&cfff [secret]
+(carapace): >&c693car:&cfff &c991y&cfff150/100 &cf31rl&cfff&cf31:10&cfff [quad-low] 
+(bps): >&cc93bps:&cfff &c0b0safe&cfff [secret]
+(bps): >&cc93bps:&cfff &c0b0safe&cfff [secret]
+(bps): >&cc93bps:&cfff &c0b0safe&cfff [secret]
+(bps): >&cc93bps:&cfff &c931r&cfff2/78 &cf31rl&cfff&cf31:76&cfff [secret] 
+(rst): >&c777rst:&cfff &c0b0safe&cfff [quad]
+(rst): >&c777rst:&cfff &c0b0safe&cfff [quad]
+(ganon): >&c479gan:&cfff 0/84 sg [low-rl] rox:9 
+(carapace): >&c693car:&cfff &c0b0safe&cfff [ng]
+(rst): >&c777rst:&cfff &c05fquad&cfff over
+(bps): >&cc93bps:&cfff &c931r&cfff2/78 &cf31rl&cfff&cf31:75&cfff [secret] 
+(bps): >&cc93bps:&cfff &c931r&cfff2/78 &cf31rl&cfff&cf31:75&cfff [secret] 
+(ganon): >&c479gan:&cfff took &c0ffmega&cfff [ra-mega]
+(bps): >&cc93bps:&cfff took &ce00ra&cfff [secret]
+(rst): >&c777rst:&cfff took &cff0ya&cfff [tele-ya]
+(carapace): >&c693car:&cfff 0/43 &cf31rl&cfff&cf31:0&cfff [tele-entry] 
+(carapace): >&c693car:&cfff 0/43 &cf31rl&cfff&cf31:0&cfff [tele] 
+(carapace): >&c693car:&cfff &cf00lost&cfff [tele] 3
+(carapace): >&c693car:&cfff &cf00lost&cfff [tele] 3
+(carapace): >&c693car:&cfff &cf00lost&cfff [tele] 3
+(bps): >&cc93bps:&cfff &cf2apack&cfff at [low-rl]
+(carapace): >&c693car:&cfff 0/100 [low-rl] 
+(bps): >&cc93bps:&cfff rst at [quad-low]
+(bps): >&cc93bps:&cfff &c931r&cfff200/100 &cf31rl&cfff&cf31:73&cfff [tele] 
+(carapace): >&c693car:&cfff &cf00lost&cfff [ra-mega] 1
+(ganon): >&c479gan:&cfff &c0b0safe&cfff [ra-mega]
+(ganon): >&c479gan:&cfff &c0b0safe&cfff [ra-mega]
+[4] minutes remaining
+Team [com] leads by 31 frags
+(bps): >&cc93bps:&cfff &c0b0safe&cfff [high-rl]
+(bps): >&cc93bps:&cfff &c0b0safe&cfff [high-rl]
+(carapace): >&c693car:&cfff 0/100 [big] 
+(bps): >&cc93bps:&cfff &c0b0safe&cfff [high-rl]
+(bps): >&cc93bps:&cfff &c0b0safe&cfff [high-rl]
+(rst): >&c777rst:&cfff &cf00dropped&cfff &cf31rl&cfff [path-lift] 2
+(rst): >&c777rst:&cfff &cf00dropped&cfff &cf31rl&cfff [path-lift] 2
+(rst): >&c777rst:&cfff &cf00dropped&cfff &cf31rl&cfff [path-lift] 2
+(rst): >&c777rst:&cfff &cf00dropped&cfff &cf31rl&cfff [path-lift] 2
+(rst): >&c777rst:&cfff &cf00dropped&cfff &cf31rl&cfff [path-lift] 2
+(rst): >&c777rst:&cfff &cf00dropped&cfff &cf31rl&cfff [path-lift] 2
+(rst): >&c777rst:&cfff &cf00dropped&cfff &cf31rl&cfff [path-lift] 2
+(rst): >&c777rst:&cfff &cf00dropped&cfff &cf31rl&cfff [path-lift] 2
+(rst): >&c777rst:&cfff &cf00dropped&cfff &cf31rl&cfff [path-lift] 2
+(carapace): >&c693car:&cfff 0/100 [platforms] 
+(bps): >&cc93bps:&cfff &c931r&cfff200/100 &cf31rl&cfff&cf31:72&cfff [ng] 
+(rst): >&c777rst:&cfff &cf2apack&cfff at [low-rl]
+(carapace): >&c693car:&cfff took &cf31rl&cfff [low-rl]
+(carapace): >&c693car:&cfff 0/84 &cf31rl&cfff&cf31:5&cfff [low-stairs] 
+(ganon): >&c479gan:&cfff 0/47 &cf31rl&cfff&cf31:16&cfff [ra-mega] 
+(bps): >&cc93bps:&cfff &c931r&cfff200/100 &cf31rl&cfff&cf31:72&cfff [path] 
+(rst): >&c777rst:&cfff &cf00lost&cfff [secret] 1
+(rst): >&c777rst:&cfff &cf00lost&cfff [secret] 1
+(rst): >&c777rst:&cfff &cf00lost&cfff [secret] 1
+(rst): >&c777rst:&cfff &cf00lost&cfff [secret] 1
+(rst): >&c777rst:&cfff &cf00lost&cfff [secret] 1
+(carapace): >&c693car:&cfff took &cf00ra&cfff [ra-mega]
+(bps): >&cc93bps:&cfff &c931r&cfff88/76 &cf31rl&cfff&cf31:64&cfff [tele] 
+(Xterm): > &cf00 xte&cfff &cf00lost&cfff &cf00[quad]&cfff &cf003&cfff &c0ffdropped&cfff &c0cfrl&cfff
+(nit): > &c3f0 nit&cfff &c3f0safe&cfff &c3f0[ng]&cfff  &c0ffrl&cfff
+(Xterm): > &cc22 xte&cfff [low] 0&ce84/&cfff&cc9988&cfff
+(Milton): > &c666 mil&cfff [center] 0/100 sg 
+(Milton): > &c666 mil&cfff [center] 0/100 sg 
+(Milton): > &cf60 mil coming [center]&cfff 
+(Xterm): > &cf00 xte&cfff &cf00lost&cfff &cf00[ra-mega]&cfff &cf002&cfff
+(Xterm): > &cf00 xte&cfff &cf00lost&cfff &cf00[ra-mega]&cfff &cf001&cfff
+(Milton): > &c666 mil&cfff [below quad] y73/53 sg 
+(Xterm): > &cc22 xte&cfff [big] 0&ce84/&cfff&cc99100&cfff
+(Diki): > &c6ffdik:&cfff [water-mid] &cf660&cfff/&cf6644&cfff &cf60rl&cfff &c05fquad&cfff
+(Diki): > &c6ffdik:&cfff [water-mid] &cf660&cfff/&cf6644&cfff &cf60rl&cfff &c05fquad&cfff
+(nit): > &cc36 nit&cfff &cf0fpack&cfff &ce84>&cfff [tele]
+(Xterm): > &cf00 xte&cfff &cf00lost&cfff &cf00[big]&cfff &cf001&cfff
+(Diki): > &c6ffdik:&cfff [secret] &cf00r&cfff200/&cf6616&cfff &cf60rl&cfff &c05fquad&cfff
+(Diki): > &c6ffdik:&cfff took &cf00ra&cfff [secret]
+(nit): > &cc36 nit&cfff [tele] 0&ce84/&cfff&cc9949&cfff &c0cfrl&cfff:22
+(Milton): > &c666 mil&cfff [tele] y70/52 &cf60rl&cfff 
+(Milton): > &c666 mil&cfff [tele] y70/52 &cf60rl&cfff 
+(nit): > &cc36 nit&cfff [tele] 0&ce84/&cfff&cc9949&cfff &c0cfrl&cfff:22
+(nit): > &cc36 nit&cfff [tele] 0&ce84/&cfff&cc9949&cfff &c0cfrl&cfff:22
+(Diki): > &c6ffdik:&cfff [water-mid] &cf00r&cfff200/&cf6641&cfff &cf60rl&cfff &c05fquad&cfff
+(Diki): > &c6ffdik:&cfff [water-mid] &cf00r&cfff200/&cf6641&cfff &cf60rl&cfff &c05fquad&cfff
+(nit): > &cf00 nit&cfff &cf00lost&cfff &cf00[tele.high]&cfff &cf001&cfff &c0ffdropped&cfff &c0cfrl&cfff
+(nit): > &cf00 nit&cfff &cf00lost&cfff &cf00[tele.high]&cfff &cf001&cfff &c0ffdropped&cfff &c0cfrl&cfff
+(Milton): > &c666 mil&cfff [upper tele] &cf660&cfff/&cf666&cfff &cf60rl&cfff 
+(nit): > &cc36 nit&cfff [big.stairs] 0&ce84/&cfff&cc9976&cfff rox:14
+Quad Damage is wearing off
+(Xterm): > &cc22 xte&cfff [big] 0&ce84/&cfff&cc99100&cfff
+rst: ..
+(nit): > &cc36 nit&cfff [big.button] 0&ce84/&cfff&cc9976&cfff rox:14
+rst: :)
+(nit): > &cc36 nit&cfff [low.stairs] 0&ce84/&cfff&cc99100&cfff rox:14
+[3] minutes remaining
+Team [com] leads by 39 frags
+(Milton): > &c666 mil&cfff [upper tele] &cf660&cfff/78 &cf60rl&cfff 
+(Diki): > &c6ffdik:&cfff [lower] &cf00r&cfff123/66 &cf60rl&cfff 
+(Diki): > &c6ffdik:&cfff [lower-lift] &cf00r&cfff123/66 &cf60rl&cfff 
+(Milton): > &c666 mil&cfff took &cf60rl&cfff [high rl]
+(Diki): > &c6ffdik:&cfff [secret] &cf00r&cfff123/91 &cf60rl&cfff 
+(Diki): > &c6ffdik:&cfff [secret] &cf00r&cfff123/91 &cf60rl&cfff 
+(Diki): > &c6ffdik:&cfff [secret] &cf00r&cfff123/91 &cf60rl&cfff 
+(Diki): > &c6ffdik:&cfff [secret] &cf00r&cfff123/91 &cf60rl&cfff 
+(Milton): > &c666 mil&cfff [ng] &cf660&cfff/100 &cf60rl&cfff 
+(Xterm): > &cc22 xte&cfff [platforms] 96&cff0y&cfff&ce84/&cfff&cc9968&cfff
+(nit): > &cc36 nit&cfff &cff0help&cfff &cff0[low.button]&cfff
+(nit): > &cc36 nit&cfff &cff0help&cfff &cff0[low.button]&cfff
+(nit): > &cc36 nit&cfff &cff0help&cfff &cff0[low.button]&cfff
+(nit): > &cc36 nit&cfff &cff0help&cfff &cff0[low.rl]&cfff
+(nit): > &cc36 nit&cfff &cff0help&cfff &cff0[low.rl]&cfff
+(nit): > &cc36 nit&cfff &cff0help&cfff &cff0[low.button]&cfff
+(nit): > &cc36 nit&cfff &cff0help&cfff &cff0[low.rl]&cfff
+(Diki): > &c6ffdik:&cfff took &cf00ra&cfff [secret]
+(Diki): > &c6ffdik:&cfff took &cf00ra&cfff [secret]
+(Milton): > &c666 mil&cfff [tele] &cf660&cfff/68 &cf60rl&cfff 
+(nit): > &cc36 nit&cfff [low.rl] 0&ce84/&cfff&cc99142&cfff rox:14
+(Xterm): > &cc22 xte&cfff [low] 0&ce84/&cfff&cc99100&cfff
+(Xterm): > &cf00 xte&cfff &cf00lost&cfff &cf00[low]&cfff &cf002&cfff
+(nit): > &cf00 nit&cfff &cf00lost&cfff &cf00[low.rl]&cfff &cf002&cfff
+(Xterm): > &cc22 xte&cfff coming [path]
+(nit): > &cf00 nit&cfff &cf00lost&cfff &cf00[tele.ya]&cfff &cf001&cfff
+(nit): > &cf00 nit&cfff &cf00lost&cfff &cf00[tele.ya]&cfff &cf001&cfff
+(nit): > &cf00 nit&cfff &cf00lost&cfff &cf00[tele.ya]&cfff &cf001&cfff
+(Xterm): > &cc22 xte&cfff took &c0cfrl&cfff [low]
+(Xterm): > &cc22 xte&cfff took &c0cfrl&cfff [low]
+(nit): > &cc36 nit&cfff &cff0replace&cfff &cff0[ra.mega]&cfff
+(nit): > &cc36 nit&cfff &cff0replace&cfff &cff0[ra.mega]&cfff
+(nit): > &cc36 nit&cfff &cff0replace&cfff &cff0[ra.mega]&cfff
+(nit): > &cc36 nit&cfff &cff0replace&cfff &cff0[ra.mega]&cfff
+(nit): > &cc36 nit&cfff &cff0replace&cfff &cff0[ra.mega]&cfff
+(Xterm): > &cc22 xte&cfff [ra-mega] 0&ce84/&cfff&cc9934&cfff &c0cfrl&cfff:13
+(Milton): >&c0f0  mil safe [quad]&cfff &cf60rl&cfff 
+(Xterm): > &cc22 xte&cfff [ra-mega] 200&cf00r&cfff&ce84/&cfff&cc9934&cfff &c0cfrl&cfff:12
+(Milton): >&c0f0  mil safe [quad tunnel]&cfff &cf60rl&cfff 
+(Milton): >&c0f0  mil safe [quad tunnel]&cfff &cf60rl&cfff 
+(Diki): > &c6ffdik:&cfff [large] &cf00r&cfff&cf6645&cfff/57 &cf60rl&cfff 
+(nit): > &cf00 nit&cfff &cf00lost&cfff &cf00[low.rl]&cfff &cf001&cfff
+(Diki): > &c6ffdik:&cfff [large] &cf00r&cfff&cf6645&cfff/57 &cf60rl&cfff 
+(Xterm): > &cc22 xte&cfff [platforms] 190&cf00r&cfff&ce84/&cfff&cc9932&cfff &c0cfrl&cfff:10
+(Milton): > &c666 mil&cfff team &c05fquad&cfff
+(Diki): > &c6ffdik:&cfff [large] &cff0y&cfff147/56 &cf60rl&cfff 
+(Diki): > &c6ffdik:&cfff [large] &cff0y&cfff147/56 &cf60rl&cfff 
+(Xterm): > &cc22 xte&cfff [low] 190&cf00r&cfff&ce84/&cfff&cc9932&cfff &c0cfrl&cfff:9
+(Diki): > &c6ffdik:&cfff [quad-button] &cff0y&cfff147/56 &cf60rl&cfff 
+(Xterm): > &cc22 xte&cfff [low] 190&cf00r&cfff&ce84/&cfff&cc9932&cfff &c0cfrl&cfff:9
+(Diki): > &c6ffdik:&cfff [quad-button] &cff0y&cfff147/56 &cf60rl&cfff 
+(Milton): > &c666 mil&cfff [quad tunnel] y120/100 &cf60rl&cfff &c05fquad&cfff
+(Milton): > &c666 mil&cfff [high rl] y120/100 &cf60rl&cfff &c05fquad&cfff
+(nit): > &cc36 nit&cfff [big.stairs] 0&ce84/&cfff&cc9944&cfff
+(Diki): > &c6ffdik:&cfff [tele] &cff0y&cfff147/100 &cf60rl&cfff 
+(Diki): > &c6ffdik:&cfff [tele] &cff0y&cfff147/100 &cf60rl&cfff 
+(Xterm): > &c3f0 xte&cfff &c3f0safe&cfff &c3f0[path]&cfff  &c0ffrl&cfff
+(Diki): >&c0f0 dik safe [tele]&cfff &cf60rl&cfff 
+(Diki): >&c0f0 dik safe [tele]&cfff &cf60rl&cfff 
+(nit): > &cf00 nit&cfff &cf00lost&cfff &cf00[big]&cfff &cf003&cfff
+(Diki): > &c6ffdik:&cfff [tele] &cff0y&cfff147/100 &cf60rl&cfff 
+(Xterm): > &c3f0 xte&cfff &c3f0safe&cfff &c3f0[secret]&cfff  &c0ffrl&cfff
+(Xterm): > &c3f0 xte&cfff &c3f0safe&cfff &c3f0[secret]&cfff  &c0ffrl&cfff
+(Milton): > &c666 mil&cfff [ng] y75/98 &cf60rl&cfff &c05fquad&cfff
+(Xterm): > &c3f0 xte&cfff &c3f0safe&cfff &c3f0[secret]&cfff  &c0ffrl&cfff
+(Milton): > &c666 mil&cfff [tele] y75/98 &cf60rl&cfff &c05fquad&cfff
+(nit): > &cc36 nit&cfff [tele] 0&ce84/&cfff&cc99100&cfff
+(Xterm): > &c3f0 xte&cfff &c3f0safe&cfff &c3f0[secret]&cfff  &c0ffrl&cfff
+(Xterm): > &c3f0 xte&cfff &c3f0safe&cfff &c3f0[secret]&cfff  &c0ffrl&cfff
+(Milton): > &c666 mil&cfff [tele] y75/100 &cf60rl&cfff &c05fquad&cfff
+(Milton): > &c666 mil&cfff [tele] y75/100 &cf60rl&cfff &c05fquad&cfff
+(Diki): > &c6ffdik:&cfff [tele] &cff0y&cfff147/100 &cf60rl&cfff 
+(Diki): > &c6ffdik:&cfff [tele] &cff0y&cfff147/100 &cf60rl&cfff 
+(Xterm): > &c3f0 xte&cfff &c3f0safe&cfff &c3f0[water]&cfff  &c0ffrl&cfff
+(Diki): > &c6ffdik:&cfff [high-spawn] &cff0y&cfff147/100 &cf60rl&cfff 
+(Diki): > &c6ffdik:&cfff [high-spawn] &cff0y&cfff147/100 &cf60rl&cfff 
+(nit): > &cc36 nit&cfff [high.rl] 42&cff0y&cfff&ce84/&cfff&cc9929&cfff
+(Xterm): > &cc22 xte&cfff [quad-way] 145&cf00r&cfff&ce84/&cfff&cc9943&cfff &c0cfrl&cfff:9
+(nit): > &c3f0 nit&cfff &c3f0safe&cfff &c3f0[high.rl]&cfff
+(Diki): > &c6ffdik:&cfff [high-lift] &cff0y&cfff147/100 &cf60rl&cfff 
+(Diki): > &c6ffdik:&cfff [high-lift] &cff0y&cfff147/100 &cf60rl&cfff 
+(nit): > &c3f0 nit&cfff &c3f0safe&cfff &c3f0[high.rl]&cfff
+(nit): > &c3f0 nit&cfff &c3f0safe&cfff &c3f0[high.rl]&cfff
+Quad Damage is wearing off
+(nit): > &c3f0 nit&cfff &c3f0safe&cfff &c3f0[high.rl]&cfff
+(nit): > &cc36 nit&cfff [high.rl] 42&cff0y&cfff&ce84/&cfff&cc9929&cfff
+[2] minutes remaining
+Team [com] leads by 51 frags
+(nit): > &cc36 nit&cfff [high.rl] 42&cff0y&cfff&ce84/&cfff&cc9929&cfff
+(nit): > &cc36 nit&cfff [high.rl] 42&cff0y&cfff&ce84/&cfff&cc9929&cfff
+(Xterm): > &cc22 xte&cfff [water] 82&cf00r&cfff&ce84/&cfff&cc99100&cfff &c0cfrl&cfff:10
+(Xterm): > &cc22 xte&cfff [tele] 82&cf00r&cfff&ce84/&cfff&cc99100&cfff &c0cfrl&cfff:10
+(nit): > &c3f0 nit&cfff &c3f0safe&cfff &c3f0[high.rl]&cfff
+(nit): > &c3f0 nit&cfff &c3f0safe&cfff &c3f0[high.rl]&cfff
+(Milton): >&c0f0  mil safe [ra box]&cfff &cf60rl&cfff 
+(Milton): >&c0f0  mil safe [ra box]&cfff &cf60rl&cfff 
+(Milton): > &c666 mil&cfff took &cf00ra&cfff [ra box]
+(Milton): > &c666 mil&cfff [ra box] r200/72 &cf60rl&cfff 
+(Milton): > &c666 mil&cfff [water] r200/72 &cf60rl&cfff 
+(Diki): > &c6ffdik:&cfff [tele] &cff0y&cfff&cf6665&cfff/75 &cf60rl&cfff 
+(Diki): > &c6ffdik:&cfff [tele] &cff0y&cfff&cf6665&cfff/75 &cf60rl&cfff 
+(Xterm): > &cc22 xte&cfff [high] 58&cf00r&cfff&ce84/&cfff&cc9996&cfff &c0cfrl&cfff:8
+(Diki): > &c6ffdik:&cfff [tele] &cff0y&cfff&cf6665&cfff/75 &cf60rl&cfff 
+(Xterm): > &c3f0 xte&cfff &c3f0safe&cfff &c3f0[high]&cfff  &c0ffrl&cfff
+(Xterm): > &c3f0 xte&cfff &c3f0safe&cfff &c3f0[high]&cfff  &c0ffrl&cfff
+(Diki): > &c6ffdik:&cfff [tele] &cff0y&cfff150/100 &cf60rl&cfff 
+(Xterm): > &c3f0 xte&cfff &c3f0safe&cfff &c3f0[floating]&cfff  &c0ffrl&cfff
+(Diki): > &c6ffdik:&cfff [tele] &cff0y&cfff150/100 &cf60rl&cfff 
+(Diki): > &c6ffdik:&cfff [tele] &cff0y&cfff150/100 &cf60rl&cfff 
+(nit): > &cf00 nit&cfff &cf00lost&cfff &cf00[ng]&cfff &cf001&cfff
+(Xterm): > &c3f0 xte&cfff &c3f0safe&cfff &c3f0[floating]&cfff  &c0ffrl&cfff
+(Milton): >&cf00  mil lost [low rl] 2
+(Milton): >&cf00  mil lost [low rl] 2
+(Milton): >&cf00  mil lost [low rl] 2
+(Milton): >&cf00  mil lost [low rl] 2
+(Milton): >&cf39  mil pack left at [low rl] 2
+(Milton): >&cf39  mil pack left at [low rl] 2
+no weapon
+(Milton): >&cf39  mil pack left at [low rl] 2
+(Xterm): > &cc22 xte&cfff [high] 31&cf00r&cfff&ce84/&cfff&cc99191&cfff &c0cfrl&cfff:20
+(nit): > &cc36 nit&cfff [tele] 0&ce84/&cfff&cc9952&cfff
+(Diki): > &c6ffdik:&cfff [tele] &cff0y&cfff100/70 &cf60rl&cfff:&cf663&cfff 
+(Diki): > &c6ffdik:&cfff [tele] &cff0y&cfff100/70 &cf60rl&cfff:&cf663&cfff 
+(Xterm): > &c3f0 xte&cfff &c3f0safe&cfff &c3f0[quad-way]&cfff  &c0ffrl&cfff
+(Milton): > &cf60 mil coming [tele]&cfff 
+(nit): > &cc36 nit&cfff [tele.ya] 0&ce84/&cfff&cc9952&cfff
+(Milton): > &c666 mil&cfff [upper tele] 0/100 sg 
+(nit): > &cc36 nit&cfff [tele.ya] 0&ce84/&cfff&cc9952&cfff
+(Diki): > &c6ffdik:&cfff [high] &cff0y&cfff100/70 &cf60rl&cfff 
+(Diki): > &c6ffdik:&cfff [high] &cff0y&cfff100/70 &cf60rl&cfff 
+(nit): > &cc36 nit&cfff [tele.ya] 0&ce84/&cfff&cc9952&cfff
+(Diki): > &c6ffdik:&cfff [high-way] &cff0y&cfff100/70 &cf60rl&cfff 
+(Diki): > &c6ffdik:&cfff [high-way] &cff0y&cfff100/70 &cf60rl&cfff 
+(nit): > &cc36 nit&cfff [tele.ya] 0&ce84/&cfff&cc9952&cfff
+(Milton): > &c666 mil&cfff [high rl] 0/100 sg 
+(Milton): > &c666 mil&cfff [high rl] 0/100 sg 
+(nit): > &cc36 nit&cfff [tele.ya] 0&ce84/&cfff&cc9952&cfff
+(Xterm): > &cc22 xte&cfff &c3f0team&cfff &c06fquad&cfff
+(Xterm): > &cc22 xte&cfff &c3f0team&cfff &c06fquad&cfff
+(Xterm): > &cc22 xte&cfff [quad-way] 11&cf00r&cfff&ce84/&cfff&cc99176&cfff &c0cfrl&cfff:12 &c06fquad&cfff
+(nit): > &cc36 nit&cfff [tele.high] 150&cff0y&cfff&ce84/&cfff&cc9952&cfff
+(Diki): > &c6ffdik:&cfff [high] &cff0y&cfff100/70 &cf60rl&cfff 
+(Diki): > &c6ffdik:&cfff [high-lift] &cff0y&cfff100/70 &cf60rl&cfff 
+(Xterm): > &cc22 xte&cfff [quad] 11&cf00r&cfff&ce84/&cfff&cc99174&cfff &c0cfrl&cfff:11 &c06fquad&cfff
+(nit): > &cc36 nit&cfff [high.rl] 150&cff0y&cfff&ce84/&cfff&cc9952&cfff
+(nit): > &c3f0 nit&cfff &c3f0safe&cfff &c3f0[high.rl]&cfff
+(Milton): > &c666 mil&cfff [high rl] 0/100 sg 
+(Milton): > &c666 mil&cfff [high rl] 0/100 sg 
+(Xterm): > &cc22 xte&cfff [big] 0&ce84/&cfff&cc99157&cfff &c0cfrl&cfff:8 &c06fquad&cfff
+(Xterm): > &cc22 xte&cfff [big] 0&ce84/&cfff&cc99156&cfff &c0cfrl&cfff:8 &c06fquad&cfff
+(Diki): > &c6ffdik:&cfff [gl] &cff0y&cfff100/70 &cf60rl&cfff 
+(Diki): > &c6ffdik:&cfff [gl] &cff0y&cfff100/70 &cf60rl&cfff 
+(Xterm): > &cc22 xte&cfff [big] 0&ce84/&cfff&cc99154&cfff &c0cfrl&cfff:8 &c06fquad&cfff
+(Xterm): > &cc22 xte&cfff [big] 0&ce84/&cfff&cc99153&cfff &c0cfrl&cfff:8 &c06fquad&cfff
+(Xterm): > &cc22 xte&cfff [big] 0&ce84/&cfff&cc99152&cfff &c0cfrl&cfff:8 &c06fquad&cfff
+(nit): > &cf00 nit&cfff &cf00lost&cfff &cf00[tele]&cfff &cf001&cfff &c0ffdropped&cfff &c0cfrl&cfff
+(nit): > &cf00 nit&cfff &cf00lost&cfff &cf00[tele]&cfff &cf001&cfff &c0ffdropped&cfff &c0cfrl&cfff
+(Milton): > &c666 mil&cfff [center] 0/100 sg 
+(Milton): > &cf60 mil coming [center]&cfff 
+(Milton): > &c666 mil&cfff [below quad] y150/100 sg 
+(Milton): > &c666 mil&cfff [tele] y150/100 sg 
+(Milton): > &c666 mil&cfff [tele] y150/100 sg 
+(Diki): > &c6ffdik:&cfff [tele] 0/100 sg 
+(Diki): > &c6ffdik:&cfff [tele] 0/100 sg 
+(Milton): > &cf60 mil coming [tele]&cfff 
+(Milton): > &c666 mil&cfff took &cff0ya&cfff [center]
+Quad Damage is wearing off
+(nit): > &cc36 nit&cfff [ng] 0&ce84/&cfff&cc99100&cfff
+(Milton): > &c666 mil&cfff [high rl] y150/100 sg 
+(Milton): > &c666 mil&cfff [high rl] y150/100 sg 
+[1] minute remaining
+Team [com] leads by 55 frags
+(nit): > &cc36 nit&cfff [low.lift] 0&ce84/&cfff&cc99100&cfff
+(Xterm): > &cc22 xte&cfff [low] 53&cff0y&cfff&ce84/&cfff&cc9970&cfff &c0cfrl&cfff:5
+(Milton): > &c666 mil&cfff [high rl] y150/100 sg 
+(Diki): > &c6ffdik:&cfff took gl [gl]
+(Xterm): > &cf00 xte&cfff &cf00lost&cfff &cf00[low]&cfff &cf002&cfff
+(carapace): >&c693car:&cfff &c931r&cfff85/100 &cf31rl&cfff&cf31:8&cfff [low-stairs] 
+(carapace): >&c693car:&cfff &c931r&cfff33/90 &cf31rl&cfff&cf31:16&cfff [ra-mega] 
+(carapace): >&c693car:&cfff &c931r&cfff33/90 &cf31rl&cfff&cf31:16&cfff [ra-mega] 
+(carapace): >&c693car:&cfff &c931r&cfff33/90 &cf31rl&cfff&cf31:16&cfff [ra-mega] 
+(ganon): >&c479gan:&cfff &cf00lost&cfff [ng] 3
+(ganon): >&c479gan:&cfff &cf00lost&cfff [ng] 3
+(ganon): >&c479gan:&cfff &cf00lost&cfff [ng] 3
+(bps): >&cc93bps:&cfff ganon at [low-rl]
+(carapace): >&c693car:&cfff coming [ra-mega] need nothing
+(bps): >&cc93bps:&cfff &ce00ra&cfff at [secret]
+(bps): >&cc93bps:&cfff &ce00ra&cfff at [secret]
+(Xterm): > &cf00 xte&cfff &cf00lost&cfff &cf00[water]&cfff &cf003&cfff
+(Xterm): > &cf00 xte&cfff &cf00lost&cfff &cf00[water]&cfff &cf003&cfff
+[30] seconds
+(nit): > &cc36 nit&cfff [tele.high] 0&ce84/&cfff&cc99100&cfff
+(Diki): >&cf39 dik rl-pack left at [high-way] 4
+(Diki): >&cf39 dik rl-pack left at [high-way] 4
+(Diki): >&cf39 dik rl-pack left at [high-way] 4
+(Milton): >&cf00  mil lost [below quad] 4
+(Milton): >&cf00  mil lost [below quad] 4
+(Milton): >&cf00  mil lost [below quad] 4
+no weapon
+(carapace): >&c693car:&cfff 0/36 &cf31rl&cfff&cf31:12&cfff [big] 
+(rst): >&c777rst:&cfff &c0b0safe&cfff [tele-entry]
+(rst): >&c777rst:&cfff &c0b0safe&cfff [tele-entry]
+(carapace): >&c693car:&cfff &c991y&cfff150/36 &cf31rl&cfff&cf31:11&cfff [big] 
+(bps): >&cc93bps:&cfff 0/52 &cf31rl&cfff&cf31:13&cfff [big] 
+(carapace): >&c693car:&cfff &c991y&cfff150/36 &cf31rl&cfff&cf31:11&cfff [ng] 
+[15] seconds
+(bps): >&cc93bps:&cfff 0/100 [path] 
+(bps): >&cc93bps:&cfff &c05fquaded&cfff ganon at [low-rl]
+[10] seconds
+(rst): >&c777rst:&cfff &c991y&cfff106/43 &cf31rl&cfff&cf31:0&cfff [tele-high] 
+[9] seconds
+[8] seconds
+(bps): >&cc93bps:&cfff took &cf31rl&cfff [low-rl]
+(rst): >&c777rst:&cfff &c991y&cfff106/43 &cf31rl&cfff&cf31:0&cfff [tele-high] 
+[7] seconds
+[6] seconds
+[5] seconds
+[4] seconds
+[3] seconds
+[2] seconds
+[1] second
+The match is over
+trigger "onmatchover" has no matching alias
+
+Player statistics:
+______________________________________
+Frags (rank) friendkills . efficiency
+Team [com]:
+__________
+_ Xterm:
+  46 (-15) 0 43.0%
+Wp: rl61.4% gl14.6% sg32.4% ssg20.8%
+RL skill: ad:86.3 dh:18
+Armr&mhs: ga:0 ya:18 ra:11 mh:6
+Powerups: Q:2 P:0 R:0
+      RL: Took:11 Killed:5 Dropped:4 Xfer:1
+      LG: Took:0 Killed:0 Dropped:0
+  Damage: Tkn:10038 Gvn:9333 EWep:1905 Tm:367 Self:571 ToDie:164
+    Time: Quad:35
+ Streaks: Frags:9 QuadRun:2
+  SpawnFrags: 6
+__________
+_ nit:
+  53 (-10) 3 45.7%
+Wp: rl47.7% gl18.8% sg47.9% ssg37.0%
+RL skill: ad:98.0 dh:18
+Armr&mhs: ga:0 ya:16 ra:11 mh:6
+Powerups: Q:5 P:0 R:0
+      RL: Took:11 Killed:12 Dropped:5 Xfer:1
+      LG: Took:0 Killed:0 Dropped:0
+  Damage: Tkn:10489 Gvn:9867 EWep:3119 Tm:437 Self:624 ToDie:166
+    Time: Quad:91
+ Streaks: Frags:22 QuadRun:5
+  SpawnFrags: 5
+__________
+_ Milton:
+  68 (16) 3 56.7%
+Wp: rl57.0% gl18.5% sg42.2% ssg39.6%
+RL skill: ad:105.2 dh:24
+Armr&mhs: ga:0 ya:21 ra:12 mh:8
+Powerups: Q:4 P:0 R:0
+      RL: Took:13 Killed:7 Dropped:7 Xfer:2
+      LG: Took:0 Killed:0 Dropped:0
+  Damage: Tkn:10723 Gvn:13162 EWep:3627 Tm:757 Self:1122 ToDie:206
+    Time: Quad:102
+ Streaks: Frags:22 QuadRun:7
+  SpawnFrags: 9
+__________
+_ Diki:
+  62 (4) 2 51.7%
+Wp: rl55.4% gl12.2% sg35.0% ssg39.5%
+RL skill: ad:89.4 dh:19
+Armr&mhs: ga:0 ya:19 ra:12 mh:3
+Powerups: Q:1 P:0 R:0
+      RL: Took:10 Killed:8 Dropped:4 Xfer:1
+      LG: Took:0 Killed:0 Dropped:0
+  Damage: Tkn:10385 Gvn:10586 EWep:2547 Tm:572 Self:780 ToDie:179
+    Time: Quad:30
+ Streaks: Frags:17 QuadRun:8
+  SpawnFrags: 7
+
+Team [-s-]:
+__________
+_ bps:
+  52 (-5) 9 47.7%
+Wp: rl60.1% gl42.9% sg33.9% ssg36.8%
+RL skill: ad:107.7 dh:21
+Armr&mhs: ga:0 ya:11 ra:19 mh:6
+Powerups: Q:3 P:0 R:0
+      RL: Took:12 Killed:14 Dropped:6 Xfer:2
+      LG: Took:0 Killed:0 Dropped:0
+  Damage: Tkn:9874 Gvn:10702 EWep:3775 Tm:641 Self:848 ToDie:173
+    Time: Quad:88
+ Streaks: Frags:19 QuadRun:6
+  SpawnFrags: 8
+__________
+_ carapace:
+  42 (-13) 6 43.3%
+Wp: rl63.9% gl20.0% sg48.3% ssg37.2%
+RL skill: ad:93.2 dh:19
+Armr&mhs: ga:0 ya:12 ra:15 mh:10
+Powerups: Q:2 P:0 R:0
+      RL: Took:9 Killed:11 Dropped:4 Xfer:1
+      LG: Took:0 Killed:0 Dropped:0
+  Damage: Tkn:9279 Gvn:10017 EWep:3066 Tm:955 Self:1178 ToDie:168
+    Time: Quad:32
+ Streaks: Frags:15 QuadRun:3
+  SpawnFrags: 9
+__________
+_ rst:
+  48 (-28) 1 38.7%
+Wp: rl58.3% gl17.2% sg46.2% ssg38.4%
+RL skill: ad:89.6 dh:15
+Armr&mhs: ga:0 ya:20 ra:5 mh:5
+Powerups: Q:2 P:0 R:0
+      RL: Took:11 Killed:8 Dropped:5 Xfer:1
+      LG: Took:0 Killed:0 Dropped:0
+  Damage: Tkn:11443 Gvn:9508 EWep:3171 Tm:357 Self:449 ToDie:150
+    Time: Quad:30
+ Streaks: Frags:9 QuadRun:4
+  SpawnFrags: 7
+__________
+_ ganon:
+  55 (-23) 3 41.4%
+Wp: rl64.7% gl7.7% sg50.4% ssg59.8%
+RL skill: ad:85.7 dh:19
+Armr&mhs: ga:0 ya:11 ra:17 mh:8
+Powerups: Q:1 P:0 R:0
+      RL: Took:10 Killed:9 Dropped:6 Xfer:1
+      LG: Took:0 Killed:0 Dropped:0
+  Damage: Tkn:12352 Gvn:11408 EWep:3759 Tm:815 Self:777 ToDie:158
+    Time: Quad:25
+ Streaks: Frags:11 QuadRun:7
+  SpawnFrags: 4
+
+______________________________________
+[com] vs [-s-] match statistics:
+______________________________________
+
+weapons, powerups, armors&mhs, damage
+______________________________________
+[com]: Wp: rl79 gl8 sg38% ssg36%
+Powerups: Q:12 P:0 R:0
+Armr&mhs: ga:0 ya:74 ra:46 mh:23
+      RL: Took:45 Killed:32 Dropped:20 Xfer:5
+      LG: Took:0 Killed:0 Dropped:0
+  Damage: Tkn:41635 Gvn:42948 EWep:11198 Tm:2133
+    Time: Quad:259
+[-s-]: Wp: rl74 gl11 sg45% ssg44%
+Powerups: Q:8 P:0 R:0
+Armr&mhs: ga:0 ya:54 ra:56 mh:29
+      RL: Took:42 Killed:42 Dropped:21 Xfer:5
+      LG: Took:0 Killed:0 Dropped:0
+  Damage: Tkn:42948 Gvn:41635 EWep:13771 Tm:2768
+    Time: Quad:177
+______________________________________
+[dm2] top scorers:
+______________________________________
+      Frags: Milton [68]
+     Deaths: ganon [78]
+Friendkills: bps [9]
+ Efficiency: Milton [56.7%]
+ FragStreak: nit [22]
+             Milton [22]
+    QuadRun: Diki [8]
+  RL Killer: bps [14]
+Boomsticker: ganon [50.4%]
+   Survivor: Milton [206]
+Annihilator: Milton [13162]
+
+______________________________________
+
+Team scores: frags . percentage
+______________________________________
+[com]: 229 . 53.8%
+[-s-]: 197 . 46.2%
+______________________________________
+Xterm: gg
+rst: ggs
+]log 09
