@@ -10,25 +10,9 @@ The best quakeworld repository in the wörld.
    - _I recommend getting the "Latest development version" or Nightly build_
 3. Put `ezQuake.exe` in this folder and run it.
 
-
 ## Configure
 1. Start by making sure your `qw/autoexec.cfg` has `exec suddenconfig.cfg` in it.
 2. Edit configurations to your liking.
-
-## General - suddenconfig.cfg
-This config handles execution of the other parts and acts as a place for key bindings etc.  
-alias `+net_scores` shows netgraph and scoreboard at the same time.  
-alias `vol+`/`vol-` increases or decreases volume by 0.01.  
-Basic movement keys is exactly what it sounds like. Forward, Left, Right, Back, Jump.  
-You can alternative use `+jumpreport` instead of `+jump`, this will report status after each 10th jump.  
-
-### Weapon binds 
-| alias | description |
-| :--- | :--- |
-| `+quick_*` | Will fire weapon `*` (sg, ssg, ng, sng, gl, rl, lg) and switch back to shotgun.   |
-| `select_*` | Will select weapon to `*` (sg, ssg, ng, sng, gl, rl, lg) be fired with `+select_fire`.  |
-| `+select_fire` | Will fire selected weapon (see above) |
-| `+rljump` | Fire rl and jump at the same time for optimal height. |
 
 ## Teamplay - suddenteamplay.cfg
 A teamplay config that is aimed to be lite in both it's messaging and amount of binds. Trying to boil it down to the essentials.  
@@ -38,7 +22,8 @@ A teamplay config that is aimed to be lite in both it's messaging and amount of 
 1. Download the latest files
    - https://github.com/Suddendeath-qw/suddenQuake/releases/download/latest/suddenteamplay-latest.zip
 2. Extract `suddenteamplay-latest.zip` into your `qw/` folder.  
-3. Open `suddenteamplay.cfg` to edit all of the binds (you can set nick here as well).  
+3. Open `suddenteamplay.cfg` to edit all of the binds, styling and nick.
+4. Remember to set nick to include colon `set nick {&cf00jan:&r}` (you can do this in suddenteamplay.cfg)
 4. `exec suddenteamplay` in console (or preferably in autoexec.cfg)
 5. `cfg_save`
 6. To update to the latest version of suddenteamplay version just run `stp_update.exe` and keep your personal binds in `suddenteamplay.cfg`.
@@ -63,6 +48,8 @@ A teamplay config that is aimed to be lite in both it's messaging and amount of 
 | `stp_enemy_quad` | Enemy took quad |
 | `stp_enemy_pent` | Enemy took pent |
 | `stp_enemy_ring` | Enemy took ring |
+| `stp_get_quad` | Time to go get quad |
+| `stp_get_pent` | Time to go get pent |
 | `stp_smart` | Smart report depending on map and location, see below |
 | _dm2_ | _Quad/Quad-low: Trick, ng/tele: enemy slipped, big-stairs: coming high with rjump_ |
 | _any_ | _Anywhere else reports coming at location_ |
@@ -119,6 +106,21 @@ An easy way to connect to the most common servers and proxies using aliases.
 
 **Usage2:** `proxyalias serveralias<#port>` - connects to proxy -> server with port #  
 **Example2:** `prx_mulle troop1` - connects to troopers.fi:28001 via mulle.ru:30000
+
+## General - suddenconfig.cfg
+This config handles execution of the other parts and acts as a place for key bindings etc.  
+alias `+net_scores` shows netgraph and scoreboard at the same time.  
+alias `vol+`/`vol-` increases or decreases volume by 0.01.  
+Basic movement keys is exactly what it sounds like. Forward, Left, Right, Back, Jump.  
+You can alternative use `+jumpreport` instead of `+jump`, this will report status after each 10th jump.  
+
+### Weapon binds 
+| alias | description |
+| :--- | :--- |
+| `+quick_*` | Will fire weapon `*` (sg, ssg, ng, sng, gl, rl, lg) and switch back to shotgun.   |
+| `select_*` | Will select weapon to `*` (sg, ssg, ng, sng, gl, rl, lg) be fired with `+select_fire`.  |
+| `+select_fire` | Will fire selected weapon (see above) |
+| `+rljump` | Fire rl and jump at the same time for optimal height. |
 
 ## Profiles - suddenprofiles.cfg
 An easy way to setup all the different team names.    
