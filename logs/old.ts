@@ -1,47 +1,72 @@
 import * as fs from "fs"
 import * as path from "path"
+import * as clr from "ansi-colors"
 
 const CHARSET = {
     10: 10, // LF (LineFeed)
+    16: 91, // [ (gold [) 144-128 actually works here
+    17: 93, // [ (gold [) 144-128 actually works here
+    24: 54, // CAN becomes gold 6?
+    28: 46, // . (. mid white slackers) 156-128 works here
     135: 35, // # (square red?)
-    143: 46, // . (mid . white?)
+    143: 46, // . (. mid gold?) 
     144: 91, // [ (gold [)
     145: 93, // ] (gold ])
+    156: 46, // . (. mid white?)
     157: 60, // < (left <=)
     158: 61, // = (middle in <===>)
     159: 62, // > (right =>)
-
 }
+
+const STRIP_CHARS = [
+    0, // null
+    1, // SOH - Start of Header
+    2, // STX - Start of Text
+    3, // ETX - End of Text
+    4, // EOT - End of Transmission
+    8, // BS - Backspace
+    9, // HT - Horizontal Tab
+    31, // US - Unit separator
+]
 
 function Mvc_StripBuffer (buf:Buffer) {
     let newBufferChars = [];
     let i:number;
     
     for(i = 0; i < buf.length; i++) {
-        if (buf[i] != 10 && buf[i] < 32) continue;
+        //if (buf[i] < 32 && !CHARSET.hasOwnProperty(buf[i])) continue;
+        if (STRIP_CHARS.includes(buf[i])) continue;
         newBufferChars.push(buf[i])
     }
 
     return Buffer.from(newBufferChars);
 }
 
-function Mvd_ParseCharcode (charcode:number) {
+function Mvd_ParseCharcode (charcode:number, i?:number, buf?:Buffer) {
     // Nothing wrong with normal ASCII-chars
     if (charcode > 31 && charcode < 127) return charcode;
     else if (charcode > 160 && charcode < 255) return charcode - 128;
     else if (CHARSET[charcode]) return CHARSET[charcode];
     else {
-        console.log("could not find appropriate parse rule for charcode:", charcode)
+        const pre = buf.subarray(i-5, i).toString();
+        const is = buf.subarray(i, i+1).toString();
+        const suf = buf.subarray(i+1, i+5).toString();
+        const helpstring = pre + "{" + is + "}" + suf; 
+
+        console.log(i + ":" + charcode, pre, clr.bgRed(is), suf)
+        //console.log("%d: char (%d) not found, %s", i, charcode, helpstring)
         return charcode;
     }
 }
 
 function Mvd_ParseFile (fpath:string) {
     const buf = fs.readFileSync(fpath);
-    let matchOver = buf.indexOf("The match is over");
-    let finalScores = buf.indexOf("//finalscores");
-    
-    let b_endScores = buf.subarray(matchOver, finalScores)
+    const idxMatchOver = buf.indexOf("The match is over");
+    const idxFinalScores = buf.indexOf("//finalscores");
+    const idxJsonStart = buf.indexOf('{"version":');
+    const idxEndStats = idxJsonStart > 0 ? idxJsonStart : idxFinalScores;
+
+    let b_endScores = buf.subarray(idxMatchOver, idxEndStats)
     b_endScores = Mvc_StripBuffer(b_endScores);
     //let team = o.indexOf(" vs ")
     let t = b_endScores.subarray()
@@ -54,6 +79,7 @@ function Mvd_ParseFile (fpath:string) {
 
     // 10 = LineFeed
 
+    // 16
     // 32 -> space
     // 37 -> %
     // 40 -> (
@@ -77,13 +103,11 @@ function Mvd_ParseFile (fpath:string) {
 
 
     let i = 0;
-    for(i = 0; i < t.length; i++) {
-        t[i] = Mvd_ParseCharcode(t[i]);
+    for(i = 0; i < b_endScores.length; i++) {
+        b_endScores[i] = Mvd_ParseCharcode(b_endScores[i], i, b_endScores);
     }
 
-    console.log(t.toString())
-    //console.log(t.toString())
-    
+    console.log(b_endScores.toString())
     console.log()
     
     i = 0;
