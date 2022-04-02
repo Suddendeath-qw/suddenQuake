@@ -1,6 +1,7 @@
 {
     "compilerOptions": {},
     "files": [
+      "Mvd_Parser.ts",
       "logtypes.d.ts",
     ]
   }

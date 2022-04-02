@@ -1,0 +1,90 @@
+{
+  "id": "d4580c1d309028dfe7f9ee55e128a30dc15679f4",
+  "date": "2022-03-15 20:26:44 UTC",
+  "mvd": "4on4_[fs]_vs_]sr[[e1m2]220315-2026.mvd",
+  "map": "e1m2",
+  "teams": {
+    "[fs]": {
+      "name": "[fs]",
+      "frags": 201,
+      "eff": 51,
+      "players": []
+    },
+    "]sr[": {
+      "name": "]sr[",
+      "frags": 193,
+      "eff": 49,
+      "players": []
+    }
+  },
+  "top": {
+    "frags": [
+      {
+        "name": "razor",
+        "score": 72
+      }
+    ],
+    "deaths": [
+      {
+        "name": "fix",
+        "score": 75
+      }
+    ],
+    "friendkills": [
+      {
+        "name": "fix",
+        "score": 4
+      },
+      {
+        "name": ". zero",
+        "score": 4
+      }
+    ],
+    "efficiency": [
+      {
+        "name": "razor",
+        "score": 63.2
+      }
+    ],
+    "fragstreak": [
+      {
+        "name": ". zero",
+        "score": 39
+      }
+    ],
+    "quadrun": [
+      {
+        "name": ". zero",
+        "score": 7
+      }
+    ],
+    "rlkiller": [
+      {
+        "name": ". ParadokS",
+        "score": 7
+      },
+      {
+        "name": ". zero",
+        "score": 7
+      }
+    ],
+    "boomsticker": [
+      {
+        "name": "razor",
+        "score": 51.7
+      }
+    ],
+    "survivor": [
+      {
+        "name": "razor",
+        "score": 156
+      }
+    ],
+    "annihilator": [
+      {
+        "name": ". zero",
+        "score": 9544
+      }
+    ]
+  }
+}
