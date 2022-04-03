@@ -1,0 +1,198 @@
+{
+  "id": "bf4cf70c2876fa2434611623ea23010d0676ba71",
+  "date": "2022-03-16 21:36:26 CET",
+  "mvd": "4on4_sexy_vs_sta[dm3]160322-2136.mvd",
+  "map": "dm3",
+  "teams": {
+    "sexy": {
+      "name": "sexy",
+      "frags": 149,
+      "eff": 51.7,
+      "players": [
+        {
+          "team": "sexy",
+          "name": ".6.link",
+          "frags": 37,
+          "net": -3,
+          "tk": 1,
+          "eff": 48.1,
+          "wp": {
+            "lg": 28.6,
+            "rl": 50.4,
+            "sg": 32.4
+          },
+          "rlskill": {
+            "ad": 99.9,
+            "dh": 15
+          },
+          "armrmhs": {
+            "ga": 0,
+            "ya": 6,
+            "ra": 7,
+            "mh": 7
+          },
+          "powerups": {
+            "q": 3,
+            "p": 2,
+            "r": 0
+          },
+          "rl": {
+            "took": 6,
+            "killed": 3,
+            "dropped": 4,
+            "xfer": 2
+          },
+          "lg": {
+            "took": 3,
+            "killed": 5,
+            "dropped": 1
+          },
+          "damage": {
+            "tkn": 6281,
+            "gvn": 5916,
+            "ewep": 1792,
+            "tm": 249,
+            "self": 452,
+            "todie": 157
+          },
+          "time": {
+            "quad": 90
+          },
+          "streaks": {
+            "frags": 28,
+            "quadrun": 4
+          },
+          "spawnfrags": 4
+        }
+      ]
+    },
+    "sTa": {
+      "name": "sTa",
+      "frags": 139,
+      "eff": 48.3,
+      "players": [
+        {
+          "team": "sTa",
+          "name": "anni",
+          "frags": 32,
+          "net": -5,
+          "tk": 2,
+          "eff": 46.4,
+          "wp": {
+            "lg": 33.3,
+            "rl": 42.9,
+            "sg": 40.2,
+            "ssg": 34.4
+          },
+          "rlskill": {
+            "ad": 84,
+            "dh": 9
+          },
+          "armrmhs": {
+            "ga": 0,
+            "ya": 8,
+            "ra": 6,
+            "mh": 1
+          },
+          "powerups": {
+            "q": 2,
+            "p": 0,
+            "r": 0
+          },
+          "rl": {
+            "took": 7,
+            "killed": 4,
+            "dropped": 2
+          },
+          "lg": {
+            "took": 10,
+            "killed": 3,
+            "dropped": 4
+          },
+          "damage": {
+            "tkn": 5383,
+            "gvn": 5400,
+            "ewep": 1881,
+            "tm": 196,
+            "self": 440,
+            "todie": 145
+          },
+          "time": {
+            "quad": 58
+          },
+          "streaks": {
+            "frags": 9,
+            "quadrun": 2
+          },
+          "spawnfrags": 3
+        }
+      ]
+    }
+  },
+  "top": {
+    "frags": [
+      {
+        "name": ".6.rat",
+        "score": 49
+      }
+    ],
+    "deaths": [
+      {
+        "name": ".6.skurk",
+        "score": 55
+      }
+    ],
+    "friendkills": [
+      {
+        "name": ".6.link",
+        "score": 4
+      }
+    ],
+    "efficiency": [
+      {
+        "name": ".6.rat",
+        "score": 63.6
+      }
+    ],
+    "fragstreak": [
+      {
+        "name": ".6.rat",
+        "score": 28
+      },
+      {
+        "name": ".6.ncr",
+        "score": 28
+      }
+    ],
+    "quadrun": [
+      {
+        "name": ".6.rat",
+        "score": 5
+      }
+    ],
+    "rlkiller": [
+      {
+        "name": ".6.skurk",
+        "score": 10
+      }
+    ],
+    "boomsticker": [
+      {
+        "name": "knasty",
+        "score": 44.7
+      }
+    ],
+    "survivor": [
+      {
+        "name": ".6.rat",
+        "score": 168
+      }
+    ],
+    "annihilator": [
+      {
+        "name": ".6.skurk",
+        "score": 7275
+      }
+    ]
+  }
+}

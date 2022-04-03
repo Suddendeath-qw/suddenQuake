@@ -8,13 +8,124 @@
       "name": "[fs]",
       "frags": 201,
       "eff": 51,
-      "players": []
+      "players": [
+        {
+          "team": "[fs]",
+          "name": "razor",
+          "frags": 38,
+          "net": -12,
+          "tk": 3,
+          "eff": 43.2,
+          "wp": {
+            "rl": 78.4,
+            "sg": 34.4,
+            "ssg": 43.2
+          },
+          "rlskill": {
+            "ad": 77.1,
+            "dh": 9
+          },
+          "armrmhs": {
+            "ga": 5,
+            "ya": 9,
+            "ra": 0,
+            "mh": 0
+          },
+          "powerups": {
+            "q": 1,
+            "p": 0,
+            "r": 0
+          },
+          "rl": {
+            "took": 3,
+            "killed": 2,
+            "dropped": 0
+          },
+          "lg": {
+            "took": 0,
+            "killed": 0,
+            "dropped": 0
+          },
+          "damage": {
+            "tkn": 7240,
+            "gvn": 6043,
+            "ewep": 801,
+            "tm": 146,
+            "self": 333,
+            "todie": 144
+          },
+          "time": {
+            "quad": 1
+          },
+          "streaks": {
+            "frags": 23,
+            "quadrun": 0
+          },
+          "spawnfrags": 3
+        }
+      ]
     },
     "]sr[": {
       "name": "]sr[",
       "frags": 193,
       "eff": 49,
-      "players": []
+      "players": [
+        {
+          "team": "]sr[",
+          "name": ". Gamer",
+          "frags": 44,
+          "net": -18,
+          "tk": 1,
+          "eff": 41.5,
+          "wp": {
+            "rl": 46.1,
+            "sg": 40.5,
+            "ssg": 31.9
+          },
+          "rlskill": {
+            "ad": 126.5,
+            "dh": 6
+          },
+          "armrmhs": {
+            "ga": 6,
+            "ya": 11,
+            "ra": 0,
+            "mh": 5
+          },
+          "powerups": {
+            "q": 6,
+            "p": 0,
+            "r": 0
+          },
+          "rl": {
+            "took": 6,
+            "killed": 3,
+            "dropped": 3,
+            "xfer": 1
+          },
+          "lg": {
+            "took": 0,
+            "killed": 0,
+            "dropped": 0
+          },
+          "damage": {
+            "tkn": 8548,
+            "gvn": 6415,
+            "ewep": 1385,
+            "tm": 28,
+            "self": 243,
+            "todie": 137
+          },
+          "time": {
+            "quad": 123
+          },
+          "streaks": {
+            "frags": 14,
+            "quadrun": 5
+          },
+          "spawnfrags": 4
+        }
+      ]
     }
   },
   "top": {
