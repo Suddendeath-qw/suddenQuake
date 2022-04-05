@@ -1,0 +1,4404 @@
+{
+  "dm2 %": [
+    {
+      "name": "HENU",
+      "value": 1
+    },
+    {
+      "name": "Shaka",
+      "value": 1
+    },
+    {
+      "name": "Diki",
+      "value": 1
+    },
+    {
+      "name": "Milton",
+      "value": 1
+    },
+    {
+      "name": "nit",
+      "value": 1
+    },
+    {
+      "name": "Xterm",
+      "value": 1
+    },
+    {
+      "name": "sae",
+      "value": 0.75
+    },
+    {
+      "name": "razor",
+      "value": 0.75
+    },
+    {
+      "name": "blixem",
+      "value": 0.75
+    },
+    {
+      "name": "fix",
+      "value": 0.75
+    },
+    {
+      "name": "reppie",
+      "value": 0.75
+    },
+    {
+      "name": ". ParadokS",
+      "value": 0.67
+    },
+    {
+      "name": "carapace",
+      "value": 0.6
+    },
+    {
+      "name": "rst",
+      "value": 0.6
+    },
+    {
+      "name": "ganon",
+      "value": 0.6
+    },
+    {
+      "name": "bps",
+      "value": 0.6
+    },
+    {
+      "name": "MAX POWER",
+      "value": 0.5
+    },
+    {
+      "name": "max.power",
+      "value": 0.5
+    },
+    {
+      "name": "mm",
+      "value": 0.5
+    },
+    {
+      "name": "raket",
+      "value": 0.5
+    },
+    {
+      "name": ". zero",
+      "value": 0.4
+    },
+    {
+      "name": ". mazer",
+      "value": 0.33
+    },
+    {
+      "name": "Zepp",
+      "value": 0.25
+    },
+    {
+      "name": "gor",
+      "value": 0.25
+    },
+    {
+      "name": "dot",
+      "value": 0.25
+    },
+    {
+      "name": "ok98",
+      "value": 0.25
+    },
+    {
+      "name": ". Gamer",
+      "value": 0.2
+    },
+    {
+      "name": ". niw",
+      "value": 0.2
+    },
+    {
+      "name": "maks",
+      "value": 0.2
+    },
+    {
+      "name": "goniec",
+      "value": 0.17
+    },
+    {
+      "name": "tom",
+      "value": 0.17
+    },
+    {
+      "name": "maCLer",
+      "value": 0.17
+    },
+    {
+      "name": "irn",
+      "value": 0
+    },
+    {
+      "name": "gLAd",
+      "value": 0
+    },
+    {
+      "name": "grc",
+      "value": 0
+    }
+  ],
+  "dm3 %": [
+    {
+      "name": "HENU",
+      "value": 1
+    },
+    {
+      "name": ". niw",
+      "value": 1
+    },
+    {
+      "name": "Diki",
+      "value": 1
+    },
+    {
+      "name": "Milton",
+      "value": 1
+    },
+    {
+      "name": "nit",
+      "value": 1
+    },
+    {
+      "name": "Xterm",
+      "value": 1
+    },
+    {
+      "name": ". ParadokS",
+      "value": 0.8
+    },
+    {
+      "name": ". Gamer",
+      "value": 0.8
+    },
+    {
+      "name": ". zero",
+      "value": 0.75
+    },
+    {
+      "name": ". mazer",
+      "value": 0.67
+    },
+    {
+      "name": "MAX POWER",
+      "value": 0.5
+    },
+    {
+      "name": "sae",
+      "value": 0.5
+    },
+    {
+      "name": "irn",
+      "value": 0.5
+    },
+    {
+      "name": "carapace",
+      "value": 0.5
+    },
+    {
+      "name": "rst",
+      "value": 0.5
+    },
+    {
+      "name": "ganon",
+      "value": 0.5
+    },
+    {
+      "name": "bps",
+      "value": 0.5
+    },
+    {
+      "name": "razor",
+      "value": 0.4
+    },
+    {
+      "name": "blixem",
+      "value": 0.4
+    },
+    {
+      "name": "fix",
+      "value": 0.4
+    },
+    {
+      "name": "reppie",
+      "value": 0.4
+    },
+    {
+      "name": "maks",
+      "value": 0.25
+    },
+    {
+      "name": "tom",
+      "value": 0.25
+    },
+    {
+      "name": "maCLer",
+      "value": 0.25
+    },
+    {
+      "name": "ok98",
+      "value": 0.25
+    },
+    {
+      "name": "mm",
+      "value": 0.2
+    },
+    {
+      "name": "raket",
+      "value": 0.2
+    },
+    {
+      "name": "Zepp",
+      "value": 0
+    },
+    {
+      "name": "Shaka",
+      "value": 0
+    },
+    {
+      "name": "goniec",
+      "value": 0
+    },
+    {
+      "name": "max.power",
+      "value": 0
+    },
+    {
+      "name": "gor",
+      "value": 0
+    },
+    {
+      "name": "dot",
+      "value": 0
+    },
+    {
+      "name": "gLAd",
+      "value": 0
+    },
+    {
+      "name": "grc",
+      "value": 0
+    }
+  ],
+  "e1m2 %": [
+    {
+      "name": "HENU",
+      "value": 1
+    },
+    {
+      "name": "Shaka",
+      "value": 1
+    },
+    {
+      "name": ". mazer",
+      "value": 1
+    },
+    {
+      "name": "Diki",
+      "value": 1
+    },
+    {
+      "name": "Milton",
+      "value": 1
+    },
+    {
+      "name": "nit",
+      "value": 1
+    },
+    {
+      "name": "Xterm",
+      "value": 1
+    },
+    {
+      "name": ". ParadokS",
+      "value": 0.75
+    },
+    {
+      "name": ". zero",
+      "value": 0.75
+    },
+    {
+      "name": ". Gamer",
+      "value": 0.75
+    },
+    {
+      "name": "carapace",
+      "value": 0.75
+    },
+    {
+      "name": "rst",
+      "value": 0.75
+    },
+    {
+      "name": "ganon",
+      "value": 0.75
+    },
+    {
+      "name": "bps",
+      "value": 0.75
+    },
+    {
+      "name": ". niw",
+      "value": 0.67
+    },
+    {
+      "name": "razor",
+      "value": 0.67
+    },
+    {
+      "name": "blixem",
+      "value": 0.67
+    },
+    {
+      "name": "fix",
+      "value": 0.67
+    },
+    {
+      "name": "reppie",
+      "value": 0.67
+    },
+    {
+      "name": "MAX POWER",
+      "value": 0.5
+    },
+    {
+      "name": "sae",
+      "value": 0.5
+    },
+    {
+      "name": "mm",
+      "value": 0.5
+    },
+    {
+      "name": "grc",
+      "value": 0.5
+    },
+    {
+      "name": "raket",
+      "value": 0.5
+    },
+    {
+      "name": "Zepp",
+      "value": 0.2
+    },
+    {
+      "name": "gor",
+      "value": 0.17
+    },
+    {
+      "name": "dot",
+      "value": 0.17
+    },
+    {
+      "name": "maks",
+      "value": 0
+    },
+    {
+      "name": "goniec",
+      "value": 0
+    },
+    {
+      "name": "tom",
+      "value": 0
+    },
+    {
+      "name": "irn",
+      "value": 0
+    },
+    {
+      "name": "maCLer",
+      "value": 0
+    },
+    {
+      "name": "max.power",
+      "value": 0
+    },
+    {
+      "name": "gLAd",
+      "value": 0
+    },
+    {
+      "name": "ok98",
+      "value": 0
+    }
+  ],
+  "Frags": [
+    {
+      "name": "Milton",
+      "value": 1056
+    },
+    {
+      "name": "carapace",
+      "value": 947
+    },
+    {
+      "name": "reppie",
+      "value": 868
+    },
+    {
+      "name": "razor",
+      "value": 831
+    },
+    {
+      "name": "blixem",
+      "value": 788
+    },
+    {
+      "name": "bps",
+      "value": 786
+    },
+    {
+      "name": "nit",
+      "value": 739
+    },
+    {
+      "name": ". zero",
+      "value": 716
+    },
+    {
+      "name": "fix",
+      "value": 700
+    },
+    {
+      "name": "Xterm",
+      "value": 690
+    },
+    {
+      "name": ". ParadokS",
+      "value": 682
+    },
+    {
+      "name": "ganon",
+      "value": 680
+    },
+    {
+      "name": "rst",
+      "value": 677
+    },
+    {
+      "name": ". Gamer",
+      "value": 663
+    },
+    {
+      "name": "dot",
+      "value": 612
+    },
+    {
+      "name": "maCLer",
+      "value": 594
+    },
+    {
+      "name": "tom",
+      "value": 591
+    },
+    {
+      "name": "HENU",
+      "value": 587
+    },
+    {
+      "name": ". niw",
+      "value": 584
+    },
+    {
+      "name": "mm",
+      "value": 580
+    },
+    {
+      "name": "gor",
+      "value": 575
+    },
+    {
+      "name": "maks",
+      "value": 505
+    },
+    {
+      "name": "raket",
+      "value": 477
+    },
+    {
+      "name": "Diki",
+      "value": 461
+    },
+    {
+      "name": ". mazer",
+      "value": 457
+    },
+    {
+      "name": "Zepp",
+      "value": 426
+    },
+    {
+      "name": "sae",
+      "value": 372
+    },
+    {
+      "name": "goniec",
+      "value": 362
+    },
+    {
+      "name": "gLAd",
+      "value": 306
+    },
+    {
+      "name": "ok98",
+      "value": 274
+    },
+    {
+      "name": "MAX POWER",
+      "value": 216
+    },
+    {
+      "name": "Shaka",
+      "value": 194
+    },
+    {
+      "name": "irn",
+      "value": 160
+    },
+    {
+      "name": "grc",
+      "value": 110
+    },
+    {
+      "name": "max.power",
+      "value": 87
+    }
+  ],
+  "Net": [
+    {
+      "name": "Milton",
+      "value": 650
+    },
+    {
+      "name": "Xterm",
+      "value": 330
+    },
+    {
+      "name": "carapace",
+      "value": 297
+    },
+    {
+      "name": "nit",
+      "value": 267
+    },
+    {
+      "name": "HENU",
+      "value": 236
+    },
+    {
+      "name": "Diki",
+      "value": 147
+    },
+    {
+      "name": ". zero",
+      "value": 132
+    },
+    {
+      "name": "reppie",
+      "value": 97
+    },
+    {
+      "name": ". niw",
+      "value": 92
+    },
+    {
+      "name": "blixem",
+      "value": 81
+    },
+    {
+      "name": ". ParadokS",
+      "value": 38
+    },
+    {
+      "name": "MAX POWER",
+      "value": -20
+    },
+    {
+      "name": "Shaka",
+      "value": -26
+    },
+    {
+      "name": "razor",
+      "value": -38
+    },
+    {
+      "name": "bps",
+      "value": -56
+    },
+    {
+      "name": "max.power",
+      "value": -73
+    },
+    {
+      "name": "irn",
+      "value": -95
+    },
+    {
+      "name": "mm",
+      "value": -99
+    },
+    {
+      "name": ". Gamer",
+      "value": -110
+    },
+    {
+      "name": "gor",
+      "value": -129
+    },
+    {
+      "name": ". mazer",
+      "value": -145
+    },
+    {
+      "name": "sae",
+      "value": -153
+    },
+    {
+      "name": "dot",
+      "value": -163
+    },
+    {
+      "name": "grc",
+      "value": -192
+    },
+    {
+      "name": "rst",
+      "value": -228
+    },
+    {
+      "name": "fix",
+      "value": -239
+    },
+    {
+      "name": "gLAd",
+      "value": -284
+    },
+    {
+      "name": "tom",
+      "value": -305
+    },
+    {
+      "name": "Zepp",
+      "value": -310
+    },
+    {
+      "name": "ganon",
+      "value": -332
+    },
+    {
+      "name": "maks",
+      "value": -365
+    },
+    {
+      "name": "ok98",
+      "value": -422
+    },
+    {
+      "name": "maCLer",
+      "value": -478
+    },
+    {
+      "name": "raket",
+      "value": -480
+    },
+    {
+      "name": "goniec",
+      "value": -493
+    }
+  ],
+  "Teamkills": [
+    {
+      "name": "raket",
+      "value": 50
+    },
+    {
+      "name": "carapace",
+      "value": 50
+    },
+    {
+      "name": "bps",
+      "value": 44
+    },
+    {
+      "name": ". zero",
+      "value": 39
+    },
+    {
+      "name": "ganon",
+      "value": 38
+    },
+    {
+      "name": "razor",
+      "value": 37
+    },
+    {
+      "name": "mm",
+      "value": 37
+    },
+    {
+      "name": "rst",
+      "value": 37
+    },
+    {
+      "name": "reppie",
+      "value": 36
+    },
+    {
+      "name": "maks",
+      "value": 36
+    },
+    {
+      "name": "blixem",
+      "value": 35
+    },
+    {
+      "name": "maCLer",
+      "value": 35
+    },
+    {
+      "name": "tom",
+      "value": 34
+    },
+    {
+      "name": "gor",
+      "value": 34
+    },
+    {
+      "name": "fix",
+      "value": 31
+    },
+    {
+      "name": "goniec",
+      "value": 31
+    },
+    {
+      "name": "Milton",
+      "value": 31
+    },
+    {
+      "name": ". Gamer",
+      "value": 26
+    },
+    {
+      "name": ". niw",
+      "value": 24
+    },
+    {
+      "name": ". ParadokS",
+      "value": 23
+    },
+    {
+      "name": ". mazer",
+      "value": 22
+    },
+    {
+      "name": "gLAd",
+      "value": 20
+    },
+    {
+      "name": "Zepp",
+      "value": 19
+    },
+    {
+      "name": "Xterm",
+      "value": 18
+    },
+    {
+      "name": "HENU",
+      "value": 17
+    },
+    {
+      "name": "sae",
+      "value": 17
+    },
+    {
+      "name": "nit",
+      "value": 17
+    },
+    {
+      "name": "dot",
+      "value": 16
+    },
+    {
+      "name": "Diki",
+      "value": 14
+    },
+    {
+      "name": "ok98",
+      "value": 13
+    },
+    {
+      "name": "Shaka",
+      "value": 12
+    },
+    {
+      "name": "grc",
+      "value": 11
+    },
+    {
+      "name": "irn",
+      "value": 10
+    },
+    {
+      "name": "MAX POWER",
+      "value": 8
+    },
+    {
+      "name": "max.power",
+      "value": 6
+    }
+  ],
+  "Award Frags": [
+    {
+      "name": "Milton",
+      "value": 10
+    },
+    {
+      "name": "carapace",
+      "value": 9
+    },
+    {
+      "name": "mm",
+      "value": 4
+    },
+    {
+      "name": ". ParadokS",
+      "value": 3
+    },
+    {
+      "name": ". zero",
+      "value": 3
+    },
+    {
+      "name": "razor",
+      "value": 3
+    },
+    {
+      "name": "blixem",
+      "value": 3
+    },
+    {
+      "name": "reppie",
+      "value": 3
+    },
+    {
+      "name": ". niw",
+      "value": 2
+    },
+    {
+      "name": "dot",
+      "value": 2
+    },
+    {
+      "name": "Shaka",
+      "value": 1
+    },
+    {
+      "name": ". mazer",
+      "value": 1
+    },
+    {
+      "name": "fix",
+      "value": 1
+    },
+    {
+      "name": "maks",
+      "value": 1
+    },
+    {
+      "name": "maCLer",
+      "value": 1
+    },
+    {
+      "name": "Diki",
+      "value": 1
+    },
+    {
+      "name": "nit",
+      "value": 1
+    },
+    {
+      "name": "Xterm",
+      "value": 1
+    },
+    {
+      "name": "bps",
+      "value": 1
+    },
+    {
+      "name": "HENU",
+      "value": 0
+    },
+    {
+      "name": "Zepp",
+      "value": 0
+    },
+    {
+      "name": "MAX POWER",
+      "value": 0
+    },
+    {
+      "name": "sae",
+      "value": 0
+    },
+    {
+      "name": ". Gamer",
+      "value": 0
+    },
+    {
+      "name": "goniec",
+      "value": 0
+    },
+    {
+      "name": "tom",
+      "value": 0
+    },
+    {
+      "name": "irn",
+      "value": 0
+    },
+    {
+      "name": "max.power",
+      "value": 0
+    },
+    {
+      "name": "gor",
+      "value": 0
+    },
+    {
+      "name": "gLAd",
+      "value": 0
+    },
+    {
+      "name": "grc",
+      "value": 0
+    },
+    {
+      "name": "ok98",
+      "value": 0
+    },
+    {
+      "name": "raket",
+      "value": 0
+    },
+    {
+      "name": "rst",
+      "value": 0
+    },
+    {
+      "name": "ganon",
+      "value": 0
+    }
+  ],
+  "Award Deaths": [
+    {
+      "name": "maCLer",
+      "value": 5
+    },
+    {
+      "name": "raket",
+      "value": 5
+    },
+    {
+      "name": "Zepp",
+      "value": 4
+    },
+    {
+      "name": "fix",
+      "value": 4
+    },
+    {
+      "name": ". mazer",
+      "value": 3
+    },
+    {
+      "name": "tom",
+      "value": 3
+    },
+    {
+      "name": "ok98",
+      "value": 3
+    },
+    {
+      "name": "rst",
+      "value": 3
+    },
+    {
+      "name": "ganon",
+      "value": 3
+    },
+    {
+      "name": "sae",
+      "value": 2
+    },
+    {
+      "name": "maks",
+      "value": 2
+    },
+    {
+      "name": "goniec",
+      "value": 2
+    },
+    {
+      "name": "max.power",
+      "value": 2
+    },
+    {
+      "name": "gLAd",
+      "value": 2
+    },
+    {
+      "name": "MAX POWER",
+      "value": 1
+    },
+    {
+      "name": ". ParadokS",
+      "value": 1
+    },
+    {
+      "name": ". niw",
+      "value": 1
+    },
+    {
+      "name": "razor",
+      "value": 1
+    },
+    {
+      "name": "reppie",
+      "value": 1
+    },
+    {
+      "name": "gor",
+      "value": 1
+    },
+    {
+      "name": "bps",
+      "value": 1
+    },
+    {
+      "name": "HENU",
+      "value": 0
+    },
+    {
+      "name": "Shaka",
+      "value": 0
+    },
+    {
+      "name": ". zero",
+      "value": 0
+    },
+    {
+      "name": ". Gamer",
+      "value": 0
+    },
+    {
+      "name": "blixem",
+      "value": 0
+    },
+    {
+      "name": "irn",
+      "value": 0
+    },
+    {
+      "name": "Diki",
+      "value": 0
+    },
+    {
+      "name": "Milton",
+      "value": 0
+    },
+    {
+      "name": "nit",
+      "value": 0
+    },
+    {
+      "name": "Xterm",
+      "value": 0
+    },
+    {
+      "name": "dot",
+      "value": 0
+    },
+    {
+      "name": "mm",
+      "value": 0
+    },
+    {
+      "name": "grc",
+      "value": 0
+    },
+    {
+      "name": "carapace",
+      "value": 0
+    }
+  ],
+  "Award Friendkills": [
+    {
+      "name": "raket",
+      "value": 6
+    },
+    {
+      "name": "maks",
+      "value": 5
+    },
+    {
+      "name": ". zero",
+      "value": 4
+    },
+    {
+      "name": ". ParadokS",
+      "value": 3
+    },
+    {
+      "name": ". niw",
+      "value": 3
+    },
+    {
+      "name": "razor",
+      "value": 3
+    },
+    {
+      "name": "maCLer",
+      "value": 3
+    },
+    {
+      "name": "carapace",
+      "value": 3
+    },
+    {
+      "name": "ganon",
+      "value": 3
+    },
+    {
+      "name": "bps",
+      "value": 3
+    },
+    {
+      "name": "HENU",
+      "value": 2
+    },
+    {
+      "name": "Zepp",
+      "value": 2
+    },
+    {
+      "name": ". mazer",
+      "value": 2
+    },
+    {
+      "name": ". Gamer",
+      "value": 2
+    },
+    {
+      "name": "blixem",
+      "value": 2
+    },
+    {
+      "name": "fix",
+      "value": 2
+    },
+    {
+      "name": "tom",
+      "value": 2
+    },
+    {
+      "name": "Milton",
+      "value": 2
+    },
+    {
+      "name": "Xterm",
+      "value": 2
+    },
+    {
+      "name": "gor",
+      "value": 2
+    },
+    {
+      "name": "gLAd",
+      "value": 2
+    },
+    {
+      "name": "mm",
+      "value": 2
+    },
+    {
+      "name": "sae",
+      "value": 1
+    },
+    {
+      "name": "reppie",
+      "value": 1
+    },
+    {
+      "name": "goniec",
+      "value": 1
+    },
+    {
+      "name": "irn",
+      "value": 1
+    },
+    {
+      "name": "Diki",
+      "value": 1
+    },
+    {
+      "name": "ok98",
+      "value": 1
+    },
+    {
+      "name": "rst",
+      "value": 1
+    },
+    {
+      "name": "MAX POWER",
+      "value": 0
+    },
+    {
+      "name": "Shaka",
+      "value": 0
+    },
+    {
+      "name": "nit",
+      "value": 0
+    },
+    {
+      "name": "max.power",
+      "value": 0
+    },
+    {
+      "name": "dot",
+      "value": 0
+    },
+    {
+      "name": "grc",
+      "value": 0
+    }
+  ],
+  "Award Efficiency": [
+    {
+      "name": "Milton",
+      "value": 8
+    },
+    {
+      "name": "carapace",
+      "value": 8
+    },
+    {
+      "name": "blixem",
+      "value": 5
+    },
+    {
+      "name": "mm",
+      "value": 5
+    },
+    {
+      "name": ". zero",
+      "value": 4
+    },
+    {
+      "name": "HENU",
+      "value": 2
+    },
+    {
+      "name": ". ParadokS",
+      "value": 2
+    },
+    {
+      "name": "reppie",
+      "value": 2
+    },
+    {
+      "name": "maks",
+      "value": 2
+    },
+    {
+      "name": "bps",
+      "value": 2
+    },
+    {
+      "name": "MAX POWER",
+      "value": 1
+    },
+    {
+      "name": ". Gamer",
+      "value": 1
+    },
+    {
+      "name": ". niw",
+      "value": 1
+    },
+    {
+      "name": "razor",
+      "value": 1
+    },
+    {
+      "name": "Diki",
+      "value": 1
+    },
+    {
+      "name": "nit",
+      "value": 1
+    },
+    {
+      "name": "gor",
+      "value": 1
+    },
+    {
+      "name": "dot",
+      "value": 1
+    },
+    {
+      "name": "Zepp",
+      "value": 0
+    },
+    {
+      "name": "Shaka",
+      "value": 0
+    },
+    {
+      "name": "sae",
+      "value": 0
+    },
+    {
+      "name": ". mazer",
+      "value": 0
+    },
+    {
+      "name": "fix",
+      "value": 0
+    },
+    {
+      "name": "goniec",
+      "value": 0
+    },
+    {
+      "name": "tom",
+      "value": 0
+    },
+    {
+      "name": "irn",
+      "value": 0
+    },
+    {
+      "name": "maCLer",
+      "value": 0
+    },
+    {
+      "name": "Xterm",
+      "value": 0
+    },
+    {
+      "name": "max.power",
+      "value": 0
+    },
+    {
+      "name": "gLAd",
+      "value": 0
+    },
+    {
+      "name": "grc",
+      "value": 0
+    },
+    {
+      "name": "ok98",
+      "value": 0
+    },
+    {
+      "name": "raket",
+      "value": 0
+    },
+    {
+      "name": "rst",
+      "value": 0
+    },
+    {
+      "name": "ganon",
+      "value": 0
+    }
+  ],
+  "Award Fragstreak": [
+    {
+      "name": "nit",
+      "value": 5
+    },
+    {
+      "name": ". zero",
+      "value": 4
+    },
+    {
+      "name": "blixem",
+      "value": 4
+    },
+    {
+      "name": "Milton",
+      "value": 4
+    },
+    {
+      "name": "carapace",
+      "value": 4
+    },
+    {
+      "name": "rst",
+      "value": 4
+    },
+    {
+      "name": "reppie",
+      "value": 3
+    },
+    {
+      "name": "maks",
+      "value": 3
+    },
+    {
+      "name": "Xterm",
+      "value": 3
+    },
+    {
+      "name": "bps",
+      "value": 3
+    },
+    {
+      "name": "MAX POWER",
+      "value": 2
+    },
+    {
+      "name": ". mazer",
+      "value": 2
+    },
+    {
+      "name": "tom",
+      "value": 2
+    },
+    {
+      "name": "gor",
+      "value": 2
+    },
+    {
+      "name": ". ParadokS",
+      "value": 1
+    },
+    {
+      "name": ". Gamer",
+      "value": 1
+    },
+    {
+      "name": ". niw",
+      "value": 1
+    },
+    {
+      "name": "razor",
+      "value": 1
+    },
+    {
+      "name": "fix",
+      "value": 1
+    },
+    {
+      "name": "Diki",
+      "value": 1
+    },
+    {
+      "name": "dot",
+      "value": 1
+    },
+    {
+      "name": "mm",
+      "value": 1
+    },
+    {
+      "name": "ganon",
+      "value": 1
+    },
+    {
+      "name": "HENU",
+      "value": 0
+    },
+    {
+      "name": "Zepp",
+      "value": 0
+    },
+    {
+      "name": "Shaka",
+      "value": 0
+    },
+    {
+      "name": "sae",
+      "value": 0
+    },
+    {
+      "name": "goniec",
+      "value": 0
+    },
+    {
+      "name": "irn",
+      "value": 0
+    },
+    {
+      "name": "maCLer",
+      "value": 0
+    },
+    {
+      "name": "max.power",
+      "value": 0
+    },
+    {
+      "name": "gLAd",
+      "value": 0
+    },
+    {
+      "name": "grc",
+      "value": 0
+    },
+    {
+      "name": "ok98",
+      "value": 0
+    },
+    {
+      "name": "raket",
+      "value": 0
+    }
+  ],
+  "Award Quadrunner": [
+    {
+      "name": ". zero",
+      "value": 6
+    },
+    {
+      "name": "Milton",
+      "value": 6
+    },
+    {
+      "name": "carapace",
+      "value": 6
+    },
+    {
+      "name": "nit",
+      "value": 4
+    },
+    {
+      "name": "mm",
+      "value": 4
+    },
+    {
+      "name": "bps",
+      "value": 4
+    },
+    {
+      "name": ". ParadokS",
+      "value": 3
+    },
+    {
+      "name": ". mazer",
+      "value": 3
+    },
+    {
+      "name": ". Gamer",
+      "value": 3
+    },
+    {
+      "name": ". niw",
+      "value": 2
+    },
+    {
+      "name": "razor",
+      "value": 2
+    },
+    {
+      "name": "blixem",
+      "value": 2
+    },
+    {
+      "name": "Diki",
+      "value": 2
+    },
+    {
+      "name": "dot",
+      "value": 2
+    },
+    {
+      "name": "ganon",
+      "value": 2
+    },
+    {
+      "name": "HENU",
+      "value": 1
+    },
+    {
+      "name": "sae",
+      "value": 1
+    },
+    {
+      "name": "fix",
+      "value": 1
+    },
+    {
+      "name": "reppie",
+      "value": 1
+    },
+    {
+      "name": "maks",
+      "value": 1
+    },
+    {
+      "name": "goniec",
+      "value": 1
+    },
+    {
+      "name": "maCLer",
+      "value": 1
+    },
+    {
+      "name": "Xterm",
+      "value": 1
+    },
+    {
+      "name": "gor",
+      "value": 1
+    },
+    {
+      "name": "raket",
+      "value": 1
+    },
+    {
+      "name": "Zepp",
+      "value": 0
+    },
+    {
+      "name": "MAX POWER",
+      "value": 0
+    },
+    {
+      "name": "Shaka",
+      "value": 0
+    },
+    {
+      "name": "tom",
+      "value": 0
+    },
+    {
+      "name": "irn",
+      "value": 0
+    },
+    {
+      "name": "max.power",
+      "value": 0
+    },
+    {
+      "name": "gLAd",
+      "value": 0
+    },
+    {
+      "name": "grc",
+      "value": 0
+    },
+    {
+      "name": "ok98",
+      "value": 0
+    },
+    {
+      "name": "rst",
+      "value": 0
+    }
+  ],
+  "Award RL killer": [
+    {
+      "name": "carapace",
+      "value": 9
+    },
+    {
+      "name": "Milton",
+      "value": 6
+    },
+    {
+      "name": ". ParadokS",
+      "value": 4
+    },
+    {
+      "name": ". Gamer",
+      "value": 4
+    },
+    {
+      "name": "dot",
+      "value": 4
+    },
+    {
+      "name": ". zero",
+      "value": 3
+    },
+    {
+      "name": ". niw",
+      "value": 3
+    },
+    {
+      "name": "maCLer",
+      "value": 3
+    },
+    {
+      "name": "ganon",
+      "value": 3
+    },
+    {
+      "name": "sae",
+      "value": 2
+    },
+    {
+      "name": "reppie",
+      "value": 2
+    },
+    {
+      "name": "gor",
+      "value": 2
+    },
+    {
+      "name": "mm",
+      "value": 2
+    },
+    {
+      "name": "bps",
+      "value": 2
+    },
+    {
+      "name": "Shaka",
+      "value": 1
+    },
+    {
+      "name": ". mazer",
+      "value": 1
+    },
+    {
+      "name": "razor",
+      "value": 1
+    },
+    {
+      "name": "blixem",
+      "value": 1
+    },
+    {
+      "name": "maks",
+      "value": 1
+    },
+    {
+      "name": "goniec",
+      "value": 1
+    },
+    {
+      "name": "tom",
+      "value": 1
+    },
+    {
+      "name": "nit",
+      "value": 1
+    },
+    {
+      "name": "gLAd",
+      "value": 1
+    },
+    {
+      "name": "ok98",
+      "value": 1
+    },
+    {
+      "name": "raket",
+      "value": 1
+    },
+    {
+      "name": "rst",
+      "value": 1
+    },
+    {
+      "name": "HENU",
+      "value": 0
+    },
+    {
+      "name": "Zepp",
+      "value": 0
+    },
+    {
+      "name": "MAX POWER",
+      "value": 0
+    },
+    {
+      "name": "fix",
+      "value": 0
+    },
+    {
+      "name": "irn",
+      "value": 0
+    },
+    {
+      "name": "Diki",
+      "value": 0
+    },
+    {
+      "name": "Xterm",
+      "value": 0
+    },
+    {
+      "name": "max.power",
+      "value": 0
+    },
+    {
+      "name": "grc",
+      "value": 0
+    }
+  ],
+  "Award Boomsticker": [
+    {
+      "name": "ganon",
+      "value": 10
+    },
+    {
+      "name": "HENU",
+      "value": 6
+    },
+    {
+      "name": "Zepp",
+      "value": 5
+    },
+    {
+      "name": ". niw",
+      "value": 4
+    },
+    {
+      "name": "carapace",
+      "value": 4
+    },
+    {
+      "name": "Milton",
+      "value": 3
+    },
+    {
+      "name": "dot",
+      "value": 3
+    },
+    {
+      "name": "ok98",
+      "value": 3
+    },
+    {
+      "name": ". zero",
+      "value": 2
+    },
+    {
+      "name": "razor",
+      "value": 2
+    },
+    {
+      "name": "reppie",
+      "value": 2
+    },
+    {
+      "name": "Shaka",
+      "value": 1
+    },
+    {
+      "name": ". ParadokS",
+      "value": 1
+    },
+    {
+      "name": "maCLer",
+      "value": 1
+    },
+    {
+      "name": "nit",
+      "value": 1
+    },
+    {
+      "name": "MAX POWER",
+      "value": 0
+    },
+    {
+      "name": "sae",
+      "value": 0
+    },
+    {
+      "name": ". mazer",
+      "value": 0
+    },
+    {
+      "name": ". Gamer",
+      "value": 0
+    },
+    {
+      "name": "blixem",
+      "value": 0
+    },
+    {
+      "name": "fix",
+      "value": 0
+    },
+    {
+      "name": "maks",
+      "value": 0
+    },
+    {
+      "name": "goniec",
+      "value": 0
+    },
+    {
+      "name": "tom",
+      "value": 0
+    },
+    {
+      "name": "irn",
+      "value": 0
+    },
+    {
+      "name": "Diki",
+      "value": 0
+    },
+    {
+      "name": "Xterm",
+      "value": 0
+    },
+    {
+      "name": "max.power",
+      "value": 0
+    },
+    {
+      "name": "gor",
+      "value": 0
+    },
+    {
+      "name": "gLAd",
+      "value": 0
+    },
+    {
+      "name": "mm",
+      "value": 0
+    },
+    {
+      "name": "grc",
+      "value": 0
+    },
+    {
+      "name": "raket",
+      "value": 0
+    },
+    {
+      "name": "rst",
+      "value": 0
+    },
+    {
+      "name": "bps",
+      "value": 0
+    }
+  ],
+  "Award Survivor": [
+    {
+      "name": "carapace",
+      "value": 8
+    },
+    {
+      "name": "Milton",
+      "value": 7
+    },
+    {
+      "name": ". zero",
+      "value": 3
+    },
+    {
+      "name": "razor",
+      "value": 3
+    },
+    {
+      "name": "blixem",
+      "value": 3
+    },
+    {
+      "name": "reppie",
+      "value": 3
+    },
+    {
+      "name": "mm",
+      "value": 3
+    },
+    {
+      "name": "bps",
+      "value": 3
+    },
+    {
+      "name": "HENU",
+      "value": 2
+    },
+    {
+      "name": ". ParadokS",
+      "value": 2
+    },
+    {
+      "name": ". mazer",
+      "value": 2
+    },
+    {
+      "name": "maks",
+      "value": 2
+    },
+    {
+      "name": "MAX POWER",
+      "value": 1
+    },
+    {
+      "name": ". Gamer",
+      "value": 1
+    },
+    {
+      "name": ". niw",
+      "value": 1
+    },
+    {
+      "name": "Diki",
+      "value": 1
+    },
+    {
+      "name": "nit",
+      "value": 1
+    },
+    {
+      "name": "gor",
+      "value": 1
+    },
+    {
+      "name": "raket",
+      "value": 1
+    },
+    {
+      "name": "Zepp",
+      "value": 0
+    },
+    {
+      "name": "Shaka",
+      "value": 0
+    },
+    {
+      "name": "sae",
+      "value": 0
+    },
+    {
+      "name": "fix",
+      "value": 0
+    },
+    {
+      "name": "goniec",
+      "value": 0
+    },
+    {
+      "name": "tom",
+      "value": 0
+    },
+    {
+      "name": "irn",
+      "value": 0
+    },
+    {
+      "name": "maCLer",
+      "value": 0
+    },
+    {
+      "name": "Xterm",
+      "value": 0
+    },
+    {
+      "name": "max.power",
+      "value": 0
+    },
+    {
+      "name": "dot",
+      "value": 0
+    },
+    {
+      "name": "gLAd",
+      "value": 0
+    },
+    {
+      "name": "grc",
+      "value": 0
+    },
+    {
+      "name": "ok98",
+      "value": 0
+    },
+    {
+      "name": "rst",
+      "value": 0
+    },
+    {
+      "name": "ganon",
+      "value": 0
+    }
+  ],
+  "Award Annihilator": [
+    {
+      "name": "Milton",
+      "value": 10
+    },
+    {
+      "name": "carapace",
+      "value": 9
+    },
+    {
+      "name": ". ParadokS",
+      "value": 4
+    },
+    {
+      "name": "reppie",
+      "value": 3
+    },
+    {
+      "name": "mm",
+      "value": 3
+    },
+    {
+      "name": ". zero",
+      "value": 2
+    },
+    {
+      "name": ". niw",
+      "value": 2
+    },
+    {
+      "name": "razor",
+      "value": 2
+    },
+    {
+      "name": "blixem",
+      "value": 2
+    },
+    {
+      "name": "fix",
+      "value": 2
+    },
+    {
+      "name": "maCLer",
+      "value": 2
+    },
+    {
+      "name": "dot",
+      "value": 2
+    },
+    {
+      "name": "bps",
+      "value": 2
+    },
+    {
+      "name": ". mazer",
+      "value": 1
+    },
+    {
+      "name": "maks",
+      "value": 1
+    },
+    {
+      "name": "Diki",
+      "value": 1
+    },
+    {
+      "name": "HENU",
+      "value": 0
+    },
+    {
+      "name": "Zepp",
+      "value": 0
+    },
+    {
+      "name": "MAX POWER",
+      "value": 0
+    },
+    {
+      "name": "Shaka",
+      "value": 0
+    },
+    {
+      "name": "sae",
+      "value": 0
+    },
+    {
+      "name": ". Gamer",
+      "value": 0
+    },
+    {
+      "name": "goniec",
+      "value": 0
+    },
+    {
+      "name": "tom",
+      "value": 0
+    },
+    {
+      "name": "irn",
+      "value": 0
+    },
+    {
+      "name": "nit",
+      "value": 0
+    },
+    {
+      "name": "Xterm",
+      "value": 0
+    },
+    {
+      "name": "max.power",
+      "value": 0
+    },
+    {
+      "name": "gor",
+      "value": 0
+    },
+    {
+      "name": "gLAd",
+      "value": 0
+    },
+    {
+      "name": "grc",
+      "value": 0
+    },
+    {
+      "name": "ok98",
+      "value": 0
+    },
+    {
+      "name": "raket",
+      "value": 0
+    },
+    {
+      "name": "rst",
+      "value": 0
+    },
+    {
+      "name": "ganon",
+      "value": 0
+    }
+  ],
+  "Best Frag streak": [
+    {
+      "name": "Xterm",
+      "value": 58
+    },
+    {
+      "name": "Diki",
+      "value": 55
+    },
+    {
+      "name": "nit",
+      "value": 50
+    },
+    {
+      "name": "carapace",
+      "value": 48
+    },
+    {
+      "name": "reppie",
+      "value": 46
+    },
+    {
+      "name": "gor",
+      "value": 44
+    },
+    {
+      "name": "HENU",
+      "value": 43
+    },
+    {
+      "name": "Milton",
+      "value": 43
+    },
+    {
+      "name": ". zero",
+      "value": 42
+    },
+    {
+      "name": "blixem",
+      "value": 42
+    },
+    {
+      "name": "bps",
+      "value": 42
+    },
+    {
+      "name": ". niw",
+      "value": 41
+    },
+    {
+      "name": ". ParadokS",
+      "value": 39
+    },
+    {
+      "name": "fix",
+      "value": 39
+    },
+    {
+      "name": "rst",
+      "value": 39
+    },
+    {
+      "name": ". Gamer",
+      "value": 30
+    },
+    {
+      "name": "razor",
+      "value": 30
+    },
+    {
+      "name": ". mazer",
+      "value": 29
+    },
+    {
+      "name": "tom",
+      "value": 28
+    },
+    {
+      "name": "ganon",
+      "value": 27
+    },
+    {
+      "name": "raket",
+      "value": 26
+    },
+    {
+      "name": "MAX POWER",
+      "value": 22
+    },
+    {
+      "name": "mm",
+      "value": 22
+    },
+    {
+      "name": "dot",
+      "value": 20
+    },
+    {
+      "name": "maks",
+      "value": 18
+    },
+    {
+      "name": "maCLer",
+      "value": 18
+    },
+    {
+      "name": "Shaka",
+      "value": 17
+    },
+    {
+      "name": "sae",
+      "value": 17
+    },
+    {
+      "name": "goniec",
+      "value": 17
+    },
+    {
+      "name": "gLAd",
+      "value": 17
+    },
+    {
+      "name": "Zepp",
+      "value": 16
+    },
+    {
+      "name": "ok98",
+      "value": 16
+    },
+    {
+      "name": "grc",
+      "value": 15
+    },
+    {
+      "name": "irn",
+      "value": 14
+    },
+    {
+      "name": "max.power",
+      "value": 6
+    }
+  ],
+  "Best Quad run": [
+    {
+      "name": "sae",
+      "value": 12
+    },
+    {
+      "name": ". mazer",
+      "value": 12
+    },
+    {
+      "name": ". niw",
+      "value": 11
+    },
+    {
+      "name": ". zero",
+      "value": 10
+    },
+    {
+      "name": "razor",
+      "value": 10
+    },
+    {
+      "name": "Milton",
+      "value": 10
+    },
+    {
+      "name": "nit",
+      "value": 10
+    },
+    {
+      "name": "HENU",
+      "value": 9
+    },
+    {
+      "name": "blixem",
+      "value": 9
+    },
+    {
+      "name": "carapace",
+      "value": 9
+    },
+    {
+      "name": "ganon",
+      "value": 9
+    },
+    {
+      "name": "bps",
+      "value": 9
+    },
+    {
+      "name": "maks",
+      "value": 8
+    },
+    {
+      "name": "goniec",
+      "value": 8
+    },
+    {
+      "name": "maCLer",
+      "value": 8
+    },
+    {
+      "name": "Diki",
+      "value": 8
+    },
+    {
+      "name": "gor",
+      "value": 8
+    },
+    {
+      "name": "mm",
+      "value": 8
+    },
+    {
+      "name": "raket",
+      "value": 8
+    },
+    {
+      "name": ". ParadokS",
+      "value": 7
+    },
+    {
+      "name": ". Gamer",
+      "value": 7
+    },
+    {
+      "name": "reppie",
+      "value": 7
+    },
+    {
+      "name": "tom",
+      "value": 7
+    },
+    {
+      "name": "Xterm",
+      "value": 7
+    },
+    {
+      "name": "Zepp",
+      "value": 6
+    },
+    {
+      "name": "fix",
+      "value": 6
+    },
+    {
+      "name": "dot",
+      "value": 6
+    },
+    {
+      "name": "MAX POWER",
+      "value": 5
+    },
+    {
+      "name": "irn",
+      "value": 5
+    },
+    {
+      "name": "rst",
+      "value": 5
+    },
+    {
+      "name": "Shaka",
+      "value": 4
+    },
+    {
+      "name": "grc",
+      "value": 4
+    },
+    {
+      "name": "ok98",
+      "value": 4
+    },
+    {
+      "name": "max.power",
+      "value": 3
+    },
+    {
+      "name": "gLAd",
+      "value": 3
+    }
+  ],
+  "~Frags": [
+    {
+      "name": "Milton",
+      "value": 88
+    },
+    {
+      "name": "nit",
+      "value": 73.9
+    },
+    {
+      "name": "Xterm",
+      "value": 69
+    },
+    {
+      "name": "Diki",
+      "value": 65.86
+    },
+    {
+      "name": "HENU",
+      "value": 65.22
+    },
+    {
+      "name": "carapace",
+      "value": 63.13
+    },
+    {
+      "name": "reppie",
+      "value": 57.87
+    },
+    {
+      "name": ". ParadokS",
+      "value": 56.83
+    },
+    {
+      "name": "razor",
+      "value": 55.4
+    },
+    {
+      "name": ". zero",
+      "value": 55.08
+    },
+    {
+      "name": "MAX POWER",
+      "value": 54
+    },
+    {
+      "name": ". niw",
+      "value": 53.09
+    },
+    {
+      "name": "blixem",
+      "value": 52.53
+    },
+    {
+      "name": "bps",
+      "value": 52.4
+    },
+    {
+      "name": "dot",
+      "value": 51
+    },
+    {
+      "name": "Shaka",
+      "value": 48.5
+    },
+    {
+      "name": "gor",
+      "value": 47.92
+    },
+    {
+      "name": ". Gamer",
+      "value": 47.36
+    },
+    {
+      "name": "fix",
+      "value": 46.67
+    },
+    {
+      "name": "sae",
+      "value": 46.5
+    },
+    {
+      "name": ". mazer",
+      "value": 45.7
+    },
+    {
+      "name": "ganon",
+      "value": 45.33
+    },
+    {
+      "name": "rst",
+      "value": 45.13
+    },
+    {
+      "name": "mm",
+      "value": 44.62
+    },
+    {
+      "name": "max.power",
+      "value": 43.5
+    },
+    {
+      "name": "Zepp",
+      "value": 42.6
+    },
+    {
+      "name": "maCLer",
+      "value": 42.43
+    },
+    {
+      "name": "tom",
+      "value": 42.21
+    },
+    {
+      "name": "irn",
+      "value": 40
+    },
+    {
+      "name": "maks",
+      "value": 38.85
+    },
+    {
+      "name": "gLAd",
+      "value": 38.25
+    },
+    {
+      "name": "raket",
+      "value": 36.69
+    },
+    {
+      "name": "goniec",
+      "value": 32.91
+    },
+    {
+      "name": "ok98",
+      "value": 30.44
+    },
+    {
+      "name": "grc",
+      "value": 22
+    }
+  ],
+  "~Net": [
+    {
+      "name": "Milton",
+      "value": 54.17
+    },
+    {
+      "name": "Xterm",
+      "value": 33
+    },
+    {
+      "name": "nit",
+      "value": 26.7
+    },
+    {
+      "name": "HENU",
+      "value": 26.22
+    },
+    {
+      "name": "Diki",
+      "value": 21
+    },
+    {
+      "name": "carapace",
+      "value": 19.8
+    },
+    {
+      "name": ". zero",
+      "value": 10.15
+    },
+    {
+      "name": ". niw",
+      "value": 8.36
+    },
+    {
+      "name": "reppie",
+      "value": 6.47
+    },
+    {
+      "name": "blixem",
+      "value": 5.4
+    },
+    {
+      "name": ". ParadokS",
+      "value": 3.17
+    },
+    {
+      "name": "razor",
+      "value": -2.53
+    },
+    {
+      "name": "bps",
+      "value": -3.73
+    },
+    {
+      "name": "MAX POWER",
+      "value": -5
+    },
+    {
+      "name": "Shaka",
+      "value": -6.5
+    },
+    {
+      "name": "mm",
+      "value": -7.62
+    },
+    {
+      "name": ". Gamer",
+      "value": -7.86
+    },
+    {
+      "name": "gor",
+      "value": -10.75
+    },
+    {
+      "name": "dot",
+      "value": -13.58
+    },
+    {
+      "name": ". mazer",
+      "value": -14.5
+    },
+    {
+      "name": "rst",
+      "value": -15.2
+    },
+    {
+      "name": "fix",
+      "value": -15.93
+    },
+    {
+      "name": "sae",
+      "value": -19.13
+    },
+    {
+      "name": "tom",
+      "value": -21.79
+    },
+    {
+      "name": "ganon",
+      "value": -22.13
+    },
+    {
+      "name": "irn",
+      "value": -23.75
+    },
+    {
+      "name": "maks",
+      "value": -28.08
+    },
+    {
+      "name": "Zepp",
+      "value": -31
+    },
+    {
+      "name": "maCLer",
+      "value": -34.14
+    },
+    {
+      "name": "gLAd",
+      "value": -35.5
+    },
+    {
+      "name": "max.power",
+      "value": -36.5
+    },
+    {
+      "name": "raket",
+      "value": -36.92
+    },
+    {
+      "name": "grc",
+      "value": -38.4
+    },
+    {
+      "name": "goniec",
+      "value": -44.82
+    },
+    {
+      "name": "ok98",
+      "value": -46.89
+    }
+  ],
+  "~Teamkills": [
+    {
+      "name": "raket",
+      "value": 3.85
+    },
+    {
+      "name": "carapace",
+      "value": 3.33
+    },
+    {
+      "name": "Shaka",
+      "value": 3
+    },
+    {
+      "name": ". zero",
+      "value": 3
+    },
+    {
+      "name": "max.power",
+      "value": 3
+    },
+    {
+      "name": "bps",
+      "value": 2.93
+    },
+    {
+      "name": "mm",
+      "value": 2.85
+    },
+    {
+      "name": "gor",
+      "value": 2.83
+    },
+    {
+      "name": "goniec",
+      "value": 2.82
+    },
+    {
+      "name": "maks",
+      "value": 2.77
+    },
+    {
+      "name": "Milton",
+      "value": 2.58
+    },
+    {
+      "name": "ganon",
+      "value": 2.53
+    },
+    {
+      "name": "irn",
+      "value": 2.5
+    },
+    {
+      "name": "maCLer",
+      "value": 2.5
+    },
+    {
+      "name": "gLAd",
+      "value": 2.5
+    },
+    {
+      "name": "razor",
+      "value": 2.47
+    },
+    {
+      "name": "rst",
+      "value": 2.47
+    },
+    {
+      "name": "tom",
+      "value": 2.43
+    },
+    {
+      "name": "reppie",
+      "value": 2.4
+    },
+    {
+      "name": "blixem",
+      "value": 2.33
+    },
+    {
+      "name": ". mazer",
+      "value": 2.2
+    },
+    {
+      "name": "grc",
+      "value": 2.2
+    },
+    {
+      "name": ". niw",
+      "value": 2.18
+    },
+    {
+      "name": "sae",
+      "value": 2.13
+    },
+    {
+      "name": "fix",
+      "value": 2.07
+    },
+    {
+      "name": "MAX POWER",
+      "value": 2
+    },
+    {
+      "name": "Diki",
+      "value": 2
+    },
+    {
+      "name": ". ParadokS",
+      "value": 1.92
+    },
+    {
+      "name": "Zepp",
+      "value": 1.9
+    },
+    {
+      "name": "HENU",
+      "value": 1.89
+    },
+    {
+      "name": ". Gamer",
+      "value": 1.86
+    },
+    {
+      "name": "Xterm",
+      "value": 1.8
+    },
+    {
+      "name": "nit",
+      "value": 1.7
+    },
+    {
+      "name": "ok98",
+      "value": 1.44
+    },
+    {
+      "name": "dot",
+      "value": 1.33
+    }
+  ],
+  "~Efficiency": [
+    {
+      "name": "Milton",
+      "value": 71.82
+    },
+    {
+      "name": "Xterm",
+      "value": 65.38
+    },
+    {
+      "name": "HENU",
+      "value": 63.97
+    },
+    {
+      "name": "nit",
+      "value": 61.61
+    },
+    {
+      "name": "Diki",
+      "value": 59.97
+    },
+    {
+      "name": "carapace",
+      "value": 59
+    },
+    {
+      "name": ". niw",
+      "value": 55.71
+    },
+    {
+      "name": ". zero",
+      "value": 55.38
+    },
+    {
+      "name": "reppie",
+      "value": 53.23
+    },
+    {
+      "name": "blixem",
+      "value": 53.06
+    },
+    {
+      "name": ". ParadokS",
+      "value": 51.23
+    },
+    {
+      "name": "razor",
+      "value": 48.85
+    },
+    {
+      "name": "bps",
+      "value": 48.39
+    },
+    {
+      "name": "MAX POWER",
+      "value": 48.13
+    },
+    {
+      "name": ". Gamer",
+      "value": 46.98
+    },
+    {
+      "name": "gor",
+      "value": 45.83
+    },
+    {
+      "name": "mm",
+      "value": 45.43
+    },
+    {
+      "name": ". mazer",
+      "value": 44.49
+    },
+    {
+      "name": "rst",
+      "value": 43.83
+    },
+    {
+      "name": "dot",
+      "value": 43.68
+    },
+    {
+      "name": "Shaka",
+      "value": 43.6
+    },
+    {
+      "name": "fix",
+      "value": 42.95
+    },
+    {
+      "name": "sae",
+      "value": 41.46
+    },
+    {
+      "name": "ganon",
+      "value": 40.54
+    },
+    {
+      "name": "tom",
+      "value": 40.12
+    },
+    {
+      "name": "irn",
+      "value": 38.77
+    },
+    {
+      "name": "Zepp",
+      "value": 36.91
+    },
+    {
+      "name": "maks",
+      "value": 36.78
+    },
+    {
+      "name": "maCLer",
+      "value": 35.84
+    },
+    {
+      "name": "max.power",
+      "value": 34.7
+    },
+    {
+      "name": "gLAd",
+      "value": 34.51
+    },
+    {
+      "name": "raket",
+      "value": 33.65
+    },
+    {
+      "name": "goniec",
+      "value": 29.69
+    },
+    {
+      "name": "ok98",
+      "value": 28.87
+    },
+    {
+      "name": "grc",
+      "value": 27.34
+    }
+  ],
+  "~Spawnfrags": [
+    {
+      "name": "Milton",
+      "value": 12.42
+    },
+    {
+      "name": "Diki",
+      "value": 10.43
+    },
+    {
+      "name": "Xterm",
+      "value": 9.6
+    },
+    {
+      "name": "nit",
+      "value": 9.1
+    },
+    {
+      "name": "HENU",
+      "value": 8.22
+    },
+    {
+      "name": "carapace",
+      "value": 8.13
+    },
+    {
+      "name": "reppie",
+      "value": 6.4
+    },
+    {
+      "name": "razor",
+      "value": 6.27
+    },
+    {
+      "name": "Shaka",
+      "value": 6
+    },
+    {
+      "name": ". mazer",
+      "value": 5.9
+    },
+    {
+      "name": ". niw",
+      "value": 5.82
+    },
+    {
+      "name": ". zero",
+      "value": 5.69
+    },
+    {
+      "name": "raket",
+      "value": 5.54
+    },
+    {
+      "name": "blixem",
+      "value": 5.27
+    },
+    {
+      "name": "bps",
+      "value": 5.13
+    },
+    {
+      "name": "mm",
+      "value": 4.92
+    },
+    {
+      "name": "gor",
+      "value": 4.58
+    },
+    {
+      "name": "ganon",
+      "value": 4.53
+    },
+    {
+      "name": "MAX POWER",
+      "value": 4.5
+    },
+    {
+      "name": "sae",
+      "value": 4.38
+    },
+    {
+      "name": ". Gamer",
+      "value": 4.36
+    },
+    {
+      "name": "rst",
+      "value": 4.33
+    },
+    {
+      "name": "tom",
+      "value": 4.07
+    },
+    {
+      "name": "maks",
+      "value": 4
+    },
+    {
+      "name": ". ParadokS",
+      "value": 3.83
+    },
+    {
+      "name": "Zepp",
+      "value": 3.7
+    },
+    {
+      "name": "dot",
+      "value": 3.67
+    },
+    {
+      "name": "gLAd",
+      "value": 3.5
+    },
+    {
+      "name": "maCLer",
+      "value": 3.43
+    },
+    {
+      "name": "fix",
+      "value": 3.4
+    },
+    {
+      "name": "irn",
+      "value": 3.25
+    },
+    {
+      "name": "grc",
+      "value": 2.8
+    },
+    {
+      "name": "goniec",
+      "value": 2.64
+    },
+    {
+      "name": "ok98",
+      "value": 2.56
+    },
+    {
+      "name": "max.power",
+      "value": 2.5
+    }
+  ],
+  "~sg %": [
+    {
+      "name": "ganon",
+      "value": 50.35
+    },
+    {
+      "name": "HENU",
+      "value": 48.91
+    },
+    {
+      "name": "carapace",
+      "value": 48.41
+    },
+    {
+      "name": "Milton",
+      "value": 47.32
+    },
+    {
+      "name": "Zepp",
+      "value": 46.52
+    },
+    {
+      "name": "max.power",
+      "value": 45.75
+    },
+    {
+      "name": "ok98",
+      "value": 45.23
+    },
+    {
+      "name": "dot",
+      "value": 45.04
+    },
+    {
+      "name": "nit",
+      "value": 44.48
+    },
+    {
+      "name": "rst",
+      "value": 42.67
+    },
+    {
+      "name": "MAX POWER",
+      "value": 42.55
+    },
+    {
+      "name": "razor",
+      "value": 42.52
+    },
+    {
+      "name": ". niw",
+      "value": 42.45
+    },
+    {
+      "name": "irn",
+      "value": 42.38
+    },
+    {
+      "name": "raket",
+      "value": 41.94
+    },
+    {
+      "name": "reppie",
+      "value": 41.39
+    },
+    {
+      "name": "gLAd",
+      "value": 39.96
+    },
+    {
+      "name": ". zero",
+      "value": 39.56
+    },
+    {
+      "name": ". ParadokS",
+      "value": 39.43
+    },
+    {
+      "name": ". Gamer",
+      "value": 38.48
+    },
+    {
+      "name": "bps",
+      "value": 38.07
+    },
+    {
+      "name": "maCLer",
+      "value": 37.84
+    },
+    {
+      "name": "Shaka",
+      "value": 37.63
+    },
+    {
+      "name": "blixem",
+      "value": 36.85
+    },
+    {
+      "name": "maks",
+      "value": 36.81
+    },
+    {
+      "name": ". mazer",
+      "value": 36.56
+    },
+    {
+      "name": "gor",
+      "value": 36.55
+    },
+    {
+      "name": "goniec",
+      "value": 35.65
+    },
+    {
+      "name": "sae",
+      "value": 35.04
+    },
+    {
+      "name": "Xterm",
+      "value": 34.72
+    },
+    {
+      "name": "mm",
+      "value": 34.58
+    },
+    {
+      "name": "grc",
+      "value": 34.12
+    },
+    {
+      "name": "fix",
+      "value": 33.05
+    },
+    {
+      "name": "Diki",
+      "value": 32.29
+    },
+    {
+      "name": "tom",
+      "value": 30.39
+    }
+  ],
+  "~lg %": [
+    {
+      "name": ". Gamer",
+      "value": 44.3
+    },
+    {
+      "name": "maCLer",
+      "value": 42.78
+    },
+    {
+      "name": "dot",
+      "value": 42.1
+    },
+    {
+      "name": "carapace",
+      "value": 42.03
+    },
+    {
+      "name": "bps",
+      "value": 38.62
+    },
+    {
+      "name": "Xterm",
+      "value": 37.8
+    },
+    {
+      "name": "goniec",
+      "value": 37.4
+    },
+    {
+      "name": ". zero",
+      "value": 37.17
+    },
+    {
+      "name": ". mazer",
+      "value": 36.8
+    },
+    {
+      "name": "blixem",
+      "value": 36.58
+    },
+    {
+      "name": "mm",
+      "value": 36.56
+    },
+    {
+      "name": "Zepp",
+      "value": 36.4
+    },
+    {
+      "name": "Milton",
+      "value": 36.36
+    },
+    {
+      "name": "reppie",
+      "value": 36
+    },
+    {
+      "name": "gLAd",
+      "value": 35.55
+    },
+    {
+      "name": "ganon",
+      "value": 35.5
+    },
+    {
+      "name": "grc",
+      "value": 34.57
+    },
+    {
+      "name": "Diki",
+      "value": 34.35
+    },
+    {
+      "name": ". ParadokS",
+      "value": 33.26
+    },
+    {
+      "name": "fix",
+      "value": 32.94
+    },
+    {
+      "name": "razor",
+      "value": 32.84
+    },
+    {
+      "name": "rst",
+      "value": 32.62
+    },
+    {
+      "name": "HENU",
+      "value": 31.87
+    },
+    {
+      "name": "irn",
+      "value": 31.6
+    },
+    {
+      "name": "gor",
+      "value": 30.95
+    },
+    {
+      "name": ". niw",
+      "value": 30.83
+    },
+    {
+      "name": "nit",
+      "value": 30.2
+    },
+    {
+      "name": "ok98",
+      "value": 29.53
+    },
+    {
+      "name": "raket",
+      "value": 28.74
+    },
+    {
+      "name": "tom",
+      "value": 27.93
+    },
+    {
+      "name": "Shaka",
+      "value": 27.7
+    },
+    {
+      "name": "maks",
+      "value": 27.18
+    },
+    {
+      "name": "sae",
+      "value": 26.65
+    },
+    {
+      "name": "max.power",
+      "value": 23.2
+    },
+    {
+      "name": "MAX POWER",
+      "value": 0
+    }
+  ],
+  "~rl %": [
+    {
+      "name": "dot",
+      "value": 67.48
+    },
+    {
+      "name": "max.power",
+      "value": 67.2
+    },
+    {
+      "name": "blixem",
+      "value": 66.49
+    },
+    {
+      "name": ". ParadokS",
+      "value": 65.95
+    },
+    {
+      "name": "MAX POWER",
+      "value": 65.45
+    },
+    {
+      "name": "gor",
+      "value": 64.84
+    },
+    {
+      "name": "reppie",
+      "value": 64.52
+    },
+    {
+      "name": "Zepp",
+      "value": 64.18
+    },
+    {
+      "name": ". mazer",
+      "value": 62.7
+    },
+    {
+      "name": "sae",
+      "value": 61.74
+    },
+    {
+      "name": "fix",
+      "value": 60.59
+    },
+    {
+      "name": "Diki",
+      "value": 59.74
+    },
+    {
+      "name": "Shaka",
+      "value": 59.13
+    },
+    {
+      "name": "tom",
+      "value": 59.11
+    },
+    {
+      "name": "gLAd",
+      "value": 59
+    },
+    {
+      "name": "maks",
+      "value": 58.35
+    },
+    {
+      "name": "bps",
+      "value": 58.11
+    },
+    {
+      "name": ". Gamer",
+      "value": 57.55
+    },
+    {
+      "name": "Milton",
+      "value": 56.88
+    },
+    {
+      "name": "razor",
+      "value": 56.61
+    },
+    {
+      "name": "rst",
+      "value": 56.58
+    },
+    {
+      "name": "HENU",
+      "value": 56.02
+    },
+    {
+      "name": ". zero",
+      "value": 55.72
+    },
+    {
+      "name": ". niw",
+      "value": 55.68
+    },
+    {
+      "name": "carapace",
+      "value": 55.44
+    },
+    {
+      "name": "ok98",
+      "value": 55.24
+    },
+    {
+      "name": "Xterm",
+      "value": 54.8
+    },
+    {
+      "name": "maCLer",
+      "value": 54.56
+    },
+    {
+      "name": "mm",
+      "value": 54.5
+    },
+    {
+      "name": "ganon",
+      "value": 54.39
+    },
+    {
+      "name": "goniec",
+      "value": 53.24
+    },
+    {
+      "name": "irn",
+      "value": 52.6
+    },
+    {
+      "name": "nit",
+      "value": 52.29
+    },
+    {
+      "name": "raket",
+      "value": 49.72
+    },
+    {
+      "name": "grc",
+      "value": 44.7
+    }
+  ],
+  "~rl ad": [
+    {
+      "name": "Milton",
+      "value": 112.52
+    },
+    {
+      "name": "sae",
+      "value": 108.76
+    },
+    {
+      "name": ". mazer",
+      "value": 100.66
+    },
+    {
+      "name": "Shaka",
+      "value": 100.2
+    },
+    {
+      "name": "tom",
+      "value": 98.24
+    },
+    {
+      "name": "carapace",
+      "value": 98.19
+    },
+    {
+      "name": "razor",
+      "value": 96.93
+    },
+    {
+      "name": "mm",
+      "value": 96.12
+    },
+    {
+      "name": ". Gamer",
+      "value": 95.75
+    },
+    {
+      "name": "nit",
+      "value": 95.35
+    },
+    {
+      "name": ". niw",
+      "value": 95.26
+    },
+    {
+      "name": "Zepp",
+      "value": 94.39
+    },
+    {
+      "name": "bps",
+      "value": 93.73
+    },
+    {
+      "name": "HENU",
+      "value": 93.14
+    },
+    {
+      "name": "goniec",
+      "value": 92.65
+    },
+    {
+      "name": "reppie",
+      "value": 91.21
+    },
+    {
+      "name": "blixem",
+      "value": 91.05
+    },
+    {
+      "name": "Xterm",
+      "value": 91.01
+    },
+    {
+      "name": "raket",
+      "value": 90.76
+    },
+    {
+      "name": "gor",
+      "value": 90.48
+    },
+    {
+      "name": ". zero",
+      "value": 89.05
+    },
+    {
+      "name": "dot",
+      "value": 89.05
+    },
+    {
+      "name": "irn",
+      "value": 88.2
+    },
+    {
+      "name": "ganon",
+      "value": 86.61
+    },
+    {
+      "name": "fix",
+      "value": 86.05
+    },
+    {
+      "name": "rst",
+      "value": 85.82
+    },
+    {
+      "name": "Diki",
+      "value": 85.29
+    },
+    {
+      "name": "maks",
+      "value": 85.09
+    },
+    {
+      "name": "MAX POWER",
+      "value": 85.08
+    },
+    {
+      "name": "ok98",
+      "value": 84.07
+    },
+    {
+      "name": "maCLer",
+      "value": 83.84
+    },
+    {
+      "name": ". ParadokS",
+      "value": 83.22
+    },
+    {
+      "name": "max.power",
+      "value": 82
+    },
+    {
+      "name": "gLAd",
+      "value": 81.56
+    },
+    {
+      "name": "grc",
+      "value": 81.28
+    }
+  ],
+  "~rl dh": [
+    {
+      "name": "Milton",
+      "value": 25.92
+    },
+    {
+      "name": "nit",
+      "value": 19.3
+    },
+    {
+      "name": "Diki",
+      "value": 19.29
+    },
+    {
+      "name": "Shaka",
+      "value": 19
+    },
+    {
+      "name": "HENU",
+      "value": 18.33
+    },
+    {
+      "name": "Xterm",
+      "value": 15.6
+    },
+    {
+      "name": "mm",
+      "value": 15.46
+    },
+    {
+      "name": ". niw",
+      "value": 15.36
+    },
+    {
+      "name": "reppie",
+      "value": 15.27
+    },
+    {
+      "name": "carapace",
+      "value": 14.73
+    },
+    {
+      "name": "MAX POWER",
+      "value": 14.5
+    },
+    {
+      "name": "razor",
+      "value": 14.33
+    },
+    {
+      "name": "gor",
+      "value": 14.17
+    },
+    {
+      "name": "blixem",
+      "value": 13.67
+    },
+    {
+      "name": "raket",
+      "value": 13.54
+    },
+    {
+      "name": "rst",
+      "value": 13.53
+    },
+    {
+      "name": ". zero",
+      "value": 13.46
+    },
+    {
+      "name": "tom",
+      "value": 13.36
+    },
+    {
+      "name": "ganon",
+      "value": 13.2
+    },
+    {
+      "name": ". mazer",
+      "value": 12.9
+    },
+    {
+      "name": "maks",
+      "value": 12.15
+    },
+    {
+      "name": "bps",
+      "value": 11.93
+    },
+    {
+      "name": "sae",
+      "value": 11.88
+    },
+    {
+      "name": ". ParadokS",
+      "value": 11.67
+    },
+    {
+      "name": "fix",
+      "value": 11.67
+    },
+    {
+      "name": "goniec",
+      "value": 10.73
+    },
+    {
+      "name": ". Gamer",
+      "value": 10.43
+    },
+    {
+      "name": "dot",
+      "value": 9.92
+    },
+    {
+      "name": "Zepp",
+      "value": 9.1
+    },
+    {
+      "name": "maCLer",
+      "value": 9
+    },
+    {
+      "name": "irn",
+      "value": 8.5
+    },
+    {
+      "name": "ok98",
+      "value": 8.44
+    },
+    {
+      "name": "gLAd",
+      "value": 7
+    },
+    {
+      "name": "max.power",
+      "value": 6.5
+    },
+    {
+      "name": "grc",
+      "value": 6.2
+    }
+  ],
+  "~RL took": [
+    {
+      "name": "sae",
+      "value": 11.63
+    },
+    {
+      "name": "gor",
+      "value": 9.58
+    },
+    {
+      "name": "goniec",
+      "value": 9.55
+    },
+    {
+      "name": "MAX POWER",
+      "value": 9.5
+    },
+    {
+      "name": "tom",
+      "value": 9.5
+    },
+    {
+      "name": "razor",
+      "value": 9.47
+    },
+    {
+      "name": "raket",
+      "value": 9.23
+    },
+    {
+      "name": "Milton",
+      "value": 9.08
+    },
+    {
+      "name": "carapace",
+      "value": 9.07
+    },
+    {
+      "name": "maCLer",
+      "value": 9
+    },
+    {
+      "name": "Zepp",
+      "value": 8.9
+    },
+    {
+      "name": "maks",
+      "value": 8.85
+    },
+    {
+      "name": "ganon",
+      "value": 8.67
+    },
+    {
+      "name": "mm",
+      "value": 8.62
+    },
+    {
+      "name": "Shaka",
+      "value": 8.5
+    },
+    {
+      "name": ". ParadokS",
+      "value": 8.5
+    },
+    {
+      "name": "Xterm",
+      "value": 8.3
+    },
+    {
+      "name": ". Gamer",
+      "value": 8.29
+    },
+    {
+      "name": "rst",
+      "value": 8.2
+    },
+    {
+      "name": "dot",
+      "value": 8.17
+    },
+    {
+      "name": "bps",
+      "value": 8.07
+    },
+    {
+      "name": ". mazer",
+      "value": 8
+    },
+    {
+      "name": ". niw",
+      "value": 8
+    },
+    {
+      "name": "irn",
+      "value": 8
+    },
+    {
+      "name": "Diki",
+      "value": 8
+    },
+    {
+      "name": "nit",
+      "value": 7.8
+    },
+    {
+      "name": "HENU",
+      "value": 7.78
+    },
+    {
+      "name": "fix",
+      "value": 7.73
+    },
+    {
+      "name": "reppie",
+      "value": 7.73
+    },
+    {
+      "name": ". zero",
+      "value": 7.62
+    },
+    {
+      "name": "max.power",
+      "value": 7.5
+    },
+    {
+      "name": "ok98",
+      "value": 7.44
+    },
+    {
+      "name": "gLAd",
+      "value": 6.75
+    },
+    {
+      "name": "blixem",
+      "value": 6.6
+    },
+    {
+      "name": "grc",
+      "value": 5.2
+    }
+  ],
+  "~RL killed": [
+    {
+      "name": "Milton",
+      "value": 9.75
+    },
+    {
+      "name": "carapace",
+      "value": 9.47
+    },
+    {
+      "name": "mm",
+      "value": 8.92
+    },
+    {
+      "name": "maCLer",
+      "value": 8.79
+    },
+    {
+      "name": "MAX POWER",
+      "value": 8.5
+    },
+    {
+      "name": "dot",
+      "value": 8.08
+    },
+    {
+      "name": ". Gamer",
+      "value": 7.86
+    },
+    {
+      "name": "sae",
+      "value": 7.75
+    },
+    {
+      "name": ". ParadokS",
+      "value": 7.67
+    },
+    {
+      "name": ". zero",
+      "value": 7.62
+    },
+    {
+      "name": "Shaka",
+      "value": 7.5
+    },
+    {
+      "name": "tom",
+      "value": 7.5
+    },
+    {
+      "name": "reppie",
+      "value": 7.47
+    },
+    {
+      "name": "bps",
+      "value": 7.33
+    },
+    {
+      "name": ". niw",
+      "value": 7.09
+    },
+    {
+      "name": "gor",
+      "value": 7
+    },
+    {
+      "name": "nit",
+      "value": 6.9
+    },
+    {
+      "name": "razor",
+      "value": 6.87
+    },
+    {
+      "name": "goniec",
+      "value": 6.73
+    },
+    {
+      "name": "ganon",
+      "value": 6.73
+    },
+    {
+      "name": "raket",
+      "value": 6.69
+    },
+    {
+      "name": "maks",
+      "value": 6.54
+    },
+    {
+      "name": ". mazer",
+      "value": 6.5
+    },
+    {
+      "name": "irn",
+      "value": 6.5
+    },
+    {
+      "name": "ok98",
+      "value": 6.22
+    },
+    {
+      "name": "rst",
+      "value": 6.13
+    },
+    {
+      "name": "Xterm",
+      "value": 6.1
+    },
+    {
+      "name": "Zepp",
+      "value": 6
+    },
+    {
+      "name": "fix",
+      "value": 6
+    },
+    {
+      "name": "blixem",
+      "value": 5.93
+    },
+    {
+      "name": "gLAd",
+      "value": 5.63
+    },
+    {
+      "name": "max.power",
+      "value": 5.5
+    },
+    {
+      "name": "grc",
+      "value": 4.2
+    },
+    {
+      "name": "HENU",
+      "value": 3.78
+    },
+    {
+      "name": "Diki",
+      "value": 3.43
+    }
+  ],
+  "~RL dropped": [
+    {
+      "name": "sae",
+      "value": 6.5
+    },
+    {
+      "name": "raket",
+      "value": 6.31
+    },
+    {
+      "name": "goniec",
+      "value": 5.91
+    },
+    {
+      "name": "Shaka",
+      "value": 5.25
+    },
+    {
+      "name": "maCLer",
+      "value": 5.07
+    },
+    {
+      "name": "MAX POWER",
+      "value": 5
+    },
+    {
+      "name": "mm",
+      "value": 5
+    },
+    {
+      "name": "maks",
+      "value": 4.85
+    },
+    {
+      "name": "gor",
+      "value": 4.75
+    },
+    {
+      "name": "carapace",
+      "value": 4.67
+    },
+    {
+      "name": ". ParadokS",
+      "value": 4.58
+    },
+    {
+      "name": "tom",
+      "value": 4.57
+    },
+    {
+      "name": "rst",
+      "value": 4.47
+    },
+    {
+      "name": ". niw",
+      "value": 4.36
+    },
+    {
+      "name": "razor",
+      "value": 4.07
+    },
+    {
+      "name": "ok98",
+      "value": 4
+    },
+    {
+      "name": "ganon",
+      "value": 3.8
+    },
+    {
+      "name": "irn",
+      "value": 3.75
+    },
+    {
+      "name": "bps",
+      "value": 3.73
+    },
+    {
+      "name": "Zepp",
+      "value": 3.7
+    },
+    {
+      "name": ". mazer",
+      "value": 3.7
+    },
+    {
+      "name": "grc",
+      "value": 3.6
+    },
+    {
+      "name": "gLAd",
+      "value": 3.38
+    },
+    {
+      "name": "HENU",
+      "value": 3.33
+    },
+    {
+      "name": "Xterm",
+      "value": 3.3
+    },
+    {
+      "name": ". Gamer",
+      "value": 3.29
+    },
+    {
+      "name": "dot",
+      "value": 3.25
+    },
+    {
+      "name": ". zero",
+      "value": 3.23
+    },
+    {
+      "name": "reppie",
+      "value": 3.07
+    },
+    {
+      "name": "max.power",
+      "value": 3
+    },
+    {
+      "name": "blixem",
+      "value": 2.93
+    },
+    {
+      "name": "Milton",
+      "value": 2.92
+    },
+    {
+      "name": "fix",
+      "value": 2.6
+    },
+    {
+      "name": "Diki",
+      "value": 2.43
+    },
+    {
+      "name": "nit",
+      "value": 2.4
+    }
+  ]
+}

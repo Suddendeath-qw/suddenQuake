@@ -43,13 +43,16 @@ const CHARSET = {
 
     16: 91, // [ (gold [) 144-128 actually works here
     17: 93, // [ (gold [) 145-128 actually works here
-    18: 48, // 0 gold??? NOT CONFIRMED
-    19: 49, // 1 gold??? NOT CONFIRMED
-    20: 50, // 2 gold??? NOT CONFIRMED
-    21: 51, // 3 gold??? NOT CONFIRMED
-    22: 52, // 4 gold??? NOT CONFIRMED
-    23: 53, // 5 gold??? NOT CONFIRMED
-    24: 54, // CAN becomes gold 6? 152-128???
+    18: 48, // 0 gold
+    19: 49, // 1 gold
+    20: 50, // 2 gold
+    21: 51, // 3 gold
+    22: 52, // 4 gold
+    23: 53, // 5 gold
+    24: 54, // 6 gold? 152-128???
+    25: 55, // 7 gold
+    26: 56, // 8 gold
+    27: 57, // 9 gold
     28: 46, // . (. mid white slackers) 156-128 works here
 
     135: 35, // # (square red?)
@@ -319,9 +322,9 @@ class LineParser {
         p.team = this.c_team;
 
         if (Object.keys(this.data.teams).length == 1) {
-            console.log("     ", clr.black.bgCyan(`${p.team} ${p.name}`))    
+            //console.log("     ", clr.black.bgCyan(`${p.team} ${p.name}`))    
         } else {
-            console.log("     ", clr.black.bgBlue(`${p.team} ${p.name}`))    
+            //console.log("     ", clr.black.bgBlue(`${p.team} ${p.name}`))    
         }
 
         let ln:string;

@@ -48,6 +48,9 @@ var CHARSET = {
     22: 52,
     23: 53,
     24: 54,
+    25: 55,
+    26: 56,
+    27: 57,
     28: 46,
     135: 35,
     // -128 applied here
@@ -266,10 +269,10 @@ var LineParser = /** @class */ (function () {
         p.name = playerName;
         p.team = this.c_team;
         if (Object.keys(this.data.teams).length == 1) {
-            console.log("     ", clr.black.bgCyan("".concat(p.team, " ").concat(p.name)));
+            //console.log("     ", clr.black.bgCyan(`${p.team} ${p.name}`))    
         }
         else {
-            console.log("     ", clr.black.bgBlue("".concat(p.team, " ").concat(p.name)));
+            //console.log("     ", clr.black.bgBlue(`${p.team} ${p.name}`))    
         }
         var ln;
         var cols;

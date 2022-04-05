@@ -35,6 +35,10 @@ var FILTER_PLAYERS = [
     "ganon",
     "rst"
 ];
+var FIX_PLAYERS = {
+    "5Haka": "Shaka",
+    "sHaka": "Shaka"
+};
 var defaultFlatPlayerStats = function () { return ({
     // Metadata
     team: "",
@@ -344,8 +348,11 @@ function Stats_ParseMatches(playerStats, matches) {
         Object.keys(match.teams).forEach(function (teamName) {
             //if (!FILTER_TEAMS.includes(teamName)) return;
             var team = match.teams[teamName];
-            team.players.forEach(function (playerObj) {
+            team.players.forEach(function (playerObj, pi) {
                 var pName = playerObj.name;
+                // Fix the player name for some players who can't decide on how to spell their name...
+                if (FIX_PLAYERS.hasOwnProperty(pName))
+                    pName = FIX_PLAYERS[pName];
                 //if (!FILTER_PLAYERS.includes(pName) return;
                 if (!playerStats.hasOwnProperty(pName)) {
                     console.log("     ", clr.gray("adding player: ".concat(teamName, " ").concat(pName)));
@@ -357,9 +364,13 @@ function Stats_ParseMatches(playerStats, matches) {
         // Top scores
         Object.keys(match.top).forEach(function (award) {
             match.top[award].forEach(function (receiver) {
-                //if (!FILTER_PLAYERS.includes(receiver.name)) return;
+                var pName = receiver.name;
+                // Fix the player name for some players who can't decide on how to spell their name...
+                if (FIX_PLAYERS.hasOwnProperty(pName))
+                    pName = FIX_PLAYERS[pName];
+                //if (!FILTER_PLAYERS.includes(pname)) return;
                 //console.log(playerStats["rio"], receiver)
-                playerStats[receiver.name].addTopAward(award);
+                playerStats[pName].addTopAward(award);
             });
         });
     });
@@ -372,7 +383,7 @@ function Stats_PrettifyForExcel(playerStats, rows) {
         Object.keys(playerStats).forEach(function (pName) {
             var value = playerStats[pName].stats[key];
             value = Number(value) && value % 1 !== 0 ? value.toFixed(2) : value;
-            obj[pName] = value;
+            obj[pName] = parseFloat(value);
         });
         stats[prettyKey] = obj;
     });
@@ -386,11 +397,10 @@ function Stats_BestPlayers(playerStats, rows) {
         var playerScores = Object.keys(players).map(function (name) {
             var value = players[name];
             return { name: name, value: value };
-        });
-        //players.sort((a, b )=> (a.name < b.name ? 1 : -1))
-        console.log(playerScores);
-        //console.log(statArr);
+        }).sort(function (a, b) { return (a.value < b.value ? 1 : -1); });
+        best[statKey] = playerScores;
     });
+    return best;
 }
 function main() {
     var matches;
@@ -415,7 +425,7 @@ function main() {
         var stats = Stats_PrettifyForExcel(players, rows_1.statsRows);
         var best = Stats_BestPlayers(players, rows_1.bestRows);
         //const best = 
-        fs.writeFileSync("janne.json", JSON.stringify(stats, null, 2));
+        fs.writeFileSync("best.json", JSON.stringify(best, null, 2));
     }
     catch (e) {
         console.error(e);
