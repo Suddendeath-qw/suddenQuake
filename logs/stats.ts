@@ -1,6 +1,8 @@
-import * as fs from "fs"
+import * as path from "path"
+import * as clr from "ansi-colors"
 import {PlayerData, FlatPlayerStats, TeamDataObj, MatchDataObj, TopScorerEntry} from "./logtypes"
-import * as rows from "./rows.json"
+import { bestRows, statsRows } from "./rows"
+import * as fs from "fs"
 import { throws } from "assert"
 // TODO
 // Convert to flat instantly!
@@ -25,9 +27,7 @@ export class MatchData implements MatchDataObj {
     }
 }
 
-let data = {
-    matches: []
-}
+
 
 
 
@@ -385,76 +385,137 @@ class PlayerStatsTotal  {
 
 }
 
-function importJSON () {
-    const dirname = "./s1json";
-    const filenames = fs.readdirSync(dirname)
-    filenames.forEach(filename => {
-        const content = fs.readFileSync(dirname + "/" + filename, 'utf-8');
-        const match = new MatchData(JSON.parse(content))
-        data.matches.push(match)
-    });
-}//
-
-// Import the data => data.matches
-// Import the data => data.matches
-// Import the data => data.matches
-// Import the data => data.matches
-// Import the data => data.matches
-// Import the data => data.matches
-
-importJSON();
-
-
-let playerStats = {};
-FILTER_PLAYERS.forEach(playerName => {
-    playerStats[playerName] = new PlayerStatsTotal(defaultFlatPlayerStats())
-})
-
-
-// loop through the matches and filter out player stats
-data.matches.forEach(match => {
-    if (!FILTER_MAPS.includes(match.map)) return;
-    // Top scores
-    Object.keys(match.top).forEach(award => {
-        match.top[award].forEach((receiver:TopScorerEntry) => {
-            if (!FILTER_PLAYERS.includes(receiver.name)) return;
-            playerStats[receiver.name].addTopAward(award);
-        })
-    })
-
-
-    Object.keys(match.teams).forEach(teamName => {
-        if (!FILTER_TEAMS.includes(teamName)) return;
-        const team = match.teams[teamName]
-
-        team.players.forEach((playerObj:PlayerData) => {
-            
-            if (!FILTER_PLAYERS.includes(playerObj.name)) return;
-            let pl = playerStats[playerObj.name]
-            pl.addFromPlayerData(playerObj, match.map, isWin(match.teams, teamName))
-        })
-    })
-
-})
-
-// Write flat json for =s= players
-
-
-
-let stats = {};
-Object.keys(rows).map(key => {
-    let obj = {};
-    const prettyKey = rows[key];
-    Object.keys(playerStats).forEach(pName => {
-        let value = playerStats[pName].stats[key];
-        value = Number(value) && value % 1 !== 0 ? value.toFixed(2) : value;
-        obj[pName] = value;
-    });
-
-    stats[prettyKey] = obj;
-});
-
 //console.log(rows)
 
-fs.writeFileSync("janne_s1.json", JSON.stringify(stats, null, 2))
+
 //console.log("matches", playerStats["andeh"])
+
+/*
+ * ====================================================================
+ *
+ * Functions
+ *
+ * ====================================================================
+ */
+
+function Stats_ImportFile (fpath:string, matches:Array<MatchData>) {
+    const fileInfo = path.parse(fpath);
+    console.log("  →", clr.green(`importing stats ${fileInfo.name}.json`))
+
+    const content = fs.readFileSync(fpath, 'utf-8');
+    const match = new MatchData(JSON.parse(content))
+    matches.push(match);
+    //console.log(data)
+}
+
+function Stats_ImportFiles (fpath:string, matches:Array<MatchData>) {
+    const filenames = fs.readdirSync(fpath)
+    filenames.forEach(function(filename) {
+        Stats_ImportFile(fpath + "/" + filename, matches);
+    });
+}
+
+function Stats_ParseMatches (playerStats:Array<PlayerStatsTotal>, matches:Array<MatchData>) {
+// loop through the matches and filter out player stats
+    matches.forEach(match => {
+        if (!FILTER_MAPS.includes(match.map)) return;
+
+        // Players
+        Object.keys(match.teams).forEach(teamName => {
+            //if (!FILTER_TEAMS.includes(teamName)) return;
+            const team = match.teams[teamName]
+
+            team.players.forEach((playerObj:PlayerData) => {
+                const pName = playerObj.name;
+                //if (!FILTER_PLAYERS.includes(pName) return;
+                if (!playerStats.hasOwnProperty(pName)) {
+                    console.log("     ", clr.gray(`adding player: ${teamName} ${pName}`))    
+                    playerStats[pName] = new PlayerStatsTotal(defaultFlatPlayerStats());
+                }
+
+                playerStats[pName].addFromPlayerData(playerObj, match.map, isWin(match.teams, teamName));
+            });
+        });
+
+        // Top scores
+        Object.keys(match.top).forEach(award => {
+            match.top[award].forEach((receiver:TopScorerEntry) => {
+                //if (!FILTER_PLAYERS.includes(receiver.name)) return;
+                //console.log(playerStats["rio"], receiver)
+                playerStats[receiver.name].addTopAward(award);
+            });
+        });
+
+    });
+}
+
+function Stats_PrettifyForExcel (playerStats:Array<PlayerStatsTotal>, rows) {
+    let stats = {};
+    Object.keys(rows).map(key => {
+        let obj = {};
+        const prettyKey = rows[key];
+        Object.keys(playerStats).forEach(pName => {
+            let value = playerStats[pName].stats[key];
+            value = Number(value) && value % 1 !== 0 ? value.toFixed(2) : value;
+            obj[pName] = value;
+        });
+
+        stats[prettyKey] = obj;
+    });
+
+    return stats;
+}
+
+function Stats_BestPlayers (playerStats:Array<PlayerStatsTotal>, rows) {
+    let best = {};
+    const stats = Stats_PrettifyForExcel(playerStats, rows);
+    Object.keys(stats).forEach(statKey => {
+        let players = stats[statKey];
+        let playerScores = Object.keys(players).map(name => {
+            const value = players[name];
+            return {name, value}
+        });
+        //players.sort((a, b )=> (a.name < b.name ? 1 : -1))
+        console.log(playerScores)
+        
+        //console.log(statArr);
+
+
+    });
+
+
+}
+
+
+function main () {
+    let matches:Array<MatchData>;
+    let players:Array<PlayerStatsTotal>;
+    
+
+    try {
+        if (!process.argv[2]) throw new Error("usage: node stats.js <statsfile.json|jsondir>")
+        const fpath = path.join(process.cwd(), process.argv[2])
+        if (!fs.existsSync(fpath)) throw new Error("statsfile or directory not found")
+        
+        // Import json files
+        matches = [];
+        players = [];
+        const fstat = fs.lstatSync(fpath)
+        if (fstat.isDirectory()) Stats_ImportFiles(fpath, matches)
+        else if (fstat.isFile()) Stats_ImportFile(fpath, matches)
+
+        // Run the stats parsing
+        Stats_ParseMatches(players, matches);
+
+        // Write JSON for Excel
+        const stats = Stats_PrettifyForExcel(players, statsRows);
+        const best = Stats_BestPlayers(players, bestRows);
+        //const best = 
+        fs.writeFileSync("janne.json", JSON.stringify(stats, null, 2))
+        
+    } catch (e) {
+        console.error(e)
+    }
+}
+
+main();

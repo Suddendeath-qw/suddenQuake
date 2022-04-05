@@ -1,8 +1,10 @@
 "use strict";
 exports.__esModule = true;
 exports.MatchData = void 0;
+var path = require("path");
+var clr = require("ansi-colors");
+var rows_1 = require("./rows");
 var fs = require("fs");
-var rows = require("./rows.json");
 // TODO
 // Convert to flat instantly!
 // One type for flatstats (not total and avg in same)
@@ -25,9 +27,6 @@ var MatchData = /** @class */ (function () {
     return MatchData;
 }());
 exports.MatchData = MatchData;
-var data = {
-    matches: []
-};
 var FILTER_TEAMS = ["-s-"];
 var FILTER_MAPS = ["dm3", "dm2", "e1m2"];
 var FILTER_PLAYERS = [
@@ -313,62 +312,113 @@ var PlayerStatsTotal = /** @class */ (function () {
     };
     return PlayerStatsTotal;
 }());
-function importJSON() {
-    var dirname = "./s1json";
-    var filenames = fs.readdirSync(dirname);
-    filenames.forEach(function (filename) {
-        var content = fs.readFileSync(dirname + "/" + filename, 'utf-8');
-        var match = new MatchData(JSON.parse(content));
-        data.matches.push(match);
-    });
-} //
-// Import the data => data.matches
-// Import the data => data.matches
-// Import the data => data.matches
-// Import the data => data.matches
-// Import the data => data.matches
-// Import the data => data.matches
-importJSON();
-var playerStats = {};
-FILTER_PLAYERS.forEach(function (playerName) {
-    playerStats[playerName] = new PlayerStatsTotal(defaultFlatPlayerStats());
-});
-// loop through the matches and filter out player stats
-data.matches.forEach(function (match) {
-    if (!FILTER_MAPS.includes(match.map))
-        return;
-    // Top scores
-    Object.keys(match.top).forEach(function (award) {
-        match.top[award].forEach(function (receiver) {
-            if (!FILTER_PLAYERS.includes(receiver.name))
-                return;
-            playerStats[receiver.name].addTopAward(award);
-        });
-    });
-    Object.keys(match.teams).forEach(function (teamName) {
-        if (!FILTER_TEAMS.includes(teamName))
-            return;
-        var team = match.teams[teamName];
-        team.players.forEach(function (playerObj) {
-            if (!FILTER_PLAYERS.includes(playerObj.name))
-                return;
-            var pl = playerStats[playerObj.name];
-            pl.addFromPlayerData(playerObj, match.map, isWin(match.teams, teamName));
-        });
-    });
-});
-// Write flat json for =s= players
-var stats = {};
-Object.keys(rows).map(function (key) {
-    var obj = {};
-    var prettyKey = rows[key];
-    Object.keys(playerStats).forEach(function (pName) {
-        var value = playerStats[pName].stats[key];
-        value = Number(value) && value % 1 !== 0 ? value.toFixed(2) : value;
-        obj[pName] = value;
-    });
-    stats[prettyKey] = obj;
-});
 //console.log(rows)
-fs.writeFileSync("janne_s1.json", JSON.stringify(stats, null, 2));
 //console.log("matches", playerStats["andeh"])
+/*
+ * ====================================================================
+ *
+ * Functions
+ *
+ * ====================================================================
+ */
+function Stats_ImportFile(fpath, matches) {
+    var fileInfo = path.parse(fpath);
+    console.log("  →", clr.green("importing stats ".concat(fileInfo.name, ".json")));
+    var content = fs.readFileSync(fpath, 'utf-8');
+    var match = new MatchData(JSON.parse(content));
+    matches.push(match);
+    //console.log(data)
+}
+function Stats_ImportFiles(fpath, matches) {
+    var filenames = fs.readdirSync(fpath);
+    filenames.forEach(function (filename) {
+        Stats_ImportFile(fpath + "/" + filename, matches);
+    });
+}
+function Stats_ParseMatches(playerStats, matches) {
+    // loop through the matches and filter out player stats
+    matches.forEach(function (match) {
+        if (!FILTER_MAPS.includes(match.map))
+            return;
+        // Players
+        Object.keys(match.teams).forEach(function (teamName) {
+            //if (!FILTER_TEAMS.includes(teamName)) return;
+            var team = match.teams[teamName];
+            team.players.forEach(function (playerObj) {
+                var pName = playerObj.name;
+                //if (!FILTER_PLAYERS.includes(pName) return;
+                if (!playerStats.hasOwnProperty(pName)) {
+                    console.log("     ", clr.gray("adding player: ".concat(teamName, " ").concat(pName)));
+                    playerStats[pName] = new PlayerStatsTotal(defaultFlatPlayerStats());
+                }
+                playerStats[pName].addFromPlayerData(playerObj, match.map, isWin(match.teams, teamName));
+            });
+        });
+        // Top scores
+        Object.keys(match.top).forEach(function (award) {
+            match.top[award].forEach(function (receiver) {
+                //if (!FILTER_PLAYERS.includes(receiver.name)) return;
+                //console.log(playerStats["rio"], receiver)
+                playerStats[receiver.name].addTopAward(award);
+            });
+        });
+    });
+}
+function Stats_PrettifyForExcel(playerStats, rows) {
+    var stats = {};
+    Object.keys(rows).map(function (key) {
+        var obj = {};
+        var prettyKey = rows[key];
+        Object.keys(playerStats).forEach(function (pName) {
+            var value = playerStats[pName].stats[key];
+            value = Number(value) && value % 1 !== 0 ? value.toFixed(2) : value;
+            obj[pName] = value;
+        });
+        stats[prettyKey] = obj;
+    });
+    return stats;
+}
+function Stats_BestPlayers(playerStats, rows) {
+    var best = {};
+    var stats = Stats_PrettifyForExcel(playerStats, rows);
+    Object.keys(stats).forEach(function (statKey) {
+        var players = stats[statKey];
+        var playerScores = Object.keys(players).map(function (name) {
+            var value = players[name];
+            return { name: name, value: value };
+        });
+        //players.sort((a, b )=> (a.name < b.name ? 1 : -1))
+        console.log(playerScores);
+        //console.log(statArr);
+    });
+}
+function main() {
+    var matches;
+    var players;
+    try {
+        if (!process.argv[2])
+            throw new Error("usage: node stats.js <statsfile.json|jsondir>");
+        var fpath = path.join(process.cwd(), process.argv[2]);
+        if (!fs.existsSync(fpath))
+            throw new Error("statsfile or directory not found");
+        // Import json files
+        matches = [];
+        players = [];
+        var fstat = fs.lstatSync(fpath);
+        if (fstat.isDirectory())
+            Stats_ImportFiles(fpath, matches);
+        else if (fstat.isFile())
+            Stats_ImportFile(fpath, matches);
+        // Run the stats parsing
+        Stats_ParseMatches(players, matches);
+        // Write JSON for Excel
+        var stats = Stats_PrettifyForExcel(players, rows_1.statsRows);
+        var best = Stats_BestPlayers(players, rows_1.bestRows);
+        //const best = 
+        fs.writeFileSync("janne.json", JSON.stringify(stats, null, 2));
+    }
+    catch (e) {
+        console.error(e);
+    }
+}
+main();

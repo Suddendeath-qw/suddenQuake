@@ -1,4 +1,43 @@
-{
+const bestRows = {
+  "dm2_wl": "dm2 %",  
+  "dm3_wl": "dm3 %",
+  "e1m2_wl": "e1m2 %",
+
+  "t_frags": "Frags",
+  "t_net": "Net",
+  "t_tk": "Teamkills",
+
+  "t_top_frags": "Award Frags",
+  "t_top_deaths": "Award Deaths",
+  "t_top_friendkills": "Award Friendkills",
+  "t_top_efficiency": "Award Efficiency",
+  "t_top_fragstreak": "Award Fragstreak",
+  "t_top_quadrun": "Award Quadrunner",
+  "t_top_rlkiller": "Award RL killer",
+  "t_top_boomsticker": "Award Boomsticker",
+  "t_top_survivor": "Award Survivor",
+  "t_top_annihilator": "Award Annihilator",
+  "b_streaks_frags": "Best Frag streak",
+  "b_streaks_quadrun": "Best Quad run",
+
+  "a_frags": "~Frags",
+  "a_net": "~Net",
+  "a_tk": "~Teamkills",
+  "a_eff": "~Efficiency",
+  "a_spawnfrags": "~Spawnfrags",
+  
+  "a_wp_sg": "~sg %",
+  "a_wp_lg": "~lg %",
+  "a_wp_rl": "~rl %",
+  "a_rlskill_ad": "~rl ad",
+  "a_rlskill_dh": "~rl dh",
+
+  "a_rl_took": "~RL took",
+  "a_rl_killed": "~RL killed",
+  "a_rl_dropped": "~RL dropped",
+
+}
+const statsRows = {
   "matches": "Matches",
   "win": "Wins",
   "loss": "Losses",
@@ -65,3 +104,8 @@
   "a_streaks_frags": "~Frag streak",
   "a_streaks_quadrun": "~Quadrun"
 }
+
+module.exports = {
+  bestRows: bestRows,
+  statsRows: statsRows
+};

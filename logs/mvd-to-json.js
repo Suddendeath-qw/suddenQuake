@@ -212,7 +212,7 @@ var LineParser = /** @class */ (function () {
         this.re_Player_2 = /^Wp\:\s([a-z0-9.%]+)?(?:\s?\([0-9]+\/[0-9]+\))?\s?([a-z0-9.%]+)?\s?([a-z0-9.%]+)?\s?([a-z0-9.%]+)?\s?([a-z0-9.%]+)?$/i;
         this.re_Player_3 = /^([a-z\s\&]+)\:\s([a-z]+\:[0-9.]+)\s?([a-z]+\:[0-9.]+)?\s?([a-z]+\:[0-9.]+)?\s?([a-z]+\:[0-9.]+)?\s?([a-z]+\:[0-9.]+)?\s?([a-z]+\:[0-9.]+)?/i;
         this.re_Player_4 = /^SpawnFrags\:\s([0-9]+)$/i;
-        this.re_PlayerEnd = /^\_{10}$/;
+        this.re_PlayerEnd = /^\<\={8}\>$/;
         this.re_WpStats = /^([a-z]+)([0-9\.%]+)$/i;
         this.re_TopScorers = /\[(.+)\]\stop\sscorers\:$/i;
         this.re_TopCategory = /^([a-z\s]+)\:\s(.+)\s\[([0-9%.\-]+)\]$/i;
@@ -265,6 +265,12 @@ var LineParser = /** @class */ (function () {
         var p = emptyPlayerData();
         p.name = playerName;
         p.team = this.c_team;
+        if (Object.keys(this.data.teams).length == 1) {
+            console.log("     ", clr.black.bgCyan("".concat(p.team, " ").concat(p.name)));
+        }
+        else {
+            console.log("     ", clr.black.bgBlue("".concat(p.team, " ").concat(p.name)));
+        }
         var ln;
         var cols;
         var _loop_1 = function () {
@@ -368,7 +374,7 @@ function Log_ParseFile(fpath) {
     // WriteJSON
     var outputPath = path.join(process.cwd(), fileInfo.name + ".json");
     fs.writeFileSync(outputPath, JSON.stringify(data, null, 2));
-    console.log("  →", clr.green("writing ".concat(fileInfo.name, ".json")));
+    console.log("  →", clr.greenBright("writing ".concat(fileInfo.name, ".json")));
     console.log();
     //console.log(data)
 }
