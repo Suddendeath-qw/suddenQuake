@@ -36,8 +36,20 @@ var FILTER_PLAYERS = [
     "rst"
 ];
 var FIX_PLAYERS = {
+    // Div 1
     "5Haka": "Shaka",
-    "sHaka": "Shaka"
+    "sHaka": "Shaka",
+    // Div2
+    "Wimdowlicker": "wim",
+    "w!mpansee": "wim",
+    "Wimensrights": "wim",
+    "Wimposter": "wim",
+    "Wimpanion": "wim",
+    "hangtime.ua": "hangtime",
+    // Div 3
+    "(1)k4t": "k4t",
+    "viag.": "viag",
+    "hestmox": "hemostx"
 };
 var defaultFlatPlayerStats = function () { return ({
     // Metadata
@@ -62,6 +74,7 @@ var defaultFlatPlayerStats = function () { return ({
     e1m2_wl: 0.5,
     // Total
     t_frags: 0,
+    t_deaths: 0,
     t_net: 0,
     t_tk: 0,
     t_eff: 0,
@@ -96,6 +109,7 @@ var defaultFlatPlayerStats = function () { return ({
     t_rl_killed: 0,
     t_rl_dropped: 0,
     t_rl_xfer: 0,
+    t_rl_kdx: 0,
     t_lg_took: 0,
     t_lg_killed: 0,
     t_lg_dropped: 0,
@@ -111,6 +125,7 @@ var defaultFlatPlayerStats = function () { return ({
     t_streaks_quadrun: 0,
     // Avg
     a_frags: 0,
+    a_deaths: 0,
     a_net: 0,
     a_tk: 0,
     a_eff: 0,
@@ -135,6 +150,7 @@ var defaultFlatPlayerStats = function () { return ({
     a_rl_killed: 0,
     a_rl_dropped: 0,
     a_rl_xfer: 0,
+    a_rl_kdx: 0,
     a_lg_took: 0,
     a_lg_killed: 0,
     a_lg_dropped: 0,
@@ -149,6 +165,8 @@ var defaultFlatPlayerStats = function () { return ({
     a_streaks_frags: 0,
     a_streaks_quadrun: 0,
     // Best
+    b_frags: 0,
+    b_deaths: 0,
     b_streaks_frags: 0,
     b_streaks_quadrun: 0
 }); };
@@ -204,21 +222,20 @@ var PlayerStatsTotal = /** @class */ (function () {
             .filter(function (cat) { return !_this.isMapSpecificItem(cat); });
         categories.forEach(function (cat) {
             var category = data[cat];
-            // Map specfic keys
-            var itemKeys = Object.keys(category)
+            // Map-specfic keys
+            var mapItemKeys = Object.keys(category)
                 .filter(function (key) { return _this.isMapSpecificItem(key); })
                 .filter(function (key) { return _this.isItemOnMap(key, mapName); });
-            if (_this.stats.name == "andeh") {
-                //console.log(mapName, category, itemKeys)
-                //console.log("-----------------------")
-            }
-            itemKeys.forEach(function (key) { return _this.addEntries([cat, key], category[key], key); });
-            var keys = Object.keys(category)
+            mapItemKeys.forEach(function (key) { return _this.addEntries([cat, key], category[key], key); });
+            // Non-map-specific keys
+            var nonMapItemKeys = Object.keys(category)
                 .filter(function (key) { return !_this.isMapSpecificItem(key); });
-            keys.forEach(function (key) { return _this.addEntries([cat, key], category[key]); });
+            nonMapItemKeys.forEach(function (key) { return _this.addEntries([cat, key], category[key]); });
         });
     };
     PlayerStatsTotal.prototype.addEntries = function (keys, entry, item) {
+        if (entry === 99999)
+            return; // invalid data
         item = this.itemFix(item);
         var nMatches = item ? this.getMatchesWithItem(item) : this.stats.matches;
         this.addTotal(keys, entry);
@@ -244,7 +261,7 @@ var PlayerStatsTotal = /** @class */ (function () {
     };
     PlayerStatsTotal.prototype.isMapSpecificItem = function (item) {
         item = this.itemFix(item);
-        var items = ["quad", "pent", "ring", "ra", "ya", "ga", "mh", "rl", "lg", "gl", "sng", "ssg", "sg"];
+        var items = ["quad", "pent", "ring", "ra", "ya", "ga", "mh", "rl", "lg", "gl", "sng", "ssg"];
         return items.includes(item);
     };
     PlayerStatsTotal.prototype.getMatchesWithItem = function (item) {
@@ -265,35 +282,13 @@ var PlayerStatsTotal = /** @class */ (function () {
     };
     PlayerStatsTotal.prototype.isItemOnMap = function (item, mapName) {
         var mapItems = {
-            dm3: ["quad", "pent", "ring", "ra", "ya", "mh", "rl", "lg", "gl", "sng", "ssg", "sg"],
-            dm2: ["quad", "ra", "ya", "mh", "rl", "gl", "ng", "ssg", "sg"],
-            e1m2: ["quad", "ya", "ga", "mh", "rl", "gl", "sng", "ng", "ssg", "sg"]
+            dm3: ["quad", "pent", "ring", "ra", "ya", "mh", "rl", "lg", "gl", "sng", "ssg"],
+            dm2: ["quad", "ra", "ya", "mh", "rl", "gl", "ng", "ssg"],
+            e1m2: ["quad", "ya", "ga", "mh", "rl", "gl", "sng", "ng", "ssg"],
+            schloss: ["quad", "pent", "ring", "ra", "ya", "mh", "rl", "gl", "sng", "ssg"],
+            obsidan: ["quad", "pent", "ya", "ga", "mh", "rl", "gl", "sng", "ssg"]
         };
-        return mapItems[mapName].includes(this.itemFix(item));
-    };
-    PlayerStatsTotal.prototype.addAvgMapItem = function (key, item, mapName, entry) {
-        item = this.itemFix(item);
-        var k = key.join('_');
-        // Map items
-        var mapItems = {
-            dm3: ["quad", "pent", "ring", "ra", "ya", "mh", "rl", "lg", "gl", "sng", "ssg", "sg"],
-            dm2: ["quad", "ra", "ya", "mh", "rl", "gl", "ng", "ssg", "sg"],
-            e1m2: ["quad", "ya", "ga", "mh", "rl", "gl", "sng", "ng", "ssg", "sg"]
-        };
-        if (this.stats.name == "andeh" && k == "lg_took") {
-            //console.log(item, k, mapName, entry)
-        }
-        // If it's a map item (LG/Pent) but played map does not include it (dm2), don't count this zero towards avg.
-        if (!mapItems[mapName].includes(item))
-            return;
-        var nMaps = 0;
-        if (mapItems.dm2.includes(item))
-            nMaps += this.stats.dm2;
-        if (mapItems.dm3.includes(item))
-            nMaps += this.stats.dm3;
-        if (mapItems.e1m2.includes(item))
-            nMaps += this.stats.e1m2;
-        this.addAvg(key, entry, nMaps);
+        return mapItems[mapName] && mapItems[mapName].includes(this.itemFix(item));
     };
     PlayerStatsTotal.prototype.itemFix = function (itemName) {
         switch (itemName) {
@@ -355,7 +350,7 @@ function Stats_ParseMatches(playerStats, matches) {
                     pName = FIX_PLAYERS[pName];
                 //if (!FILTER_PLAYERS.includes(pName) return;
                 if (!playerStats.hasOwnProperty(pName)) {
-                    console.log("     ", clr.gray("adding player: ".concat(teamName, " ").concat(pName)));
+                    //console.log("     ", clr.gray(`adding player: ${teamName} ${pName}`))    
                     playerStats[pName] = new PlayerStatsTotal(defaultFlatPlayerStats());
                 }
                 playerStats[pName].addFromPlayerData(playerObj, match.map, isWin(match.teams, teamName));
@@ -389,18 +384,37 @@ function Stats_PrettifyForExcel(playerStats, rows) {
     });
     return stats;
 }
-function Stats_BestPlayers(playerStats, rows) {
+function Stats_BestPlayers(playerStats, rows, n) {
+    n = n || rows.length;
     var best = {};
     var stats = Stats_PrettifyForExcel(playerStats, rows);
     Object.keys(stats).forEach(function (statKey) {
         var players = stats[statKey];
-        var playerScores = Object.keys(players).map(function (name) {
+        var playerScores = Object.keys(players)
+            .map(function (name) {
             var value = players[name];
             return { name: name, value: value };
-        }).sort(function (a, b) { return (a.value < b.value ? 1 : -1); });
+        })
+            .sort(function (a, b) { return (a.value < b.value ? 1 : -1); })
+            .slice(0, n);
         best[statKey] = playerScores;
     });
     return best;
+}
+function Stats_WriteDiscord(best) {
+    var str = "";
+    Object.keys(best).forEach(function (key) {
+        var gold = best[key][0];
+        var silver = best[key][1];
+        var bronze = best[key][2];
+        // Key
+        str += "**".concat(key, "**:\n");
+        // Medals
+        str += ":first_place: ".concat(gold.name, " (").concat(gold.value, ")    ");
+        str += ":second_place: ".concat(silver.name, " (").concat(silver.value, ")    ");
+        str += ":third_place: ".concat(bronze.name, " (").concat(bronze.value, ")\n\n");
+    });
+    return str;
 }
 function main() {
     var matches;
@@ -421,11 +435,17 @@ function main() {
             Stats_ImportFile(fpath, matches);
         // Run the stats parsing
         Stats_ParseMatches(players, matches);
+        var pnames = Object.keys(players).sort(function (a, b) {
+            return a < b ? -1 : 1;
+        });
+        console.log(pnames);
         // Write JSON for Excel
         var stats = Stats_PrettifyForExcel(players, rows_1.statsRows);
         var best = Stats_BestPlayers(players, rows_1.bestRows);
+        var md = Stats_WriteDiscord(best);
         //const best = 
-        fs.writeFileSync("best.json", JSON.stringify(best, null, 2));
+        fs.writeFileSync("div2.json", JSON.stringify(best, null, 2));
+        fs.writeFileSync("div2.md", md);
     }
     catch (e) {
         console.error(e);

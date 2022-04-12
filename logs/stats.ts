@@ -38,8 +38,23 @@ const FILTER_PLAYERS  = [
 
 
 const FIX_PLAYERS = {
+    // Div 1
     "5Haka": "Shaka",
-    "sHaka": "Shaka"
+    "sHaka": "Shaka",
+
+    // Div2
+    "Wimdowlicker": "wim",
+    "w!mpansee": "wim",
+    "Wimensrights": "wim",
+    "Wimposter": "wim",
+    "Wimpanion": "wim",
+
+    "hangtime.ua": "hangtime",
+
+    // Div 3
+    "(1)k4t": "k4t",
+    "viag.": "viag",
+    "hestmox": "hemostx"
 }
 
 const defaultFlatPlayerStats = ():FlatPlayerStats => ({
@@ -67,6 +82,7 @@ const defaultFlatPlayerStats = ():FlatPlayerStats => ({
 
     // Total
     t_frags: 0,
+    t_deaths: 0,
     t_net: 0,
     t_tk: 0,
     t_eff: 0,
@@ -107,6 +123,7 @@ const defaultFlatPlayerStats = ():FlatPlayerStats => ({
     t_rl_killed: 0,
     t_rl_dropped: 0,
     t_rl_xfer: 0,
+    t_rl_kdx: 0,
 
     t_lg_took: 0,
     t_lg_killed: 0,
@@ -126,6 +143,7 @@ const defaultFlatPlayerStats = ():FlatPlayerStats => ({
 
     // Avg
     a_frags: 0,
+    a_deaths: 0,
     a_net: 0,
     a_tk: 0,
     a_eff: 0,
@@ -155,6 +173,7 @@ const defaultFlatPlayerStats = ():FlatPlayerStats => ({
     a_rl_killed: 0,
     a_rl_dropped: 0,
     a_rl_xfer: 0,
+    a_rl_kdx: 0,
 
     a_lg_took: 0,
     a_lg_killed: 0,
@@ -173,6 +192,8 @@ const defaultFlatPlayerStats = ():FlatPlayerStats => ({
     a_streaks_quadrun: 0,
 
     // Best
+    b_frags: 0,
+    b_deaths: 0,
     b_streaks_frags: 0,
     b_streaks_quadrun: 0
 })
@@ -246,31 +267,27 @@ class PlayerStatsTotal  {
         categories.forEach(cat => {
             const category = data[cat];
 
-            // Map specfic keys
-            const itemKeys = 
+            // Map-specfic keys
+            const mapItemKeys = 
                 Object.keys(category)
                       .filter(key => this.isMapSpecificItem(key))
                       .filter(key => this.isItemOnMap(key, mapName));
 
-            if (this.stats.name == "andeh") {
-                //console.log(mapName, category, itemKeys)
-                //console.log("-----------------------")
-            }
-            
+            mapItemKeys.forEach(key => this.addEntries([cat, key], category[key], key));
 
-            itemKeys.forEach(key => this.addEntries([cat, key], category[key], key));
-
-            const keys = 
+            // Non-map-specific keys
+            const nonMapItemKeys = 
                 Object.keys(category)
                       .filter(key => !this.isMapSpecificItem(key));
 
-            keys.forEach(key => this.addEntries([cat, key], category[key]));
+            nonMapItemKeys.forEach(key => this.addEntries([cat, key], category[key]));
 
         });
 
     }
 
     private addEntries(keys:Array<string>, entry:number, item?:string) {
+        if (entry === 99999) return; // invalid data
         item = this.itemFix(item);
         const nMatches = item ? this.getMatchesWithItem(item) : this.stats.matches;
 
@@ -303,11 +320,9 @@ class PlayerStatsTotal  {
         this.stats[k] = this.stats[k] < entry ? entry : this.stats[k]
     }
 
-
-
     private isMapSpecificItem (item:string) {
         item = this.itemFix(item);
-        const items = ["quad", "pent", "ring", "ra", "ya", "ga", "mh", "rl", "lg", "gl", "sng", "ssg", "sg"];
+        const items = ["quad", "pent", "ring", "ra", "ya", "ga", "mh", "rl", "lg", "gl", "sng", "ssg"];
         return items.includes(item);
     }
 
@@ -329,42 +344,16 @@ class PlayerStatsTotal  {
 
     private isItemOnMap (item:string, mapName:string) {
         const mapItems = {
-            dm3: ["quad", "pent", "ring", "ra", "ya", "mh", "rl", "lg", "gl", "sng", "ssg", "sg"],
-            dm2: ["quad", "ra", "ya", "mh", "rl", "gl", "ng", "ssg", "sg"],
-            e1m2: ["quad", "ya", "ga", "mh", "rl", "gl", "sng", "ng", "ssg", "sg"]
+            dm3: ["quad", "pent", "ring", "ra", "ya", "mh", "rl", "lg", "gl", "sng", "ssg"],
+            dm2: ["quad", "ra", "ya", "mh", "rl", "gl", "ng", "ssg"],
+            e1m2: ["quad", "ya", "ga", "mh", "rl", "gl", "sng", "ng", "ssg"],
+            schloss: ["quad", "pent", "ring", "ra", "ya", "mh", "rl", "gl", "sng", "ssg"],
+            obsidan: ["quad", "pent", "ya", "ga", "mh", "rl", "gl", "sng", "ssg"],
         };
 
-        return mapItems[mapName].includes(this.itemFix(item));
+        return mapItems[mapName] && mapItems[mapName].includes(this.itemFix(item));
     }
     
-
-    private addAvgMapItem (key:Array<string>, item:string, mapName:string, entry:number) {
-        item = this.itemFix(item);
-
-        const k = key.join('_')
-
-        // Map items
-        const mapItems = {
-            dm3: ["quad", "pent", "ring", "ra", "ya", "mh", "rl", "lg", "gl", "sng", "ssg", "sg"],
-            dm2: ["quad", "ra", "ya", "mh", "rl", "gl", "ng", "ssg", "sg"],
-            e1m2: ["quad", "ya", "ga", "mh", "rl", "gl", "sng", "ng", "ssg", "sg"]
-        };
-        if (this.stats.name == "andeh" && k == "lg_took") {
-            //console.log(item, k, mapName, entry)
-        }
-
-        // If it's a map item (LG/Pent) but played map does not include it (dm2), don't count this zero towards avg.
-        if (!mapItems[mapName].includes(item)) return;
-
-        let nMaps = 0;
-
-        if (mapItems.dm2.includes(item)) nMaps += this.stats.dm2;
-        if (mapItems.dm3.includes(item)) nMaps += this.stats.dm3;
-        if (mapItems.e1m2.includes(item)) nMaps += this.stats.e1m2;
-
-        this.addAvg(key, entry, nMaps);
-    }
-
     private itemFix (itemName:string):string {
         switch (itemName) {
             case "quad":
@@ -435,7 +424,7 @@ function Stats_ParseMatches (playerStats:Array<PlayerStatsTotal>, matches:Array<
 
                 //if (!FILTER_PLAYERS.includes(pName) return;
                 if (!playerStats.hasOwnProperty(pName)) {
-                    console.log("     ", clr.gray(`adding player: ${teamName} ${pName}`))    
+                    //console.log("     ", clr.gray(`adding player: ${teamName} ${pName}`))    
                     playerStats[pName] = new PlayerStatsTotal(defaultFlatPlayerStats());
                 }
 
@@ -478,20 +467,46 @@ function Stats_PrettifyForExcel (playerStats:Array<PlayerStatsTotal>, rows) {
     return stats;
 }
 
-function Stats_BestPlayers (playerStats:Array<PlayerStatsTotal>, rows) {
+function Stats_BestPlayers (playerStats:Array<PlayerStatsTotal>, rows, n?:number) {
+    n = n || rows.length;
     let best = {};
     const stats = Stats_PrettifyForExcel(playerStats, rows);
     Object.keys(stats).forEach(statKey => {
         let players = stats[statKey];
-        let playerScores = Object.keys(players).map(name => {
+        let playerScores = Object.keys(players)
+        .map(name => {
             const value = players[name];
             return {name, value}
-        }).sort((a, b)=> (a.value < b.value ? 1 : -1));
+        })
+        .sort((a, b)=> (a.value < b.value ? 1 : -1))
+        .slice(0, n)
+
 
         best[statKey] = playerScores;
     });
 
     return best;
+}
+
+function Stats_WriteDiscord (best) {
+    let str:string = "";
+    
+    Object.keys(best).forEach(key => {
+        const gold = best[key][0];
+        const silver = best[key][1];
+        const bronze = best[key][2];
+    
+        // Key
+        str += `**${key}**:\n`;
+        
+        // Medals
+        str += `:first_place: ${gold.name} (${gold.value})    `
+        str += `:second_place: ${silver.name} (${silver.value})    `
+        str += `:third_place: ${bronze.name} (${bronze.value})\n\n`
+    });
+
+    
+    return str;
 }
 
 
@@ -514,12 +529,21 @@ function main () {
 
         // Run the stats parsing
         Stats_ParseMatches(players, matches);
+        const pnames = Object.keys(players).sort((a, b) => {
+            return a < b ? -1 : 1;
+        })
+        console.log(pnames);
+        
+
 
         // Write JSON for Excel
         const stats = Stats_PrettifyForExcel(players, statsRows);
         const best = Stats_BestPlayers(players, bestRows);
+        const md = Stats_WriteDiscord(best);
+        
         //const best = 
-        fs.writeFileSync("best.json", JSON.stringify(best, null, 2))
+        fs.writeFileSync("div2.json", JSON.stringify(best, null, 2))
+        fs.writeFileSync("div2.md", md)
         
     } catch (e) {
         console.error(e)

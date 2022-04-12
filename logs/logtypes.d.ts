@@ -2,6 +2,7 @@ export interface PlayerData {
     team: string,
     name: string,
     frags: number,
+    deaths: number,
     net: number,
     tk: number,
     eff: number,
@@ -33,7 +34,8 @@ export interface PlayerData {
         took: number,
         killed: number,
         dropped: number,
-        xfer?: number
+        xfer?: number,
+        kdx?: number
     },
     lg?: {
         took: number,
@@ -96,6 +98,7 @@ export interface FlatPlayerStats {
 
     // Total
     t_frags: number
+    t_deaths: number
     t_net: number
     t_tk: number
     t_eff: number
@@ -125,6 +128,7 @@ export interface FlatPlayerStats {
     t_rl_killed: number
     t_rl_dropped: number
     t_rl_xfer: number
+    t_rl_kdx: number
 
     t_lg_took: number
     t_lg_killed: number
@@ -144,6 +148,7 @@ export interface FlatPlayerStats {
 
     // Avg
     a_frags: number
+    a_deaths: number
     a_net: number
     a_tk: number
     a_eff: number
@@ -173,6 +178,7 @@ export interface FlatPlayerStats {
     a_rl_killed: number
     a_rl_dropped: number
     a_rl_xfer: number
+    a_rl_kdx: number
 
     a_lg_took: number
     a_lg_killed: number
@@ -191,6 +197,8 @@ export interface FlatPlayerStats {
     a_streaks_quadrun: number
 
     // Best
+    b_frags: number,
+    b_deaths: number,
     b_streaks_frags: number,
     b_streaks_quadrun: number
 }

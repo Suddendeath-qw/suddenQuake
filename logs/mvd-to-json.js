@@ -16,6 +16,7 @@ var emptyPlayerData = function () { return ({
     team: "",
     name: "",
     frags: 0,
+    deaths: 0,
     net: 0,
     tk: 0,
     eff: 0,
@@ -23,7 +24,7 @@ var emptyPlayerData = function () { return ({
     rlskill: { ad: 0, dh: 0 },
     armrmhs: { ga: 0, ya: 0, ra: 0, mh: 0 },
     powerups: { q: 0, p: 0, r: 0 },
-    rl: { took: 0, killed: 0, dropped: 0, xfer: 0 },
+    rl: { took: 0, killed: 0, dropped: 0, xfer: 0, kdx: 0 },
     lg: { took: 0, killed: 0, dropped: 0, xfer: 0 },
     damage: { tkn: 0, gvn: 0, ewep: 0, tm: 0, self: 0, todie: 0 },
     time: { quad: 0 },
@@ -71,6 +72,7 @@ var STRIP_CHARS = [
     4,
     8,
     9,
+    12,
     31, // US - Unit separator
 ];
 /*
@@ -283,6 +285,7 @@ var LineParser = /** @class */ (function () {
                 p.frags = parseInt(cols[1]);
                 p.net = parseInt(cols[2]);
                 p.tk = parseInt(cols[3]);
+                p.deaths = p.frags - p.net;
                 p.eff = parseFloat(cols[4]);
             }
             // Wp: rl64.9% gl21.8% sg50.2% ssg35.3%
@@ -291,8 +294,10 @@ var LineParser = /** @class */ (function () {
                 cols.slice(1).forEach(function (wp) {
                     if (!wp)
                         return;
-                    var wps = wp.match(_this.re_WpStats);
-                    p.wp[wps[1].toLowerCase()] = parseFloat(wps[2]);
+                    var wps;
+                    if (wps = wp.match(_this.re_WpStats)) {
+                        p.wp[wps[1].toLowerCase()] = parseFloat(wps[2]);
+                    }
                 });
             }
             // Stats Row 
@@ -326,6 +331,10 @@ var LineParser = /** @class */ (function () {
         do {
             _loop_1();
         } while (!ln.match(this.re_PlayerEnd) && ln.length);
+        // Calculate extra stats for this player
+        if (p.rl) {
+            p.rl.kdx = p.rl.killed / (p.rl.dropped - (p.rl.xfer || 0));
+        }
         this.data.teams[p.team].players.push(p);
     }; // parse_Player (m:RegExpMatchArray)
     LineParser.prototype.parse_TopScorers = function (m) {
@@ -362,9 +371,9 @@ var LineParser = /** @class */ (function () {
  *
  * ====================================================================
  */
-function Log_ParseFile(fpath) {
+function Log_ParseFile(fpath, i, len) {
     var fileInfo = path.parse(fpath);
-    console.log("  →", clr.white("parsing ".concat(fileInfo.name, ".mvd")));
+    console.log("[".concat(i + 1, "/").concat(len, "]  \u2192"), clr.white("parsing ".concat(fileInfo.name, ".mvd")));
     var buf = fs.readFileSync(fpath);
     var mvd = new Mvd_Parser(buf);
     var endStats = mvd.getStats();
@@ -377,14 +386,14 @@ function Log_ParseFile(fpath) {
     // WriteJSON
     var outputPath = path.join(process.cwd(), fileInfo.name + ".json");
     fs.writeFileSync(outputPath, JSON.stringify(data, null, 2));
-    console.log("  →", clr.greenBright("writing ".concat(fileInfo.name, ".json")));
+    console.log("[".concat(i + 1, "/").concat(len, "]  \u2192"), clr.greenBright("writing ".concat(fileInfo.name, ".json")));
     console.log();
     //console.log(data)
 }
 function Log_ParseFiles(fpath) {
-    var filenames = fs.readdirSync(fpath);
-    filenames.forEach(function (filename) {
-        Log_ParseFile(fpath + "/" + filename);
+    var filenames = fs.readdirSync(fpath).filter(function (fn) { return fn.match(/^.+\.mvd$/); });
+    filenames.forEach(function (filename, i, array) {
+        Log_ParseFile(fpath + "/" + filename, i, array.length);
     });
 }
 function main() {

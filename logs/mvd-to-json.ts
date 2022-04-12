@@ -15,6 +15,7 @@ const emptyPlayerData = ():PlayerData => ({
     team: "",
     name: "",
     frags: 0,
+    deaths: 0,
     net: 0,
     tk: 0,
     eff: 0,
@@ -22,7 +23,7 @@ const emptyPlayerData = ():PlayerData => ({
     rlskill: { ad: 0, dh: 0 },
     armrmhs: { ga: 0, ya: 0, ra: 0, mh: 0 },
     powerups: { q: 0, p: 0, r: 0 },
-    rl: { took: 0, killed: 0, dropped: 0, xfer: 0 },
+    rl: { took: 0, killed: 0, dropped: 0, xfer: 0, kdx: 0 },
     lg: { took: 0, killed: 0, dropped: 0, xfer: 0 },
     damage: { tkn: 0, gvn: 0, ewep: 0, tm: 0, self: 0, todie: 0 },
     time: { quad: 0 },
@@ -83,6 +84,7 @@ const STRIP_CHARS = [
     4, // EOT - End of Transmission
     8, // BS - Backspace
     9, // HT - Horizontal Tab
+    12, // FF - Form feed
     31, // US - Unit separator
 ];
 
@@ -339,6 +341,7 @@ class LineParser {
                 p.frags = parseInt(cols[1])
                 p.net = parseInt(cols[2])
                 p.tk = parseInt(cols[3])
+                p.deaths = p.frags - p.net;
                 p.eff = parseFloat(cols[4])
             } 
             // Wp: rl64.9% gl21.8% sg50.2% ssg35.3%
@@ -346,8 +349,11 @@ class LineParser {
                 p.wp = {};
                 cols.slice(1).forEach(wp => {
                     if (!wp) return;
-                    let wps = wp.match(this.re_WpStats);
-                    p.wp[wps[1].toLowerCase()] = parseFloat(wps[2]);
+
+                    let wps:RegExpMatchArray;
+                    if (wps = wp.match(this.re_WpStats)) {
+                        p.wp[wps[1].toLowerCase()] = parseFloat(wps[2]);
+                    }
                 });
             }
             // Stats Row 
@@ -378,6 +384,11 @@ class LineParser {
 
             ln = this.lc.next()
         } while (!ln.match(this.re_PlayerEnd) && ln.length)
+
+        // Calculate extra stats for this player
+        if (p.rl) {
+            p.rl.kdx =  p.rl.killed / (p.rl.dropped - (p.rl.xfer || 0))
+        }
 
         this.data.teams[p.team].players.push(p);
     } // parse_Player (m:RegExpMatchArray)
@@ -423,9 +434,9 @@ class LineParser {
  * ====================================================================
  */
 
-function Log_ParseFile (fpath:string) {
+function Log_ParseFile (fpath:string, i?:number, len?:number) {
     const fileInfo = path.parse(fpath);
-    console.log("  →", clr.white(`parsing ${fileInfo.name}.mvd`))
+    console.log(`[${i+1}/${len}]  →`, clr.white(`parsing ${fileInfo.name}.mvd`))
 
     const buf = fs.readFileSync(fpath);
     const mvd = new Mvd_Parser(buf);
@@ -441,16 +452,17 @@ function Log_ParseFile (fpath:string) {
     // WriteJSON
     const outputPath = path.join(process.cwd(), fileInfo.name + ".json");
     fs.writeFileSync(outputPath, JSON.stringify(data, null, 2));
-    console.log("  →", clr.greenBright(`writing ${fileInfo.name}.json`));
+    console.log(`[${i+1}/${len}]  →`, clr.greenBright(`writing ${fileInfo.name}.json`));
     console.log();
     
     //console.log(data)
 }
 
 function Log_ParseFiles (fpath:string) {
-    const filenames = fs.readdirSync(fpath)
-    filenames.forEach(function(filename) {
-        Log_ParseFile(fpath + "/" + filename);
+    const filenames = fs.readdirSync(fpath).filter(fn => fn.match(/^.+\.mvd$/));
+
+    filenames.forEach((filename, i, array) => {
+        Log_ParseFile(fpath + "/" + filename, i, array.length);
     });
 }
 
