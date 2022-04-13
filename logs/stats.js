@@ -329,7 +329,7 @@ function Stats_ImportFile(fpath, matches) {
     //console.log(data)
 }
 function Stats_ImportFiles(fpath, matches) {
-    var filenames = fs.readdirSync(fpath);
+    var filenames = fs.readdirSync(fpath).filter(function (fn) { return fn.match(/^.+\.json$/); });
     filenames.forEach(function (filename) {
         Stats_ImportFile(fpath + "/" + filename, matches);
     });
@@ -401,19 +401,70 @@ function Stats_BestPlayers(playerStats, rows, n) {
     });
     return best;
 }
+function Medals_BSG(best, key, bsg) {
+    if (bsg === void 0) { bsg = 3; }
+    var gold = best[key][0];
+    var silver = best[key][1];
+    var bronze = best[key][2];
+    var str = "";
+    if (bsg > 0)
+        str += "**".concat(key, "**: ");
+    if (bsg > 1)
+        str += "\n";
+    if (bsg > 0)
+        str += ":first_place: ".concat(gold.name, " (").concat(gold.value, ")    ");
+    if (bsg > 1)
+        str += ":second_place: ".concat(silver.name, " (").concat(silver.value, ")    ");
+    if (bsg > 2)
+        str += ":third_place: ".concat(bronze.name, " (").concat(bronze.value, ")");
+    if (bsg > 1)
+        str += "\n";
+    str += "\n";
+    return str;
+}
 function Stats_WriteDiscord(best) {
     var str = "";
-    Object.keys(best).forEach(function (key) {
-        var gold = best[key][0];
-        var silver = best[key][1];
-        var bronze = best[key][2];
-        // Key
-        str += "**".concat(key, "**:\n");
-        // Medals
-        str += ":first_place: ".concat(gold.name, " (").concat(gold.value, ")    ");
-        str += ":second_place: ".concat(silver.name, " (").concat(silver.value, ")    ");
-        str += ":third_place: ".concat(bronze.name, " (").concat(bronze.value, ")\n\n");
-    });
+    // Total
+    str += ":crown: Total:\n";
+    str += "-------------------------\n";
+    str += Medals_BSG(best, "Total Frags");
+    str += Medals_BSG(best, "Total NET+");
+    str += Medals_BSG(best, "Total Teamkills");
+    str += '\n';
+    // Achievements
+    str += ":trophy: Achievement:\n";
+    str += "-------------------------\n";
+    str += Medals_BSG(best, "Top fragger");
+    str += Medals_BSG(best, "Top deaths");
+    str += Medals_BSG(best, "Best frag streak");
+    str += '\n';
+    // Averages
+    str += ":star: Average per map:\n";
+    str += "-------------------------\n";
+    str += Medals_BSG(best, "Avg. Frags per map", 1);
+    str += Medals_BSG(best, "Avg. NET per map", 1);
+    str += Medals_BSG(best, "Avg. Teamkills per map", 1);
+    str += Medals_BSG(best, "Avg. Eff% per map", 1);
+    str += Medals_BSG(best, "Avg. Spawnfrags per map", 1);
+    str += Medals_BSG(best, "Avg. Boomstick%", 1);
+    str += Medals_BSG(best, "Avg. Pines%", 1);
+    str += Medals_BSG(best, "Avg. rl damage", 1);
+    str += Medals_BSG(best, "Avg. rl killed", 1);
+    str += Medals_BSG(best, "Avg. rl dropped", 1);
+    str += Medals_BSG(best, "Avg. rl kdx (kills vs. dropped)", 1);
+    str += Medals_BSG(best, "Avg. given damage", 1);
+    str += Medals_BSG(best, "Avg. ewep damage", 1);
+    str += Medals_BSG(best, "Avg. team damage", 1);
+    str += Medals_BSG(best, "Avg. self damage", 1);
+    str += Medals_BSG(best, "Avg. todie damage", 1);
+    str += '\n';
+    // Powerups
+    str += ":ring: Powerups:\n";
+    str += "-------------------------\n";
+    str += Medals_BSG(best, "Best Quad run (kills)");
+    str += Medals_BSG(best, "Never forgets Pent (taken)");
+    str += Medals_BSG(best, "Lord of the Rings (taken)");
+    str += '\n';
     return str;
 }
 function main() {
@@ -440,12 +491,13 @@ function main() {
         });
         console.log(pnames);
         // Write JSON for Excel
+        var basename = path.basename(fpath);
         var stats = Stats_PrettifyForExcel(players, rows_1.statsRows);
         var best = Stats_BestPlayers(players, rows_1.bestRows);
         var md = Stats_WriteDiscord(best);
         //const best = 
-        fs.writeFileSync("div2.json", JSON.stringify(best, null, 2));
-        fs.writeFileSync("div2.md", md);
+        fs.writeFileSync(basename + ".json", JSON.stringify(best, null, 2));
+        fs.writeFileSync(basename + ".md", md);
     }
     catch (e) {
         console.error(e);

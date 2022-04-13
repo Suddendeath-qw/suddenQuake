@@ -400,7 +400,7 @@ function Stats_ImportFile (fpath:string, matches:Array<MatchData>) {
 }
 
 function Stats_ImportFiles (fpath:string, matches:Array<MatchData>) {
-    const filenames = fs.readdirSync(fpath)
+    const filenames = fs.readdirSync(fpath).filter(fn => fn.match(/^.+\.json$/));
     filenames.forEach(function(filename) {
         Stats_ImportFile(fpath + "/" + filename, matches);
     });
@@ -479,7 +479,7 @@ function Stats_BestPlayers (playerStats:Array<PlayerStatsTotal>, rows, n?:number
             return {name, value}
         })
         .sort((a, b)=> (a.value < b.value ? 1 : -1))
-        .slice(0, n)
+        .slice(0, n);
 
 
         best[statKey] = playerScores;
@@ -488,23 +488,72 @@ function Stats_BestPlayers (playerStats:Array<PlayerStatsTotal>, rows, n?:number
     return best;
 }
 
+function Medals_BSG(best, key, bsg:number=3) {
+    const gold = best[key][0];
+    const silver = best[key][1];
+    const bronze = best[key][2];
+
+    let str = "";
+    if (bsg > 0) str += `**${key}**: `;
+    if (bsg > 1) str += `\n`;
+    if (bsg > 0) str += `:first_place: ${gold.name} (${gold.value})    `
+    if (bsg > 1) str += `:second_place: ${silver.name} (${silver.value})    `
+    if (bsg > 2) str += `:third_place: ${bronze.name} (${bronze.value})`
+    if (bsg > 1) str += `\n`;
+    str += `\n`;
+
+    return str;
+}
+
 function Stats_WriteDiscord (best) {
     let str:string = "";
-    
-    Object.keys(best).forEach(key => {
-        const gold = best[key][0];
-        const silver = best[key][1];
-        const bronze = best[key][2];
-    
-        // Key
-        str += `**${key}**:\n`;
-        
-        // Medals
-        str += `:first_place: ${gold.name} (${gold.value})    `
-        str += `:second_place: ${silver.name} (${silver.value})    `
-        str += `:third_place: ${bronze.name} (${bronze.value})\n\n`
-    });
 
+    // Total
+    str += ":crown: Total:\n";
+    str += "-------------------------\n";
+    str += Medals_BSG(best, "Total Frags");
+    str += Medals_BSG(best, "Total NET+");
+    str += Medals_BSG(best, "Total Teamkills");
+    str += '\n';
+
+    // Achievements
+    str += ":trophy: Achievement:\n";
+    str += "-------------------------\n";
+    str += Medals_BSG(best, "Top fragger");
+    str += Medals_BSG(best, "Top deaths");
+    str += Medals_BSG(best, "Best frag streak");
+    str += '\n';
+
+    // Averages
+    str += ":star: Average per map:\n";
+    str += "-------------------------\n";
+    str += Medals_BSG(best, "Avg. Frags per map", 1);
+    str += Medals_BSG(best, "Avg. NET per map", 1);
+    str += Medals_BSG(best, "Avg. Teamkills per map", 1);
+    str += Medals_BSG(best, "Avg. Eff% per map", 1);
+    str += Medals_BSG(best, "Avg. Spawnfrags per map", 1);
+    str += Medals_BSG(best, "Avg. Boomstick%", 1);
+    str += Medals_BSG(best, "Avg. Pines%", 1);
+  
+    str += Medals_BSG(best, "Avg. rl damage", 1);
+    str += Medals_BSG(best, "Avg. rl killed", 1);
+    str += Medals_BSG(best, "Avg. rl dropped", 1);
+    str += Medals_BSG(best, "Avg. rl kdx (kills vs. dropped)", 1);
+  
+    str += Medals_BSG(best, "Avg. given damage", 1);
+    str += Medals_BSG(best, "Avg. ewep damage", 1);
+    str += Medals_BSG(best, "Avg. team damage", 1);
+    str += Medals_BSG(best, "Avg. self damage", 1);
+    str += Medals_BSG(best, "Avg. todie damage", 1);
+    str += '\n';
+
+    // Powerups
+    str += ":ring: Powerups:\n";
+    str += "-------------------------\n";
+    str += Medals_BSG(best, "Best Quad run (kills)");
+    str += Medals_BSG(best, "Never forgets Pent (taken)");
+    str += Medals_BSG(best, "Lord of the Rings (taken)");
+    str += '\n';
     
     return str;
 }
@@ -527,6 +576,8 @@ function main () {
         if (fstat.isDirectory()) Stats_ImportFiles(fpath, matches)
         else if (fstat.isFile()) Stats_ImportFile(fpath, matches)
 
+        
+
         // Run the stats parsing
         Stats_ParseMatches(players, matches);
         const pnames = Object.keys(players).sort((a, b) => {
@@ -537,13 +588,15 @@ function main () {
 
 
         // Write JSON for Excel
+        
+        const basename = path.basename(fpath);
         const stats = Stats_PrettifyForExcel(players, statsRows);
         const best = Stats_BestPlayers(players, bestRows);
         const md = Stats_WriteDiscord(best);
         
         //const best = 
-        fs.writeFileSync("div2.json", JSON.stringify(best, null, 2))
-        fs.writeFileSync("div2.md", md)
+        fs.writeFileSync(basename + ".json", JSON.stringify(best, null, 2))
+        fs.writeFileSync(basename + ".md", md)
         
     } catch (e) {
         console.error(e)

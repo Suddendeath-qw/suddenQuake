@@ -9,6 +9,7 @@ const bestRows = {
   "a_eff": "Avg. Eff% per map",
   "a_spawnfrags": "Avg. Spawnfrags per map",
   "a_wp_sg": "Avg. Boomstick%",
+  "a_wp_gl": "Avg. Pines%",
 
   "a_rlskill_ad": "Avg. rl damage",
   "a_rl_killed": "Avg. rl killed",
@@ -23,7 +24,7 @@ const bestRows = {
 
   "b_frags": "Top fragger",
   "b_deaths": "Top deaths",
-  "b_streaks_frags": "Best Frag streak",
+  "b_streaks_frags": "Best frag streak",
   "b_streaks_quadrun": "Best Quad run (kills)",
   "t_powerups_p": "Never forgets Pent (taken)",
   "t_powerups_r": "Lord of the Rings (taken)",
