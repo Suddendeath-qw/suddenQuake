@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/Suddendeath-qw/suddenQuake#readme",
   "devDependencies": {
+    "@types/node": "^17.0.21",
     "adm-zip": "^0.5.9",
     "ansi-colors": "^4.1.1",
     "checksum": "^1.0.0",

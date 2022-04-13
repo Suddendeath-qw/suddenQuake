@@ -1,0 +1,159 @@
+Server starts recording (disk): 4on4_sexy_vs_sta[dm3]160322-2136.mvd
+matchdate: 2022-03-16 21:36:26 CET
+The match is over
+
+Player statistics:
+<====================================>
+Frags (rank) friendkills . efficiency
+Team [sexy]:
+<========>
+# .6.link:
+  23 (-16) 4 37.1%
+Wp: lg18.6% (13/70) rl54.8% gl10.0% sg27.3% ssg29.6%
+RL skill: ad:86.7 dh:4
+Armr&mhs: ga:0 ya:3 ra:3 mh:13
+Powerups: Q:1 P:0 R:1
+      RL: Took:2 Killed:3 Dropped:2
+      LG: Took:5 Killed:4 Dropped:3
+  Damage: Tkn:5411 Gvn:5075 EWep:2165 Tm:386 Self:444 ToDie:138
+    Time: Quad:30
+ Streaks: Frags:5 QuadRun:2
+  SpawnFrags: 0
+<========>
+# .6.rat:
+  49 (21) 1 63.6%
+Wp: lg39.1% (70/179) rl52.6% gl14.3% sg42.8% ssg30.0%
+RL skill: ad:96.9 dh:13
+Armr&mhs: ga:0 ya:7 ra:9 mh:4
+Powerups: Q:2 P:1 R:0
+      RL: Took:6 Killed:7 Dropped:2
+      LG: Took:6 Killed:6 Dropped:0
+  Damage: Tkn:4718 Gvn:6759 EWep:2164 Tm:271 Self:407 ToDie:168
+    Time: Quad:35
+ Streaks: Frags:28 QuadRun:5
+  SpawnFrags: 5
+<========>
+# .6.skurk:
+  40 (-15) 0 42.1%
+Wp: rl54.9% gl14.3% sg43.1% ssg23.6%
+RL skill: ad:82.4 dh:10
+Armr&mhs: ga:0 ya:9 ra:2 mh:10
+Powerups: Q:1 P:0 R:1
+      RL: Took:12 Killed:10 Dropped:6
+      LG: Took:0 Killed:5 Dropped:0
+  Damage: Tkn:7938 Gvn:7275 EWep:3179 Tm:159 Self:163 ToDie:144
+    Time: Quad:24
+ Streaks: Frags:11 QuadRun:3
+  SpawnFrags: 1
+<========>
+# .6.ncr:
+  37 (-3) 1 48.1%
+Wp: lg28.6% (20/70) rl50.4% sg32.4%
+RL skill: ad:99.9 dh:15
+Armr&mhs: ga:0 ya:6 ra:7 mh:7
+Powerups: Q:3 P:2 R:0
+      RL: Took:6 Killed:3 Dropped:4 Xfer:2
+      LG: Took:3 Killed:5 Dropped:1
+  Damage: Tkn:6281 Gvn:5916 EWep:1792 Tm:249 Self:452 ToDie:157
+    Time: Quad:90
+ Streaks: Frags:28 QuadRun:4
+  SpawnFrags: 4
+
+Team [sTa]:
+<========>
+# anni:
+  42 (-3) 1 48.3%
+Wp: lg35.8% (48/134) rl39.8% gl29.6% sg31.1% ssg39.8%
+RL skill: ad:89.7 dh:12
+Armr&mhs: ga:0 ya:8 ra:7 mh:11
+Powerups: Q:4 P:1 R:1
+      RL: Took:8 Killed:5 Dropped:3 Xfer:1
+      LG: Took:4 Killed:2 Dropped:0
+  Damage: Tkn:6533 Gvn:7089 EWep:2128 Tm:525 Self:528 ToDie:145
+    Time: Quad:77
+ Streaks: Frags:16 QuadRun:2
+  SpawnFrags: 4
+<========>
+# andy:
+  30 (-22) 1 36.6%
+Wp: lg40.0% (18/45) rl37.1% gl18.2% sg35.7% ssg14.6%
+RL skill: ad:97.6 dh:6
+Armr&mhs: ga:0 ya:6 ra:5 mh:8
+Powerups: Q:3 P:0 R:0
+      RL: Took:5 Killed:5 Dropped:4 Xfer:3
+      LG: Took:7 Killed:4 Dropped:2
+  Damage: Tkn:7333 Gvn:5791 EWep:1730 Tm:267 Self:258 ToDie:141
+    Time: Quad:54
+ Streaks: Frags:7 QuadRun:4
+  SpawnFrags: 1
+<========>
+# knasty:
+  35 (-3) 0 47.9%
+Wp: lg29.6% (21/71) rl37.7% sg44.7% ssg19.4%
+RL skill: ad:117.5 dh:5
+Armr&mhs: ga:0 ya:6 ra:7 mh:5
+Powerups: Q:4 P:0 R:1
+      RL: Took:7 Killed:6 Dropped:1
+      LG: Took:6 Killed:2 Dropped:2
+  Damage: Tkn:5776 Gvn:6068 EWep:2222 Tm:72 Self:566 ToDie:152
+    Time: Quad:90
+ Streaks: Frags:7 QuadRun:2
+  SpawnFrags: 3
+<========>
+# pattah:
+  32 (-5) 2 46.4%
+Wp: lg33.3% (31/93) rl42.9% sg40.2% ssg34.4%
+RL skill: ad:84.0 dh:9
+Armr&mhs: ga:0 ya:8 ra:6 mh:1
+Powerups: Q:2 P:0 R:0
+      RL: Took:7 Killed:4 Dropped:2
+      LG: Took:10 Killed:3 Dropped:4
+  Damage: Tkn:5383 Gvn:5400 EWep:1881 Tm:196 Self:440 ToDie:145
+    Time: Quad:58
+ Streaks: Frags:9 QuadRun:2
+  SpawnFrags: 3
+
+<====================================>
+[sexy] vs [sTa] match statistics:
+<====================================>
+
+weapons, powerups, armors&mhs, damage
+<====================================>
+[sexy]: Wp: lg32% rl42 gl3 sg36% ssg26%
+Powerups: Q:7 P:3 R:2
+Armr&mhs: ga:0 ya:25 ra:21 mh:34
+      RL: Took:26 Killed:23 Dropped:14 Xfer:2
+      LG: Took:14 Killed:20 Dropped:4
+  Damage: Tkn:24348 Gvn:25025 EWep:9300 Tm:1065
+    Time: Quad:179
+[sTa]: Wp: lg34% rl32 gl7 sg38% ssg22%
+Powerups: Q:13 P:1 R:2
+Armr&mhs: ga:0 ya:28 ra:25 mh:25
+      RL: Took:27 Killed:20 Dropped:10 Xfer:4
+      LG: Took:27 Killed:11 Dropped:8
+  Damage: Tkn:25025 Gvn:24348 EWep:7961 Tm:1060
+    Time: Quad:281
+<====================================>
+[dm3] top scorers:
+<====================================>
+      Frags: .6.rat [49]
+     Deaths: .6.skurk [55]
+Friendkills: .6.link [4]
+ Efficiency: .6.rat [63.6%]
+ FragStreak: .6.rat [28]
+             .6.ncr [28]
+    QuadRun: .6.rat [5]
+  RL Killer: .6.skurk [10]
+Boomsticker: knasty [44.7%]
+   Survivor: .6.rat [168]
+Annihilator: .6.skurk [7275]
+
+<====================================>
+
+Team scores: frags . percentage
+<====================================>
+[sexy]: 149 . 51.7%
+[sTa]: 139 . 48.3%
+<====================================>
+B
+lines 158
