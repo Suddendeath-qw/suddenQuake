@@ -9,6 +9,7 @@ function clean(cb) {
     cb();
 }
 
+/*
 function stp_esbuild (cb) {
     exec('npx esbuild stpupdate/stpupdate.js --bundle --outfile=stpupdate/out.js --platform=node', function (err, stdout, stderr) {
         //console.log(stdout);
@@ -24,6 +25,7 @@ function stp_pkg (cb) {
         cb(err);
     });
 }
+*/
 
 function teamplaypk3(cb) {
     gulp.src(['qw/__s_timer.cfg', 'qw/__s_teamplay.cfg'])
@@ -32,7 +34,7 @@ function teamplaypk3(cb) {
         .on('end', () => cb());
 }
 function teamplayzip(cb) {
-    gulp.src(['dist/suddenteamplay.pk3', 'qw/suddenteamplay.cfg', 'qw/stp_update.bat', 'stpupdate/stp_update.exe'])
+    gulp.src(['dist/suddenteamplay.pk3', 'qw/suddenteamplay.cfg', 'qw/stp_update.bat'])
 		.pipe(zip('suddenteamplay-latest.zip'))
 		.pipe(gulp.dest('dist'))
     cb();
@@ -46,5 +48,6 @@ function build(cb) {
 }
 
 exports.build = build;
-exports.teamplay = gulp.series(stp_esbuild, stp_pkg, teamplaypk3, teamplayzip);
+//exports.teamplay = gulp.series(stp_esbuild, stp_pkg, teamplaypk3, teamplayzip);
+exports.teamplay = gulp.series(teamplaypk3, teamplayzip);
 exports.default = gulp.series(clean, build);
