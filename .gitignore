@@ -118,3 +118,5 @@ typings/
 
 # TernJS port file
 .tern-port
+logs/div2
+logs/div3

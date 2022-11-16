@@ -26,7 +26,7 @@ A teamplay config that is aimed to be lite in both it's messaging and amount of 
 4. Remember to set nick to include colon `set nick {&cf00jan:&r}` (you can do this in suddenteamplay.cfg)
 4. `exec suddenteamplay` in console (or preferably in autoexec.cfg)
 5. `cfg_save`
-6. To update to the latest version of suddenteamplay version just run `stp_update.exe` and keep your personal binds in `suddenteamplay.cfg`.
+6. To update to the latest version of suddenteamplay version just run `stp_update.bat` and keep your personal binds in `suddenteamplay.cfg`.
 
 ### Teamplay messages
 | alias | description |
