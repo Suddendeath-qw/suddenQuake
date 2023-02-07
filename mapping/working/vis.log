@@ -1,0 +1,29 @@
+---- vis / ericw-tools v0.18.1-32-g6660c5f ----
+running with 36 threads
+testlevel = 4
+LoadBSPFile: 'unnamed.bsp'
+BSP is version 29
+    23 leafs
+    64 portals
+Calculating Base Vis:
+0....1....2....3....4....5....6....7....8....9....
+Calculating Full Vis:
+0....1....2....3....4....5....6....7....8....9....
+WARNING: Leaf portals saw into leaf (0)
+WARNING: Leaf portals saw into leaf (1)
+WARNING: Leaf portals saw into leaf (3)
+WARNING: Leaf portals saw into leaf (9)
+WARNING: Leaf portals saw into leaf (10)
+WARNING: Leaf portals saw into leaf (11)
+WARNING: Leaf portals saw into leaf (12)
+WARNING: Leaf portals saw into leaf (14)
+WARNING: Leaf portals saw into leaf (15)
+WARNING: Leaf portals saw into leaf (18)
+WARNING: Leaf portals saw into leaf (19)
+WARNING: Leaf portals saw into leaf (20)
+average leafs visible: 22
+c_noclip: 0
+c_chains: 3878
+visdatasize:69  compressed from 69
+Writing unnamed.bsp as BSP version 29
+  0.1 seconds elapsed

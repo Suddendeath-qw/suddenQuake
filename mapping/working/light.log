@@ -1,0 +1,36 @@
+---- light / ericw-tools v0.18.1-32-g6660c5f ----
+Raytracing backend: Embree
+running with 36 threads
+LoadBSPFile: 'unnamed.bsp'
+BSP is version 29
+SetQdirFromPath: no "maps" in 'D:\suddenQuake\mapping\working\/unnamed.bsp'--- ConvertTextures ---
+--- LoadEntities ---
+11 entities read, 5 are lights.
+--- OptionsSummary ---
+Embree_TraceInit: Embree version: 2.15.0
+Embree_TraceInit:
+	0 sky faces
+	105 solid faces
+	0 filtered faces
+	0 shadow-casting skip faces
+SetupLights: 5 initial lights
+SetupLights: 5 after surface lights
+SetupLights: 5 after jittering
+--- EstimateLightVisibility ---
+0....1....2....3....4....5....6....7....8
+Final count: 5 lights, 0 suns in use.
+--- LightWorld ---
+--- LightThread ---
+0....1....2....3....4....5....6....7....8....9....
+Lighting Completed.
+
+lightdatasize: 7820
+0 switchable light styles (32 max)
+Writing unnamed.bsp as BSP version 29
+0.078 seconds elapsed
+
+stats:
+1.475864 lights tested, 1.239707 hits per sample point
+0.000000 surface lights tested, 0.000000 hits per sample point
+0.000000 bounce lights tested, 0.000000 hits per sample point
+0 empty lightmaps
