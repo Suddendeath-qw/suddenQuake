@@ -28,7 +28,7 @@ function stp_pkg (cb) {
 */
 
 function teamplaypk3(cb) {
-    gulp.src(['qw/__s_timer.cfg', 'qw/__s_teamplay.cfg'])
+    gulp.src(['qw/s_timer.cfg', 'qw/s_teamplay.cfg'])
 		.pipe(zip('suddenteamplay.pk3'))
 		.pipe(gulp.dest('dist'))
         .on('end', () => cb());

@@ -32,7 +32,7 @@ class Twirl {
 }
 
 const __pk3name = "suddenteamplay.pk3"
-const __cfgname = "__s_teamplay.cfg"
+const __cfgname = "s_teamplay.cfg"
 const __ghpk3url = "https://github.com/Suddendeath-qw/suddenQuake/releases/download/latest/suddenteamplay.pk3"
 const __rundir = process.cwd();
 const tw = new Twirl();
