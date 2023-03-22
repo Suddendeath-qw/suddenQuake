@@ -46,6 +46,7 @@ A teamplay config that is aimed to be lite in both it's messaging and amount of 
 | `stp_wpkilled` | Enemy weapon killed at location |
 | `stp_version` | Version of this teamplay config |
 | `stp_enemy_quad` | Enemy took quad |
+| `stp_enemy_quad_ok98` | Flavourful Enemy took quad |
 | `stp_enemy_pent` | Enemy took pent |
 | `stp_enemy_ring` | Enemy took ring |
 | `stp_get_quad` | Time to go get quad |
@@ -53,6 +54,8 @@ A teamplay config that is aimed to be lite in both it's messaging and amount of 
 | `stp_smart` | Smart report depending on map and location, see below |
 | _dm2_ | _Quad/Quad-low: Trick, ng/tele: enemy slipped, big-stairs: coming high with rjump_ |
 | _any_ | _Anywhere else reports coming at location_ |
+
+
 
 | prefix | description |
 | :--- | :--- |
