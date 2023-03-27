@@ -41,6 +41,7 @@ A teamplay config that is aimed to be lite in both it's messaging and amount of 
 | `stp_help` | Need help at location |
 | `stp_replace` | Replace me at location |
 | `stp_coming` | Coming from location |
+| `stp_status` | Encourage your mates to report status! |
 | `stp_powerup` | Reports your current powerups, alt. Quad Over |
 | `stp_youtake` | Point at item for someone else to take |
 | `stp_wpkilled` | Enemy weapon killed at location |
