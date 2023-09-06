@@ -528,43 +528,43 @@ void() SpawnHardBot =
 		rnd = floor(rnd * NUMBERHARDBOTS);
 	} while (BeenSpawned(other, rnd + other.number_bots));
 
-	if (rnd == 0) HCFrogbot(12, 1);
-	else if (rnd == 1) HCFrogbot(12, 2);
-	else if (rnd == 2) HCFrogbot(12, 3);
-	else if (rnd == 3) HCFrogbot(12, 4);
-	else if (rnd == 4) HCFrogbot(12, 5);
-	else if (rnd == 5) HCFrogbot(12, 6);
-	else if (rnd == 6) HCFrogbot(12, 7);
-	else if (rnd == 7) HCFrogbot(12, 8);
-	else if (rnd == 8) HCFrogbot(12, 9);
-	else if (rnd == 9) HCFrogbot(12, 10);
-	else if (rnd == 10) HCFrogbot(12, 11);
+	if (rnd == 0) HCFrogbot(1, 1);
+	else if (rnd == 1) HCFrogbot(2, 2);
+	else if (rnd == 2) HCFrogbot(3, 3);
+	else if (rnd == 3) HCFrogbot(4, 4);
+	else if (rnd == 4) HCFrogbot(5, 5);
+	else if (rnd == 5) HCFrogbot(6, 6);
+	else if (rnd == 6) HCFrogbot(7, 7);
+	else if (rnd == 7) HCFrogbot(8, 8);
+	else if (rnd == 8) HCFrogbot(9, 9);
+	else if (rnd == 9) HCFrogbot(10, 10);
+	else if (rnd == 10) HCFrogbot(11, 11);
 	else if (rnd == 11) HCFrogbot(12, 12);
-	else if (rnd == 12) HCFrogbot(12, 13);
-	else if (rnd == 13) HCFrogbot(12, 14);
-	else if (rnd == 14) HCFrogbot(12, 15);
-	else HCFrogbot(13, 16);
+	else if (rnd == 12) HCFrogbot(13, 13);
+	else if (rnd == 13) HCFrogbot(14, 14);
+	else if (rnd == 14) HCFrogbot(15, 15);
+	else HCFrogbot(16, 16);
 };
 
 
 string() SetNetName =
 {
-	if (self.botnumber == 1) return "bot_bps";
-	else if (self.botnumber == 2) return "bot_carapace";
-	else if (self.botnumber == 3) return "bot_ganon";
-	else if (self.botnumber == 4) return "bot_rst";
-	else if (self.botnumber == 5) return "bot_rio";
-	else if (self.botnumber == 6) return "bot_LethalWiz";
-	else if (self.botnumber == 7) return "bot_goblin";
-	else if (self.botnumber == 8) return "bot_andeh";
-	else if (self.botnumber == 9) return "bot_mOlle";
-	else if (self.botnumber == 10) return "bot_LocKtar";	
-	else if (self.botnumber == 11) return "bot_locust";
-	else if (self.botnumber == 12) return "bot_Rikoll";
-	else if (self.botnumber == 13) return "bot_nigve";
-	else if (self.botnumber == 14) return "bot_ok98";	
-	else if (self.botnumber == 15) return "bot_feFFe";
-	else return "bot_Milton";
+	if (self.botnumber == 1) return "bot_mm";
+	else if (self.botnumber == 2) return "bot_ParadokS";
+	else if (self.botnumber == 3) return "bot_ok98";
+	else if (self.botnumber == 4) return "bot_nigve";
+	else if (self.botnumber == 5) return "bot_locust";
+	else if (self.botnumber == 6) return "bot_LocKtar";
+	else if (self.botnumber == 7) return "bot_greco";
+	else if (self.botnumber == 8) return "bot_maCler";
+	else if (self.botnumber == 9) return "bot_solwatylaptop";
+	else if (self.botnumber == 10) return "bot_raket";	
+	else if (self.botnumber == 11) return "bot_Milton";
+	else if (self.botnumber == 12) return "bot_mOlle";
+	else if (self.botnumber == 13) return "bot_fix";
+	else if (self.botnumber == 14) return "bot_SlabbY";	
+	else if (self.botnumber == 15) return "bot_leif";
+	else return "bot_janne";
 };
 
 
