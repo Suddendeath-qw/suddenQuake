@@ -9,24 +9,6 @@ function clean(cb) {
     cb();
 }
 
-/*
-function stp_esbuild (cb) {
-    exec('npx esbuild stpupdate/stpupdate.js --bundle --outfile=stpupdate/out.js --platform=node', function (err, stdout, stderr) {
-        //console.log(stdout);
-        //console.log(stderr);
-        cb(err);
-    });
-}
-
-function stp_pkg (cb) {
-    exec('npx pkg stpupdate/out.js -t node16-win-x64 -o stpupdate/stp_update.exe', function (err, stdout, stderr) {
-        //console.log(stdout);
-        //console.log(stderr);
-        cb(err);
-    });
-}
-*/
-
 function teamplaypk3(cb) {
     gulp.src(['qw/s_timer.cfg', 'qw/s_teamplay.cfg', 'qw/**/*.wav'])
 		.pipe(zip('suddenteamplay.pk3'))

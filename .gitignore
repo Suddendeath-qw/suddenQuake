@@ -17,11 +17,6 @@ qw/locs/*
 !qw/maps/maphub_v1.bsp
 qw/frogbot_test/
 qw/suddenteamplay.pk3
-qw/stp_update.exe
-
-#stp_update
-stpupdate/out.js
-stpupdate/stp_update.exe
 
 # Logs
 npm-debug.log*
@@ -121,3 +116,4 @@ typings/
 .tern-port
 logs/div2
 logs/div3
+*.exe
