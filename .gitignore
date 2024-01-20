@@ -116,3 +116,4 @@ typings/
 .tern-port
 logs/div2
 logs/div3
+*.exe
