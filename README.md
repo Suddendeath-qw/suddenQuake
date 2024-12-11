@@ -25,10 +25,12 @@ A teamplay config that is aimed to be lite in both it's messaging and amount of 
 3. Open `suddenteamplay.cfg` to edit all of the binds, styling and nick.
 4. Remember to set nick to include colon `set nick {&cf00jan:&r}` (you can do this in suddenteamplay.cfg or autoexec.cfg for example)
 5. Do one of the following:
-   - Add `exec suddenteamplay` to your autoexec.cfg (recommended) 
-   - ..or copy & paste your edited binds from `suddenteamplay.cfg` into your config 
-   - ..or launch Quake and manually update your binds with `bind x stp_report` etc.., followed by `cfg_save`
+   - Add `exec suddenteamplay` to your autoexec.cfg _(**recommended**)_
+   - ..or copy & paste all the contents from your edited `suddenteamplay.cfg` (including `exec s_teamplay`) into your personal config 
+   - ..or launch Quake `exec suddenteamplay` and manually update your binds with `bind x stp_report` etc.., followed by `cfg_save`
 6. To update to the latest version of suddenteamplay version just run `stp_update.bat` or download the latest [suddenteamplay.pk3](https://github.com/Suddendeath-qw/suddenQuake/releases/tag/latest) and keep your personal `stp_binds` unchanged.
+   - if you are not using autoexec.cfg you will have to `exec suddenteamplay` again
+  
 
 ### Teamplay messages
 | alias | description |
@@ -38,7 +40,7 @@ A teamplay config that is aimed to be lite in both it's messaging and amount of 
 | `stp_took` | Last taken item, alt. when last item was an powerup, reports team powerup. |
 | `stp_killme` | Switch to bestweapon (to drop) and encourage teammates to kill you. |
 | `stp_lost` | Location is lost. alt. dropped pack if rl/lg was lost |
-| `stp_dropped` | Dropped pack at location. |
+| `stp_dropped` | Dropped pack at location. | 
 | `stp_safe` | Location is safe. |
 | `stp_help` | Need help at location |
 | `stp_replace` | Replace me at location |
