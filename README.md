@@ -23,10 +23,12 @@ A teamplay config that is aimed to be lite in both it's messaging and amount of 
    - https://github.com/Suddendeath-qw/suddenQuake/releases/download/latest/suddenteamplay-latest.zip
 2. Extract `suddenteamplay-latest.zip` into your `qw/` folder.  
 3. Open `suddenteamplay.cfg` to edit all of the binds, styling and nick.
-4. Remember to set nick to include colon `set nick {&cf00jan:&r}` (you can do this in suddenteamplay.cfg)
-4. `exec suddenteamplay` in console (or preferably in autoexec.cfg)
-5. `cfg_save`
-6. To update to the latest version of suddenteamplay version just run `stp_update.bat` and keep your personal binds in `suddenteamplay.cfg`.
+4. Remember to set nick to include colon `set nick {&cf00jan:&r}` (you can do this in suddenteamplay.cfg or autoexec.cfg for example)
+5. Do one of the following:
+   - Add `exec suddenteamplay` to your autoexec.cfg (recommended) 
+   - ..or copy & paste your edited binds from `suddenteamplay.cfg` into your config 
+   - ..or launch Quake and manually update your binds with `bind x stp_report` etc.., followed by `cfg_save`
+6. To update to the latest version of suddenteamplay version just run `stp_update.bat` or download the latest [suddenteamplay.pk3](https://github.com/Suddendeath-qw/suddenQuake/releases/tag/latest) and keep your personal `stp_binds` unchanged.
 
 ### Teamplay messages
 | alias | description |
@@ -54,7 +56,7 @@ A teamplay config that is aimed to be lite in both it's messaging and amount of 
 | `stp_get_pent` | Time to go get pent |
 | `stp_smart` | Smart report depending on map and location, see below |
 | _dm2_ | _Quad/Quad-low: Trick, ng/tele: enemy slipped, big-stairs: coming high with rjump_ |
-| _any_ | _Anywhere else reports coming at location_ |
+| _dm3_ | _Water: Diss warning if weapon = LG_ |
 
 
 
