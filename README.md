@@ -22,12 +22,11 @@ A teamplay config that is aimed to be lite in both it's messaging and amount of 
 1. Download the latest files
    - https://github.com/Suddendeath-qw/suddenQuake/releases/download/latest/suddenteamplay-latest.zip
 2. Extract `suddenteamplay-latest.zip` into your `qw/` folder.  
-3. Open `suddenteamplay.cfg` to edit all of the binds, styling and nick.
-4. Remember to set nick to include colon `set nick {&cf00jan:&r}` (you can do this in suddenteamplay.cfg or autoexec.cfg for example)
-5. Do one of the following:
+3. Open `suddenteamplay.cfg` to edit all of the binds
+4. Do one of the following:
    - Add `exec suddenteamplay` to your autoexec.cfg _(**recommended**)_
-   - ..or launch Quake `exec suddenteamplay` and manually update your binds with `bind x stp_report` etc.., followed by `cfg_save`
-6. To update to the latest version of suddenteamplay version just run `stp_update.bat` or download & replace [suddenteamplay.pk3](https://github.com/Suddendeath-qw/suddenQuake/releases/tag/latest) keeping your personal `stp_binds` unchanged.
+   - ..or launch Quake `exec suddenteamplay` and manually update your binds like `bind x stp_report` etc. followed by `cfg_save`
+5. To update to the latest version of suddenteamplay version just run `stp_update.bat` or download & replace [suddenteamplay.pk3](https://github.com/Suddendeath-qw/suddenQuake/releases/tag/latest) keeping your personal `stp_binds` unchanged.
    - if you are not using autoexec.cfg you might have to `exec suddenteamplay` again after the update
   
 
