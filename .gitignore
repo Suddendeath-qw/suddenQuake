@@ -13,6 +13,7 @@ qw/demos/*
 qw/screenshots/*
 qw/maps/*
 qw/locs/*
+ktx/*
 !qw/maps/aerowalk.bsp
 !qw/maps/maphub_v1.bsp
 qw/frogbot_test/
