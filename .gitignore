@@ -17,6 +17,7 @@ qw/locs/*
 !qw/maps/maphub_v1.bsp
 qw/frogbot_test/
 qw/suddenteamplay.pk3
+ktx/*
 
 # Logs
 npm-debug.log*
